@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: f5a394cdabf1ba243b1e086183dc7b12
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5a39622c6c65c6446b7cbd63c99eefc3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: b255899c275dcdd47bcf9caf1cf5627c
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 170fbf5d719a5694e8f36c348e20c9ea
+  - enabled: 1
+    path: Assets/Scenes/BattleSelection.unity
+    guid: 2cb53bca58e354342a83b13114af7212
+  - enabled: 1
+    path: Assets/Scenes/BattleStart.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BattleResult.unity
+    guid: acdd72291850f75469b115b8e1446e9c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1a6d8beee3fde994c882f789d725365e, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 46735cd16129b6144afa660986ec4376, type: 3}
+  m_UseUCBPForAssetBundles: 0
