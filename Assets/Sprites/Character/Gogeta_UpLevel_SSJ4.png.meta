@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 5b132077591814240b0142fe23626c83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2289786603133209786
+    second: Gogeta_UpLevel_SSJ4_0
+  - first:
+      213: -1163442688595114860
+    second: Gogeta_UpLevel_SSJ4_1
+  - first:
+      213: 7363499765932099169
+    second: Gogeta_UpLevel_SSJ4_2
+  - first:
+      213: 8240471494634991450
+    second: Gogeta_UpLevel_SSJ4_3
+  - first:
+      213: -5436262459086336253
+    second: Gogeta_UpLevel_SSJ4_4
+  - first:
+      213: 5046585622111998992
+    second: Gogeta_UpLevel_SSJ4_5
+  - first:
+      213: 4058822470346306592
+    second: Gogeta_UpLevel_SSJ4_6
+  - first:
+      213: 8484539978937499189
+    second: Gogeta_UpLevel_SSJ4_7
+  - first:
+      213: 2086962544449698075
+    second: Gogeta_UpLevel_SSJ4_8
+  - first:
+      213: -7410715223097654061
+    second: Gogeta_UpLevel_SSJ4_9
+  - first:
+      213: -6317187911012429910
+    second: Gogeta_UpLevel_SSJ4_10
+  - first:
+      213: -6219952481035552300
+    second: Gogeta_UpLevel_SSJ4_11
+  - first:
+      213: -4479773868901918895
+    second: Gogeta_UpLevel_SSJ4_12
+  - first:
+      213: -2831306583745574285
+    second: Gogeta_UpLevel_SSJ4_13
+  - first:
+      213: -4711197810591495073
+    second: Gogeta_UpLevel_SSJ4_14
+  - first:
+      213: 1647013228230935582
+    second: Gogeta_UpLevel_SSJ4_15
+  - first:
+      213: -101749437669684439
+    second: Gogeta_UpLevel_SSJ4_16
+  - first:
+      213: -5147432401258332398
+    second: Gogeta_UpLevel_SSJ4_17
+  - first:
+      213: 9211810895812913429
+    second: Gogeta_UpLevel_SSJ4_18
+  - first:
+      213: -7144878977273653489
+    second: Gogeta_UpLevel_SSJ4_19
+  - first:
+      213: -8336773458065171094
+    second: Gogeta_UpLevel_SSJ4_20
+  - first:
+      213: 1878004820123496531
+    second: Gogeta_UpLevel_SSJ4_21
+  - first:
+      213: 6518093460709990225
+    second: Gogeta_UpLevel_SSJ4_22
+  - first:
+      213: -717697100462622747
+    second: Gogeta_UpLevel_SSJ4_23
+  - first:
+      213: 3958708593606101196
+    second: Gogeta_UpLevel_SSJ4_24
+  - first:
+      213: -1212740534200731305
+    second: Gogeta_UpLevel_SSJ4_25
+  - first:
+      213: 4990296405827655724
+    second: Gogeta_UpLevel_SSJ4_26
+  - first:
+      213: -5088624418959853512
+    second: Gogeta_UpLevel_SSJ4_27
+  - first:
+      213: -2919156093059647022
+    second: Gogeta_UpLevel_SSJ4_28
+  - first:
+      213: 1550559140671060075
+    second: Gogeta_UpLevel_SSJ4_29
+  - first:
+      213: -6436768096780273285
+    second: Gogeta_UpLevel_SSJ4_30
+  - first:
+      213: -5677171614984022329
+    second: Gogeta_UpLevel_SSJ4_31
+  - first:
+      213: 7485068968021244062
+    second: Gogeta_UpLevel_SSJ4_32
+  - first:
+      213: -6067712107777032758
+    second: Gogeta_UpLevel_SSJ4_33
+  - first:
+      213: -7897378803525042918
+    second: Gogeta_UpLevel_SSJ4_34
+  - first:
+      213: 4223327949712145212
+    second: Gogeta_UpLevel_SSJ4_35
+  - first:
+      213: 1983137255247321678
+    second: Gogeta_UpLevel_SSJ4_36
+  - first:
+      213: 8221758507248761776
+    second: Gogeta_UpLevel_SSJ4_37
+  - first:
+      213: -663894542539471159
+    second: Gogeta_UpLevel_SSJ4_38
+  - first:
+      213: 7270928986389730290
+    second: Gogeta_UpLevel_SSJ4_39
+  - first:
+      213: 8742179266941878100
+    second: Gogeta_UpLevel_SSJ4_40
+  - first:
+      213: 6987476434224956787
+    second: Gogeta_UpLevel_SSJ4_41
+  - first:
+      213: -3214215532288213228
+    second: Gogeta_UpLevel_SSJ4_42
+  - first:
+      213: -7291489153796969611
+    second: Gogeta_UpLevel_SSJ4_43
+  - first:
+      213: -585319109444611832
+    second: Gogeta_UpLevel_SSJ4_44
+  - first:
+      213: -2888019254662339199
+    second: Gogeta_UpLevel_SSJ4_45
+  - first:
+      213: 3984252569712201087
+    second: Gogeta_UpLevel_SSJ4_46
+  - first:
+      213: -8765325197571565677
+    second: Gogeta_UpLevel_SSJ4_47
+  - first:
+      213: -4640539447093802255
+    second: Gogeta_UpLevel_SSJ4_48
+  - first:
+      213: -7356701899953830812
+    second: Gogeta_UpLevel_SSJ4_49
+  - first:
+      213: -7278670335210402926
+    second: Gogeta_UpLevel_SSJ4_50
+  - first:
+      213: 1250394992702776808
+    second: Gogeta_UpLevel_SSJ4_51
+  - first:
+      213: 490013708145877364
+    second: Gogeta_UpLevel_SSJ4_52
+  - first:
+      213: -4418326100333278784
+    second: Gogeta_UpLevel_SSJ4_53
+  - first:
+      213: -4042317464777729656
+    second: Gogeta_UpLevel_SSJ4_54
+  - first:
+      213: -2018892459620873570
+    second: Gogeta_UpLevel_SSJ4_55
+  - first:
+      213: -7794297404409893136
+    second: Gogeta_UpLevel_SSJ4_56
+  - first:
+      213: -4198985620463491812
+    second: Gogeta_UpLevel_SSJ4_57
+  - first:
+      213: -9165180362966236698
+    second: Gogeta_UpLevel_SSJ4_58
+  - first:
+      213: -3137956822312296473
+    second: Gogeta_UpLevel_SSJ4_59
+  - first:
+      213: -3277501661812541114
+    second: Gogeta_UpLevel_SSJ4_60
+  - first:
+      213: 4360815453449150691
+    second: Gogeta_UpLevel_SSJ4_61
+  - first:
+      213: 371299961693968239
+    second: Gogeta_UpLevel_SSJ4_62
+  - first:
+      213: 3687372997736193356
+    second: Gogeta_UpLevel_SSJ4_63
+  - first:
+      213: -2078389864951998209
+    second: Gogeta_UpLevel_SSJ4_64
+  - first:
+      213: 1981752418454295186
+    second: Gogeta_UpLevel_SSJ4_65
+  - first:
+      213: -3710282750367427890
+    second: Gogeta_UpLevel_SSJ4_66
+  - first:
+      213: -5845477473378826640
+    second: Gogeta_UpLevel_SSJ4_67
+  - first:
+      213: 4569092957111718802
+    second: Gogeta_UpLevel_SSJ4_68
+  - first:
+      213: 725827088718446234
+    second: Gogeta_UpLevel_SSJ4_69
+  - first:
+      213: 1409887221044106041
+    second: Gogeta_UpLevel_SSJ4_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1793
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc0433a8c4f6cf10800000000000000
+      internalID: 2289786603133209786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1793
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49443c5f90f9adfe0800000000000000
+      internalID: -1163442688595114860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1793
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1660e0c0608603660800000000000000
+      internalID: 7363499765932099169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1793
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f637b1a290c5270800000000000000
+      internalID: 8240471494634991450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1755
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f0e5498148e84b0800000000000000
+      internalID: -5436262459086336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1755
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0145496a2e2190640800000000000000
+      internalID: 5046585622111998992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1755
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0247d5f3885d35830800000000000000
+      internalID: 4058822470346306592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1755
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e7b2768242fb570800000000000000
+      internalID: 8484539978937499189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1755
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193871806166fc10800000000000000
+      internalID: 2086962544449698075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1755
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d44faba4c9d72990800000000000000
+      internalID: -7410715223097654061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1755
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf46b89017d458a0800000000000000
+      internalID: -6317187911012429910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1755
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9f0185c2a4ea9a0800000000000000
+      internalID: -6219952481035552300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1755
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157160ea665a4d1c0800000000000000
+      internalID: -4479773868901918895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 25
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1755
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ace99b9ad25b8d0800000000000000
+      internalID: -2831306583745574285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1755
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c88116d867e9eb0800000000000000
+      internalID: -4711197810591495073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1755
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1403190ecd5bd610800000000000000
+      internalID: 1647013228230935582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_16
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1808
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b4a9fec63869ef0800000000000000
+      internalID: -101749437669684439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_17
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1808
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f39a9d085a098b0800000000000000
+      internalID: -5147432401258332398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1808
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196007143de6df70800000000000000
+      internalID: 9211810895812913429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_19
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1808
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f079274ec6a48dc90800000000000000
+      internalID: -7144878977273653489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1733
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dde13c5b4dd4c80800000000000000
+      internalID: -8336773458065171094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1733
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350beed0f63001a10800000000000000
+      internalID: 1878004820123496531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1733
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f5a6ad77be47a50800000000000000
+      internalID: 6518093460709990225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1733
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7f8962a4a3a06f0800000000000000
+      internalID: -717697100462622747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1755
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88d23ed7820f630800000000000000
+      internalID: 3958708593606101196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1755
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7597f36d8ea7b2fe0800000000000000
+      internalID: -1212740534200731305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1755
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2814413428114540800000000000000
+      internalID: 4990296405827655724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1755
+        width: 89
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f4883d039169b0800000000000000
+      internalID: -5088624418959853512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1755
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9334deff21d77d0800000000000000
+      internalID: -2919156093059647022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_29
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1746
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68feeeb251b48510800000000000000
+      internalID: 1550559140671060075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1746
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7938d9f4810ca6a0800000000000000
+      internalID: -6436768096780273285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_31
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1746
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c652ffbe72a631b0800000000000000
+      internalID: -5677171614984022329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_32
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1746
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98b43e919e40e760800000000000000
+      internalID: 7485068968021244062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1664
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdfc907cf72bcba0800000000000000
+      internalID: -6067712107777032758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1664
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db03ff1dfd66290800000000000000
+      internalID: -7897378803525042918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1568
+        width: 140
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b3294e4664c9a30800000000000000
+      internalID: 4223327949712145212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1567
+        width: 176
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1cd793d4858b10800000000000000
+      internalID: 1983137255247321678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1567
+        width: 205
+        height: 159
+      alignment: 9
+      pivot: {x: 0.50693, y: 0.288542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbbb953dcd891270800000000000000
+      internalID: 8221758507248761776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_38
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1676
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64d975e6f59c6f0800000000000000
+      internalID: -663894542539471159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_39
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1676
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d9dcd36787e460800000000000000
+      internalID: 7270928986389730290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1567
+        width: 89
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffad8a9b5725970800000000000000
+      internalID: 8742179266941878100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1567
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754462bbc088f060800000000000000
+      internalID: 6987476434224956787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1551
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ffa66c000d463d0800000000000000
+      internalID: -3214215532288213228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1549
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b61502f3d6fca90800000000000000
+      internalID: -7291489153796969611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1549
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa49c1a5fd799fb0800000000000000
+      internalID: -4640539447093802255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1567
+        width: 89
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b4c98e4e7fcfa90800000000000000
+      internalID: -7278670335210402926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1342
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe26608ec715d390800000000000000
+      internalID: -7794297404409893136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1342
+        width: 168
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ec4b43d43ab5c0800000000000000
+      internalID: -4198985620463491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1343
+        width: 172
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10303e40dbec080800000000000000
+      internalID: -9165180362966236698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1342
+        width: 71
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efdf8d45ecb374d0800000000000000
+      internalID: -3137956822312296473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1342
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6792e1195f172500800000000000000
+      internalID: 371299961693968239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1343
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dde64743e2c2330800000000000000
+      internalID: 3687372997736193356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_64
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1342
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff893cafd631823e0800000000000000
+      internalID: -2078389864951998209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_65
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1342
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925db62359908b10800000000000000
+      internalID: 1981752418454295186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_66
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1345
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec217181f7d628cc0800000000000000
+      internalID: -3710282750367427890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gogeta_UpLevel_SSJ4_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1755
+        width: 89
+        height: 48
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb6fbf1adf03d45a1bc9cdabe7d46c
+      internalID: 1485520253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8300af152129a3a4f9e041b4b666b643
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      0: -5436262459086336253
+      1: 3958708593606101196
+      10: 4223327949712145212
+      11: 1983137255247321678
+      12: 8221758507248761776
+      13: 6987476434224956787
+      14: -3214215532288213228
+      15: -7291489153796969611
+      16: -4640539447093802255
+      17: -7794297404409893136
+      18: -4198985620463491812
+      19: -9165180362966236698
+      2: 5046585622111998992
+      20: -3137956822312296473
+      21: 371299961693968239
+      22: 9211810895812913429
+      23: 1647013228230935582
+      24: -4711197810591495073
+      25: -2831306583745574285
+      26: -4479773868901918895
+      27: -6219952481035552300
+      28: -6317187911012429910
+      29: -7410715223097654061
+      3: -1212740534200731305
+      30: -2919156093059647022
+      31: -7278670335210402926
+      4: 4058822470346306592
+      5: 8484539978937499189
+      6: 2086962544449698075
+      7: 4990296405827655724
+      8: -5088624418959853512
+      9: 8742179266941878100
+      Gogeta_UpLevel_SSJ4_0: 2289786603133209786
+      Gogeta_UpLevel_SSJ4_1: -1163442688595114860
+      Gogeta_UpLevel_SSJ4_16: -101749437669684439
+      Gogeta_UpLevel_SSJ4_17: -5147432401258332398
+      Gogeta_UpLevel_SSJ4_19: -7144878977273653489
+      Gogeta_UpLevel_SSJ4_2: 7363499765932099169
+      Gogeta_UpLevel_SSJ4_20: -8336773458065171094
+      Gogeta_UpLevel_SSJ4_21: 1878004820123496531
+      Gogeta_UpLevel_SSJ4_22: 6518093460709990225
+      Gogeta_UpLevel_SSJ4_23: -717697100462622747
+      Gogeta_UpLevel_SSJ4_29: 1550559140671060075
+      Gogeta_UpLevel_SSJ4_3: 8240471494634991450
+      Gogeta_UpLevel_SSJ4_30: -6436768096780273285
+      Gogeta_UpLevel_SSJ4_31: -5677171614984022329
+      Gogeta_UpLevel_SSJ4_32: 7485068968021244062
+      Gogeta_UpLevel_SSJ4_33: -6067712107777032758
+      Gogeta_UpLevel_SSJ4_34: -7897378803525042918
+      Gogeta_UpLevel_SSJ4_38: -663894542539471159
+      Gogeta_UpLevel_SSJ4_39: 7270928986389730290
+      Gogeta_UpLevel_SSJ4_4: 1485520253
+      Gogeta_UpLevel_SSJ4_63: 3687372997736193356
+      Gogeta_UpLevel_SSJ4_64: -2078389864951998209
+      Gogeta_UpLevel_SSJ4_65: 1981752418454295186
+      Gogeta_UpLevel_SSJ4_66: -3710282750367427890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

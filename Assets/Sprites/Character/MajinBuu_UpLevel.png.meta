@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: a26eb7cdf69b349499722e8608d8efe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4539808914183573384
+    second: MajinBuu_UpLevel_0
+  - first:
+      213: -4209124736593313255
+    second: MajinBuu_UpLevel_1
+  - first:
+      213: 1689998964627041216
+    second: MajinBuu_UpLevel_2
+  - first:
+      213: 6987148391176667189
+    second: MajinBuu_UpLevel_3
+  - first:
+      213: -4756192206864109331
+    second: MajinBuu_UpLevel_4
+  - first:
+      213: -2796288448888984784
+    second: MajinBuu_UpLevel_5
+  - first:
+      213: -2937710977578050355
+    second: MajinBuu_UpLevel_6
+  - first:
+      213: 7561244207505717895
+    second: MajinBuu_UpLevel_7
+  - first:
+      213: -7506916249319295232
+    second: MajinBuu_UpLevel_8
+  - first:
+      213: 3255982512421427884
+    second: MajinBuu_UpLevel_9
+  - first:
+      213: -2604647703350517478
+    second: MajinBuu_UpLevel_10
+  - first:
+      213: -6427213126143109483
+    second: MajinBuu_UpLevel_11
+  - first:
+      213: 8571567631320330651
+    second: MajinBuu_UpLevel_12
+  - first:
+      213: -3955575677802459139
+    second: MajinBuu_UpLevel_13
+  - first:
+      213: 722745321008151763
+    second: MajinBuu_UpLevel_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1370
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f401e8724a00f30800000000000000
+      internalID: 4539808914183573384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1368
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912cb0c5a5f2695c0800000000000000
+      internalID: -4209124736593313255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1370
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03262236c9efdb0800000000000000
+      internalID: -4756192206864109331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1370
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ba17a98769139d0800000000000000
+      internalID: -2796288448888984784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1368
+        width: 120
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd1b83e672b37d0800000000000000
+      internalID: -2937710977578050355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1370
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00737b0d17312d790800000000000000
+      internalID: -7506916249319295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1370
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa53c718d29f2d20800000000000000
+      internalID: 3255982512421427884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1370
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1161ccb6be6adbd0800000000000000
+      internalID: -2604647703350517478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1370
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961380f6b3fdc6a0800000000000000
+      internalID: -6427213126143109483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1370
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b519b85354f670800000000000000
+      internalID: 8571567631320330651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc86ae0e8fa19c0800000000000000
+      internalID: -3955575677802459139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc34c94a05b70a00800000000000000
+      internalID: 722745321008151763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MajinBuu_UpLevel_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1365
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56c55be51c15d4c9d8bb5032c74648
+      internalID: 1689998964627041216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0a233632fc54004d8ea0bb6e59faa2c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MajinBuu_UpLevel_0: 4539808914183573384
+      MajinBuu_UpLevel_1: -4209124736593313255
+      MajinBuu_UpLevel_10: -2604647703350517478
+      MajinBuu_UpLevel_11: -6427213126143109483
+      MajinBuu_UpLevel_12: 8571567631320330651
+      MajinBuu_UpLevel_13: -3955575677802459139
+      MajinBuu_UpLevel_14: 722745321008151763
+      MajinBuu_UpLevel_2: 6987148391176667189
+      MajinBuu_UpLevel_3: 1689998964627041216
+      MajinBuu_UpLevel_4: -4756192206864109331
+      MajinBuu_UpLevel_5: -2796288448888984784
+      MajinBuu_UpLevel_6: -2937710977578050355
+      MajinBuu_UpLevel_8: -7506916249319295232
+      MajinBuu_UpLevel_9: 3255982512421427884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

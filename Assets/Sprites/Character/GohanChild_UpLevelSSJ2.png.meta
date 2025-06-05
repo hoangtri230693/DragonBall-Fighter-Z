@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 1bfbb26b26696b6439304a7d1d2d5e48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6294053870146161274
+    second: GohanChild_UpLevelSSJ2_0
+  - first:
+      213: 5118585929257168215
+    second: GohanChild_UpLevelSSJ2_1
+  - first:
+      213: -7687161808047976083
+    second: GohanChild_UpLevelSSJ2_2
+  - first:
+      213: 3218370164292077036
+    second: GohanChild_UpLevelSSJ2_3
+  - first:
+      213: -2180384227329259348
+    second: GohanChild_UpLevelSSJ2_4
+  - first:
+      213: -4312130031225967100
+    second: GohanChild_UpLevelSSJ2_5
+  - first:
+      213: -2301205804646744160
+    second: GohanChild_UpLevelSSJ2_6
+  - first:
+      213: 4512117181371612465
+    second: GohanChild_UpLevelSSJ2_7
+  - first:
+      213: -8700727950573878803
+    second: GohanChild_UpLevelSSJ2_8
+  - first:
+      213: 7832450261886258502
+    second: GohanChild_UpLevelSSJ2_9
+  - first:
+      213: -86813676630139471
+    second: GohanChild_UpLevelSSJ2_10
+  - first:
+      213: -5955152796116176532
+    second: GohanChild_UpLevelSSJ2_11
+  - first:
+      213: 9197451162424504203
+    second: GohanChild_UpLevelSSJ2_12
+  - first:
+      213: -9222925482963591350
+    second: GohanChild_UpLevelSSJ2_13
+  - first:
+      213: -1764178891808833750
+    second: GohanChild_UpLevelSSJ2_14
+  - first:
+      213: 5306854335755017040
+    second: GohanChild_UpLevelSSJ2_15
+  - first:
+      213: 25345411389006490
+    second: GohanChild_UpLevelSSJ2_16
+  - first:
+      213: 6373476391490910361
+    second: GohanChild_UpLevelSSJ2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2115
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0c37c5a8f85750800000000000000
+      internalID: 6294053870146161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2115
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dafa188ced80740800000000000000
+      internalID: 5118585929257168215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d95c5017b15590800000000000000
+      internalID: -7687161808047976083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2115
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5485edc92f9ac20800000000000000
+      internalID: 3218370164292077036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2116
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8cc20f818bdb1e0800000000000000
+      internalID: -2180384227329259348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2115
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6b7f459c3824c0800000000000000
+      internalID: -4312130031225967100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2114
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb6f253897010e0800000000000000
+      internalID: -2301205804646744160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2082
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d77949ba24e9e30800000000000000
+      internalID: 4512117181371612465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2108
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14bb2070ec04780800000000000000
+      internalID: -8700727950573878803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2104
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d45acd30472bc60800000000000000
+      internalID: 7832450261886258502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2106
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd90dacb639bcef0800000000000000
+      internalID: -86813676630139471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanChild_UpLevelSSJ2_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2113
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f9e0e6326910080800000000000000
+      internalID: -9222925482963591350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8143713a7f099324abbc6872ea358633
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GohanChild_UpLevelSSJ2_0: 6294053870146161274
+      GohanChild_UpLevelSSJ2_1: 5118585929257168215
+      GohanChild_UpLevelSSJ2_10: -86813676630139471
+      GohanChild_UpLevelSSJ2_13: -9222925482963591350
+      GohanChild_UpLevelSSJ2_2: -7687161808047976083
+      GohanChild_UpLevelSSJ2_3: 3218370164292077036
+      GohanChild_UpLevelSSJ2_4: -2180384227329259348
+      GohanChild_UpLevelSSJ2_5: -4312130031225967100
+      GohanChild_UpLevelSSJ2_6: -2301205804646744160
+      GohanChild_UpLevelSSJ2_7: 4512117181371612465
+      GohanChild_UpLevelSSJ2_8: -8700727950573878803
+      GohanChild_UpLevelSSJ2_9: 7832450261886258502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

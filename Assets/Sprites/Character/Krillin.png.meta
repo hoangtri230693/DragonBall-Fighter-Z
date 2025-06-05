@@ -1,0 +1,6819 @@
+fileFormatVersion: 2
+guid: b2363dac6861ccd4ea673610a1605b1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7449745505011530263
+    second: Krillin_0
+  - first:
+      213: 840509763470146383
+    second: Krillin_1
+  - first:
+      213: 5997009548575948620
+    second: Krillin_2
+  - first:
+      213: -2970600231448020400
+    second: Krillin_3
+  - first:
+      213: 655371873453232870
+    second: Krillin_4
+  - first:
+      213: -4272030755802125883
+    second: Krillin_5
+  - first:
+      213: 6488872785033496451
+    second: Krillin_6
+  - first:
+      213: 6650391247046410285
+    second: Krillin_7
+  - first:
+      213: -7717059869323442743
+    second: Krillin_8
+  - first:
+      213: -4959499940205289462
+    second: Krillin_9
+  - first:
+      213: 661279129642914941
+    second: Krillin_10
+  - first:
+      213: -4270764705139945003
+    second: Krillin_11
+  - first:
+      213: 5553764522107996386
+    second: Krillin_12
+  - first:
+      213: -647222855298148601
+    second: Krillin_13
+  - first:
+      213: 8359480255265223243
+    second: Krillin_14
+  - first:
+      213: 6672685102322243130
+    second: Krillin_15
+  - first:
+      213: 8147141190783810448
+    second: Krillin_16
+  - first:
+      213: -8215221218318508308
+    second: Krillin_17
+  - first:
+      213: 3554040354211420681
+    second: Krillin_18
+  - first:
+      213: 3363198717983667936
+    second: Krillin_19
+  - first:
+      213: -8912383398819044357
+    second: Krillin_20
+  - first:
+      213: 5698450142179669976
+    second: Krillin_21
+  - first:
+      213: -6607256672695561166
+    second: Krillin_22
+  - first:
+      213: -554091794654470180
+    second: Krillin_23
+  - first:
+      213: -2324953222458810151
+    second: Krillin_24
+  - first:
+      213: 6262119829701008094
+    second: Krillin_25
+  - first:
+      213: -4367641232870888158
+    second: Krillin_26
+  - first:
+      213: 2279269411882729489
+    second: Krillin_27
+  - first:
+      213: -3055116269221654178
+    second: Krillin_28
+  - first:
+      213: 3232692480266674442
+    second: Krillin_29
+  - first:
+      213: -4014621937461110355
+    second: Krillin_30
+  - first:
+      213: -5140401844212116016
+    second: Krillin_31
+  - first:
+      213: -5507644380247059233
+    second: Krillin_32
+  - first:
+      213: 3185759378011806890
+    second: Krillin_33
+  - first:
+      213: 6276450234830037472
+    second: Krillin_34
+  - first:
+      213: 4188257357446574718
+    second: Krillin_35
+  - first:
+      213: 526910516492746589
+    second: Krillin_36
+  - first:
+      213: 5655384634885583128
+    second: Krillin_37
+  - first:
+      213: 4642956283244246316
+    second: Krillin_38
+  - first:
+      213: 3200792263455592894
+    second: Krillin_39
+  - first:
+      213: 4723514747979019535
+    second: Krillin_40
+  - first:
+      213: 6703478184870115926
+    second: Krillin_41
+  - first:
+      213: 3133218445474127672
+    second: Krillin_42
+  - first:
+      213: 2879377611865562702
+    second: Krillin_43
+  - first:
+      213: -5112650772081773799
+    second: Krillin_44
+  - first:
+      213: -6744557049616871320
+    second: Krillin_45
+  - first:
+      213: -9185318750715476480
+    second: Krillin_46
+  - first:
+      213: -8761525912152144008
+    second: Krillin_47
+  - first:
+      213: -3144924749735836765
+    second: Krillin_48
+  - first:
+      213: 7300658250101474469
+    second: Krillin_49
+  - first:
+      213: 8437553622623650120
+    second: Krillin_50
+  - first:
+      213: 319331005388119559
+    second: Krillin_51
+  - first:
+      213: 1151696482504327032
+    second: Krillin_52
+  - first:
+      213: -7703230046768380883
+    second: Krillin_53
+  - first:
+      213: -7773816234045010126
+    second: Krillin_54
+  - first:
+      213: 2825732150995947290
+    second: Krillin_55
+  - first:
+      213: 2134574364854058000
+    second: Krillin_56
+  - first:
+      213: 6251816111261586437
+    second: Krillin_57
+  - first:
+      213: 7382211964670775588
+    second: Krillin_58
+  - first:
+      213: 8738489895647378949
+    second: Krillin_59
+  - first:
+      213: -7303393467446206996
+    second: Krillin_60
+  - first:
+      213: 1493632135835657630
+    second: Krillin_61
+  - first:
+      213: -972600484754272853
+    second: Krillin_62
+  - first:
+      213: 7244825607673878246
+    second: Krillin_63
+  - first:
+      213: 8774199323529649677
+    second: Krillin_64
+  - first:
+      213: 6059100105343262614
+    second: Krillin_65
+  - first:
+      213: 6541608721981013901
+    second: Krillin_66
+  - first:
+      213: -6595613704820458913
+    second: Krillin_67
+  - first:
+      213: 1996468366184921704
+    second: Krillin_68
+  - first:
+      213: -7865358904197456027
+    second: Krillin_69
+  - first:
+      213: 6438451164523355689
+    second: Krillin_70
+  - first:
+      213: -4906004153501365344
+    second: Krillin_71
+  - first:
+      213: -5368715281739798473
+    second: Krillin_72
+  - first:
+      213: 3812558054528015510
+    second: Krillin_73
+  - first:
+      213: -501831496699952692
+    second: Krillin_74
+  - first:
+      213: -6030086021924933029
+    second: Krillin_75
+  - first:
+      213: 8763156717685774601
+    second: Krillin_76
+  - first:
+      213: -372653741371536099
+    second: Krillin_77
+  - first:
+      213: -7882318225313873691
+    second: Krillin_78
+  - first:
+      213: -4249953384268094584
+    second: Krillin_79
+  - first:
+      213: 8111231982978656858
+    second: Krillin_80
+  - first:
+      213: -1313861612998045137
+    second: Krillin_81
+  - first:
+      213: -1005277469386275126
+    second: Krillin_82
+  - first:
+      213: 8549325563137216532
+    second: Krillin_83
+  - first:
+      213: 146690701119353188
+    second: Krillin_84
+  - first:
+      213: -8785275023868576794
+    second: Krillin_85
+  - first:
+      213: -3809836938043936509
+    second: Krillin_86
+  - first:
+      213: -3124102494626268178
+    second: Krillin_87
+  - first:
+      213: -3689967082499903530
+    second: Krillin_88
+  - first:
+      213: 2239240042389659185
+    second: Krillin_89
+  - first:
+      213: -6399733839728474491
+    second: Krillin_90
+  - first:
+      213: 1452407681498511717
+    second: Krillin_91
+  - first:
+      213: 5080874462573405654
+    second: Krillin_92
+  - first:
+      213: 386722994723792928
+    second: Krillin_93
+  - first:
+      213: -2077341258352531874
+    second: Krillin_94
+  - first:
+      213: -989359419131201150
+    second: Krillin_95
+  - first:
+      213: -1814730691025195701
+    second: Krillin_96
+  - first:
+      213: -4833978915756539223
+    second: Krillin_97
+  - first:
+      213: 5665142029001396648
+    second: Krillin_98
+  - first:
+      213: -7404695638100368054
+    second: Krillin_99
+  - first:
+      213: -7376446221732148753
+    second: Krillin_100
+  - first:
+      213: -1112039333595653447
+    second: Krillin_101
+  - first:
+      213: 7476386323106343551
+    second: Krillin_102
+  - first:
+      213: 31811802971885477
+    second: Krillin_103
+  - first:
+      213: 3313952640681435896
+    second: Krillin_104
+  - first:
+      213: 166496821668286068
+    second: Krillin_105
+  - first:
+      213: 7586741145620574310
+    second: Krillin_106
+  - first:
+      213: -7585774666165554154
+    second: Krillin_107
+  - first:
+      213: -5086847170103760831
+    second: Krillin_108
+  - first:
+      213: 1144533241646567645
+    second: Krillin_109
+  - first:
+      213: 7602695854999008070
+    second: Krillin_110
+  - first:
+      213: -8046574498838248825
+    second: Krillin_111
+  - first:
+      213: -2157289452419783613
+    second: Krillin_112
+  - first:
+      213: -568794179282746623
+    second: Krillin_113
+  - first:
+      213: -3293050384204816877
+    second: Krillin_114
+  - first:
+      213: 1010385989323666657
+    second: Krillin_115
+  - first:
+      213: 7808453686926715890
+    second: Krillin_116
+  - first:
+      213: -6198376561292860143
+    second: Krillin_117
+  - first:
+      213: -4477424757495479906
+    second: Krillin_118
+  - first:
+      213: 4275911375339025686
+    second: Krillin_119
+  - first:
+      213: 9385359624217906
+    second: Krillin_120
+  - first:
+      213: 736293666007385258
+    second: Krillin_121
+  - first:
+      213: 5431033088824246973
+    second: Krillin_122
+  - first:
+      213: -3430464378992295954
+    second: Krillin_123
+  - first:
+      213: -6328079639763320095
+    second: Krillin_124
+  - first:
+      213: 4493725035883012815
+    second: Krillin_125
+  - first:
+      213: 1674022911854038684
+    second: Krillin_126
+  - first:
+      213: 5857131159709854848
+    second: Krillin_127
+  - first:
+      213: 7055909681311442317
+    second: Krillin_128
+  - first:
+      213: 954346835201139563
+    second: Krillin_129
+  - first:
+      213: -8521731102258514040
+    second: Krillin_130
+  - first:
+      213: 1837352394000321569
+    second: Krillin_131
+  - first:
+      213: -2486068500172236779
+    second: Krillin_132
+  - first:
+      213: 5914680524547271843
+    second: Krillin_133
+  - first:
+      213: -4641507124064234014
+    second: Krillin_134
+  - first:
+      213: 1614954898073278958
+    second: Krillin_135
+  - first:
+      213: -5609694035929162817
+    second: Krillin_136
+  - first:
+      213: -4093438749213227275
+    second: Krillin_137
+  - first:
+      213: 5988518346620496063
+    second: Krillin_138
+  - first:
+      213: -8564712292261082490
+    second: Krillin_139
+  - first:
+      213: 1066568727559732406
+    second: Krillin_140
+  - first:
+      213: -3401998905025788090
+    second: Krillin_141
+  - first:
+      213: -6550047933320194257
+    second: Krillin_142
+  - first:
+      213: -1186148688451197110
+    second: Krillin_143
+  - first:
+      213: -7809736959648803014
+    second: Krillin_144
+  - first:
+      213: 5623305396355833377
+    second: Krillin_145
+  - first:
+      213: 2682684916063127478
+    second: Krillin_146
+  - first:
+      213: -8377190057203175135
+    second: Krillin_147
+  - first:
+      213: -4790311653665926062
+    second: Krillin_148
+  - first:
+      213: 1819279698564007862
+    second: Krillin_149
+  - first:
+      213: -6501867995309624619
+    second: Krillin_150
+  - first:
+      213: 5107763710651913583
+    second: Krillin_151
+  - first:
+      213: 2803867292061758352
+    second: Krillin_152
+  - first:
+      213: -420559529937707237
+    second: Krillin_153
+  - first:
+      213: -1132983774700028163
+    second: Krillin_154
+  - first:
+      213: 2760613895046342604
+    second: Krillin_155
+  - first:
+      213: 6465736693664180692
+    second: Krillin_156
+  - first:
+      213: -444469255443169826
+    second: Krillin_157
+  - first:
+      213: 3343892968278651618
+    second: Krillin_158
+  - first:
+      213: -6824883887778234978
+    second: Krillin_159
+  - first:
+      213: -2521346810349796194
+    second: Krillin_160
+  - first:
+      213: -7159253563507520626
+    second: Krillin_161
+  - first:
+      213: 8792181986888125707
+    second: Krillin_162
+  - first:
+      213: 5704197980419781120
+    second: Krillin_163
+  - first:
+      213: -165701116329408807
+    second: Krillin_164
+  - first:
+      213: -2465972829330406618
+    second: Krillin_165
+  - first:
+      213: 2839428635216616464
+    second: Krillin_166
+  - first:
+      213: -1379277897415997754
+    second: Krillin_167
+  - first:
+      213: 8514965658362000565
+    second: Krillin_168
+  - first:
+      213: -5335732725484692039
+    second: Krillin_169
+  - first:
+      213: -4341070233255216866
+    second: Krillin_170
+  - first:
+      213: 6376492817116584943
+    second: Krillin_171
+  - first:
+      213: -5009192450224999903
+    second: Krillin_172
+  - first:
+      213: 6215360348667735351
+    second: Krillin_173
+  - first:
+      213: -1000228063461212180
+    second: Krillin_174
+  - first:
+      213: -4112148926298392739
+    second: Krillin_175
+  - first:
+      213: -6310731681495908927
+    second: Krillin_176
+  - first:
+      213: -8934142593121445948
+    second: Krillin_177
+  - first:
+      213: -8154273147842958122
+    second: Krillin_178
+  - first:
+      213: -5123748634519955167
+    second: Krillin_179
+  - first:
+      213: -6300480322855409095
+    second: Krillin_180
+  - first:
+      213: -1840040220624341338
+    second: Krillin_181
+  - first:
+      213: 8264902439985526216
+    second: Krillin_182
+  - first:
+      213: 1041898236072922245
+    second: Krillin_183
+  - first:
+      213: -7413725114512569278
+    second: Krillin_184
+  - first:
+      213: -3902667894699798847
+    second: Krillin_185
+  - first:
+      213: -6758123308117158345
+    second: Krillin_186
+  - first:
+      213: -3998654555789371848
+    second: Krillin_187
+  - first:
+      213: 5783573642832133698
+    second: Krillin_188
+  - first:
+      213: 3927773542811213458
+    second: Krillin_189
+  - first:
+      213: -4575985214358527391
+    second: Krillin_190
+  - first:
+      213: 9194308552860666386
+    second: Krillin_191
+  - first:
+      213: 2799488351920653375
+    second: Krillin_192
+  - first:
+      213: -3621801545849076352
+    second: Krillin_193
+  - first:
+      213: -8673573233372277746
+    second: Krillin_194
+  - first:
+      213: -537997970256683413
+    second: Krillin_195
+  - first:
+      213: 1917846113988869298
+    second: Krillin_196
+  - first:
+      213: -6987285006235708344
+    second: Krillin_197
+  - first:
+      213: -2775337068711143134
+    second: Krillin_198
+  - first:
+      213: -1640471694424518442
+    second: Krillin_199
+  - first:
+      213: -5548475867375851424
+    second: Krillin_200
+  - first:
+      213: -4281474101087999683
+    second: Krillin_201
+  - first:
+      213: 3443474972633776539
+    second: Krillin_202
+  - first:
+      213: 7216653547980061862
+    second: Krillin_203
+  - first:
+      213: -6358536634337278420
+    second: Krillin_204
+  - first:
+      213: -7380673997020801270
+    second: Krillin_205
+  - first:
+      213: 1346824035345419174
+    second: Krillin_206
+  - first:
+      213: 5178501332814282016
+    second: Krillin_207
+  - first:
+      213: -2846995856560495206
+    second: Krillin_208
+  - first:
+      213: -1735412582512932488
+    second: Krillin_209
+  - first:
+      213: 1693486065241553677
+    second: Krillin_210
+  - first:
+      213: 517899754457036474
+    second: Krillin_211
+  - first:
+      213: 2090600490549112640
+    second: Krillin_212
+  - first:
+      213: -4120726231447119368
+    second: Krillin_213
+  - first:
+      213: -5749852803894187125
+    second: Krillin_214
+  - first:
+      213: -6588323172494234023
+    second: Krillin_215
+  - first:
+      213: -8057308956463817034
+    second: Krillin_216
+  - first:
+      213: 3641348362513201249
+    second: Krillin_217
+  - first:
+      213: 803902221061688048
+    second: Krillin_218
+  - first:
+      213: 8547183872034618365
+    second: Krillin_219
+  - first:
+      213: -6506028328482574597
+    second: Krillin_220
+  - first:
+      213: -2872010128752235036
+    second: Krillin_221
+  - first:
+      213: 8178019831763365475
+    second: Krillin_222
+  - first:
+      213: -8457964896130167505
+    second: Krillin_223
+  - first:
+      213: -1500348909512715075
+    second: Krillin_224
+  - first:
+      213: 8124272479194877864
+    second: Krillin_225
+  - first:
+      213: 7610702789119860959
+    second: Krillin_226
+  - first:
+      213: -3250016580394408136
+    second: Krillin_227
+  - first:
+      213: 4906855175737456437
+    second: Krillin_228
+  - first:
+      213: 7089974908554247612
+    second: Krillin_229
+  - first:
+      213: 2824503839123296682
+    second: Krillin_230
+  - first:
+      213: -3200313392628370602
+    second: Krillin_231
+  - first:
+      213: -2531924789860716674
+    second: Krillin_232
+  - first:
+      213: -7387297192810058523
+    second: Krillin_233
+  - first:
+      213: 976019624163622598
+    second: Krillin_234
+  - first:
+      213: 4930858632213169760
+    second: Krillin_235
+  - first:
+      213: 1821417772536093286
+    second: Krillin_236
+  - first:
+      213: -5094109950683946776
+    second: Krillin_237
+  - first:
+      213: 1071999434897870944
+    second: Krillin_238
+  - first:
+      213: 1354390718823499391
+    second: Krillin_239
+  - first:
+      213: 6778099328322096816
+    second: Krillin_240
+  - first:
+      213: 3346361405113802512
+    second: Krillin_241
+  - first:
+      213: -8848259705326765805
+    second: Krillin_242
+  - first:
+      213: 3291354405226796499
+    second: Krillin_243
+  - first:
+      213: 8493576800004959430
+    second: Krillin_244
+  - first:
+      213: -4198876902215501329
+    second: Krillin_245
+  - first:
+      213: -2195570513763765696
+    second: Krillin_246
+  - first:
+      213: -6504665095498400900
+    second: Krillin_247
+  - first:
+      213: 6678709027338351384
+    second: Krillin_248
+  - first:
+      213: -8390780330351426606
+    second: Krillin_249
+  - first:
+      213: 6758219656377816260
+    second: Krillin_250
+  - first:
+      213: 934552055237430671
+    second: Krillin_251
+  - first:
+      213: -2614036825170967194
+    second: Krillin_252
+  - first:
+      213: -850444178026311449
+    second: Krillin_253
+  - first:
+      213: 8414443620049299377
+    second: Krillin_254
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Krillin_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e589b20fef2d9890800000000000000
+      internalID: -7449745505011530263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb2e93d271aab00800000000000000
+      internalID: 840509763470146383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fbe713968a93350800000000000000
+      internalID: 5997009548575948620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af8d214de46c6d0800000000000000
+      internalID: -2970600231448020400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e256f02f39581900800000000000000
+      internalID: 655371873453232870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9eeda69a2b6b4c0800000000000000
+      internalID: -4272030755802125883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870f902b6b1d0a50800000000000000
+      internalID: 6488872785033496451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2081999a9fea4c50800000000000000
+      internalID: 6650391247046410285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 359
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5cd828fee77e490800000000000000
+      internalID: -7717059869323442743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 359
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a002e78b4115c2bb0800000000000000
+      internalID: -4959499940205289462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 359
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74deb36dd55d2900800000000000000
+      internalID: 661279129642914941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 359
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d19bdec0223bb4c0800000000000000
+      internalID: -4270764705139945003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 359
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e80a62686fe21d40800000000000000
+      internalID: 5553764522107996386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70790730e3a9407f0800000000000000
+      internalID: -647222855298148601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42b9f17007d20470800000000000000
+      internalID: 8359480255265223243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3655f54fb32a9c50800000000000000
+      internalID: 6672685102322243130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b3f936fb5701170800000000000000
+      internalID: 8147141190783810448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee9fdaf3dbadfd80800000000000000
+      internalID: -8215221218318508308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90adc2e3fdc725130800000000000000
+      internalID: 3554040354211420681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6377e3a6b7cae20800000000000000
+      internalID: 3363198717983667936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 330
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36d43c48ad05480800000000000000
+      internalID: -8912383398819044357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 330
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7b4ee6636f41f40800000000000000
+      internalID: 5698450142179669976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d62c101f4e44a0800000000000000
+      internalID: -6607256672695561166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 330
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf59aec2787f48f0800000000000000
+      internalID: -554091794654470180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 330
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d061ffbc5b1cbfd0800000000000000
+      internalID: -2324953222458810151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda12469ec487e650800000000000000
+      internalID: 6262119829701008094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da16080750363c0800000000000000
+      internalID: -4367641232870888158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 330
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100faa347791af10800000000000000
+      internalID: 2279269411882729489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 330
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d68990fb0a95d0800000000000000
+      internalID: -3055116269221654178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012f5aeea4dcdc20800000000000000
+      internalID: 3232692480266674442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d3264e923948c0800000000000000
+      internalID: -4014621937461110355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d559f8f1cf99a8b0800000000000000
+      internalID: -5140401844212116016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4923eed9ae093b0800000000000000
+      internalID: -5507644380247059233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 330
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac53428647163c20800000000000000
+      internalID: 3185759378011806890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e126790c3e6a1750800000000000000
+      internalID: 6276450234830037472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f48250edaf1a30800000000000000
+      internalID: 4188257357446574718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb7f3b256ff4700800000000000000
+      internalID: 526910516492746589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 330
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811be86ac56fb7e40800000000000000
+      internalID: 5655384634885583128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 275
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f072e3281f6040800000000000000
+      internalID: 4642956283244246316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 275
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d617ea9f7b6c20800000000000000
+      internalID: 3200792263455592894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05bb9413ab4d8140800000000000000
+      internalID: 4723514747979019535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 275
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a73c084e9870d50800000000000000
+      internalID: 6703478184870115926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 275
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdf2e539d6b7b20800000000000000
+      internalID: 3133218445474127672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 275
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e9571beaa95f720800000000000000
+      internalID: 2879377611865562702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9137075f5373c09b0800000000000000
+      internalID: -5112650772081773799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860da3af8158662a0800000000000000
+      internalID: -6744557049616871320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 231
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068eda1341378080800000000000000
+      internalID: -9185318750715476480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8778acb7a9ec86680800000000000000
+      internalID: -8761525912152144008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 231
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a349a64a9bfa54d0800000000000000
+      internalID: -3144924749735836765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c2d77ff5215560800000000000000
+      internalID: 7300658250101474469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8410bc1d056381570800000000000000
+      internalID: 8437553622623650120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 231
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5de58bdd7e6400800000000000000
+      internalID: 319331005388119559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 231
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fbcb059d5abff00800000000000000
+      internalID: 1151696482504327032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 231
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24414ff511a81590800000000000000
+      internalID: -7703230046768380883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 176
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f0594925bdd1490800000000000000
+      internalID: -7773816234045010126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f83828b64073720800000000000000
+      internalID: 2825732150995947290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cf7cb43188f9d10800000000000000
+      internalID: 2134574364854058000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 217
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049fc031a9e2c650800000000000000
+      internalID: 6251816111261586437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 213
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42117d25ba2e27660800000000000000
+      internalID: 7382211964670775588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef667f24a554970800000000000000
+      internalID: 8738489895647378949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedd5fd165225aa90800000000000000
+      internalID: -7303393467446206996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 176
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95a79193827ab410800000000000000
+      internalID: 1493632135835657630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad49dd1301a082f0800000000000000
+      internalID: -972600484754272853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 176
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e61e05618aca8460800000000000000
+      internalID: 7244825607673878246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e157b0cc734c970800000000000000
+      internalID: 8774199323529649677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f548d717f361450800000000000000
+      internalID: 6059100105343262614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_66
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 176
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7645497678ca50800000000000000
+      internalID: 6541608721981013901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 176
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a7a70d74ca774a0800000000000000
+      internalID: -6595613704820458913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ab1cbb661e4bb10800000000000000
+      internalID: 1996468366184921704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fda54cfb1a8d290800000000000000
+      internalID: -7865358904197456027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5d15c839f95950800000000000000
+      internalID: 6438451164523355689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 132
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc5fb273f5aebb0800000000000000
+      internalID: -4906004153501365344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 132
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73820bb55ed7e75b0800000000000000
+      internalID: -5368715281739798473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 94
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c52bdc95de8e430800000000000000
+      internalID: 3812558054528015510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_74
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 134
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c81e99e22909f0800000000000000
+      internalID: -501831496699952692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_75
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 129
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52bd1a36b4d05ca0800000000000000
+      internalID: -6030086021924933029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_76
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 88
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091db40b9cfc9970800000000000000
+      internalID: 8763156717685774601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 129
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4459856114daf0800000000000000
+      internalID: -372653741371536099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 88
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0449d16516c9290800000000000000
+      internalID: -7882318225313873691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_79
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 88
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8832bba0ae12505c0800000000000000
+      internalID: -4249953384268094584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aea3c6382e09070800000000000000
+      internalID: 8111231982978656858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 102
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22da39f2d934cde0800000000000000
+      internalID: -1313861612998045137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 102
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac60780c7798c02f0800000000000000
+      internalID: -1005277469386275126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 88
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d5fbad4e45a670800000000000000
+      internalID: 8549325563137216532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461721c5a66290200800000000000000
+      internalID: 146690701119353188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebb33489ee641680800000000000000
+      internalID: -8785275023868576794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 88
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301babf7d7db02bc0800000000000000
+      internalID: -3809836938043936509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_87
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 88
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebb3e55555f4a4d0800000000000000
+      internalID: -3124102494626268178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_88
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 88
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df65be1d7a9accc0800000000000000
+      internalID: -3689967082499903530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e577d54f0631f10800000000000000
+      internalID: 2239240042389659185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58600f1eaf39f27a0800000000000000
+      internalID: -6399733839728474491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56974c4571df72410800000000000000
+      internalID: 1452407681498511717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_92
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 59
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5aa027764e28640800000000000000
+      internalID: 5080874462573405654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028acf6c38aed5500800000000000000
+      internalID: 386722994723792928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5662aab12dcb23e0800000000000000
+      internalID: -2077341258352531874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897f73a9d61542f0800000000000000
+      internalID: -989359419131201150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_96
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4da1762d08c0d6e0800000000000000
+      internalID: -1814730691025195701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28a92a9c14aecb0800000000000000
+      internalID: -4833978915756539223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a193c009a0ae9e40800000000000000
+      internalID: 5665142029001396648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_99
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a4258c8c3d3990800000000000000
+      internalID: -7404695638100368054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_100
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe902e05e3991a990800000000000000
+      internalID: -7376446221732148753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bad4c03e1e3190f0800000000000000
+      internalID: -1112039333595653447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa750dfb571c760800000000000000
+      internalID: 7476386323106343551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afcdcf8aa4017000800000000000000
+      internalID: 31811802971885477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e84e5e568dfd20800000000000000
+      internalID: 3313952640681435896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e05c72af38f4200800000000000000
+      internalID: 166496821668286068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660fd8b20e4894960800000000000000
+      internalID: 7586741145620574310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_107
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147b0dd12ae9b690800000000000000
+      internalID: -7585774666165554154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_108
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a3473373e769b0800000000000000
+      internalID: -5086847170103760831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_109
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd058f55be232ef00800000000000000
+      internalID: 1144533241646567645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643fc8c6993328960800000000000000
+      internalID: 7602695854999008070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782870a3023d45090800000000000000
+      internalID: -8046574498838248825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_112
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34462de3ca4cf02e0800000000000000
+      internalID: -2157289452419783613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ca8125bc3b18f0800000000000000
+      internalID: -568794179282746623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_114
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 59
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e12067f1cbc42d0800000000000000
+      internalID: -3293050384204816877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_115
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43bab34bc950e00800000000000000
+      internalID: 1010385989323666657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_116
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb2b5ed1433d5c60800000000000000
+      internalID: 7808453686926715890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_117
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152800ab51faf9a0800000000000000
+      internalID: -6198376561292860143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9141fcc7edfcd1c0800000000000000
+      internalID: -4477424757495479906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_119
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615722abdb6175b30800000000000000
+      internalID: 4275911375339025686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_120
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ad725fe7512000800000000000000
+      internalID: 9385359624217906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_121
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa48dbc2037d73a00800000000000000
+      internalID: 736293666007385258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_122
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db203c6c1d7ee5b40800000000000000
+      internalID: 5431033088824246973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_123
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef788b92da8460d0800000000000000
+      internalID: -3430464378992295954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2868168152e28a0800000000000000
+      internalID: -6328079639763320095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc226128c1bec5e30800000000000000
+      internalID: 4493725035883012815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_126
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eccee08f25b3710800000000000000
+      internalID: 1674022911854038684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_127
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca061e1c5b84150800000000000000
+      internalID: 5857131159709854848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_128
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85eec9a870abe160800000000000000
+      internalID: 7055909681311442317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_129
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63aea8e3658e3d00800000000000000
+      internalID: 954346835201139563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_130
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887bb7a66babcb980800000000000000
+      internalID: -8521731102258514040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c4a9384469f7910800000000000000
+      internalID: 1837352394000321569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51812ffeed5bf7dd0800000000000000
+      internalID: -2486068500172236779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_133
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acaf89899a251250800000000000000
+      internalID: 5914680524547271843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_134
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d4b7ccdd069fb0800000000000000
+      internalID: -4641507124064234014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_135
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee95fe36ce8796610800000000000000
+      internalID: 1614954898073278958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb90d9eefc5622b0800000000000000
+      internalID: -5609694035929162817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_137
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f68353452f2137c0800000000000000
+      internalID: -4093438749213227275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_138
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8693d25bd7b1350800000000000000
+      internalID: 5988518346620496063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_139
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a4b584c87042980800000000000000
+      internalID: -8564712292261082490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_140
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfcb65b963dce00800000000000000
+      internalID: 1066568727559732406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6478bab350ca9c0d0800000000000000
+      internalID: -3401998905025788090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_142
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271ba8bb1e8915a0800000000000000
+      internalID: -6550047933320194257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_143
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4722166d04f98fe0800000000000000
+      internalID: -1186148688451197110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d4eaec9d3e9390800000000000000
+      internalID: -7809736959648803014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_145
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e9355e67ef90e40800000000000000
+      internalID: 5623305396355833377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7cd3ab7bfca3520800000000000000
+      internalID: 2682684916063127478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217878f60e3ebb80800000000000000
+      internalID: -8377190057203175135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25414df5ee4658db0800000000000000
+      internalID: -4790311653665926062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ccf33f316f3910800000000000000
+      internalID: 1819279698564007862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_150
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b613b189b4c5a0800000000000000
+      internalID: -6501867995309624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_151
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d902680c62e640800000000000000
+      internalID: 5107763710651913583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_152
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937da4527659e620800000000000000
+      internalID: 2803867292061758352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f5823f55fd92af0800000000000000
+      internalID: -420559529937707237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_154
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 43
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe39bc7245d640f0800000000000000
+      internalID: -1132983774700028163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_155
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ae3016bbaf4620800000000000000
+      internalID: 2760613895046342604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_156
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9ef051449eab950800000000000000
+      internalID: 6465736693664180692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3abb219de4d9f0800000000000000
+      internalID: -444469255443169826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_158
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fc2d10f4e76e20800000000000000
+      internalID: 3343892968278651618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_159
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df0bb83442941a0800000000000000
+      internalID: -6824883887778234978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_160
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9449854f60620dd0800000000000000
+      internalID: -2521346810349796194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_161
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4f2ab0d835ac90800000000000000
+      internalID: -7159253563507520626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_162
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d0e012fea140a70800000000000000
+      internalID: 8792181986888125707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_163
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002fb6f47d1692f40800000000000000
+      internalID: 5704197980419781120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_164
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6cc4e66bf43bdf0800000000000000
+      internalID: -165701116329408807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_165
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6230ff9e6ca17cdd0800000000000000
+      internalID: -2465972829330406618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_166
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c982fbc4da76720800000000000000
+      internalID: 2839428635216616464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_167
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c8fd5f02dbdce0800000000000000
+      internalID: -1379277897415997754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_168
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4315de62c3b2670800000000000000
+      internalID: 8514965658362000565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_169
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 43
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdde092b5ba3f5b0800000000000000
+      internalID: -5335732725484692039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_170
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19fcc17f9b61c3c0800000000000000
+      internalID: -4341070233255216866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb501dde6add7850800000000000000
+      internalID: 6376492817116584943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_172
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 43
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12235c0a106cb7ab0800000000000000
+      internalID: -5009192450224999903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_173
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d63658e45614650800000000000000
+      internalID: 6215360348667735351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_174
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef740f20e97e12f0800000000000000
+      internalID: -1000228063461212180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_175
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57fa70b656bee6c0800000000000000
+      internalID: -4112148926298392739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_176
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf1aba8f6cb68a0800000000000000
+      internalID: -6310731681495908927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_177
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 45
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c71f4c85ac830480800000000000000
+      internalID: -8934142593121445948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_178
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc605576c336de80800000000000000
+      internalID: -8154273147842958122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_179
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1299b0183c9c4e8b0800000000000000
+      internalID: -5123748634519955167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_180
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6dd917823098a0800000000000000
+      internalID: -6300480322855409095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_181
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a631451b2dd676e0800000000000000
+      internalID: -1840040220624341338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_182
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5b896daf4d2b270800000000000000
+      internalID: 8264902439985526216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c8b3dece0957e00800000000000000
+      internalID: 1041898236072922245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_184
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c0617b9482d1990800000000000000
+      internalID: -7413725114512569278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec81c1a30f6d9c0800000000000000
+      internalID: -3902667894699798847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736936748a25632a0800000000000000
+      internalID: -6758123308117158345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365da60edce188c0800000000000000
+      internalID: -3998654555789371848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_188
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3251e591634050800000000000000
+      internalID: 5783573642832133698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_189
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e90791a31428630800000000000000
+      internalID: 3927773542811213458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_190
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16268b031b5de70c0800000000000000
+      internalID: -4575985214358527391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_191
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a88905aeeb89f70800000000000000
+      internalID: 9194308552860666386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_192
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f340311e2d7c9d620800000000000000
+      internalID: 2799488351920653375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08584b4eea6ccbdc0800000000000000
+      internalID: -3621801545849076352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_194
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04528b491741a780800000000000000
+      internalID: -8673573233372277746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_195
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e18fc42b5a888f0800000000000000
+      internalID: -537997970256683413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_196
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc7b2621ee8d9a10800000000000000
+      internalID: 1917846113988869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_197
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84458ea9e4d280f90800000000000000
+      internalID: -6987285006235708344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_198
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2299f7fe3a50c79d0800000000000000
+      internalID: -2775337068711143134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_199
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05ebd7fafdb39e0800000000000000
+      internalID: -1640471694424518442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682c30889adff2b0800000000000000
+      internalID: -5548475867375851424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_201
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d396d914df52594c0800000000000000
+      internalID: -4281474101087999683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c8c84e3ea9cf20800000000000000
+      internalID: 3443474972633776539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_203
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acf96a9a24b62460800000000000000
+      internalID: 7216653547980061862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_204
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c40bbe90f1c7a0800000000000000
+      internalID: -6358536634337278420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_205
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07dc9caa14929990800000000000000
+      internalID: -7380673997020801270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_206
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc8b90351e0b210800000000000000
+      internalID: 1346824035345419174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d384b768bbdd740800000000000000
+      internalID: 5178501332814282016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_208
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e3bc3a507d78d0800000000000000
+      internalID: -2846995856560495206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_209
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c29863739ae7e0800000000000000
+      internalID: -1735412582512932488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bfbc69a98708710800000000000000
+      internalID: 1693486065241553677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_211
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67cad2513ff2700800000000000000
+      internalID: 517899754457036474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_212
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fef66d11e430d10800000000000000
+      internalID: 2090600490549112640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_213
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d5f5335d30d6c0800000000000000
+      internalID: -4120726231447119368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_214
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6a11c65b6430b0800000000000000
+      internalID: -5749852803894187125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_215
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ea1062bf29194a0800000000000000
+      internalID: -6588323172494234023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_216
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be966c8130be2090800000000000000
+      internalID: -8057308956463817034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_217
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168bc030b0ba88230800000000000000
+      internalID: 3641348362513201249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_218
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa87809fc8082b00800000000000000
+      internalID: 803902221061688048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_219
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb329a5272bd9670800000000000000
+      internalID: 8547183872034618365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_220
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeea26a4b1f5b5a0800000000000000
+      internalID: -6506028328482574597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_221
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed266421029428d0800000000000000
+      internalID: -2872010128752235036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_222
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eea5e35b92e7170800000000000000
+      internalID: 8178019831763365475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_223
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d007b3db54f9a80800000000000000
+      internalID: -8457964896130167505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_224
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49951bd90bd2be0800000000000000
+      internalID: -1500348909512715075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_225
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af84ec86c63fb070800000000000000
+      internalID: 8124272479194877864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0609c0dd5ae9960800000000000000
+      internalID: 7610702789119860959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_227
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372673b32f95e2d0800000000000000
+      internalID: -3250016580394408136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_228
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5373e12e8c6a81440800000000000000
+      internalID: 4906855175737456437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_229
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdfec27d96a46260800000000000000
+      internalID: 7089974908554247612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_230
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1dbadd647a23720800000000000000
+      internalID: 2824503839123296682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_231
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f576ece33693d0800000000000000
+      internalID: -3200313392628370602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_232
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa85e71dbccdcd0800000000000000
+      internalID: -2531924789860716674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_233
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ece05cb75c0b7990800000000000000
+      internalID: -7387297192810058523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_234
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce35105da48b8d00800000000000000
+      internalID: 976019624163622598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_235
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0660cba1dcded6440800000000000000
+      internalID: 4930858632213169760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_236
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad89750d9f64910800000000000000
+      internalID: 1821417772536093286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_237
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e063b65df51e49b0800000000000000
+      internalID: -5094109950683946776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_238
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d18c6ec180ee00800000000000000
+      internalID: 1071999434897870944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_239
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768f82de23cbc210800000000000000
+      internalID: 1354390718823499391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_240
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec3fc5d65a01e50800000000000000
+      internalID: 6778099328322096816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_241
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f92e9d7f9a07e20800000000000000
+      internalID: 3346361405113802512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_242
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31978979daaa43580800000000000000
+      internalID: -8848259705326765805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_243
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5d579a46d3dad20800000000000000
+      internalID: 3291354405226796499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_244
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc6bc4491f3fd570800000000000000
+      internalID: 8493576800004959430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_245
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe93adb34b79ab5c0800000000000000
+      internalID: -4198876902215501329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_246
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f9c71044c781e0800000000000000
+      internalID: -2195570513763765696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_247
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7fef0f89cab5a0800000000000000
+      internalID: -6504665095498400900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_248
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81372bc997a8fac50800000000000000
+      internalID: 6678709027338351384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_249
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3811deeb5fd8b80800000000000000
+      internalID: -8390780330351426606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_250
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4567c88f40acd50800000000000000
+      internalID: 6758219656377816260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_251
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc98c842238fc00800000000000000
+      internalID: 934552055237430671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_252
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66505e57b5319bbd0800000000000000
+      internalID: -2614036825170967194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_253
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e05173a68d9234f0800000000000000
+      internalID: -850444178026311449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_254
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7279b04eb16c470800000000000000
+      internalID: 8414443620049299377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_255
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209bbbd2fb024140838656fa739f8ce
+      internalID: -882214907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krillin_256
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 274
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe78e1dac80a774a95998b2cedecd35
+      internalID: 1376528845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 253ba5fd697555442b45f45eea5e2a91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Krillin_0: -7449745505011530263
+      Krillin_1: 840509763470146383
+      Krillin_10: 661279129642914941
+      Krillin_100: -7376446221732148753
+      Krillin_101: -1112039333595653447
+      Krillin_102: 7476386323106343551
+      Krillin_103: 31811802971885477
+      Krillin_104: 3313952640681435896
+      Krillin_105: 166496821668286068
+      Krillin_106: 7586741145620574310
+      Krillin_107: -7585774666165554154
+      Krillin_108: -5086847170103760831
+      Krillin_109: 1144533241646567645
+      Krillin_11: -4270764705139945003
+      Krillin_110: 7602695854999008070
+      Krillin_111: -8046574498838248825
+      Krillin_112: -2157289452419783613
+      Krillin_113: -568794179282746623
+      Krillin_114: -3293050384204816877
+      Krillin_115: 1010385989323666657
+      Krillin_116: 7808453686926715890
+      Krillin_117: -6198376561292860143
+      Krillin_118: -4477424757495479906
+      Krillin_119: 4275911375339025686
+      Krillin_12: 5553764522107996386
+      Krillin_120: 9385359624217906
+      Krillin_121: 736293666007385258
+      Krillin_122: 5431033088824246973
+      Krillin_123: -3430464378992295954
+      Krillin_124: -6328079639763320095
+      Krillin_125: 4493725035883012815
+      Krillin_126: 1674022911854038684
+      Krillin_127: 5857131159709854848
+      Krillin_128: 7055909681311442317
+      Krillin_129: 954346835201139563
+      Krillin_13: -647222855298148601
+      Krillin_130: -8521731102258514040
+      Krillin_131: 1837352394000321569
+      Krillin_132: -2486068500172236779
+      Krillin_133: 5914680524547271843
+      Krillin_134: -4641507124064234014
+      Krillin_135: 1614954898073278958
+      Krillin_136: -5609694035929162817
+      Krillin_137: -4093438749213227275
+      Krillin_138: 5988518346620496063
+      Krillin_139: -8564712292261082490
+      Krillin_14: 8359480255265223243
+      Krillin_140: 1066568727559732406
+      Krillin_141: -3401998905025788090
+      Krillin_142: -6550047933320194257
+      Krillin_143: -1186148688451197110
+      Krillin_144: -7809736959648803014
+      Krillin_145: 5623305396355833377
+      Krillin_146: 2682684916063127478
+      Krillin_147: -8377190057203175135
+      Krillin_148: -4790311653665926062
+      Krillin_149: 1819279698564007862
+      Krillin_15: 6672685102322243130
+      Krillin_150: -6501867995309624619
+      Krillin_151: 5107763710651913583
+      Krillin_152: 2803867292061758352
+      Krillin_153: -420559529937707237
+      Krillin_154: -1132983774700028163
+      Krillin_155: 2760613895046342604
+      Krillin_156: 6465736693664180692
+      Krillin_157: -444469255443169826
+      Krillin_158: 3343892968278651618
+      Krillin_159: -6824883887778234978
+      Krillin_16: 8147141190783810448
+      Krillin_160: -2521346810349796194
+      Krillin_161: -7159253563507520626
+      Krillin_162: 8792181986888125707
+      Krillin_163: 5704197980419781120
+      Krillin_164: -165701116329408807
+      Krillin_165: -2465972829330406618
+      Krillin_166: 2839428635216616464
+      Krillin_167: -1379277897415997754
+      Krillin_168: 8514965658362000565
+      Krillin_169: -5335732725484692039
+      Krillin_17: -8215221218318508308
+      Krillin_170: -4341070233255216866
+      Krillin_171: 6376492817116584943
+      Krillin_172: -5009192450224999903
+      Krillin_173: 6215360348667735351
+      Krillin_174: -1000228063461212180
+      Krillin_175: -4112148926298392739
+      Krillin_176: -6310731681495908927
+      Krillin_177: -8934142593121445948
+      Krillin_178: -8154273147842958122
+      Krillin_179: -5123748634519955167
+      Krillin_18: 3554040354211420681
+      Krillin_180: -6300480322855409095
+      Krillin_181: -1840040220624341338
+      Krillin_182: 8264902439985526216
+      Krillin_183: 1041898236072922245
+      Krillin_184: -7413725114512569278
+      Krillin_185: -3902667894699798847
+      Krillin_186: -6758123308117158345
+      Krillin_187: -3998654555789371848
+      Krillin_188: 5783573642832133698
+      Krillin_189: 3927773542811213458
+      Krillin_19: 3363198717983667936
+      Krillin_190: -4575985214358527391
+      Krillin_191: 9194308552860666386
+      Krillin_192: 2799488351920653375
+      Krillin_193: -3621801545849076352
+      Krillin_194: -8673573233372277746
+      Krillin_195: -537997970256683413
+      Krillin_196: 1917846113988869298
+      Krillin_197: -6987285006235708344
+      Krillin_198: -2775337068711143134
+      Krillin_199: -1640471694424518442
+      Krillin_2: 5997009548575948620
+      Krillin_20: -8912383398819044357
+      Krillin_200: -5548475867375851424
+      Krillin_201: -4281474101087999683
+      Krillin_202: 3443474972633776539
+      Krillin_203: 7216653547980061862
+      Krillin_204: -6358536634337278420
+      Krillin_205: -7380673997020801270
+      Krillin_206: 1346824035345419174
+      Krillin_207: 5178501332814282016
+      Krillin_208: -2846995856560495206
+      Krillin_209: -1735412582512932488
+      Krillin_21: 5698450142179669976
+      Krillin_210: 1693486065241553677
+      Krillin_211: 517899754457036474
+      Krillin_212: 2090600490549112640
+      Krillin_213: -4120726231447119368
+      Krillin_214: -5749852803894187125
+      Krillin_215: -6588323172494234023
+      Krillin_216: -8057308956463817034
+      Krillin_217: 3641348362513201249
+      Krillin_218: 803902221061688048
+      Krillin_219: 8547183872034618365
+      Krillin_22: -6607256672695561166
+      Krillin_220: -6506028328482574597
+      Krillin_221: -2872010128752235036
+      Krillin_222: 8178019831763365475
+      Krillin_223: -8457964896130167505
+      Krillin_224: -1500348909512715075
+      Krillin_225: 8124272479194877864
+      Krillin_226: 7610702789119860959
+      Krillin_227: -3250016580394408136
+      Krillin_228: 4906855175737456437
+      Krillin_229: 7089974908554247612
+      Krillin_23: -554091794654470180
+      Krillin_230: 2824503839123296682
+      Krillin_231: -3200313392628370602
+      Krillin_232: -2531924789860716674
+      Krillin_233: -7387297192810058523
+      Krillin_234: 976019624163622598
+      Krillin_235: 4930858632213169760
+      Krillin_236: 1821417772536093286
+      Krillin_237: -5094109950683946776
+      Krillin_238: 1071999434897870944
+      Krillin_239: 1354390718823499391
+      Krillin_24: -2324953222458810151
+      Krillin_240: 6778099328322096816
+      Krillin_241: 3346361405113802512
+      Krillin_242: -8848259705326765805
+      Krillin_243: 3291354405226796499
+      Krillin_244: 8493576800004959430
+      Krillin_245: -4198876902215501329
+      Krillin_246: -2195570513763765696
+      Krillin_247: -6504665095498400900
+      Krillin_248: 6678709027338351384
+      Krillin_249: -8390780330351426606
+      Krillin_25: 6262119829701008094
+      Krillin_250: 6758219656377816260
+      Krillin_251: 934552055237430671
+      Krillin_252: -2614036825170967194
+      Krillin_253: -850444178026311449
+      Krillin_254: 8414443620049299377
+      Krillin_255: -882214907
+      Krillin_256: 1376528845
+      Krillin_26: -4367641232870888158
+      Krillin_27: 2279269411882729489
+      Krillin_28: -3055116269221654178
+      Krillin_29: 3232692480266674442
+      Krillin_3: -2970600231448020400
+      Krillin_30: -4014621937461110355
+      Krillin_31: -5140401844212116016
+      Krillin_32: -5507644380247059233
+      Krillin_33: 3185759378011806890
+      Krillin_34: 6276450234830037472
+      Krillin_35: 4188257357446574718
+      Krillin_36: 526910516492746589
+      Krillin_37: 5655384634885583128
+      Krillin_38: 4642956283244246316
+      Krillin_39: 3200792263455592894
+      Krillin_4: 655371873453232870
+      Krillin_40: 4723514747979019535
+      Krillin_41: 6703478184870115926
+      Krillin_42: 3133218445474127672
+      Krillin_43: 2879377611865562702
+      Krillin_44: -5112650772081773799
+      Krillin_45: -6744557049616871320
+      Krillin_46: -9185318750715476480
+      Krillin_47: -8761525912152144008
+      Krillin_48: -3144924749735836765
+      Krillin_49: 7300658250101474469
+      Krillin_5: -4272030755802125883
+      Krillin_50: 8437553622623650120
+      Krillin_51: 319331005388119559
+      Krillin_52: 1151696482504327032
+      Krillin_53: -7703230046768380883
+      Krillin_54: -7773816234045010126
+      Krillin_55: 2825732150995947290
+      Krillin_56: 2134574364854058000
+      Krillin_57: 6251816111261586437
+      Krillin_58: 7382211964670775588
+      Krillin_59: 8738489895647378949
+      Krillin_6: 6488872785033496451
+      Krillin_60: -7303393467446206996
+      Krillin_61: 1493632135835657630
+      Krillin_62: -972600484754272853
+      Krillin_63: 7244825607673878246
+      Krillin_64: 8774199323529649677
+      Krillin_65: 6059100105343262614
+      Krillin_66: 6541608721981013901
+      Krillin_67: -6595613704820458913
+      Krillin_68: 1996468366184921704
+      Krillin_69: -7865358904197456027
+      Krillin_7: 6650391247046410285
+      Krillin_70: 6438451164523355689
+      Krillin_71: -4906004153501365344
+      Krillin_72: -5368715281739798473
+      Krillin_73: 3812558054528015510
+      Krillin_74: -501831496699952692
+      Krillin_75: -6030086021924933029
+      Krillin_76: 8763156717685774601
+      Krillin_77: -372653741371536099
+      Krillin_78: -7882318225313873691
+      Krillin_79: -4249953384268094584
+      Krillin_8: -7717059869323442743
+      Krillin_80: 8111231982978656858
+      Krillin_81: -1313861612998045137
+      Krillin_82: -1005277469386275126
+      Krillin_83: 8549325563137216532
+      Krillin_84: 146690701119353188
+      Krillin_85: -8785275023868576794
+      Krillin_86: -3809836938043936509
+      Krillin_87: -3124102494626268178
+      Krillin_88: -3689967082499903530
+      Krillin_89: 2239240042389659185
+      Krillin_9: -4959499940205289462
+      Krillin_90: -6399733839728474491
+      Krillin_91: 1452407681498511717
+      Krillin_92: 5080874462573405654
+      Krillin_93: 386722994723792928
+      Krillin_94: -2077341258352531874
+      Krillin_95: -989359419131201150
+      Krillin_96: -1814730691025195701
+      Krillin_97: -4833978915756539223
+      Krillin_98: 5665142029001396648
+      Krillin_99: -7404695638100368054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

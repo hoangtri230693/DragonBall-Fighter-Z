@@ -1,0 +1,1110 @@
+fileFormatVersion: 2
+guid: 002b615fad4ae6c47bf90ab3079e7473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4128040177238098858
+    second: GohanAdult_UpLevel_0
+  - first:
+      213: 3996710481832819232
+    second: GohanAdult_UpLevel_1
+  - first:
+      213: 6446963165419856321
+    second: GohanAdult_UpLevel_2
+  - first:
+      213: 8382259952120642019
+    second: GohanAdult_UpLevel_3
+  - first:
+      213: 9036170475955429536
+    second: GohanAdult_UpLevel_4
+  - first:
+      213: -1843833269036760543
+    second: GohanAdult_UpLevel_5
+  - first:
+      213: -1587662452010524933
+    second: GohanAdult_UpLevel_6
+  - first:
+      213: -8549445930758932070
+    second: GohanAdult_UpLevel_7
+  - first:
+      213: -8692666408320406735
+    second: GohanAdult_UpLevel_8
+  - first:
+      213: -1199352553254993515
+    second: GohanAdult_UpLevel_9
+  - first:
+      213: -4913645509394744952
+    second: GohanAdult_UpLevel_10
+  - first:
+      213: -551716253563122843
+    second: GohanAdult_UpLevel_11
+  - first:
+      213: -4968850678425231168
+    second: GohanAdult_UpLevel_12
+  - first:
+      213: -8170157288483376019
+    second: GohanAdult_UpLevel_13
+  - first:
+      213: 5616161743774101293
+    second: GohanAdult_UpLevel_14
+  - first:
+      213: -8181352490602199559
+    second: GohanAdult_UpLevel_15
+  - first:
+      213: 6140153689740641458
+    second: GohanAdult_UpLevel_16
+  - first:
+      213: 3634009719874964888
+    second: GohanAdult_UpLevel_17
+  - first:
+      213: 1294226521330095281
+    second: GohanAdult_UpLevel_18
+  - first:
+      213: 5928264562721137419
+    second: GohanAdult_UpLevel_19
+  - first:
+      213: -622017441155609082
+    second: GohanAdult_UpLevel_20
+  - first:
+      213: -5457916708886862889
+    second: GohanAdult_UpLevel_21
+  - first:
+      213: 5387802177501052987
+    second: GohanAdult_UpLevel_22
+  - first:
+      213: 7561816229181947790
+    second: GohanAdult_UpLevel_23
+  - first:
+      213: 2271113125532162223
+    second: GohanAdult_UpLevel_24
+  - first:
+      213: -759052478034012181
+    second: GohanAdult_UpLevel_25
+  - first:
+      213: -3459082342373160341
+    second: GohanAdult_UpLevel_26
+  - first:
+      213: -9048395347178424620
+    second: GohanAdult_UpLevel_27
+  - first:
+      213: -3792931852866405609
+    second: GohanAdult_UpLevel_28
+  - first:
+      213: -7079797290915365462
+    second: GohanAdult_UpLevel_29
+  - first:
+      213: 1284019427052506100
+    second: GohanAdult_UpLevel_30
+  - first:
+      213: 4224468163232119139
+    second: GohanAdult_UpLevel_31
+  - first:
+      213: -4785715363722536704
+    second: GohanAdult_UpLevel_32
+  - first:
+      213: 7740566080313385142
+    second: GohanAdult_UpLevel_33
+  - first:
+      213: -6778880813935914841
+    second: GohanAdult_UpLevel_34
+  - first:
+      213: 4549215054738345558
+    second: GohanAdult_UpLevel_35
+  - first:
+      213: 7805463894129437661
+    second: GohanAdult_UpLevel_36
+  - first:
+      213: 3422534716790045913
+    second: GohanAdult_UpLevel_37
+  - first:
+      213: -5461932154520749253
+    second: GohanAdult_UpLevel_38
+  - first:
+      213: -8224547897635646350
+    second: GohanAdult_UpLevel_39
+  - first:
+      213: -6223801299368693040
+    second: GohanAdult_UpLevel_40
+  - first:
+      213: -3468456748299509887
+    second: GohanAdult_UpLevel_41
+  - first:
+      213: 2298681596431401746
+    second: GohanAdult_UpLevel_42
+  - first:
+      213: -3480229614905341410
+    second: GohanAdult_UpLevel_43
+  - first:
+      213: 4652159033572037031
+    second: GohanAdult_UpLevel_44
+  - first:
+      213: 6783384062330940535
+    second: GohanAdult_UpLevel_45
+  - first:
+      213: -1564081198325901924
+    second: GohanAdult_UpLevel_46
+  - first:
+      213: -6430618492856299012
+    second: GohanAdult_UpLevel_47
+  - first:
+      213: -4366969678240368445
+    second: GohanAdult_UpLevel_48
+  - first:
+      213: -1758527711942223355
+    second: GohanAdult_UpLevel_49
+  - first:
+      213: 7451278699358236386
+    second: GohanAdult_UpLevel_50
+  - first:
+      213: -3635103146894248017
+    second: GohanAdult_UpLevel_51
+  - first:
+      213: 8677292361747550779
+    second: GohanAdult_UpLevel_52
+  - first:
+      213: -2692988476881029154
+    second: GohanAdult_UpLevel_53
+  - first:
+      213: 684416902769220321
+    second: GohanAdult_UpLevel_54
+  - first:
+      213: -2268501739414957530
+    second: GohanAdult_UpLevel_55
+  - first:
+      213: -3965467499891684145
+    second: GohanAdult_UpLevel_56
+  - first:
+      213: -80253728188625499
+    second: GohanAdult_UpLevel_57
+  - first:
+      213: -5617081268262945458
+    second: GohanAdult_UpLevel_58
+  - first:
+      213: -4717974145004594276
+    second: GohanAdult_UpLevel_59
+  - first:
+      213: -6679691747529596140
+    second: GohanAdult_UpLevel_60
+  - first:
+      213: -5238121523799752388
+    second: GohanAdult_UpLevel_61
+  - first:
+      213: -2959482081812588459
+    second: GohanAdult_UpLevel_62
+  - first:
+      213: -5783453914068285777
+    second: GohanAdult_UpLevel_63
+  - first:
+      213: 1043661581233869346
+    second: GohanAdult_UpLevel_64
+  - first:
+      213: 417583732027870319
+    second: GohanAdult_UpLevel_65
+  - first:
+      213: -3903242501943727099
+    second: GohanAdult_UpLevel_66
+  - first:
+      213: -8942475134571169238
+    second: GohanAdult_UpLevel_67
+  - first:
+      213: 1208708387208814815
+    second: GohanAdult_UpLevel_68
+  - first:
+      213: -5491705096159122176
+    second: GohanAdult_UpLevel_69
+  - first:
+      213: 287359425250047943
+    second: GohanAdult_UpLevel_70
+  - first:
+      213: -7222410868637846774
+    second: GohanAdult_UpLevel_71
+  - first:
+      213: -3121074904529634423
+    second: GohanAdult_UpLevel_72
+  - first:
+      213: 6181487335420503015
+    second: GohanAdult_UpLevel_73
+  - first:
+      213: 681273904337949866
+    second: GohanAdult_UpLevel_74
+  - first:
+      213: -1073364557953610492
+    second: GohanAdult_UpLevel_75
+  - first:
+      213: 4281824398738194753
+    second: GohanAdult_UpLevel_76
+  - first:
+      213: -417930989849795508
+    second: GohanAdult_UpLevel_77
+  - first:
+      213: 4963456330258155418
+    second: GohanAdult_UpLevel_78
+  - first:
+      213: -7207876122582048951
+    second: GohanAdult_UpLevel_79
+  - first:
+      213: -6972762146015256341
+    second: GohanAdult_UpLevel_80
+  - first:
+      213: 2086638125199483361
+    second: GohanAdult_UpLevel_81
+  - first:
+      213: 2992124971233926249
+    second: GohanAdult_UpLevel_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5046
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbe21845146b6c0800000000000000
+      internalID: -4128040177238098858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5047
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab9bbf10b277730800000000000000
+      internalID: 3996710481832819232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5044
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e0ea67d6387950800000000000000
+      internalID: 6446963165419856321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5044
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9322de305c35470800000000000000
+      internalID: 8382259952120642019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5044
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a022351c2de66d70800000000000000
+      internalID: 9036170475955429536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 5031
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfedfa4696d77f9e0800000000000000
+      internalID: -1587662452010524933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 5042
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9974be09344a5980800000000000000
+      internalID: -8549445930758932070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5042
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b671515f17d5780800000000000000
+      internalID: -8692666408320406735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 5042
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59147ce053b0b5fe0800000000000000
+      internalID: -1199352553254993515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 5039
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889355c51793fcbb0800000000000000
+      internalID: -4913645509394744952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5042
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8f819df8e758f0800000000000000
+      internalID: -551716253563122843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4260
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50667a14ff57e80800000000000000
+      internalID: -8181352490602199559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4260
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b48b47bf35363550800000000000000
+      internalID: 6140153689740641458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4262
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dc67f16989e6230800000000000000
+      internalID: 3634009719874964888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4261
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a783e53d654250800000000000000
+      internalID: 5928264562721137419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4260
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32129aba59144b0800000000000000
+      internalID: -5457916708886862889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4260
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c60ed88155ca40800000000000000
+      internalID: 5387802177501052987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4261
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7c25dbc7f0f860800000000000000
+      internalID: 7561816229181947790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 4260
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85214da5d948f10800000000000000
+      internalID: 2271113125532162223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4260
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be717e8facd4775f0800000000000000
+      internalID: -759052478034012181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_26
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4260
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8506cfeedeffc0800000000000000
+      internalID: -3459082342373160341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4151
+        width: 141
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f1284f54ad6280800000000000000
+      internalID: -9048395347178424620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4149
+        width: 150
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b32ac539ccc5bc0800000000000000
+      internalID: -3792931852866405609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4141
+        width: 228
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b56a896350aa30800000000000000
+      internalID: 4224468163232119139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4146
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b06489b6d30c6b60800000000000000
+      internalID: 7740566080313385142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4143
+        width: 200
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a093a6d0d39ce1a0800000000000000
+      internalID: -6778880813935914841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4047
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ac5c2ba9db3bfc0800000000000000
+      internalID: -3480229614905341410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 4048
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3186931a347e47b0800000000000000
+      internalID: -5238121523799752388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GohanAdult_UpLevel_62
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4052
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585d620abecde6d0800000000000000
+      internalID: -2959482081812588459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47d586bd01fe38847b2543fd72afc1f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GohanAdult_UpLevel_0: -4128040177238098858
+      GohanAdult_UpLevel_1: 3996710481832819232
+      GohanAdult_UpLevel_10: -4913645509394744952
+      GohanAdult_UpLevel_11: -551716253563122843
+      GohanAdult_UpLevel_15: -8181352490602199559
+      GohanAdult_UpLevel_16: 6140153689740641458
+      GohanAdult_UpLevel_17: 3634009719874964888
+      GohanAdult_UpLevel_18: 1294226521330095281
+      GohanAdult_UpLevel_19: 5928264562721137419
+      GohanAdult_UpLevel_2: 6446963165419856321
+      GohanAdult_UpLevel_20: -622017441155609082
+      GohanAdult_UpLevel_21: -5457916708886862889
+      GohanAdult_UpLevel_22: 5387802177501052987
+      GohanAdult_UpLevel_23: 7561816229181947790
+      GohanAdult_UpLevel_24: 2271113125532162223
+      GohanAdult_UpLevel_25: -759052478034012181
+      GohanAdult_UpLevel_26: -3459082342373160341
+      GohanAdult_UpLevel_27: -9048395347178424620
+      GohanAdult_UpLevel_28: -3792931852866405609
+      GohanAdult_UpLevel_29: -7079797290915365462
+      GohanAdult_UpLevel_3: 8382259952120642019
+      GohanAdult_UpLevel_30: 1284019427052506100
+      GohanAdult_UpLevel_31: 4224468163232119139
+      GohanAdult_UpLevel_32: -4785715363722536704
+      GohanAdult_UpLevel_33: 7740566080313385142
+      GohanAdult_UpLevel_34: -6778880813935914841
+      GohanAdult_UpLevel_35: 4549215054738345558
+      GohanAdult_UpLevel_36: 7805463894129437661
+      GohanAdult_UpLevel_37: 3422534716790045913
+      GohanAdult_UpLevel_38: -5461932154520749253
+      GohanAdult_UpLevel_39: -8224547897635646350
+      GohanAdult_UpLevel_4: 9036170475955429536
+      GohanAdult_UpLevel_40: -6223801299368693040
+      GohanAdult_UpLevel_41: -3468456748299509887
+      GohanAdult_UpLevel_42: 2298681596431401746
+      GohanAdult_UpLevel_43: -3480229614905341410
+      GohanAdult_UpLevel_44: 4652159033572037031
+      GohanAdult_UpLevel_45: 6783384062330940535
+      GohanAdult_UpLevel_46: -1564081198325901924
+      GohanAdult_UpLevel_47: -6430618492856299012
+      GohanAdult_UpLevel_48: -4366969678240368445
+      GohanAdult_UpLevel_49: -1758527711942223355
+      GohanAdult_UpLevel_5: -1843833269036760543
+      GohanAdult_UpLevel_50: 7451278699358236386
+      GohanAdult_UpLevel_51: -3635103146894248017
+      GohanAdult_UpLevel_52: 8677292361747550779
+      GohanAdult_UpLevel_53: -2692988476881029154
+      GohanAdult_UpLevel_54: 684416902769220321
+      GohanAdult_UpLevel_55: -2268501739414957530
+      GohanAdult_UpLevel_56: -3965467499891684145
+      GohanAdult_UpLevel_57: -80253728188625499
+      GohanAdult_UpLevel_58: -5617081268262945458
+      GohanAdult_UpLevel_59: -4717974145004594276
+      GohanAdult_UpLevel_6: -1587662452010524933
+      GohanAdult_UpLevel_60: -6679691747529596140
+      GohanAdult_UpLevel_61: -5238121523799752388
+      GohanAdult_UpLevel_62: -2959482081812588459
+      GohanAdult_UpLevel_63: -5783453914068285777
+      GohanAdult_UpLevel_64: 1043661581233869346
+      GohanAdult_UpLevel_65: 417583732027870319
+      GohanAdult_UpLevel_66: -3903242501943727099
+      GohanAdult_UpLevel_67: -8942475134571169238
+      GohanAdult_UpLevel_68: 1208708387208814815
+      GohanAdult_UpLevel_69: -5491705096159122176
+      GohanAdult_UpLevel_7: -8549445930758932070
+      GohanAdult_UpLevel_70: 287359425250047943
+      GohanAdult_UpLevel_71: -7222410868637846774
+      GohanAdult_UpLevel_72: -3121074904529634423
+      GohanAdult_UpLevel_73: 6181487335420503015
+      GohanAdult_UpLevel_74: 681273904337949866
+      GohanAdult_UpLevel_75: -1073364557953610492
+      GohanAdult_UpLevel_76: 4281824398738194753
+      GohanAdult_UpLevel_77: -417930989849795508
+      GohanAdult_UpLevel_78: 4963456330258155418
+      GohanAdult_UpLevel_79: -7207876122582048951
+      GohanAdult_UpLevel_8: -8692666408320406735
+      GohanAdult_UpLevel_80: -6972762146015256341
+      GohanAdult_UpLevel_81: 2086638125199483361
+      GohanAdult_UpLevel_82: 2992124971233926249
+      GohanAdult_UpLevel_9: -1199352553254993515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

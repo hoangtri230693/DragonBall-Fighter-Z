@@ -1,0 +1,2603 @@
+fileFormatVersion: 2
+guid: 7a18d2af92cec8d47b1f6e1e776ec525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -605950269977199688
+    second: Future Trunks Super Saiyan Rage_0
+  - first:
+      213: 6903156047120212742
+    second: Future Trunks Super Saiyan Rage_1
+  - first:
+      213: 126623350693692255
+    second: Future Trunks Super Saiyan Rage_2
+  - first:
+      213: 375859171279106331
+    second: Future Trunks Super Saiyan Rage_3
+  - first:
+      213: -9210908363971768398
+    second: Future Trunks Super Saiyan Rage_4
+  - first:
+      213: -5549627858674104875
+    second: Future Trunks Super Saiyan Rage_5
+  - first:
+      213: -7574348041820177441
+    second: Future Trunks Super Saiyan Rage_6
+  - first:
+      213: -1814708780614493331
+    second: Future Trunks Super Saiyan Rage_7
+  - first:
+      213: 1503246395896062989
+    second: Future Trunks Super Saiyan Rage_8
+  - first:
+      213: 1142504117378208076
+    second: Future Trunks Super Saiyan Rage_9
+  - first:
+      213: -8274793646020207868
+    second: Future Trunks Super Saiyan Rage_10
+  - first:
+      213: 3206523407858125153
+    second: Future Trunks Super Saiyan Rage_11
+  - first:
+      213: 6521759286844281743
+    second: Future Trunks Super Saiyan Rage_12
+  - first:
+      213: -2789829190591181129
+    second: Future Trunks Super Saiyan Rage_13
+  - first:
+      213: -1753402040379757836
+    second: Future Trunks Super Saiyan Rage_14
+  - first:
+      213: -1681868612345100231
+    second: Future Trunks Super Saiyan Rage_15
+  - first:
+      213: 7621554813477937031
+    second: Future Trunks Super Saiyan Rage_16
+  - first:
+      213: -3999451286604832305
+    second: Future Trunks Super Saiyan Rage_17
+  - first:
+      213: -3851876097390485790
+    second: Future Trunks Super Saiyan Rage_18
+  - first:
+      213: 8113433341655871477
+    second: Future Trunks Super Saiyan Rage_19
+  - first:
+      213: 3263375032329248336
+    second: Future Trunks Super Saiyan Rage_20
+  - first:
+      213: 5095608083005468023
+    second: Future Trunks Super Saiyan Rage_21
+  - first:
+      213: 6907762256522686378
+    second: Future Trunks Super Saiyan Rage_22
+  - first:
+      213: 356540945051675208
+    second: Future Trunks Super Saiyan Rage_23
+  - first:
+      213: -4048032573157924165
+    second: Future Trunks Super Saiyan Rage_24
+  - first:
+      213: -9192926650659447893
+    second: Future Trunks Super Saiyan Rage_25
+  - first:
+      213: -5333575154041760960
+    second: Future Trunks Super Saiyan Rage_26
+  - first:
+      213: 8570052455637738570
+    second: Future Trunks Super Saiyan Rage_27
+  - first:
+      213: 8003381997739927489
+    second: Future Trunks Super Saiyan Rage_28
+  - first:
+      213: -1564102937294959059
+    second: Future Trunks Super Saiyan Rage_29
+  - first:
+      213: 5930337419685978048
+    second: Future Trunks Super Saiyan Rage_30
+  - first:
+      213: -2791277587204374011
+    second: Future Trunks Super Saiyan Rage_31
+  - first:
+      213: 1609807124784847114
+    second: Future Trunks Super Saiyan Rage_32
+  - first:
+      213: -5266733212143196683
+    second: Future Trunks Super Saiyan Rage_33
+  - first:
+      213: -5436546447352879299
+    second: Future Trunks Super Saiyan Rage_34
+  - first:
+      213: 4834861238771335722
+    second: Future Trunks Super Saiyan Rage_35
+  - first:
+      213: 2934888344646473221
+    second: Future Trunks Super Saiyan Rage_36
+  - first:
+      213: -4244538089557239174
+    second: Future Trunks Super Saiyan Rage_37
+  - first:
+      213: 4109924934558239685
+    second: Future Trunks Super Saiyan Rage_38
+  - first:
+      213: -3807452032047080363
+    second: Future Trunks Super Saiyan Rage_39
+  - first:
+      213: 7338126724289385377
+    second: Future Trunks Super Saiyan Rage_40
+  - first:
+      213: -3142081071669286521
+    second: Future Trunks Super Saiyan Rage_41
+  - first:
+      213: 130602903636213211
+    second: Future Trunks Super Saiyan Rage_42
+  - first:
+      213: -4127246733104766589
+    second: Future Trunks Super Saiyan Rage_43
+  - first:
+      213: 3149530023208702935
+    second: Future Trunks Super Saiyan Rage_44
+  - first:
+      213: 7869499343470033395
+    second: Future Trunks Super Saiyan Rage_45
+  - first:
+      213: -8979352648350888869
+    second: Future Trunks Super Saiyan Rage_46
+  - first:
+      213: -807952131279734721
+    second: Future Trunks Super Saiyan Rage_47
+  - first:
+      213: -9036319930973661253
+    second: Future Trunks Super Saiyan Rage_48
+  - first:
+      213: 5242352695864367235
+    second: Future Trunks Super Saiyan Rage_49
+  - first:
+      213: -7147645144856667616
+    second: Future Trunks Super Saiyan Rage_50
+  - first:
+      213: 3929447746584571844
+    second: Future Trunks Super Saiyan Rage_51
+  - first:
+      213: 5262897254964819472
+    second: Future Trunks Super Saiyan Rage_52
+  - first:
+      213: -2006320415100480910
+    second: Future Trunks Super Saiyan Rage_53
+  - first:
+      213: 8133641559405580667
+    second: Future Trunks Super Saiyan Rage_54
+  - first:
+      213: -8150615966036709726
+    second: Future Trunks Super Saiyan Rage_55
+  - first:
+      213: 1243354764331138140
+    second: Future Trunks Super Saiyan Rage_56
+  - first:
+      213: -8729331194329014352
+    second: Future Trunks Super Saiyan Rage_57
+  - first:
+      213: 2061441170206382915
+    second: Future Trunks Super Saiyan Rage_58
+  - first:
+      213: -3214620644431785919
+    second: Future Trunks Super Saiyan Rage_59
+  - first:
+      213: -3095294647342966699
+    second: Future Trunks Super Saiyan Rage_60
+  - first:
+      213: -8240340390000264796
+    second: Future Trunks Super Saiyan Rage_61
+  - first:
+      213: -8601213435958194746
+    second: Future Trunks Super Saiyan Rage_62
+  - first:
+      213: -6974460478694363110
+    second: Future Trunks Super Saiyan Rage_63
+  - first:
+      213: -1838478170515011173
+    second: Future Trunks Super Saiyan Rage_64
+  - first:
+      213: 7033447528253069409
+    second: Future Trunks Super Saiyan Rage_65
+  - first:
+      213: 3632695788761823962
+    second: Future Trunks Super Saiyan Rage_66
+  - first:
+      213: -2643425482337856248
+    second: Future Trunks Super Saiyan Rage_67
+  - first:
+      213: 7945717061252181483
+    second: Future Trunks Super Saiyan Rage_68
+  - first:
+      213: -2197051087041705913
+    second: Future Trunks Super Saiyan Rage_69
+  - first:
+      213: -7446866548657531681
+    second: Future Trunks Super Saiyan Rage_70
+  - first:
+      213: 7939589899309799371
+    second: Future Trunks Super Saiyan Rage_71
+  - first:
+      213: -2719210680880669501
+    second: Future Trunks Super Saiyan Rage_72
+  - first:
+      213: 1686312035709839121
+    second: Future Trunks Super Saiyan Rage_73
+  - first:
+      213: -8736075241797467379
+    second: Future Trunks Super Saiyan Rage_74
+  - first:
+      213: 9221743639317172673
+    second: Future Trunks Super Saiyan Rage_75
+  - first:
+      213: -8350301822607629319
+    second: Future Trunks Super Saiyan Rage_76
+  - first:
+      213: 6777556026356712200
+    second: Future Trunks Super Saiyan Rage_77
+  - first:
+      213: -1790164934338718977
+    second: Future Trunks Super Saiyan Rage_78
+  - first:
+      213: 5735060130039740785
+    second: Future Trunks Super Saiyan Rage_79
+  - first:
+      213: 7080825146744454360
+    second: Future Trunks Super Saiyan Rage_80
+  - first:
+      213: -4601213049542968805
+    second: Future Trunks Super Saiyan Rage_81
+  - first:
+      213: -2824755974250294098
+    second: Future Trunks Super Saiyan Rage_82
+  - first:
+      213: -8480800859769388025
+    second: Future Trunks Super Saiyan Rage_83
+  - first:
+      213: -7539935691826219142
+    second: Future Trunks Super Saiyan Rage_84
+  - first:
+      213: -261015682119596878
+    second: Future Trunks Super Saiyan Rage_85
+  - first:
+      213: -1208727319974529059
+    second: Future Trunks Super Saiyan Rage_86
+  - first:
+      213: 1649125850689360795
+    second: Future Trunks Super Saiyan Rage_87
+  - first:
+      213: -1551847042245041184
+    second: Future Trunks Super Saiyan Rage_88
+  - first:
+      213: -7185493589906017158
+    second: Future Trunks Super Saiyan Rage_89
+  - first:
+      213: 1772947172616784956
+    second: Future Trunks Super Saiyan Rage_90
+  - first:
+      213: -523755827812701848
+    second: Future Trunks Super Saiyan Rage_91
+  - first:
+      213: -3216934593882765155
+    second: Future Trunks Super Saiyan Rage_92
+  - first:
+      213: -7130489586122049462
+    second: Future Trunks Super Saiyan Rage_93
+  - first:
+      213: -1590806666490175003
+    second: Future Trunks Super Saiyan Rage_94
+  - first:
+      213: 1824699077655590093
+    second: Future Trunks Super Saiyan Rage_95
+  - first:
+      213: -2823142210493463774
+    second: Future Trunks Super Saiyan Rage_96
+  - first:
+      213: -5209699355377634194
+    second: Future Trunks Super Saiyan Rage_97
+  - first:
+      213: -8472216251227554100
+    second: Future Trunks Super Saiyan Rage_98
+  - first:
+      213: -1984618380730866316
+    second: Future Trunks Super Saiyan Rage_99
+  - first:
+      213: 622907729850809842
+    second: Future Trunks Super Saiyan Rage_100
+  - first:
+      213: 9040001741856203285
+    second: Future Trunks Super Saiyan Rage_101
+  - first:
+      213: -6910741413236639865
+    second: Future Trunks Super Saiyan Rage_102
+  - first:
+      213: 3404914167380130473
+    second: Future Trunks Super Saiyan Rage_103
+  - first:
+      213: 4968978728430777622
+    second: Future Trunks Super Saiyan Rage_104
+  - first:
+      213: 1265398684023137640
+    second: Future Trunks Super Saiyan Rage_105
+  - first:
+      213: 2523900541210980369
+    second: Future Trunks Super Saiyan Rage_106
+  - first:
+      213: 6375021431779649769
+    second: Future Trunks Super Saiyan Rage_107
+  - first:
+      213: -1019953802552239556
+    second: Future Trunks Super Saiyan Rage_108
+  - first:
+      213: -8828363797464019531
+    second: Future Trunks Super Saiyan Rage_109
+  - first:
+      213: 5705746299328768772
+    second: Future Trunks Super Saiyan Rage_110
+  - first:
+      213: 4722824201726435358
+    second: Future Trunks Super Saiyan Rage_111
+  - first:
+      213: 4680784052321978812
+    second: Future Trunks Super Saiyan Rage_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1405
+        width: 123
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf47e907b3797f0800000000000000
+      internalID: -605950269977199688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1388
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f530e5e344bd1c100800000000000000
+      internalID: 126623350693692255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc9caf4a74c2080800000000000000
+      internalID: -9210908363971768398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf12a269282e690800000000000000
+      internalID: -7574348041820177441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1388
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd0b09afbd0d6e0800000000000000
+      internalID: -1814708780614493331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04654de1aa9cd410800000000000000
+      internalID: 1503246395896062989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1388
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41dfb6017dfadf00800000000000000
+      internalID: 1142504117378208076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1388
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b5e4b45070a2d80800000000000000
+      internalID: -8274793646020207868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1387
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169cb51fc0cdf7c20800000000000000
+      internalID: 3206523407858125153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1388
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8355f28481f18a50800000000000000
+      internalID: 6521759286844281743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_13
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1388
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0cced1298849d0800000000000000
+      internalID: -2789829190591181129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1388
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa28ba522aaaa7e0800000000000000
+      internalID: -1753402040379757836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1388
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9388a42786dc8a8e0800000000000000
+      internalID: -1681868612345100231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1387
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f558dd8b335c960800000000000000
+      internalID: 7621554813477937031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1388
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1a07dae381f78c0800000000000000
+      internalID: -3999451286604832305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1387
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed838f8136b8ac0800000000000000
+      internalID: -3851876097390485790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1218
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff653e23a4b89070800000000000000
+      internalID: 8113433341655871477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_21
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1345
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6626cd8c37b640800000000000000
+      internalID: 5095608083005468023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1230
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa2e46c2d4ddf50800000000000000
+      internalID: 6907762256522686378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1146
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043dd78e7a55bf5b0800000000000000
+      internalID: -5333575154041760960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 121
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7588536ea889280800000000000000
+      internalID: -9036319930973661253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 137
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3889e40700490c840800000000000000
+      internalID: 5242352695864367235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad5405c967ecc90800000000000000
+      internalID: -7147645144856667616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe1aa08e3388630800000000000000
+      internalID: 3929447746584571844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 137
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167e8b5b21990940800000000000000
+      internalID: 5262897254964819472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725250663e1824e0800000000000000
+      internalID: -2006320415100480910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 119
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7159b687ef70e070800000000000000
+      internalID: 8133641559405580667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 119
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae21c376f133ee80800000000000000
+      internalID: -8150615966036709726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3fb11298414110800000000000000
+      internalID: 1243354764331138140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 119
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf584b578f2bd680800000000000000
+      internalID: -8729331194329014352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_58
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b548382d5bb9c10800000000000000
+      internalID: 2061441170206382915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 119
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14091014e8f5363d0800000000000000
+      internalID: -3214620644431785919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_60
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 119
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55854f5faed4b05d0800000000000000
+      internalID: -3095294647342966699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_61
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9fab1131e64ad80800000000000000
+      internalID: -8240340390000264796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_62
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 127
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd056083f952a880800000000000000
+      internalID: -8601213435958194746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_63
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10fb6b952db53f90800000000000000
+      internalID: -6974460478694363110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 89
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1689fdb1343db9160800000000000000
+      internalID: 7033447528253069409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_66
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 127
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab432b29de96230800000000000000
+      internalID: 3632695788761823962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_67
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 125
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805590f778aa05bd0800000000000000
+      internalID: -2643425482337856248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_68
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 127
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed62b9a19bd44e60800000000000000
+      internalID: 7945717061252181483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_69
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 127
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7484e734da18281e0800000000000000
+      internalID: -2197051087041705913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_70
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 127
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45785445a67a890800000000000000
+      internalID: -7446866548657531681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_71
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 127
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d3aa92f61f2e60800000000000000
+      internalID: 7939589899309799371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 83
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd8a0fa4c634ad0800000000000000
+      internalID: -2719210680880669501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 83
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11763fcacdbf66710800000000000000
+      internalID: 1686312035709839121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_74
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 83
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03c3917ad933c680800000000000000
+      internalID: -8736075241797467379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_75
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d7372bf63aff70800000000000000
+      internalID: 9221743639317172673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_76
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 108
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ec20fbb4cd1c80800000000000000
+      internalID: -8350301822607629319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_77
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 108
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803cc440c47be0e50800000000000000
+      internalID: 6777556026356712200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_78
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 108
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff251671a7e0827e0800000000000000
+      internalID: -1790164934338718977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_79
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17936887dc6079f40800000000000000
+      internalID: 5735060130039740785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_80
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3b5484f4244260800000000000000
+      internalID: 7080825146744454360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_81
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 82
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a79161c153520c0800000000000000
+      internalID: -4601213049542968805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_82
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 82
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea416a958637cc8d0800000000000000
+      internalID: -2824755974250294098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_83
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 80
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7044e9e1d842e4a80800000000000000
+      internalID: -8480800859769388025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_84
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 82
+        width: 76
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b863cf64cc5790800000000000000
+      internalID: -7539935691826219142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4847abe9fa06cf0800000000000000
+      internalID: -261015682119596878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 76
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7bb9618ecb93fe0800000000000000
+      internalID: -1208727319974529059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d048493fd2e610800000000000000
+      internalID: 1649125850689360795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 62
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36e3d465bb67ae0800000000000000
+      internalID: -1551847042245041184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_89
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 62
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a743ecd76aff74c90800000000000000
+      internalID: -7185493589906017158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_90
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 61
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4b5d5f06ca9810800000000000000
+      internalID: 1772947172616784956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ee2e79de3bb8f0800000000000000
+      internalID: -523755827812701848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c3f9e7072b53d0800000000000000
+      internalID: -3216934593882765155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_93
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 62
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48b29810896b0d90800000000000000
+      internalID: -7130489586122049462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_94
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 62
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a789e3c15ce9e0800000000000000
+      internalID: -1590806666490175003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_95
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 62
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4f4a9b422a25910800000000000000
+      internalID: 1824699077655590093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_96
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 62
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22340210e1f22d8d0800000000000000
+      internalID: -2823142210493463774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_97
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 62
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647228d90e63b7b0800000000000000
+      internalID: -5209699355377634194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_98
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 62
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3a4d0534ac6a80800000000000000
+      internalID: -8472216251227554100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_99
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 62
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47563d109183574e0800000000000000
+      internalID: -1984618380730866316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_100
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 62
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd3a9da74305a800800000000000000
+      internalID: 622907729850809842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 59
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512604030b9847d70800000000000000
+      internalID: 9040001741856203285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_102
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 60
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f271ac4d1810a0800000000000000
+      internalID: -6910741413236639865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 40
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa336d256fa04f20800000000000000
+      internalID: 3404914167380130473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 40
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b694a3db55f440800000000000000
+      internalID: 4968978728430777622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_105
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 40
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865227416699f8110800000000000000
+      internalID: 1265398684023137640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_106
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 40
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110fb478b22b60320800000000000000
+      internalID: 2523900541210980369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 40
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86ab44730a87850800000000000000
+      internalID: 6375021431779649769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_108
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 40
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a9097ab6568d1f0800000000000000
+      internalID: -1019953802552239556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_109
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 40
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd0d30a6e95b7580800000000000000
+      internalID: -8828363797464019531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_110
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 40
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40badf56702ee2f40800000000000000
+      internalID: 5705746299328768772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 40
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a580c697da8140800000000000000
+      internalID: 4722824201726435358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 40
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb907f4bb4c75f040800000000000000
+      internalID: 4680784052321978812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1220
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a1d6f6cc732248bd322bd5f9e4fd8
+      internalID: 1514903351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1221
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72c39b54cdf7b4989bb3cbd8318244
+      internalID: -964324666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1219
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeca0a4c403c784e84f137460f1f402
+      internalID: 551823286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1221
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60625c87b3d96f243a25b3d063b3ba6d
+      internalID: -2110358116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1221
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3f9e05fbea514cbf6a7962427474b
+      internalID: -1315064373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1138
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda03125fce764e4696e45a5ec09ef56
+      internalID: -2100300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Future Trunks Super Saiyan Rage_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1390
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe412353ead30be4b95a7faaba14ed3f
+      internalID: 619668385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cdb9baef0060a9a4388c8d7b7e5ff77e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      0: 8113433341655871477
+      1: 1514903351
+      2: -964324666
+      3: 551823286
+      4: -2110358116
+      5: -1315064373
+      6: 6907762256522686378
+      7: 6903156047120212742
+      Future Trunks Super Saiyan Rage_0: -605950269977199688
+      Future Trunks Super Saiyan Rage_1: 619668385
+      Future Trunks Super Saiyan Rage_10: -8274793646020207868
+      Future Trunks Super Saiyan Rage_100: 622907729850809842
+      Future Trunks Super Saiyan Rage_101: 9040001741856203285
+      Future Trunks Super Saiyan Rage_102: -6910741413236639865
+      Future Trunks Super Saiyan Rage_103: 3404914167380130473
+      Future Trunks Super Saiyan Rage_104: 4968978728430777622
+      Future Trunks Super Saiyan Rage_105: 1265398684023137640
+      Future Trunks Super Saiyan Rage_106: 2523900541210980369
+      Future Trunks Super Saiyan Rage_107: 6375021431779649769
+      Future Trunks Super Saiyan Rage_108: -1019953802552239556
+      Future Trunks Super Saiyan Rage_109: -8828363797464019531
+      Future Trunks Super Saiyan Rage_11: 3206523407858125153
+      Future Trunks Super Saiyan Rage_110: 5705746299328768772
+      Future Trunks Super Saiyan Rage_111: 4722824201726435358
+      Future Trunks Super Saiyan Rage_112: 4680784052321978812
+      Future Trunks Super Saiyan Rage_12: 6521759286844281743
+      Future Trunks Super Saiyan Rage_13: -2789829190591181129
+      Future Trunks Super Saiyan Rage_14: -1753402040379757836
+      Future Trunks Super Saiyan Rage_15: -1681868612345100231
+      Future Trunks Super Saiyan Rage_16: 7621554813477937031
+      Future Trunks Super Saiyan Rage_17: -3999451286604832305
+      Future Trunks Super Saiyan Rage_18: -3851876097390485790
+      Future Trunks Super Saiyan Rage_2: 126623350693692255
+      Future Trunks Super Saiyan Rage_20: 3263375032329248336
+      Future Trunks Super Saiyan Rage_21: 5095608083005468023
+      Future Trunks Super Saiyan Rage_23: 356540945051675208
+      Future Trunks Super Saiyan Rage_24: -4048032573157924165
+      Future Trunks Super Saiyan Rage_25: -9192926650659447893
+      Future Trunks Super Saiyan Rage_26: -5333575154041760960
+      Future Trunks Super Saiyan Rage_27: 8570052455637738570
+      Future Trunks Super Saiyan Rage_28: 8003381997739927489
+      Future Trunks Super Saiyan Rage_29: -1564102937294959059
+      Future Trunks Super Saiyan Rage_3: 375859171279106331
+      Future Trunks Super Saiyan Rage_30: 5930337419685978048
+      Future Trunks Super Saiyan Rage_31: -2791277587204374011
+      Future Trunks Super Saiyan Rage_32: 1609807124784847114
+      Future Trunks Super Saiyan Rage_33: -5266733212143196683
+      Future Trunks Super Saiyan Rage_34: -5436546447352879299
+      Future Trunks Super Saiyan Rage_35: 4834861238771335722
+      Future Trunks Super Saiyan Rage_36: 2934888344646473221
+      Future Trunks Super Saiyan Rage_37: -4244538089557239174
+      Future Trunks Super Saiyan Rage_38: 4109924934558239685
+      Future Trunks Super Saiyan Rage_39: -3807452032047080363
+      Future Trunks Super Saiyan Rage_4: -9210908363971768398
+      Future Trunks Super Saiyan Rage_40: 7338126724289385377
+      Future Trunks Super Saiyan Rage_41: -3142081071669286521
+      Future Trunks Super Saiyan Rage_42: 130602903636213211
+      Future Trunks Super Saiyan Rage_43: -4127246733104766589
+      Future Trunks Super Saiyan Rage_44: 3149530023208702935
+      Future Trunks Super Saiyan Rage_45: 7869499343470033395
+      Future Trunks Super Saiyan Rage_46: -8979352648350888869
+      Future Trunks Super Saiyan Rage_47: -807952131279734721
+      Future Trunks Super Saiyan Rage_48: -9036319930973661253
+      Future Trunks Super Saiyan Rage_49: 5242352695864367235
+      Future Trunks Super Saiyan Rage_5: -5549627858674104875
+      Future Trunks Super Saiyan Rage_50: -7147645144856667616
+      Future Trunks Super Saiyan Rage_51: 3929447746584571844
+      Future Trunks Super Saiyan Rage_52: 5262897254964819472
+      Future Trunks Super Saiyan Rage_53: -2006320415100480910
+      Future Trunks Super Saiyan Rage_54: 8133641559405580667
+      Future Trunks Super Saiyan Rage_55: -8150615966036709726
+      Future Trunks Super Saiyan Rage_56: 1243354764331138140
+      Future Trunks Super Saiyan Rage_57: -8729331194329014352
+      Future Trunks Super Saiyan Rage_58: 2061441170206382915
+      Future Trunks Super Saiyan Rage_59: -3214620644431785919
+      Future Trunks Super Saiyan Rage_6: -7574348041820177441
+      Future Trunks Super Saiyan Rage_60: -3095294647342966699
+      Future Trunks Super Saiyan Rage_61: -8240340390000264796
+      Future Trunks Super Saiyan Rage_62: -8601213435958194746
+      Future Trunks Super Saiyan Rage_63: -6974460478694363110
+      Future Trunks Super Saiyan Rage_64: -1838478170515011173
+      Future Trunks Super Saiyan Rage_65: 7033447528253069409
+      Future Trunks Super Saiyan Rage_66: 3632695788761823962
+      Future Trunks Super Saiyan Rage_67: -2643425482337856248
+      Future Trunks Super Saiyan Rage_68: 7945717061252181483
+      Future Trunks Super Saiyan Rage_69: -2197051087041705913
+      Future Trunks Super Saiyan Rage_7: -1814708780614493331
+      Future Trunks Super Saiyan Rage_70: -7446866548657531681
+      Future Trunks Super Saiyan Rage_71: 7939589899309799371
+      Future Trunks Super Saiyan Rage_72: -2719210680880669501
+      Future Trunks Super Saiyan Rage_73: 1686312035709839121
+      Future Trunks Super Saiyan Rage_74: -8736075241797467379
+      Future Trunks Super Saiyan Rage_75: 9221743639317172673
+      Future Trunks Super Saiyan Rage_76: -8350301822607629319
+      Future Trunks Super Saiyan Rage_77: 6777556026356712200
+      Future Trunks Super Saiyan Rage_78: -1790164934338718977
+      Future Trunks Super Saiyan Rage_79: 5735060130039740785
+      Future Trunks Super Saiyan Rage_8: 1503246395896062989
+      Future Trunks Super Saiyan Rage_80: 7080825146744454360
+      Future Trunks Super Saiyan Rage_81: -4601213049542968805
+      Future Trunks Super Saiyan Rage_82: -2824755974250294098
+      Future Trunks Super Saiyan Rage_83: -8480800859769388025
+      Future Trunks Super Saiyan Rage_84: -7539935691826219142
+      Future Trunks Super Saiyan Rage_85: -261015682119596878
+      Future Trunks Super Saiyan Rage_86: -1208727319974529059
+      Future Trunks Super Saiyan Rage_87: 1649125850689360795
+      Future Trunks Super Saiyan Rage_88: -1551847042245041184
+      Future Trunks Super Saiyan Rage_89: -7185493589906017158
+      Future Trunks Super Saiyan Rage_9: 1142504117378208076
+      Future Trunks Super Saiyan Rage_90: 1772947172616784956
+      Future Trunks Super Saiyan Rage_91: -523755827812701848
+      Future Trunks Super Saiyan Rage_92: -3216934593882765155
+      Future Trunks Super Saiyan Rage_93: -7130489586122049462
+      Future Trunks Super Saiyan Rage_94: -1590806666490175003
+      Future Trunks Super Saiyan Rage_95: 1824699077655590093
+      Future Trunks Super Saiyan Rage_96: -2823142210493463774
+      Future Trunks Super Saiyan Rage_97: -5209699355377634194
+      Future Trunks Super Saiyan Rage_98: -8472216251227554100
+      Future Trunks Super Saiyan Rage_99: -1984618380730866316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

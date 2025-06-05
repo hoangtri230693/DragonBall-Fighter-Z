@@ -1,0 +1,7397 @@
+fileFormatVersion: 2
+guid: dc1e583d58e6402409cd32a177487dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1141467360319475412
+    second: Vegeta_UpLevel_SSJ4_0
+  - first:
+      213: 5945372667370403738
+    second: Vegeta_UpLevel_SSJ4_1
+  - first:
+      213: -5787575067293043184
+    second: Vegeta_UpLevel_SSJ4_2
+  - first:
+      213: 908196436497428055
+    second: Vegeta_UpLevel_SSJ4_3
+  - first:
+      213: -445608143054347147
+    second: Vegeta_UpLevel_SSJ4_4
+  - first:
+      213: -5248920374767187889
+    second: Vegeta_UpLevel_SSJ4_5
+  - first:
+      213: -6723556416862930429
+    second: Vegeta_UpLevel_SSJ4_6
+  - first:
+      213: -3177237359755112935
+    second: Vegeta_UpLevel_SSJ4_7
+  - first:
+      213: 2935838885810284482
+    second: Vegeta_UpLevel_SSJ4_8
+  - first:
+      213: 1675026305244106187
+    second: Vegeta_UpLevel_SSJ4_9
+  - first:
+      213: 3037127571685037795
+    second: Vegeta_UpLevel_SSJ4_10
+  - first:
+      213: -9136289969102029407
+    second: Vegeta_UpLevel_SSJ4_11
+  - first:
+      213: 88337639347973679
+    second: Vegeta_UpLevel_SSJ4_12
+  - first:
+      213: -4482314989831023161
+    second: Vegeta_UpLevel_SSJ4_13
+  - first:
+      213: -8331913807971899885
+    second: Vegeta_UpLevel_SSJ4_14
+  - first:
+      213: 3969627310931353353
+    second: Vegeta_UpLevel_SSJ4_15
+  - first:
+      213: -8185721669562134653
+    second: Vegeta_UpLevel_SSJ4_16
+  - first:
+      213: -1703333180267295186
+    second: Vegeta_UpLevel_SSJ4_17
+  - first:
+      213: -4844242206703055414
+    second: Vegeta_UpLevel_SSJ4_18
+  - first:
+      213: -7305464157865694398
+    second: Vegeta_UpLevel_SSJ4_19
+  - first:
+      213: 5192247685195600448
+    second: Vegeta_UpLevel_SSJ4_20
+  - first:
+      213: 3150672788252082470
+    second: Vegeta_UpLevel_SSJ4_21
+  - first:
+      213: 7194106012848188055
+    second: Vegeta_UpLevel_SSJ4_22
+  - first:
+      213: -7733942338550266620
+    second: Vegeta_UpLevel_SSJ4_23
+  - first:
+      213: -1375307726117959599
+    second: Vegeta_UpLevel_SSJ4_24
+  - first:
+      213: -103328946342034256
+    second: Vegeta_UpLevel_SSJ4_25
+  - first:
+      213: 5761857408604924769
+    second: Vegeta_UpLevel_SSJ4_26
+  - first:
+      213: 3406548790738892251
+    second: Vegeta_UpLevel_SSJ4_27
+  - first:
+      213: 9168322929928993915
+    second: Vegeta_UpLevel_SSJ4_28
+  - first:
+      213: -4537751840198938821
+    second: Vegeta_UpLevel_SSJ4_29
+  - first:
+      213: -5463981495213263830
+    second: Vegeta_UpLevel_SSJ4_30
+  - first:
+      213: 8903789827377063764
+    second: Vegeta_UpLevel_SSJ4_31
+  - first:
+      213: -7028464615649382732
+    second: Vegeta_UpLevel_SSJ4_32
+  - first:
+      213: -3990464174425257309
+    second: Vegeta_UpLevel_SSJ4_33
+  - first:
+      213: -7504266411418652672
+    second: Vegeta_UpLevel_SSJ4_34
+  - first:
+      213: 6870892318654075901
+    second: Vegeta_UpLevel_SSJ4_35
+  - first:
+      213: 2080869046382210869
+    second: Vegeta_UpLevel_SSJ4_36
+  - first:
+      213: -2709741354098969655
+    second: Vegeta_UpLevel_SSJ4_37
+  - first:
+      213: 5888734200355404848
+    second: Vegeta_UpLevel_SSJ4_38
+  - first:
+      213: -7326785282599102274
+    second: Vegeta_UpLevel_SSJ4_39
+  - first:
+      213: 6254754367002545872
+    second: Vegeta_UpLevel_SSJ4_40
+  - first:
+      213: 754349869369005543
+    second: Vegeta_UpLevel_SSJ4_41
+  - first:
+      213: 2414837406530987916
+    second: Vegeta_UpLevel_SSJ4_42
+  - first:
+      213: -8401486541253141431
+    second: Vegeta_UpLevel_SSJ4_43
+  - first:
+      213: 1528537487151741373
+    second: Vegeta_UpLevel_SSJ4_44
+  - first:
+      213: 2661476874283260563
+    second: Vegeta_UpLevel_SSJ4_45
+  - first:
+      213: -3457337262449185298
+    second: Vegeta_UpLevel_SSJ4_46
+  - first:
+      213: 4049533836299344629
+    second: Vegeta_UpLevel_SSJ4_47
+  - first:
+      213: -7232292597807242732
+    second: Vegeta_UpLevel_SSJ4_48
+  - first:
+      213: 2276602502220457016
+    second: Vegeta_UpLevel_SSJ4_49
+  - first:
+      213: 25296125899124792
+    second: Vegeta_UpLevel_SSJ4_50
+  - first:
+      213: 3809218764297658601
+    second: Vegeta_UpLevel_SSJ4_51
+  - first:
+      213: 6522008983333496805
+    second: Vegeta_UpLevel_SSJ4_52
+  - first:
+      213: 194629384694634457
+    second: Vegeta_UpLevel_SSJ4_53
+  - first:
+      213: 9143034713410432166
+    second: Vegeta_UpLevel_SSJ4_54
+  - first:
+      213: 898333319335601415
+    second: Vegeta_UpLevel_SSJ4_55
+  - first:
+      213: 4229690469492551876
+    second: Vegeta_UpLevel_SSJ4_56
+  - first:
+      213: -7831260812328743306
+    second: Vegeta_UpLevel_SSJ4_57
+  - first:
+      213: 8592877428529391931
+    second: Vegeta_UpLevel_SSJ4_58
+  - first:
+      213: -6624339500580668745
+    second: Vegeta_UpLevel_SSJ4_59
+  - first:
+      213: 7709585145213591496
+    second: Vegeta_UpLevel_SSJ4_60
+  - first:
+      213: 7300582590643869184
+    second: Vegeta_UpLevel_SSJ4_61
+  - first:
+      213: 1505002642528303364
+    second: Vegeta_UpLevel_SSJ4_62
+  - first:
+      213: -1758510895716144548
+    second: Vegeta_UpLevel_SSJ4_63
+  - first:
+      213: -3413900258626806241
+    second: Vegeta_UpLevel_SSJ4_64
+  - first:
+      213: -2015097855415892995
+    second: Vegeta_UpLevel_SSJ4_65
+  - first:
+      213: -2686052350673976076
+    second: Vegeta_UpLevel_SSJ4_66
+  - first:
+      213: -2662936877258334622
+    second: Vegeta_UpLevel_SSJ4_67
+  - first:
+      213: -2775840791620197957
+    second: Vegeta_UpLevel_SSJ4_68
+  - first:
+      213: -1327063206327574295
+    second: Vegeta_UpLevel_SSJ4_69
+  - first:
+      213: 8676159956132034083
+    second: Vegeta_UpLevel_SSJ4_70
+  - first:
+      213: 7775277089471417863
+    second: Vegeta_UpLevel_SSJ4_71
+  - first:
+      213: 2436658188048125617
+    second: Vegeta_UpLevel_SSJ4_72
+  - first:
+      213: -8615292671215210414
+    second: Vegeta_UpLevel_SSJ4_73
+  - first:
+      213: -976659196525901798
+    second: Vegeta_UpLevel_SSJ4_74
+  - first:
+      213: 5010365238427570929
+    second: Vegeta_UpLevel_SSJ4_75
+  - first:
+      213: -3537085104069499448
+    second: Vegeta_UpLevel_SSJ4_76
+  - first:
+      213: -6960395101509902527
+    second: Vegeta_UpLevel_SSJ4_77
+  - first:
+      213: 2530012483069193396
+    second: Vegeta_UpLevel_SSJ4_78
+  - first:
+      213: -959504711284193226
+    second: Vegeta_UpLevel_SSJ4_79
+  - first:
+      213: -2743488373211713274
+    second: Vegeta_UpLevel_SSJ4_80
+  - first:
+      213: 5652033812778529351
+    second: Vegeta_UpLevel_SSJ4_81
+  - first:
+      213: 5650748059438389911
+    second: Vegeta_UpLevel_SSJ4_82
+  - first:
+      213: -3889279933251164988
+    second: Vegeta_UpLevel_SSJ4_83
+  - first:
+      213: 6746947607620877279
+    second: Vegeta_UpLevel_SSJ4_84
+  - first:
+      213: -6270535360966359099
+    second: Vegeta_UpLevel_SSJ4_85
+  - first:
+      213: 8669861992198798021
+    second: Vegeta_UpLevel_SSJ4_86
+  - first:
+      213: 1894708959075544125
+    second: Vegeta_UpLevel_SSJ4_87
+  - first:
+      213: 7337427325137284432
+    second: Vegeta_UpLevel_SSJ4_88
+  - first:
+      213: 841824416906194097
+    second: Vegeta_UpLevel_SSJ4_89
+  - first:
+      213: -5929371598295947204
+    second: Vegeta_UpLevel_SSJ4_90
+  - first:
+      213: 5653270327787949081
+    second: Vegeta_UpLevel_SSJ4_91
+  - first:
+      213: -7312007642478643610
+    second: Vegeta_UpLevel_SSJ4_92
+  - first:
+      213: 7857549554927615493
+    second: Vegeta_UpLevel_SSJ4_93
+  - first:
+      213: -2819552740042720533
+    second: Vegeta_UpLevel_SSJ4_94
+  - first:
+      213: -5451217051981765139
+    second: Vegeta_UpLevel_SSJ4_95
+  - first:
+      213: -6388356505672566954
+    second: Vegeta_UpLevel_SSJ4_96
+  - first:
+      213: -2216519250705939058
+    second: Vegeta_UpLevel_SSJ4_97
+  - first:
+      213: -2825466749827275416
+    second: Vegeta_UpLevel_SSJ4_98
+  - first:
+      213: 373434089722333479
+    second: Vegeta_UpLevel_SSJ4_99
+  - first:
+      213: 926917227501701867
+    second: Vegeta_UpLevel_SSJ4_100
+  - first:
+      213: 6340359456442223238
+    second: Vegeta_UpLevel_SSJ4_101
+  - first:
+      213: -8437672932670254978
+    second: Vegeta_UpLevel_SSJ4_102
+  - first:
+      213: -3436395608326269347
+    second: Vegeta_UpLevel_SSJ4_103
+  - first:
+      213: -5753609664445681553
+    second: Vegeta_UpLevel_SSJ4_104
+  - first:
+      213: 1363728804147669984
+    second: Vegeta_UpLevel_SSJ4_105
+  - first:
+      213: 7245540967316871033
+    second: Vegeta_UpLevel_SSJ4_106
+  - first:
+      213: -5757744027463778159
+    second: Vegeta_UpLevel_SSJ4_107
+  - first:
+      213: -4604618064301570865
+    second: Vegeta_UpLevel_SSJ4_108
+  - first:
+      213: 8612522979508596481
+    second: Vegeta_UpLevel_SSJ4_109
+  - first:
+      213: 7108062044945096365
+    second: Vegeta_UpLevel_SSJ4_110
+  - first:
+      213: -5006291047068156664
+    second: Vegeta_UpLevel_SSJ4_111
+  - first:
+      213: -5879167401060056337
+    second: Vegeta_UpLevel_SSJ4_112
+  - first:
+      213: 8085217694641791346
+    second: Vegeta_UpLevel_SSJ4_113
+  - first:
+      213: 5318792586520320255
+    second: Vegeta_UpLevel_SSJ4_114
+  - first:
+      213: -881840779783441601
+    second: Vegeta_UpLevel_SSJ4_115
+  - first:
+      213: 1709315392729229397
+    second: Vegeta_UpLevel_SSJ4_116
+  - first:
+      213: 8899579901007705642
+    second: Vegeta_UpLevel_SSJ4_117
+  - first:
+      213: -6697191746894766975
+    second: Vegeta_UpLevel_SSJ4_118
+  - first:
+      213: -6770209903688311386
+    second: Vegeta_UpLevel_SSJ4_119
+  - first:
+      213: 2112125774981133163
+    second: Vegeta_UpLevel_SSJ4_120
+  - first:
+      213: 6792669041994819842
+    second: Vegeta_UpLevel_SSJ4_121
+  - first:
+      213: -2721071036288840188
+    second: Vegeta_UpLevel_SSJ4_122
+  - first:
+      213: -4048962896219634577
+    second: Vegeta_UpLevel_SSJ4_123
+  - first:
+      213: 2208716724667599473
+    second: Vegeta_UpLevel_SSJ4_124
+  - first:
+      213: 5485652652952183080
+    second: Vegeta_UpLevel_SSJ4_125
+  - first:
+      213: -4401573091895955709
+    second: Vegeta_UpLevel_SSJ4_126
+  - first:
+      213: 6345750825987742046
+    second: Vegeta_UpLevel_SSJ4_127
+  - first:
+      213: -8053846501780877949
+    second: Vegeta_UpLevel_SSJ4_128
+  - first:
+      213: -4050278420079427139
+    second: Vegeta_UpLevel_SSJ4_129
+  - first:
+      213: 5924510032310253526
+    second: Vegeta_UpLevel_SSJ4_130
+  - first:
+      213: -6022485566878880114
+    second: Vegeta_UpLevel_SSJ4_131
+  - first:
+      213: 2920066252988145890
+    second: Vegeta_UpLevel_SSJ4_132
+  - first:
+      213: 8971265000507961321
+    second: Vegeta_UpLevel_SSJ4_133
+  - first:
+      213: 3389867891558981255
+    second: Vegeta_UpLevel_SSJ4_134
+  - first:
+      213: -3266129602300633845
+    second: Vegeta_UpLevel_SSJ4_135
+  - first:
+      213: -1191968886890772202
+    second: Vegeta_UpLevel_SSJ4_136
+  - first:
+      213: -2824914902750613202
+    second: Vegeta_UpLevel_SSJ4_137
+  - first:
+      213: -5950754282419580899
+    second: Vegeta_UpLevel_SSJ4_138
+  - first:
+      213: -227472659208800178
+    second: Vegeta_UpLevel_SSJ4_139
+  - first:
+      213: -8355120129997144184
+    second: Vegeta_UpLevel_SSJ4_140
+  - first:
+      213: -8816849535159482307
+    second: Vegeta_UpLevel_SSJ4_141
+  - first:
+      213: 8373728668664239350
+    second: Vegeta_UpLevel_SSJ4_142
+  - first:
+      213: 2632560560609308355
+    second: Vegeta_UpLevel_SSJ4_143
+  - first:
+      213: -4083265989404945422
+    second: Vegeta_UpLevel_SSJ4_144
+  - first:
+      213: 2036250214459283561
+    second: Vegeta_UpLevel_SSJ4_145
+  - first:
+      213: -4854983864657785535
+    second: Vegeta_UpLevel_SSJ4_146
+  - first:
+      213: -3823095841422650451
+    second: Vegeta_UpLevel_SSJ4_147
+  - first:
+      213: 3238565789728109417
+    second: Vegeta_UpLevel_SSJ4_148
+  - first:
+      213: -699243180712062641
+    second: Vegeta_UpLevel_SSJ4_149
+  - first:
+      213: -6514062195665406360
+    second: Vegeta_UpLevel_SSJ4_150
+  - first:
+      213: 97236650612460317
+    second: Vegeta_UpLevel_SSJ4_151
+  - first:
+      213: -4438070881039342713
+    second: Vegeta_UpLevel_SSJ4_152
+  - first:
+      213: -8504633297192706302
+    second: Vegeta_UpLevel_SSJ4_153
+  - first:
+      213: -3524085896602735738
+    second: Vegeta_UpLevel_SSJ4_154
+  - first:
+      213: -2476788089773610830
+    second: Vegeta_UpLevel_SSJ4_155
+  - first:
+      213: 4840135103875002273
+    second: Vegeta_UpLevel_SSJ4_156
+  - first:
+      213: -1009322319814187572
+    second: Vegeta_UpLevel_SSJ4_157
+  - first:
+      213: -1346536480511345523
+    second: Vegeta_UpLevel_SSJ4_158
+  - first:
+      213: 4552538608198703423
+    second: Vegeta_UpLevel_SSJ4_159
+  - first:
+      213: 446984901852542671
+    second: Vegeta_UpLevel_SSJ4_160
+  - first:
+      213: 8062403913613589313
+    second: Vegeta_UpLevel_SSJ4_161
+  - first:
+      213: 3539194972979231823
+    second: Vegeta_UpLevel_SSJ4_162
+  - first:
+      213: 4041414953864236110
+    second: Vegeta_UpLevel_SSJ4_163
+  - first:
+      213: 2394354721942874316
+    second: Vegeta_UpLevel_SSJ4_164
+  - first:
+      213: 5617556262655643368
+    second: Vegeta_UpLevel_SSJ4_165
+  - first:
+      213: 7108012101265369536
+    second: Vegeta_UpLevel_SSJ4_166
+  - first:
+      213: -969424635833838836
+    second: Vegeta_UpLevel_SSJ4_167
+  - first:
+      213: -2473985686010930788
+    second: Vegeta_UpLevel_SSJ4_168
+  - first:
+      213: 858029204021062891
+    second: Vegeta_UpLevel_SSJ4_169
+  - first:
+      213: -3259982661579566633
+    second: Vegeta_UpLevel_SSJ4_170
+  - first:
+      213: -6576477173966669675
+    second: Vegeta_UpLevel_SSJ4_171
+  - first:
+      213: 4215177120605669664
+    second: Vegeta_UpLevel_SSJ4_172
+  - first:
+      213: 5099360082297666867
+    second: Vegeta_UpLevel_SSJ4_173
+  - first:
+      213: -7319593435850840882
+    second: Vegeta_UpLevel_SSJ4_174
+  - first:
+      213: -8625763405978430926
+    second: Vegeta_UpLevel_SSJ4_175
+  - first:
+      213: -8867078056909304792
+    second: Vegeta_UpLevel_SSJ4_176
+  - first:
+      213: -4791875045756061567
+    second: Vegeta_UpLevel_SSJ4_177
+  - first:
+      213: -4334125523748811123
+    second: Vegeta_UpLevel_SSJ4_178
+  - first:
+      213: 5869570476809015477
+    second: Vegeta_UpLevel_SSJ4_179
+  - first:
+      213: -4589902630332444080
+    second: Vegeta_UpLevel_SSJ4_180
+  - first:
+      213: -7756767085146296951
+    second: Vegeta_UpLevel_SSJ4_181
+  - first:
+      213: -2499596477693181303
+    second: Vegeta_UpLevel_SSJ4_182
+  - first:
+      213: -1819705268282527543
+    second: Vegeta_UpLevel_SSJ4_183
+  - first:
+      213: -1761206148070537823
+    second: Vegeta_UpLevel_SSJ4_184
+  - first:
+      213: 8232470442503682388
+    second: Vegeta_UpLevel_SSJ4_185
+  - first:
+      213: 5757992306427593882
+    second: Vegeta_UpLevel_SSJ4_186
+  - first:
+      213: -8833518331501036754
+    second: Vegeta_UpLevel_SSJ4_187
+  - first:
+      213: 1665120064039905207
+    second: Vegeta_UpLevel_SSJ4_188
+  - first:
+      213: -7690366235451556128
+    second: Vegeta_UpLevel_SSJ4_189
+  - first:
+      213: -7754039091757135102
+    second: Vegeta_UpLevel_SSJ4_190
+  - first:
+      213: 1482090680634063779
+    second: Vegeta_UpLevel_SSJ4_191
+  - first:
+      213: -1594160570371595784
+    second: Vegeta_UpLevel_SSJ4_192
+  - first:
+      213: 574706595877066984
+    second: Vegeta_UpLevel_SSJ4_193
+  - first:
+      213: 3203601201636025137
+    second: Vegeta_UpLevel_SSJ4_194
+  - first:
+      213: -726259949555572327
+    second: Vegeta_UpLevel_SSJ4_195
+  - first:
+      213: 1492326409423281941
+    second: Vegeta_UpLevel_SSJ4_196
+  - first:
+      213: 3669598030241369442
+    second: Vegeta_UpLevel_SSJ4_197
+  - first:
+      213: 2361776938608031955
+    second: Vegeta_UpLevel_SSJ4_198
+  - first:
+      213: 1487722002022205614
+    second: Vegeta_UpLevel_SSJ4_199
+  - first:
+      213: 7406509143593787140
+    second: Vegeta_UpLevel_SSJ4_200
+  - first:
+      213: -734150788263608642
+    second: Vegeta_UpLevel_SSJ4_201
+  - first:
+      213: -6866176695478381289
+    second: Vegeta_UpLevel_SSJ4_202
+  - first:
+      213: -7673650374368705158
+    second: Vegeta_UpLevel_SSJ4_203
+  - first:
+      213: 428018593463962989
+    second: Vegeta_UpLevel_SSJ4_204
+  - first:
+      213: 6238736570190914767
+    second: Vegeta_UpLevel_SSJ4_205
+  - first:
+      213: 3621864463246336646
+    second: Vegeta_UpLevel_SSJ4_206
+  - first:
+      213: -3107643850802529880
+    second: Vegeta_UpLevel_SSJ4_207
+  - first:
+      213: 577444594515728495
+    second: Vegeta_UpLevel_SSJ4_208
+  - first:
+      213: 894168140647100212
+    second: Vegeta_UpLevel_SSJ4_209
+  - first:
+      213: -8285307332689925617
+    second: Vegeta_UpLevel_SSJ4_210
+  - first:
+      213: -766198254489908686
+    second: Vegeta_UpLevel_SSJ4_211
+  - first:
+      213: -432359112426582999
+    second: Vegeta_UpLevel_SSJ4_212
+  - first:
+      213: 5406667427482305414
+    second: Vegeta_UpLevel_SSJ4_213
+  - first:
+      213: -6162937480347672232
+    second: Vegeta_UpLevel_SSJ4_214
+  - first:
+      213: 8335226208978855415
+    second: Vegeta_UpLevel_SSJ4_215
+  - first:
+      213: 726399123223014872
+    second: Vegeta_UpLevel_SSJ4_216
+  - first:
+      213: 6160257784500057065
+    second: Vegeta_UpLevel_SSJ4_217
+  - first:
+      213: -6006444223606727698
+    second: Vegeta_UpLevel_SSJ4_218
+  - first:
+      213: 9083011758865816547
+    second: Vegeta_UpLevel_SSJ4_219
+  - first:
+      213: -2506025116778773936
+    second: Vegeta_UpLevel_SSJ4_220
+  - first:
+      213: -117624172516223304
+    second: Vegeta_UpLevel_SSJ4_221
+  - first:
+      213: -7598914192640981742
+    second: Vegeta_UpLevel_SSJ4_222
+  - first:
+      213: 1847998885765527808
+    second: Vegeta_UpLevel_SSJ4_223
+  - first:
+      213: -8007045350091765535
+    second: Vegeta_UpLevel_SSJ4_224
+  - first:
+      213: -8372833515951511554
+    second: Vegeta_UpLevel_SSJ4_225
+  - first:
+      213: -3762963466020499908
+    second: Vegeta_UpLevel_SSJ4_226
+  - first:
+      213: -1192867992101725619
+    second: Vegeta_UpLevel_SSJ4_227
+  - first:
+      213: -5124633778399296822
+    second: Vegeta_UpLevel_SSJ4_228
+  - first:
+      213: 7053407814065503130
+    second: Vegeta_UpLevel_SSJ4_229
+  - first:
+      213: 4691360165562717145
+    second: Vegeta_UpLevel_SSJ4_230
+  - first:
+      213: 7174613249427854236
+    second: Vegeta_UpLevel_SSJ4_231
+  - first:
+      213: -5629642166859224207
+    second: Vegeta_UpLevel_SSJ4_232
+  - first:
+      213: -3842368351868312102
+    second: Vegeta_UpLevel_SSJ4_233
+  - first:
+      213: -4073098044244409368
+    second: Vegeta_UpLevel_SSJ4_234
+  - first:
+      213: -3194346221839750053
+    second: Vegeta_UpLevel_SSJ4_235
+  - first:
+      213: -1719913724294045563
+    second: Vegeta_UpLevel_SSJ4_236
+  - first:
+      213: -8905247714349025824
+    second: Vegeta_UpLevel_SSJ4_237
+  - first:
+      213: -7539415166703976192
+    second: Vegeta_UpLevel_SSJ4_238
+  - first:
+      213: -8751489999958487788
+    second: Vegeta_UpLevel_SSJ4_239
+  - first:
+      213: 8513235180273387119
+    second: Vegeta_UpLevel_SSJ4_240
+  - first:
+      213: 6180049170324083551
+    second: Vegeta_UpLevel_SSJ4_241
+  - first:
+      213: -8652373307739416776
+    second: Vegeta_UpLevel_SSJ4_242
+  - first:
+      213: -7795524058069021620
+    second: Vegeta_UpLevel_SSJ4_243
+  - first:
+      213: -2312430970172466590
+    second: Vegeta_UpLevel_SSJ4_244
+  - first:
+      213: -6139700397375089740
+    second: Vegeta_UpLevel_SSJ4_245
+  - first:
+      213: 8868495526910282031
+    second: Vegeta_UpLevel_SSJ4_246
+  - first:
+      213: -1289158823746091362
+    second: Vegeta_UpLevel_SSJ4_247
+  - first:
+      213: 6857532286597780724
+    second: Vegeta_UpLevel_SSJ4_248
+  - first:
+      213: 6061094456369927332
+    second: Vegeta_UpLevel_SSJ4_249
+  - first:
+      213: 903617591434990495
+    second: Vegeta_UpLevel_SSJ4_250
+  - first:
+      213: 6823954788678570210
+    second: Vegeta_UpLevel_SSJ4_251
+  - first:
+      213: -1584185253469114846
+    second: Vegeta_UpLevel_SSJ4_252
+  - first:
+      213: -7314048786710663178
+    second: Vegeta_UpLevel_SSJ4_253
+  - first:
+      213: -3937213744128121551
+    second: Vegeta_UpLevel_SSJ4_254
+  - first:
+      213: 4876175915221183426
+    second: Vegeta_UpLevel_SSJ4_255
+  - first:
+      213: 3459168365611527257
+    second: Vegeta_UpLevel_SSJ4_256
+  - first:
+      213: 1291565583482960262
+    second: Vegeta_UpLevel_SSJ4_257
+  - first:
+      213: -122600362717474592
+    second: Vegeta_UpLevel_SSJ4_258
+  - first:
+      213: 9159684851074033678
+    second: Vegeta_UpLevel_SSJ4_259
+  - first:
+      213: 5375504575383852094
+    second: Vegeta_UpLevel_SSJ4_260
+  - first:
+      213: 7096641599415448816
+    second: Vegeta_UpLevel_SSJ4_261
+  - first:
+      213: -1134753615912780936
+    second: Vegeta_UpLevel_SSJ4_262
+  - first:
+      213: -5704358541895699329
+    second: Vegeta_UpLevel_SSJ4_263
+  - first:
+      213: 8768469759636964182
+    second: Vegeta_UpLevel_SSJ4_264
+  - first:
+      213: -2205050340180778712
+    second: Vegeta_UpLevel_SSJ4_265
+  - first:
+      213: 4292787389872069747
+    second: Vegeta_UpLevel_SSJ4_266
+  - first:
+      213: -1110289747072629178
+    second: Vegeta_UpLevel_SSJ4_267
+  - first:
+      213: 7372298124354641042
+    second: Vegeta_UpLevel_SSJ4_268
+  - first:
+      213: 2338397646254307493
+    second: Vegeta_UpLevel_SSJ4_269
+  - first:
+      213: -408979004603142918
+    second: Vegeta_UpLevel_SSJ4_270
+  - first:
+      213: 4196540206434603848
+    second: Vegeta_UpLevel_SSJ4_271
+  - first:
+      213: 8551425067838350241
+    second: Vegeta_UpLevel_SSJ4_272
+  - first:
+      213: -5455655884457215230
+    second: Vegeta_UpLevel_SSJ4_273
+  - first:
+      213: -6682095540315560152
+    second: Vegeta_UpLevel_SSJ4_274
+  - first:
+      213: 6496875675669010330
+    second: Vegeta_UpLevel_SSJ4_275
+  - first:
+      213: 1859184233031651721
+    second: Vegeta_UpLevel_SSJ4_276
+  - first:
+      213: -3167292452692266030
+    second: Vegeta_UpLevel_SSJ4_277
+  - first:
+      213: 5631777672142020507
+    second: Vegeta_UpLevel_SSJ4_278
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2787
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de8b86348e47df00800000000000000
+      internalID: 1141467360319475412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2788
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97fde7e0f4328250800000000000000
+      internalID: 5945372667370403738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2780
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163713e3276eafa0800000000000000
+      internalID: -5787575067293043184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2780
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e64bfd8df8a9c00800000000000000
+      internalID: 908196436497428055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2780
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574693c31c1e0d9f0800000000000000
+      internalID: -445608143054347147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4801b7aab61827b0800000000000000
+      internalID: -5248920374767187889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2780
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3691df0121b2a0800000000000000
+      internalID: -6723556416862930429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2780
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e42bc747f28e3d0800000000000000
+      internalID: -3177237359755112935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2780
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7208279e13eb820800000000000000
+      internalID: 2935838885810284482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2780
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd8289cc83ee3710800000000000000
+      internalID: 1675026305244106187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2780
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6d4df5f6b062a20800000000000000
+      internalID: 3037127571685037795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_11
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2814
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad75b2eda0653180800000000000000
+      internalID: -9136289969102029407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2797
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee1ad6d96d93100800000000000000
+      internalID: 88337639347973679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2799
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c596bbd34e9bc1c0800000000000000
+      internalID: -4482314989831023161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2802
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316a9a839881f5c80800000000000000
+      internalID: -8331913807971899885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_15
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2720
+        width: 317
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f90ced103f61730800000000000000
+      internalID: 3969627310931353353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2709
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0887e289766e80800000000000000
+      internalID: -8185721669562134653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2709
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e08084f7b8c58e0800000000000000
+      internalID: -1703333180267295186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2710
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd828ff06bc5ccb0800000000000000
+      internalID: -4844242206703055414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2709
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b211fed07cd9a90800000000000000
+      internalID: -7305464157865694398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2710
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0429ded82c19e0840800000000000000
+      internalID: 5192247685195600448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2725
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621414b353079bb20800000000000000
+      internalID: 3150672788252082470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2713
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a615c7d4996d360800000000000000
+      internalID: 7194106012848188055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2721
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058b555b648ba490800000000000000
+      internalID: -7733942338550266620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2709
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15883e7e8ece9ece0800000000000000
+      internalID: -1375307726117959599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2709
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4844aeed6e09ef0800000000000000
+      internalID: -103328946342034256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2723
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b695619ca36ff40800000000000000
+      internalID: 5761857408604924769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2709
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53706931e764f20800000000000000
+      internalID: 3406548790738892251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2622
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c7c70012d6c3f70800000000000000
+      internalID: 9168322929928993915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2632
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f211e4ebaa601c0800000000000000
+      internalID: -4537751840198938821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2648
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24718e87c90c24b0800000000000000
+      internalID: -5463981495213263830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2639
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457eb877cad909b70800000000000000
+      internalID: 8903789827377063764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2626
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee0d3aba0e57e90800000000000000
+      internalID: -7028464615649382732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2622
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac57ac9f50f98c0800000000000000
+      internalID: -3990464174425257309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2640
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000fe77457d7bd790800000000000000
+      internalID: -7504266411418652672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2622
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3165709205a5f50800000000000000
+      internalID: 6870892318654075901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2640
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa7bd6f5bb0ec10800000000000000
+      internalID: 2080869046382210869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2556
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3beb36890156ad0800000000000000
+      internalID: -2709741354098969655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2556
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb0ec2e8cf8b150800000000000000
+      internalID: 5888734200355404848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2556
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8de1dba97025a90800000000000000
+      internalID: -7326785282599102274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2556
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de828a25f95dc650800000000000000
+      internalID: 6254754367002545872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2571
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51a10a53df77a00800000000000000
+      internalID: 754349869369005543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2494
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ea9ea3d9338120800000000000000
+      internalID: 2414837406530987916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2494
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9163f08ce76b80800000000000000
+      internalID: -8401486541253141431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2494
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93c8bfeb4763510800000000000000
+      internalID: 1528537487151741373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2494
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1295bd177fe420800000000000000
+      internalID: 2661476874283260563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2494
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedaefad3121500d0800000000000000
+      internalID: -3457337262449185298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2494
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1c8a9195d23830800000000000000
+      internalID: 4049533836299344629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2494
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412230c533cb1ab90800000000000000
+      internalID: -7232292597807242732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2494
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ad9fe9ed189f10800000000000000
+      internalID: 2276602502220457016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2494
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830396641bed95000800000000000000
+      internalID: 25296125899124792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2494
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e6b5b8401dd430800000000000000
+      internalID: 3809218764297658601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2497
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ef718d94d28a50800000000000000
+      internalID: 6522008983333496805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2494
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79399e46673b200800000000000000
+      internalID: 194629384694634457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_54
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2497
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace4e541a592ee70800000000000000
+      internalID: 9143034713410432166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2514
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70565e4f465877c00800000000000000
+      internalID: 898333319335601415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2425
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c075f77211e2ba30800000000000000
+      internalID: 4229690469492551876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2425
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e45b178c5c15390800000000000000
+      internalID: -7831260812328743306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2425
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3967f58e78004770800000000000000
+      internalID: 8592877428529391931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2431
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bafc4c425e9114a0800000000000000
+      internalID: -6624339500580668745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2429
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf951aa7d2fdfa60800000000000000
+      internalID: 7709585145213591496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2431
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069ab0af21e05560800000000000000
+      internalID: 7300582590643869184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2426
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097ce5fde7d2e410800000000000000
+      internalID: 1505002642528303364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2426
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a6f2748a38897e0800000000000000
+      internalID: -1758510895716144548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2435
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e5fe96dc36f90d0800000000000000
+      internalID: -3413900258626806241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2427
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3c84c4d2fe804e0800000000000000
+      internalID: -2015097855415892995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2427
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f489fd4e9939bad0800000000000000
+      internalID: -2686052350673976076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_67
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2427
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9abbd4095b0bd0800000000000000
+      internalID: -2662936877258334622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_68
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2427
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1607ec18b3a79d0800000000000000
+      internalID: -2775840791620197957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_69
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2445
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0aa508b03559de0800000000000000
+      internalID: -1327063206327574295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2354
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f7b70389e76870800000000000000
+      internalID: 8676159956132034083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2354
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e4d24515557eb60800000000000000
+      internalID: 7775277089471417863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2354
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec7a946bfb0d120800000000000000
+      internalID: 2436658188048125617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2354
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250f03816f4507880800000000000000
+      internalID: -8615292671215210414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2346
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188474a2a53272f0800000000000000
+      internalID: -976659196525901798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2354
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d07763a4688540800000000000000
+      internalID: 5010365238427570929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2354
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5ac9f86dfb9eec0800000000000000
+      internalID: -3537085104069499448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2354
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f122e6885b76f90800000000000000
+      internalID: -6960395101509902527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2354
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bca4a2e2f86c1320800000000000000
+      internalID: 2530012483069193396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2376
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638879b7c872fa2f0800000000000000
+      internalID: -959504711284193226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2350
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013d453cdb2de9d0800000000000000
+      internalID: -2743488373211713274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_81
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2350
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74239259ece007e40800000000000000
+      internalID: 5652033812778529351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2350
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9d0ecb6d7b6e40800000000000000
+      internalID: 5650748059438389911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2350
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4628ac180860ac0800000000000000
+      internalID: -3889279933251164988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_84
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2280
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf96e2a19f1ad50800000000000000
+      internalID: 6746947607620877279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2282
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7031adf459af8a0800000000000000
+      internalID: -6270535360966359099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_86
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2283
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7ba80c89815870800000000000000
+      internalID: 8669861992198798021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca27a72cb5b4a10800000000000000
+      internalID: 1894708959075544125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2280
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d6d00e647c3d560800000000000000
+      internalID: 7337427325137284432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2280
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca1f4d8d2ceab00800000000000000
+      internalID: 841824416906194097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2280
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38a74e42f3a6bda0800000000000000
+      internalID: -5929371598295947204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2294
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8e0b2963747e40800000000000000
+      internalID: 5653270327787949081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2198
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667e133ac7868a90800000000000000
+      internalID: -7312007642478643610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2198
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e3d7a60bf9b0d60800000000000000
+      internalID: 7857549554927615493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_94
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2197
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea3648b8bfeed8d0800000000000000
+      internalID: -2819552740042720533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2191
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5231719f26954b0800000000000000
+      internalID: -5451217051981765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_96
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2221
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b4d4ea9ff757a0800000000000000
+      internalID: -6388356505672566954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2197
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858bdf2c775d31e0800000000000000
+      internalID: -2216519250705939058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_98
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2197
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652ed306fce9c8d0800000000000000
+      internalID: -2825466749827275416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2197
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cbe87354be2500800000000000000
+      internalID: 373434089722333479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_100
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2201
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beacd61be421ddc00800000000000000
+      internalID: 926917227501701867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_101
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2201
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a078d355b7df750800000000000000
+      internalID: 6340359456442223238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_102
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2215
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d2452c2d57ea80800000000000000
+      internalID: -8437672932670254978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_103
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2102
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56100aa6687f40d0800000000000000
+      internalID: -3436395608326269347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_104
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2102
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f57e7e721720b0800000000000000
+      internalID: -5753609664445681553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2102
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba03d3f10fce210800000000000000
+      internalID: 1363728804147669984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2102
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977567a0f155d8460800000000000000
+      internalID: 7245540967316871033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2126
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190056710526810b0800000000000000
+      internalID: -5757744027463778159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_108
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2070
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc445fe444c1910c0800000000000000
+      internalID: -4604618064301570865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_109
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2069
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10faf7dc404d58770800000000000000
+      internalID: 8612522979508596481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2001
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae936e05c8e4a260800000000000000
+      internalID: 7108062044945096365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_111
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2051
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db84131d4168ab0800000000000000
+      internalID: -5006291047068156664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_112
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2073
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe242ccd560096ea0800000000000000
+      internalID: -5879167401060056337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_113
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2072
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a3dce7a6743070800000000000000
+      internalID: 8085217694641791346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_114
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1998
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff856816da520d940800000000000000
+      internalID: 5318792586520320255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_115
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2003
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33fd84ab7213c3f0800000000000000
+      internalID: -881840779783441601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2003
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558abb81b45b8b710800000000000000
+      internalID: 1709315392729229397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2003
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2635c994c8a18b70800000000000000
+      internalID: 8899579901007705642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_118
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2003
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd8a5e69bce03a0800000000000000
+      internalID: -6697191746894766975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_119
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1989
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad93d376f16b02a0800000000000000
+      internalID: -6770209903688311386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_120
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2035
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6372baa337cf4d10800000000000000
+      internalID: 2112125774981133163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_121
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2048
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e4ec2188644e50800000000000000
+      internalID: 6792669041994819842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_122
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2001
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e46613f40dc3ad0800000000000000
+      internalID: -2721071036288840188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_123
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2048
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64871eb2b13fc7c0800000000000000
+      internalID: -4048962896219634577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1995
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac647a820f6ae10800000000000000
+      internalID: 2208716724667599473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_125
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2006
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e46c0604f02c40800000000000000
+      internalID: 5485652652952183080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_126
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2006
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30faf9ce7987ae2c0800000000000000
+      internalID: -4401573091895955709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_127
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2034
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59142841c2a01850800000000000000
+      internalID: 6345750825987742046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_128
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2002
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d04d9174dfa3090800000000000000
+      internalID: -8053846501780877949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_129
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2004
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14cb97c358ac7c0800000000000000
+      internalID: -4050278420079427139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_130
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2051
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d737182c76183250800000000000000
+      internalID: 5924510032310253526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_131
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2006
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e64411945db6ca0800000000000000
+      internalID: -6022485566878880114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1999
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e6f139c8268820800000000000000
+      internalID: 2920066252988145890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_133
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2003
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efeb257cf5508c70800000000000000
+      internalID: 8971265000507961321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2028
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e10e713ea3b0f20800000000000000
+      internalID: 3389867891558981255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_135
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2031
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d9b707e606ca2d0800000000000000
+      internalID: -3266129602300633845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_136
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2007
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ce89dc96457fe0800000000000000
+      internalID: -1191968886890772202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_137
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2012
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b7dcecd2ebc8d0800000000000000
+      internalID: -2824914902750613202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_138
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1984
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d101fb2328caa6da0800000000000000
+      internalID: -5950754282419580899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_139
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1987
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48feb752dad7dcf0800000000000000
+      internalID: -227472659208800178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_140
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1987
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ffdc35286ac0c80800000000000000
+      internalID: -8355120129997144184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_141
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1990
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3840cabf0244a580800000000000000
+      internalID: -8816849535159482307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_142
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1855
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f49c35bbd5753470800000000000000
+      internalID: 8373728668664239350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_143
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1855
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce22d8c1ebb88420800000000000000
+      internalID: 2632560560609308355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_144
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1855
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3951a77335557c0800000000000000
+      internalID: -4083265989404945422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_145
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1855
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96898a218c6324c10800000000000000
+      internalID: 2036250214459283561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1855
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc1dcd5e1af9cb0800000000000000
+      internalID: -4854983864657785535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1816
+        width: 354
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3dabd7692a1fac0800000000000000
+      internalID: -3823095841422650451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_148
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1875
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f9765d62b1fc20800000000000000
+      internalID: 3238565789728109417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_149
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1712
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411b0a280acb46f0800000000000000
+      internalID: -699243180712062641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_150
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1712
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866ff8e22f66995a0800000000000000
+      internalID: -6514062195665406360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_151
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1711
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b87e2f734795100800000000000000
+      internalID: 97236650612460317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_152
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1712
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78325af2c0ec862c0800000000000000
+      internalID: -4438070881039342713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_153
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1711
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f9edf531979f980800000000000000
+      internalID: -8504633297192706302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_154
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1711
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba7076c8ee71fc0800000000000000
+      internalID: -3524085896602735738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_155
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1731
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8202dda5ea0add0800000000000000
+      internalID: -2476788089773610830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_156
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1599
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2e5b9b3d9b2340800000000000000
+      internalID: 4840135103875002273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_157
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1599
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52a9f92ba2ef1f0800000000000000
+      internalID: -1009322319814187572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_158
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1599
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c340a8434205de0800000000000000
+      internalID: -1346536480511345523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1599
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f395fe76ebddd2f30800000000000000
+      internalID: 4552538608198703423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_160
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1580
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc632e66662043600800000000000000
+      internalID: 446984901852542671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_161
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1599
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b38aa94a963ef60800000000000000
+      internalID: 8062403913613589313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_162
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1467
+        width: 236
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c7643931fbd1130800000000000000
+      internalID: 3539194972979231823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_163
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1582
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c870bfc7df51830800000000000000
+      internalID: 4041414953864236110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_164
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1364
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82fab0fe47a3120800000000000000
+      internalID: 2394354721942874316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_165
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1364
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee4c5568a195fd40800000000000000
+      internalID: 5617556262655643368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_166
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1364
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a913a85bb4a260800000000000000
+      internalID: 7108012101265369536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1364
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c039c901e69eb82f0800000000000000
+      internalID: -969424635833838836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_168
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1364
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99dae55023aaadd0800000000000000
+      internalID: -2473985686010930788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_169
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1412
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2698d30558eb00800000000000000
+      internalID: 858029204021062891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_170
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1364
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d11e9a9a0732c2d0800000000000000
+      internalID: -3259982661579566633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_171
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1387
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598704c9ad8abb4a0800000000000000
+      internalID: -6576477173966669675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_172
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1383
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290e0b12415f7a30800000000000000
+      internalID: 4215177120605669664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_173
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1377
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db82f2af094c640800000000000000
+      internalID: 5099360082297666867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_174
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1215
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec464db0d849b6a90800000000000000
+      internalID: -7319593435850840882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_175
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1255
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232971e22e12b4880800000000000000
+      internalID: -8625763405978430926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_176
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1263
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c824eac7fc1f480800000000000000
+      internalID: -8867078056909304792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_177
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1120
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188b6a9c807df7db0800000000000000
+      internalID: -4791875045756061567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_178
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1185
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8ff0acc71ad3c0800000000000000
+      internalID: -4334125523748811123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1192
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b052561047e47150800000000000000
+      internalID: 5869570476809015477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_180
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1196
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052576540e36d40c0800000000000000
+      internalID: -4589902630332444080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98da964ee6d6a5490800000000000000
+      internalID: -7756767085146296951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_182
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c7493f36af4dd0800000000000000
+      internalID: -2499596477693181303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1192
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0fc1023bb1fb6e0800000000000000
+      internalID: -1819705268282527543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_184
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1160
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58500f650fe87e0800000000000000
+      internalID: -1761206148070537823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_185
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1113
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b55dff3c9f3270800000000000000
+      internalID: 8232470442503682388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_186
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1006
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a948c0cde7f78ef40800000000000000
+      internalID: 5757992306427593882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_187
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1006
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bbaf521e9096580800000000000000
+      internalID: -8833518331501036754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_188
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1006
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7697540e1bb1710800000000000000
+      internalID: 1665120064039905207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_189
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1006
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee704777a4564590800000000000000
+      internalID: -7690366235451556128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_190
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1006
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bc259578e146490800000000000000
+      internalID: -7754039091757135102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_191
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1006
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3c102f91719410800000000000000
+      internalID: 1482090680634063779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_192
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1006
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f12110586760e9e0800000000000000
+      internalID: -1594160570371595784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_193
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1006
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89351aa94c9f700800000000000000
+      internalID: 574706595877066984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_194
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 944
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133a789c15a757c20800000000000000
+      internalID: 3203601201636025137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_195
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 966
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a52c7c6ecbe5f0800000000000000
+      internalID: -726259949555572327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_196
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 965
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fdb9276fec5b410800000000000000
+      internalID: 1492326409423281941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_197
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 891
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d820557f70de230800000000000000
+      internalID: 3669598030241369442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_198
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 902
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f078cc97b6c020800000000000000
+      internalID: 2361776938608031955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_199
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 907
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8011f474375a410800000000000000
+      internalID: 1487722002022205614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_200
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 902
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f179123d439c660800000000000000
+      internalID: 7406509143593787140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 902
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe79fd6fb5cfc5f0800000000000000
+      internalID: -734150788263608642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_202
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 902
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71512fc8ca076b0a0800000000000000
+      internalID: -6866176695478381289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_203
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 902
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75c53924a7b18590800000000000000
+      internalID: -7673650374368705158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_204
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 902
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8eac94a0a0f500800000000000000
+      internalID: 428018593463962989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_205
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 895
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e7793bd1749650800000000000000
+      internalID: 6238736570190914767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_206
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 897
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682a8643a82734230800000000000000
+      internalID: 3621864463246336646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_207
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 944
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9fc78f16e6fd4d0800000000000000
+      internalID: -3107643850802529880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_208
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 899
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68549d9cce730800800000000000000
+      internalID: 577444594515728495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_209
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 902
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fedb8bf29b86c00800000000000000
+      internalID: 894168140647100212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_210
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 909
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae31cd0eca40d80800000000000000
+      internalID: -8285307332689925617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_211
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 923
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aca9d3fbaed55f0800000000000000
+      internalID: -766198254489908686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_212
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 880
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c09609da3fff9f0800000000000000
+      internalID: -432359112426582999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_213
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 883
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68302c92167580b40800000000000000
+      internalID: 5406667427482305414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_214
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 789
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851afe6a309d87aa0800000000000000
+      internalID: -6162937480347672232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_215
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 789
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5e5bc331caca370800000000000000
+      internalID: 8335226208978855415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_216
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 789
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddecd86720b41a00800000000000000
+      internalID: 726399123223014872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 788
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f5f901d1ad7550800000000000000
+      internalID: 6160257784500057065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_218
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 788
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb59b85dc2d4aca0800000000000000
+      internalID: -6006444223606727698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_219
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 788
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb94e122175d0e70800000000000000
+      internalID: 9083011758865816547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_220
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 788
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c13c0f6fc83dd0800000000000000
+      internalID: -2506025116778773936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_221
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 809
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6db24307d1e5ef0800000000000000
+      internalID: -117624172516223304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_222
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 694
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215c5f47dcb3b8690800000000000000
+      internalID: -7598914192640981742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_223
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 694
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093f5b023965a910800000000000000
+      internalID: 1847998885765527808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_224
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 667
+        width: 145
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8465f5da241e090800000000000000
+      internalID: -8007045350091765535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_225
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 601
+        width: 139
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a9364748bdcb80800000000000000
+      internalID: -8372833515951511554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_226
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 740
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e43192aa447cbc0800000000000000
+      internalID: -3762963466020499908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_227
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 738
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad7da91e4127fe0800000000000000
+      internalID: -1192867992101725619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_228
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 647
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ca82eab4a1e8b0800000000000000
+      internalID: -5124633778399296822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_229
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 696
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb65d490db2e160800000000000000
+      internalID: 7053407814065503130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_230
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d398c5f63f0b1140800000000000000
+      internalID: 4691360165562717145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_231
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 696
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9355f4dcb8519360800000000000000
+      internalID: 7174613249427854236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 636
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17babcfb64e7fd1b0800000000000000
+      internalID: -5629642166859224207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_233
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 636
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5afaa775a2daac0800000000000000
+      internalID: -3842368351868312102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_234
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 688
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34971b8e27977c0800000000000000
+      internalID: -4073098044244409368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_235
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 686
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c61ad19076ba3d0800000000000000
+      internalID: -3194346221839750053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_236
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 680
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580622b8493a128e0800000000000000
+      internalID: -1719913724294045563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_237
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 636
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5fd55c2643a6480800000000000000
+      internalID: -8905247714349025824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_238
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 636
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ca66f9dd9e5790800000000000000
+      internalID: -7539415166703976192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_239
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 636
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d471166367c8680800000000000000
+      internalID: -8751489999958487788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_240
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 636
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66cd899a46152670800000000000000
+      internalID: 8513235180273387119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_241
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 636
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535d932af1f3c550800000000000000
+      internalID: 6180049170324083551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_242
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 636
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837de10a1589ce780800000000000000
+      internalID: -8652373307739416776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_243
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 636
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc8c0fb2cb0d390800000000000000
+      internalID: -7795524058069021620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_244
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 636
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a124fc84898efd0800000000000000
+      internalID: -2312430970172466590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_245
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 679
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31223a4076bcaa0800000000000000
+      internalID: -6139700397375089740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_246
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 636
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29c0a5c1b9331b70800000000000000
+      internalID: 8868495526910282031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_247
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 636
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96cd8b41ecfb1ee0800000000000000
+      internalID: -1289158823746091362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_248
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 524
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4de6a2849da2f50800000000000000
+      internalID: 6857532286597780724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_249
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 524
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d4068b455d1450800000000000000
+      internalID: 6061094456369927332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_250
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 524
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d64e696b4a8c00800000000000000
+      internalID: 903617591434990495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_251
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 524
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01386b9be83be50800000000000000
+      internalID: 6823954788678570210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_252
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 524
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eaf84c7e7d30ae0800000000000000
+      internalID: -1584185253469114846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_253
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 524
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffeb3641674f7a90800000000000000
+      internalID: -7314048786710663178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_254
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 524
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1352570c5f43c59c0800000000000000
+      internalID: -3937213744128121551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_255
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 524
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe219e828aba340800000000000000
+      internalID: 4876175915221183426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_256
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 542
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2b821d4f610030800000000000000
+      internalID: 3459168365611527257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_257
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 375
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893f9f1e009ce110800000000000000
+      internalID: 1291565583482960262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_258
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 375
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e014e2ae9f6c4ef0800000000000000
+      internalID: -122600362717474592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_259
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 375
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086bca87dcbd1f70800000000000000
+      internalID: 9159684851074033678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_260
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 375
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34dd304ee0a99a40800000000000000
+      internalID: 5375504575383852094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_261
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 417
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4fa6f5fe55c7260800000000000000
+      internalID: 7096641599415448816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_262
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 375
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbde7399b8040f0800000000000000
+      internalID: -1134753615912780936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_263
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 424
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7477de012c06d0b0800000000000000
+      internalID: -5704358541895699329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_264
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 420
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538aeef9ccdfa970800000000000000
+      internalID: 8768469759636964182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_265
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 375
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821aba106661661e0800000000000000
+      internalID: -2205050340180778712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_266
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 365
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd99d036b039b30800000000000000
+      internalID: 4292787389872069747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_267
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 312
+        width: 464
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464afb8b557790f0800000000000000
+      internalID: -1110289747072629178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_268
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 381
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cdf60851aaf4660800000000000000
+      internalID: 7372298124354641042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_269
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 395
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f8981548a37020800000000000000
+      internalID: 2338397646254307493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_270
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc690e13c3035af0800000000000000
+      internalID: -408979004603142918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_271
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 233
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843dd22651b1d3a30800000000000000
+      internalID: 4196540206434603848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_272
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 233
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a320e3bac3cca670800000000000000
+      internalID: 8551425067838350241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_273
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 233
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b782ed0ed9944b0800000000000000
+      internalID: -5455655884457215230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_274
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 254
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827e444628d6443a0800000000000000
+      internalID: -6682095540315560152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_275
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 233
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97902e410a892a50800000000000000
+      internalID: 6496875675669010330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_276
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 233
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981dbd5a5362dc910800000000000000
+      internalID: 1859184233031651721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_277
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 233
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d370899b448b04d0800000000000000
+      internalID: -3167292452692266030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta_UpLevel_SSJ4_278
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 251
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f500254f7182e40800000000000000
+      internalID: 5631777672142020507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vegeta_UpLevel_SSJ4_0: 1141467360319475412
+      Vegeta_UpLevel_SSJ4_1: 5945372667370403738
+      Vegeta_UpLevel_SSJ4_10: 3037127571685037795
+      Vegeta_UpLevel_SSJ4_100: 926917227501701867
+      Vegeta_UpLevel_SSJ4_101: 6340359456442223238
+      Vegeta_UpLevel_SSJ4_102: -8437672932670254978
+      Vegeta_UpLevel_SSJ4_103: -3436395608326269347
+      Vegeta_UpLevel_SSJ4_104: -5753609664445681553
+      Vegeta_UpLevel_SSJ4_105: 1363728804147669984
+      Vegeta_UpLevel_SSJ4_106: 7245540967316871033
+      Vegeta_UpLevel_SSJ4_107: -5757744027463778159
+      Vegeta_UpLevel_SSJ4_108: -4604618064301570865
+      Vegeta_UpLevel_SSJ4_109: 8612522979508596481
+      Vegeta_UpLevel_SSJ4_11: -9136289969102029407
+      Vegeta_UpLevel_SSJ4_110: 7108062044945096365
+      Vegeta_UpLevel_SSJ4_111: -5006291047068156664
+      Vegeta_UpLevel_SSJ4_112: -5879167401060056337
+      Vegeta_UpLevel_SSJ4_113: 8085217694641791346
+      Vegeta_UpLevel_SSJ4_114: 5318792586520320255
+      Vegeta_UpLevel_SSJ4_115: -881840779783441601
+      Vegeta_UpLevel_SSJ4_116: 1709315392729229397
+      Vegeta_UpLevel_SSJ4_117: 8899579901007705642
+      Vegeta_UpLevel_SSJ4_118: -6697191746894766975
+      Vegeta_UpLevel_SSJ4_119: -6770209903688311386
+      Vegeta_UpLevel_SSJ4_12: 88337639347973679
+      Vegeta_UpLevel_SSJ4_120: 2112125774981133163
+      Vegeta_UpLevel_SSJ4_121: 6792669041994819842
+      Vegeta_UpLevel_SSJ4_122: -2721071036288840188
+      Vegeta_UpLevel_SSJ4_123: -4048962896219634577
+      Vegeta_UpLevel_SSJ4_124: 2208716724667599473
+      Vegeta_UpLevel_SSJ4_125: 5485652652952183080
+      Vegeta_UpLevel_SSJ4_126: -4401573091895955709
+      Vegeta_UpLevel_SSJ4_127: 6345750825987742046
+      Vegeta_UpLevel_SSJ4_128: -8053846501780877949
+      Vegeta_UpLevel_SSJ4_129: -4050278420079427139
+      Vegeta_UpLevel_SSJ4_13: -4482314989831023161
+      Vegeta_UpLevel_SSJ4_130: 5924510032310253526
+      Vegeta_UpLevel_SSJ4_131: -6022485566878880114
+      Vegeta_UpLevel_SSJ4_132: 2920066252988145890
+      Vegeta_UpLevel_SSJ4_133: 8971265000507961321
+      Vegeta_UpLevel_SSJ4_134: 3389867891558981255
+      Vegeta_UpLevel_SSJ4_135: -3266129602300633845
+      Vegeta_UpLevel_SSJ4_136: -1191968886890772202
+      Vegeta_UpLevel_SSJ4_137: -2824914902750613202
+      Vegeta_UpLevel_SSJ4_138: -5950754282419580899
+      Vegeta_UpLevel_SSJ4_139: -227472659208800178
+      Vegeta_UpLevel_SSJ4_14: -8331913807971899885
+      Vegeta_UpLevel_SSJ4_140: -8355120129997144184
+      Vegeta_UpLevel_SSJ4_141: -8816849535159482307
+      Vegeta_UpLevel_SSJ4_142: 8373728668664239350
+      Vegeta_UpLevel_SSJ4_143: 2632560560609308355
+      Vegeta_UpLevel_SSJ4_144: -4083265989404945422
+      Vegeta_UpLevel_SSJ4_145: 2036250214459283561
+      Vegeta_UpLevel_SSJ4_146: -4854983864657785535
+      Vegeta_UpLevel_SSJ4_147: -3823095841422650451
+      Vegeta_UpLevel_SSJ4_148: 3238565789728109417
+      Vegeta_UpLevel_SSJ4_149: -699243180712062641
+      Vegeta_UpLevel_SSJ4_15: 3969627310931353353
+      Vegeta_UpLevel_SSJ4_150: -6514062195665406360
+      Vegeta_UpLevel_SSJ4_151: 97236650612460317
+      Vegeta_UpLevel_SSJ4_152: -4438070881039342713
+      Vegeta_UpLevel_SSJ4_153: -8504633297192706302
+      Vegeta_UpLevel_SSJ4_154: -3524085896602735738
+      Vegeta_UpLevel_SSJ4_155: -2476788089773610830
+      Vegeta_UpLevel_SSJ4_156: 4840135103875002273
+      Vegeta_UpLevel_SSJ4_157: -1009322319814187572
+      Vegeta_UpLevel_SSJ4_158: -1346536480511345523
+      Vegeta_UpLevel_SSJ4_159: 4552538608198703423
+      Vegeta_UpLevel_SSJ4_16: -8185721669562134653
+      Vegeta_UpLevel_SSJ4_160: 446984901852542671
+      Vegeta_UpLevel_SSJ4_161: 8062403913613589313
+      Vegeta_UpLevel_SSJ4_162: 3539194972979231823
+      Vegeta_UpLevel_SSJ4_163: 4041414953864236110
+      Vegeta_UpLevel_SSJ4_164: 2394354721942874316
+      Vegeta_UpLevel_SSJ4_165: 5617556262655643368
+      Vegeta_UpLevel_SSJ4_166: 7108012101265369536
+      Vegeta_UpLevel_SSJ4_167: -969424635833838836
+      Vegeta_UpLevel_SSJ4_168: -2473985686010930788
+      Vegeta_UpLevel_SSJ4_169: 858029204021062891
+      Vegeta_UpLevel_SSJ4_17: -1703333180267295186
+      Vegeta_UpLevel_SSJ4_170: -3259982661579566633
+      Vegeta_UpLevel_SSJ4_171: -6576477173966669675
+      Vegeta_UpLevel_SSJ4_172: 4215177120605669664
+      Vegeta_UpLevel_SSJ4_173: 5099360082297666867
+      Vegeta_UpLevel_SSJ4_174: -7319593435850840882
+      Vegeta_UpLevel_SSJ4_175: -8625763405978430926
+      Vegeta_UpLevel_SSJ4_176: -8867078056909304792
+      Vegeta_UpLevel_SSJ4_177: -4791875045756061567
+      Vegeta_UpLevel_SSJ4_178: -4334125523748811123
+      Vegeta_UpLevel_SSJ4_179: 5869570476809015477
+      Vegeta_UpLevel_SSJ4_18: -4844242206703055414
+      Vegeta_UpLevel_SSJ4_180: -4589902630332444080
+      Vegeta_UpLevel_SSJ4_181: -7756767085146296951
+      Vegeta_UpLevel_SSJ4_182: -2499596477693181303
+      Vegeta_UpLevel_SSJ4_183: -1819705268282527543
+      Vegeta_UpLevel_SSJ4_184: -1761206148070537823
+      Vegeta_UpLevel_SSJ4_185: 8232470442503682388
+      Vegeta_UpLevel_SSJ4_186: 5757992306427593882
+      Vegeta_UpLevel_SSJ4_187: -8833518331501036754
+      Vegeta_UpLevel_SSJ4_188: 1665120064039905207
+      Vegeta_UpLevel_SSJ4_189: -7690366235451556128
+      Vegeta_UpLevel_SSJ4_19: -7305464157865694398
+      Vegeta_UpLevel_SSJ4_190: -7754039091757135102
+      Vegeta_UpLevel_SSJ4_191: 1482090680634063779
+      Vegeta_UpLevel_SSJ4_192: -1594160570371595784
+      Vegeta_UpLevel_SSJ4_193: 574706595877066984
+      Vegeta_UpLevel_SSJ4_194: 3203601201636025137
+      Vegeta_UpLevel_SSJ4_195: -726259949555572327
+      Vegeta_UpLevel_SSJ4_196: 1492326409423281941
+      Vegeta_UpLevel_SSJ4_197: 3669598030241369442
+      Vegeta_UpLevel_SSJ4_198: 2361776938608031955
+      Vegeta_UpLevel_SSJ4_199: 1487722002022205614
+      Vegeta_UpLevel_SSJ4_2: -5787575067293043184
+      Vegeta_UpLevel_SSJ4_20: 5192247685195600448
+      Vegeta_UpLevel_SSJ4_200: 7406509143593787140
+      Vegeta_UpLevel_SSJ4_201: -734150788263608642
+      Vegeta_UpLevel_SSJ4_202: -6866176695478381289
+      Vegeta_UpLevel_SSJ4_203: -7673650374368705158
+      Vegeta_UpLevel_SSJ4_204: 428018593463962989
+      Vegeta_UpLevel_SSJ4_205: 6238736570190914767
+      Vegeta_UpLevel_SSJ4_206: 3621864463246336646
+      Vegeta_UpLevel_SSJ4_207: -3107643850802529880
+      Vegeta_UpLevel_SSJ4_208: 577444594515728495
+      Vegeta_UpLevel_SSJ4_209: 894168140647100212
+      Vegeta_UpLevel_SSJ4_21: 3150672788252082470
+      Vegeta_UpLevel_SSJ4_210: -8285307332689925617
+      Vegeta_UpLevel_SSJ4_211: -766198254489908686
+      Vegeta_UpLevel_SSJ4_212: -432359112426582999
+      Vegeta_UpLevel_SSJ4_213: 5406667427482305414
+      Vegeta_UpLevel_SSJ4_214: -6162937480347672232
+      Vegeta_UpLevel_SSJ4_215: 8335226208978855415
+      Vegeta_UpLevel_SSJ4_216: 726399123223014872
+      Vegeta_UpLevel_SSJ4_217: 6160257784500057065
+      Vegeta_UpLevel_SSJ4_218: -6006444223606727698
+      Vegeta_UpLevel_SSJ4_219: 9083011758865816547
+      Vegeta_UpLevel_SSJ4_22: 7194106012848188055
+      Vegeta_UpLevel_SSJ4_220: -2506025116778773936
+      Vegeta_UpLevel_SSJ4_221: -117624172516223304
+      Vegeta_UpLevel_SSJ4_222: -7598914192640981742
+      Vegeta_UpLevel_SSJ4_223: 1847998885765527808
+      Vegeta_UpLevel_SSJ4_224: -8007045350091765535
+      Vegeta_UpLevel_SSJ4_225: -8372833515951511554
+      Vegeta_UpLevel_SSJ4_226: -3762963466020499908
+      Vegeta_UpLevel_SSJ4_227: -1192867992101725619
+      Vegeta_UpLevel_SSJ4_228: -5124633778399296822
+      Vegeta_UpLevel_SSJ4_229: 7053407814065503130
+      Vegeta_UpLevel_SSJ4_23: -7733942338550266620
+      Vegeta_UpLevel_SSJ4_230: 4691360165562717145
+      Vegeta_UpLevel_SSJ4_231: 7174613249427854236
+      Vegeta_UpLevel_SSJ4_232: -5629642166859224207
+      Vegeta_UpLevel_SSJ4_233: -3842368351868312102
+      Vegeta_UpLevel_SSJ4_234: -4073098044244409368
+      Vegeta_UpLevel_SSJ4_235: -3194346221839750053
+      Vegeta_UpLevel_SSJ4_236: -1719913724294045563
+      Vegeta_UpLevel_SSJ4_237: -8905247714349025824
+      Vegeta_UpLevel_SSJ4_238: -7539415166703976192
+      Vegeta_UpLevel_SSJ4_239: -8751489999958487788
+      Vegeta_UpLevel_SSJ4_24: -1375307726117959599
+      Vegeta_UpLevel_SSJ4_240: 8513235180273387119
+      Vegeta_UpLevel_SSJ4_241: 6180049170324083551
+      Vegeta_UpLevel_SSJ4_242: -8652373307739416776
+      Vegeta_UpLevel_SSJ4_243: -7795524058069021620
+      Vegeta_UpLevel_SSJ4_244: -2312430970172466590
+      Vegeta_UpLevel_SSJ4_245: -6139700397375089740
+      Vegeta_UpLevel_SSJ4_246: 8868495526910282031
+      Vegeta_UpLevel_SSJ4_247: -1289158823746091362
+      Vegeta_UpLevel_SSJ4_248: 6857532286597780724
+      Vegeta_UpLevel_SSJ4_249: 6061094456369927332
+      Vegeta_UpLevel_SSJ4_25: -103328946342034256
+      Vegeta_UpLevel_SSJ4_250: 903617591434990495
+      Vegeta_UpLevel_SSJ4_251: 6823954788678570210
+      Vegeta_UpLevel_SSJ4_252: -1584185253469114846
+      Vegeta_UpLevel_SSJ4_253: -7314048786710663178
+      Vegeta_UpLevel_SSJ4_254: -3937213744128121551
+      Vegeta_UpLevel_SSJ4_255: 4876175915221183426
+      Vegeta_UpLevel_SSJ4_256: 3459168365611527257
+      Vegeta_UpLevel_SSJ4_257: 1291565583482960262
+      Vegeta_UpLevel_SSJ4_258: -122600362717474592
+      Vegeta_UpLevel_SSJ4_259: 9159684851074033678
+      Vegeta_UpLevel_SSJ4_26: 5761857408604924769
+      Vegeta_UpLevel_SSJ4_260: 5375504575383852094
+      Vegeta_UpLevel_SSJ4_261: 7096641599415448816
+      Vegeta_UpLevel_SSJ4_262: -1134753615912780936
+      Vegeta_UpLevel_SSJ4_263: -5704358541895699329
+      Vegeta_UpLevel_SSJ4_264: 8768469759636964182
+      Vegeta_UpLevel_SSJ4_265: -2205050340180778712
+      Vegeta_UpLevel_SSJ4_266: 4292787389872069747
+      Vegeta_UpLevel_SSJ4_267: -1110289747072629178
+      Vegeta_UpLevel_SSJ4_268: 7372298124354641042
+      Vegeta_UpLevel_SSJ4_269: 2338397646254307493
+      Vegeta_UpLevel_SSJ4_27: 3406548790738892251
+      Vegeta_UpLevel_SSJ4_270: -408979004603142918
+      Vegeta_UpLevel_SSJ4_271: 4196540206434603848
+      Vegeta_UpLevel_SSJ4_272: 8551425067838350241
+      Vegeta_UpLevel_SSJ4_273: -5455655884457215230
+      Vegeta_UpLevel_SSJ4_274: -6682095540315560152
+      Vegeta_UpLevel_SSJ4_275: 6496875675669010330
+      Vegeta_UpLevel_SSJ4_276: 1859184233031651721
+      Vegeta_UpLevel_SSJ4_277: -3167292452692266030
+      Vegeta_UpLevel_SSJ4_278: 5631777672142020507
+      Vegeta_UpLevel_SSJ4_28: 9168322929928993915
+      Vegeta_UpLevel_SSJ4_29: -4537751840198938821
+      Vegeta_UpLevel_SSJ4_3: 908196436497428055
+      Vegeta_UpLevel_SSJ4_30: -5463981495213263830
+      Vegeta_UpLevel_SSJ4_31: 8903789827377063764
+      Vegeta_UpLevel_SSJ4_32: -7028464615649382732
+      Vegeta_UpLevel_SSJ4_33: -3990464174425257309
+      Vegeta_UpLevel_SSJ4_34: -7504266411418652672
+      Vegeta_UpLevel_SSJ4_35: 6870892318654075901
+      Vegeta_UpLevel_SSJ4_36: 2080869046382210869
+      Vegeta_UpLevel_SSJ4_37: -2709741354098969655
+      Vegeta_UpLevel_SSJ4_38: 5888734200355404848
+      Vegeta_UpLevel_SSJ4_39: -7326785282599102274
+      Vegeta_UpLevel_SSJ4_4: -445608143054347147
+      Vegeta_UpLevel_SSJ4_40: 6254754367002545872
+      Vegeta_UpLevel_SSJ4_41: 754349869369005543
+      Vegeta_UpLevel_SSJ4_42: 2414837406530987916
+      Vegeta_UpLevel_SSJ4_43: -8401486541253141431
+      Vegeta_UpLevel_SSJ4_44: 1528537487151741373
+      Vegeta_UpLevel_SSJ4_45: 2661476874283260563
+      Vegeta_UpLevel_SSJ4_46: -3457337262449185298
+      Vegeta_UpLevel_SSJ4_47: 4049533836299344629
+      Vegeta_UpLevel_SSJ4_48: -7232292597807242732
+      Vegeta_UpLevel_SSJ4_49: 2276602502220457016
+      Vegeta_UpLevel_SSJ4_5: -5248920374767187889
+      Vegeta_UpLevel_SSJ4_50: 25296125899124792
+      Vegeta_UpLevel_SSJ4_51: 3809218764297658601
+      Vegeta_UpLevel_SSJ4_52: 6522008983333496805
+      Vegeta_UpLevel_SSJ4_53: 194629384694634457
+      Vegeta_UpLevel_SSJ4_54: 9143034713410432166
+      Vegeta_UpLevel_SSJ4_55: 898333319335601415
+      Vegeta_UpLevel_SSJ4_56: 4229690469492551876
+      Vegeta_UpLevel_SSJ4_57: -7831260812328743306
+      Vegeta_UpLevel_SSJ4_58: 8592877428529391931
+      Vegeta_UpLevel_SSJ4_59: -6624339500580668745
+      Vegeta_UpLevel_SSJ4_6: -6723556416862930429
+      Vegeta_UpLevel_SSJ4_60: 7709585145213591496
+      Vegeta_UpLevel_SSJ4_61: 7300582590643869184
+      Vegeta_UpLevel_SSJ4_62: 1505002642528303364
+      Vegeta_UpLevel_SSJ4_63: -1758510895716144548
+      Vegeta_UpLevel_SSJ4_64: -3413900258626806241
+      Vegeta_UpLevel_SSJ4_65: -2015097855415892995
+      Vegeta_UpLevel_SSJ4_66: -2686052350673976076
+      Vegeta_UpLevel_SSJ4_67: -2662936877258334622
+      Vegeta_UpLevel_SSJ4_68: -2775840791620197957
+      Vegeta_UpLevel_SSJ4_69: -1327063206327574295
+      Vegeta_UpLevel_SSJ4_7: -3177237359755112935
+      Vegeta_UpLevel_SSJ4_70: 8676159956132034083
+      Vegeta_UpLevel_SSJ4_71: 7775277089471417863
+      Vegeta_UpLevel_SSJ4_72: 2436658188048125617
+      Vegeta_UpLevel_SSJ4_73: -8615292671215210414
+      Vegeta_UpLevel_SSJ4_74: -976659196525901798
+      Vegeta_UpLevel_SSJ4_75: 5010365238427570929
+      Vegeta_UpLevel_SSJ4_76: -3537085104069499448
+      Vegeta_UpLevel_SSJ4_77: -6960395101509902527
+      Vegeta_UpLevel_SSJ4_78: 2530012483069193396
+      Vegeta_UpLevel_SSJ4_79: -959504711284193226
+      Vegeta_UpLevel_SSJ4_8: 2935838885810284482
+      Vegeta_UpLevel_SSJ4_80: -2743488373211713274
+      Vegeta_UpLevel_SSJ4_81: 5652033812778529351
+      Vegeta_UpLevel_SSJ4_82: 5650748059438389911
+      Vegeta_UpLevel_SSJ4_83: -3889279933251164988
+      Vegeta_UpLevel_SSJ4_84: 6746947607620877279
+      Vegeta_UpLevel_SSJ4_85: -6270535360966359099
+      Vegeta_UpLevel_SSJ4_86: 8669861992198798021
+      Vegeta_UpLevel_SSJ4_87: 1894708959075544125
+      Vegeta_UpLevel_SSJ4_88: 7337427325137284432
+      Vegeta_UpLevel_SSJ4_89: 841824416906194097
+      Vegeta_UpLevel_SSJ4_9: 1675026305244106187
+      Vegeta_UpLevel_SSJ4_90: -5929371598295947204
+      Vegeta_UpLevel_SSJ4_91: 5653270327787949081
+      Vegeta_UpLevel_SSJ4_92: -7312007642478643610
+      Vegeta_UpLevel_SSJ4_93: 7857549554927615493
+      Vegeta_UpLevel_SSJ4_94: -2819552740042720533
+      Vegeta_UpLevel_SSJ4_95: -5451217051981765139
+      Vegeta_UpLevel_SSJ4_96: -6388356505672566954
+      Vegeta_UpLevel_SSJ4_97: -2216519250705939058
+      Vegeta_UpLevel_SSJ4_98: -2825466749827275416
+      Vegeta_UpLevel_SSJ4_99: 373434089722333479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

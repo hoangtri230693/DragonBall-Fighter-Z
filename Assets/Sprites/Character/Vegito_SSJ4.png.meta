@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 7322c517db7e47342a089ca4eec81656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1715832566585280899
+    second: Vegito_SSJ4_0
+  - first:
+      213: 6340623271830148569
+    second: Vegito_SSJ4_1
+  - first:
+      213: -4176761536618574674
+    second: Vegito_SSJ4_2
+  - first:
+      213: -820223249534539484
+    second: Vegito_SSJ4_3
+  - first:
+      213: 2452192088038321699
+    second: Vegito_SSJ4_4
+  - first:
+      213: -1367512881986136624
+    second: Vegito_SSJ4_5
+  - first:
+      213: 3798216729847778498
+    second: Vegito_SSJ4_6
+  - first:
+      213: 2428110068060006921
+    second: Vegito_SSJ4_7
+  - first:
+      213: -5058111363719136161
+    second: Vegito_SSJ4_8
+  - first:
+      213: -3794994151630606578
+    second: Vegito_SSJ4_9
+  - first:
+      213: 6655789042558991561
+    second: Vegito_SSJ4_10
+  - first:
+      213: 6062704800549756814
+    second: Vegito_SSJ4_11
+  - first:
+      213: -1575637899527480336
+    second: Vegito_SSJ4_12
+  - first:
+      213: -9018869087990850370
+    second: Vegito_SSJ4_13
+  - first:
+      213: 8204574059155186656
+    second: Vegito_SSJ4_14
+  - first:
+      213: 1419328059780950951
+    second: Vegito_SSJ4_15
+  - first:
+      213: 6310358408545992119
+    second: Vegito_SSJ4_16
+  - first:
+      213: -2528859159196494961
+    second: Vegito_SSJ4_17
+  - first:
+      213: -201999345222900684
+    second: Vegito_SSJ4_18
+  - first:
+      213: -8518375426993275254
+    second: Vegito_SSJ4_19
+  - first:
+      213: -985122569769734708
+    second: Vegito_SSJ4_20
+  - first:
+      213: 7102035524469260372
+    second: Vegito_SSJ4_21
+  - first:
+      213: 8182193147035502809
+    second: Vegito_SSJ4_22
+  - first:
+      213: 6444634309955492923
+    second: Vegito_SSJ4_23
+  - first:
+      213: -9201403064117484749
+    second: Vegito_SSJ4_24
+  - first:
+      213: 17562797146785711
+    second: Vegito_SSJ4_25
+  - first:
+      213: -188161495643385199
+    second: Vegito_SSJ4_26
+  - first:
+      213: -3718413028601536996
+    second: Vegito_SSJ4_27
+  - first:
+      213: 5975498649764212985
+    second: Vegito_SSJ4_28
+  - first:
+      213: -9092035431723659128
+    second: Vegito_SSJ4_29
+  - first:
+      213: -6394619201725148554
+    second: Vegito_SSJ4_30
+  - first:
+      213: 8710783931161243067
+    second: Vegito_SSJ4_31
+  - first:
+      213: -1187998796654613220
+    second: Vegito_SSJ4_32
+  - first:
+      213: 6591570278871457455
+    second: Vegito_SSJ4_33
+  - first:
+      213: -3994538870753477671
+    second: Vegito_SSJ4_34
+  - first:
+      213: 3019855202982188901
+    second: Vegito_SSJ4_35
+  - first:
+      213: -3890073372033092025
+    second: Vegito_SSJ4_36
+  - first:
+      213: 8634021017491488418
+    second: Vegito_SSJ4_37
+  - first:
+      213: -7201630121355671483
+    second: Vegito_SSJ4_38
+  - first:
+      213: 930897874953421060
+    second: Vegito_SSJ4_39
+  - first:
+      213: 455311306361971371
+    second: Vegito_SSJ4_40
+  - first:
+      213: -227557506664301119
+    second: Vegito_SSJ4_41
+  - first:
+      213: 4691046264828956100
+    second: Vegito_SSJ4_42
+  - first:
+      213: 3351383382852353616
+    second: Vegito_SSJ4_43
+  - first:
+      213: -5286828139758799678
+    second: Vegito_SSJ4_44
+  - first:
+      213: -2609954945883709594
+    second: Vegito_SSJ4_45
+  - first:
+      213: -9034575041100466592
+    second: Vegito_SSJ4_46
+  - first:
+      213: 7054594369419711977
+    second: Vegito_SSJ4_47
+  - first:
+      213: -8079076347592173812
+    second: Vegito_SSJ4_48
+  - first:
+      213: -3906079669817577077
+    second: Vegito_SSJ4_49
+  - first:
+      213: 3991190541622694289
+    second: Vegito_SSJ4_50
+  - first:
+      213: -5069485528727686487
+    second: Vegito_SSJ4_51
+  - first:
+      213: -7132651238031133971
+    second: Vegito_SSJ4_52
+  - first:
+      213: -8151534054291719001
+    second: Vegito_SSJ4_53
+  - first:
+      213: 5248804370454896250
+    second: Vegito_SSJ4_54
+  - first:
+      213: 3651077421823652186
+    second: Vegito_SSJ4_55
+  - first:
+      213: -1903261401196010119
+    second: Vegito_SSJ4_56
+  - first:
+      213: -5430692380418441479
+    second: Vegito_SSJ4_57
+  - first:
+      213: 8075946092849220903
+    second: Vegito_SSJ4_58
+  - first:
+      213: 481587026890037759
+    second: Vegito_SSJ4_59
+  - first:
+      213: 8307736390623052284
+    second: Vegito_SSJ4_60
+  - first:
+      213: -2181911966035927610
+    second: Vegito_SSJ4_61
+  - first:
+      213: 7336662584018344838
+    second: Vegito_SSJ4_62
+  - first:
+      213: 8874738015900178692
+    second: Vegito_SSJ4_63
+  - first:
+      213: -8890674470694719064
+    second: Vegito_SSJ4_64
+  - first:
+      213: 2368361365027285146
+    second: Vegito_SSJ4_65
+  - first:
+      213: -115850631650611577
+    second: Vegito_SSJ4_66
+  - first:
+      213: -1245927108201639500
+    second: Vegito_SSJ4_67
+  - first:
+      213: -7064414206718970546
+    second: Vegito_SSJ4_68
+  - first:
+      213: -4730897681009403662
+    second: Vegito_SSJ4_69
+  - first:
+      213: -7120857428917889032
+    second: Vegito_SSJ4_70
+  - first:
+      213: 7628937602060937219
+    second: Vegito_SSJ4_71
+  - first:
+      213: -8138122065375332281
+    second: Vegito_SSJ4_72
+  - first:
+      213: 2049617264098192891
+    second: Vegito_SSJ4_73
+  - first:
+      213: 5405309641879249057
+    second: Vegito_SSJ4_74
+  - first:
+      213: -8147439178377012821
+    second: Vegito_SSJ4_75
+  - first:
+      213: 8086611648773179100
+    second: Vegito_SSJ4_76
+  - first:
+      213: 7831908853542659419
+    second: Vegito_SSJ4_77
+  - first:
+      213: -2763229046149699472
+    second: Vegito_SSJ4_78
+  - first:
+      213: -7822304286738088919
+    second: Vegito_SSJ4_79
+  - first:
+      213: -8053611987794389688
+    second: Vegito_SSJ4_80
+  - first:
+      213: 6579774598171143444
+    second: Vegito_SSJ4_81
+  - first:
+      213: 8097923004390583211
+    second: Vegito_SSJ4_82
+  - first:
+      213: -9109887813377705680
+    second: Vegito_SSJ4_83
+  - first:
+      213: -5855182201806494675
+    second: Vegito_SSJ4_84
+  - first:
+      213: 2024030230202643963
+    second: Vegito_SSJ4_85
+  - first:
+      213: 5727911876212323080
+    second: Vegito_SSJ4_86
+  - first:
+      213: -5969893537630494017
+    second: Vegito_SSJ4_87
+  - first:
+      213: 6672751168464435186
+    second: Vegito_SSJ4_88
+  - first:
+      213: -2688286860094014902
+    second: Vegito_SSJ4_89
+  - first:
+      213: 970610763809684539
+    second: Vegito_SSJ4_90
+  - first:
+      213: 6542045969624725215
+    second: Vegito_SSJ4_91
+  - first:
+      213: -2921771327754467431
+    second: Vegito_SSJ4_92
+  - first:
+      213: 2403643268649402592
+    second: Vegito_SSJ4_93
+  - first:
+      213: 1192349704921845089
+    second: Vegito_SSJ4_94
+  - first:
+      213: 4634281731376617634
+    second: Vegito_SSJ4_95
+  - first:
+      213: 2836800188578093818
+    second: Vegito_SSJ4_96
+  - first:
+      213: -4160755734179157080
+    second: Vegito_SSJ4_97
+  - first:
+      213: 5068871895221665187
+    second: Vegito_SSJ4_98
+  - first:
+      213: 5827693428859613380
+    second: Vegito_SSJ4_99
+  - first:
+      213: 7999181511096488133
+    second: Vegito_SSJ4_100
+  - first:
+      213: -4980233504462426560
+    second: Vegito_SSJ4_101
+  - first:
+      213: -6398441868611894987
+    second: Vegito_SSJ4_102
+  - first:
+      213: 1897767004324314803
+    second: Vegito_SSJ4_103
+  - first:
+      213: -8883044975187570377
+    second: Vegito_SSJ4_104
+  - first:
+      213: 7539433800868315766
+    second: Vegito_SSJ4_105
+  - first:
+      213: -2772806222569372712
+    second: Vegito_SSJ4_106
+  - first:
+      213: 1724742832062327612
+    second: Vegito_SSJ4_107
+  - first:
+      213: 5484660995822250774
+    second: Vegito_SSJ4_108
+  - first:
+      213: 2253517369964987460
+    second: Vegito_SSJ4_109
+  - first:
+      213: -840375360437910538
+    second: Vegito_SSJ4_110
+  - first:
+      213: 6845335612568275170
+    second: Vegito_SSJ4_111
+  - first:
+      213: 2881876421261634335
+    second: Vegito_SSJ4_112
+  - first:
+      213: -7647494456575552225
+    second: Vegito_SSJ4_113
+  - first:
+      213: -2939195035172469511
+    second: Vegito_SSJ4_114
+  - first:
+      213: -13414355246077839
+    second: Vegito_SSJ4_115
+  - first:
+      213: -447733455293110899
+    second: Vegito_SSJ4_116
+  - first:
+      213: 8803154221470003921
+    second: Vegito_SSJ4_117
+  - first:
+      213: -367465888805672973
+    second: Vegito_SSJ4_118
+  - first:
+      213: 2027677137163201838
+    second: Vegito_SSJ4_119
+  - first:
+      213: 1545826227853557377
+    second: Vegito_SSJ4_120
+  - first:
+      213: -7282393734626771477
+    second: Vegito_SSJ4_121
+  - first:
+      213: -603951918835571615
+    second: Vegito_SSJ4_122
+  - first:
+      213: -5940530555879663869
+    second: Vegito_SSJ4_123
+  - first:
+      213: -7756499635154012763
+    second: Vegito_SSJ4_124
+  - first:
+      213: 2932957593779473959
+    second: Vegito_SSJ4_125
+  - first:
+      213: -4974718186574975068
+    second: Vegito_SSJ4_126
+  - first:
+      213: 3490865442261230437
+    second: Vegito_SSJ4_127
+  - first:
+      213: 1466332607072636625
+    second: Vegito_SSJ4_128
+  - first:
+      213: 4399569157362680695
+    second: Vegito_SSJ4_129
+  - first:
+      213: 4403600602235813513
+    second: Vegito_SSJ4_130
+  - first:
+      213: -283668145607524914
+    second: Vegito_SSJ4_131
+  - first:
+      213: -8329141732531439587
+    second: Vegito_SSJ4_132
+  - first:
+      213: 3598902185945976516
+    second: Vegito_SSJ4_133
+  - first:
+      213: 9027898958150653634
+    second: Vegito_SSJ4_134
+  - first:
+      213: -4980724479910576924
+    second: Vegito_SSJ4_135
+  - first:
+      213: 60148913051116967
+    second: Vegito_SSJ4_136
+  - first:
+      213: 4777973003557232051
+    second: Vegito_SSJ4_137
+  - first:
+      213: -7577733593100087406
+    second: Vegito_SSJ4_138
+  - first:
+      213: -4897427016957253170
+    second: Vegito_SSJ4_139
+  - first:
+      213: 8749342092862780441
+    second: Vegito_SSJ4_140
+  - first:
+      213: -9168281552220116502
+    second: Vegito_SSJ4_141
+  - first:
+      213: -3117735857433150441
+    second: Vegito_SSJ4_142
+  - first:
+      213: 536240686364576347
+    second: Vegito_SSJ4_143
+  - first:
+      213: 281446828944274439
+    second: Vegito_SSJ4_144
+  - first:
+      213: 6390672062625208137
+    second: Vegito_SSJ4_145
+  - first:
+      213: 3690344194851348633
+    second: Vegito_SSJ4_146
+  - first:
+      213: 9191241694223346027
+    second: Vegito_SSJ4_147
+  - first:
+      213: 4987308801513868227
+    second: Vegito_SSJ4_148
+  - first:
+      213: 8688621041494720566
+    second: Vegito_SSJ4_149
+  - first:
+      213: 6552195136641128746
+    second: Vegito_SSJ4_150
+  - first:
+      213: 6117693772534711807
+    second: Vegito_SSJ4_151
+  - first:
+      213: -740215605934120157
+    second: Vegito_SSJ4_152
+  - first:
+      213: -7603177821559337502
+    second: Vegito_SSJ4_153
+  - first:
+      213: -4570461115927019318
+    second: Vegito_SSJ4_154
+  - first:
+      213: -7785893551890431128
+    second: Vegito_SSJ4_155
+  - first:
+      213: 762926304560632459
+    second: Vegito_SSJ4_156
+  - first:
+      213: -8775088008772517291
+    second: Vegito_SSJ4_157
+  - first:
+      213: -8153784786598093687
+    second: Vegito_SSJ4_158
+  - first:
+      213: -9092017499608078840
+    second: Vegito_SSJ4_159
+  - first:
+      213: 5382776946385121721
+    second: Vegito_SSJ4_160
+  - first:
+      213: -3040880763752703249
+    second: Vegito_SSJ4_161
+  - first:
+      213: -4452117125339104199
+    second: Vegito_SSJ4_162
+  - first:
+      213: 1706157807820257997
+    second: Vegito_SSJ4_163
+  - first:
+      213: -6131912025380613956
+    second: Vegito_SSJ4_164
+  - first:
+      213: 3076510100933310465
+    second: Vegito_SSJ4_165
+  - first:
+      213: -862328359758393571
+    second: Vegito_SSJ4_166
+  - first:
+      213: 2342450363928777948
+    second: Vegito_SSJ4_167
+  - first:
+      213: 5558252036843552370
+    second: Vegito_SSJ4_168
+  - first:
+      213: -74360901693943272
+    second: Vegito_SSJ4_169
+  - first:
+      213: -6275013708638696713
+    second: Vegito_SSJ4_170
+  - first:
+      213: -5414059852604959354
+    second: Vegito_SSJ4_171
+  - first:
+      213: 8262794735021464361
+    second: Vegito_SSJ4_172
+  - first:
+      213: -4440222786187123231
+    second: Vegito_SSJ4_173
+  - first:
+      213: -4967042555712829807
+    second: Vegito_SSJ4_174
+  - first:
+      213: 7569417786968618665
+    second: Vegito_SSJ4_175
+  - first:
+      213: -7913497070650017434
+    second: Vegito_SSJ4_176
+  - first:
+      213: -8084233329460791207
+    second: Vegito_SSJ4_177
+  - first:
+      213: 3278295417983747791
+    second: Vegito_SSJ4_178
+  - first:
+      213: -3430351670371200623
+    second: Vegito_SSJ4_179
+  - first:
+      213: -3193809566773966131
+    second: Vegito_SSJ4_180
+  - first:
+      213: -8561264963111729417
+    second: Vegito_SSJ4_181
+  - first:
+      213: -2687315401415564814
+    second: Vegito_SSJ4_182
+  - first:
+      213: -469209001509899750
+    second: Vegito_SSJ4_183
+  - first:
+      213: -754128358538233031
+    second: Vegito_SSJ4_184
+  - first:
+      213: 5863592898967566633
+    second: Vegito_SSJ4_185
+  - first:
+      213: -9017066727611197270
+    second: Vegito_SSJ4_186
+  - first:
+      213: -8120639677253228459
+    second: Vegito_SSJ4_187
+  - first:
+      213: 8366066262707544151
+    second: Vegito_SSJ4_188
+  - first:
+      213: 7410191872826940538
+    second: Vegito_SSJ4_189
+  - first:
+      213: -3240289849988696094
+    second: Vegito_SSJ4_190
+  - first:
+      213: -8065500013486640941
+    second: Vegito_SSJ4_191
+  - first:
+      213: 6001033205808861676
+    second: Vegito_SSJ4_192
+  - first:
+      213: 7005597674610433781
+    second: Vegito_SSJ4_193
+  - first:
+      213: -4286640220794719975
+    second: Vegito_SSJ4_194
+  - first:
+      213: 7494597753654797005
+    second: Vegito_SSJ4_195
+  - first:
+      213: 7223207581115056140
+    second: Vegito_SSJ4_196
+  - first:
+      213: 6344650469276121709
+    second: Vegito_SSJ4_197
+  - first:
+      213: -8821693865209692469
+    second: Vegito_SSJ4_198
+  - first:
+      213: 1438094174813877014
+    second: Vegito_SSJ4_199
+  - first:
+      213: -3907618198995801452
+    second: Vegito_SSJ4_200
+  - first:
+      213: -5284210379790499229
+    second: Vegito_SSJ4_201
+  - first:
+      213: -289033593914670686
+    second: Vegito_SSJ4_202
+  - first:
+      213: 2197217844410860378
+    second: Vegito_SSJ4_203
+  - first:
+      213: -4935986299608474224
+    second: Vegito_SSJ4_204
+  - first:
+      213: -6132981144703178426
+    second: Vegito_SSJ4_205
+  - first:
+      213: 9198886517658136393
+    second: Vegito_SSJ4_206
+  - first:
+      213: -549247686936051537
+    second: Vegito_SSJ4_207
+  - first:
+      213: -5175232243406591728
+    second: Vegito_SSJ4_208
+  - first:
+      213: 7920474978810196737
+    second: Vegito_SSJ4_209
+  - first:
+      213: 8218727760590080470
+    second: Vegito_SSJ4_210
+  - first:
+      213: -8504847591283433190
+    second: Vegito_SSJ4_211
+  - first:
+      213: -1323045065741236668
+    second: Vegito_SSJ4_212
+  - first:
+      213: -9101050505581791302
+    second: Vegito_SSJ4_213
+  - first:
+      213: -1687533360285054634
+    second: Vegito_SSJ4_214
+  - first:
+      213: 7556170045036596213
+    second: Vegito_SSJ4_215
+  - first:
+      213: 5046300845225044734
+    second: Vegito_SSJ4_216
+  - first:
+      213: -2387559193853051651
+    second: Vegito_SSJ4_217
+  - first:
+      213: 8317768908456845307
+    second: Vegito_SSJ4_218
+  - first:
+      213: -2699927889184834082
+    second: Vegito_SSJ4_219
+  - first:
+      213: -7725824447344469261
+    second: Vegito_SSJ4_220
+  - first:
+      213: -8599411336915696095
+    second: Vegito_SSJ4_221
+  - first:
+      213: -8349864632712901427
+    second: Vegito_SSJ4_222
+  - first:
+      213: 3903831411768704689
+    second: Vegito_SSJ4_223
+  - first:
+      213: 7370676139114542774
+    second: Vegito_SSJ4_224
+  - first:
+      213: -625180671903944886
+    second: Vegito_SSJ4_225
+  - first:
+      213: -5092131019224523284
+    second: Vegito_SSJ4_226
+  - first:
+      213: 7469339642863852465
+    second: Vegito_SSJ4_227
+  - first:
+      213: -234432922686315309
+    second: Vegito_SSJ4_228
+  - first:
+      213: -2461779171238379258
+    second: Vegito_SSJ4_229
+  - first:
+      213: 8496154908589963480
+    second: Vegito_SSJ4_230
+  - first:
+      213: -5470208287119778202
+    second: Vegito_SSJ4_231
+  - first:
+      213: -4606267624505033079
+    second: Vegito_SSJ4_232
+  - first:
+      213: -5366497033972327765
+    second: Vegito_SSJ4_233
+  - first:
+      213: -3981771887365661306
+    second: Vegito_SSJ4_234
+  - first:
+      213: -3320038213412122137
+    second: Vegito_SSJ4_235
+  - first:
+      213: 4991919246541462800
+    second: Vegito_SSJ4_236
+  - first:
+      213: -705797168031081164
+    second: Vegito_SSJ4_237
+  - first:
+      213: -9156859843991190085
+    second: Vegito_SSJ4_238
+  - first:
+      213: 1648473589603930698
+    second: Vegito_SSJ4_239
+  - first:
+      213: -4490362882770892730
+    second: Vegito_SSJ4_240
+  - first:
+      213: 7006773467620679506
+    second: Vegito_SSJ4_241
+  - first:
+      213: 7593392355863284726
+    second: Vegito_SSJ4_242
+  - first:
+      213: -6365151351789974091
+    second: Vegito_SSJ4_243
+  - first:
+      213: 3016163329149524076
+    second: Vegito_SSJ4_244
+  - first:
+      213: -247186931323126879
+    second: Vegito_SSJ4_245
+  - first:
+      213: -7365985379472260853
+    second: Vegito_SSJ4_246
+  - first:
+      213: 6421689916378368505
+    second: Vegito_SSJ4_247
+  - first:
+      213: -4567648043705492350
+    second: Vegito_SSJ4_248
+  - first:
+      213: -2469268315992343960
+    second: Vegito_SSJ4_249
+  - first:
+      213: -6462837172498315465
+    second: Vegito_SSJ4_250
+  - first:
+      213: 5011987433221986566
+    second: Vegito_SSJ4_251
+  - first:
+      213: -9162964170360047280
+    second: Vegito_SSJ4_252
+  - first:
+      213: -362423460251108632
+    second: Vegito_SSJ4_253
+  - first:
+      213: 7966936536252049123
+    second: Vegito_SSJ4_254
+  - first:
+      213: -4625627115897374322
+    second: Vegito_SSJ4_255
+  - first:
+      213: -1909315532527623487
+    second: Vegito_SSJ4_256
+  - first:
+      213: 1082312610619238689
+    second: Vegito_SSJ4_257
+  - first:
+      213: 6920661005703122761
+    second: Vegito_SSJ4_258
+  - first:
+      213: 226074955673901038
+    second: Vegito_SSJ4_259
+  - first:
+      213: -7704122398341563108
+    second: Vegito_SSJ4_260
+  - first:
+      213: 6738191977013022292
+    second: Vegito_SSJ4_261
+  - first:
+      213: -2636823414724604949
+    second: Vegito_SSJ4_262
+  - first:
+      213: 69092672598483090
+    second: Vegito_SSJ4_263
+  - first:
+      213: 7541657782345282566
+    second: Vegito_SSJ4_264
+  - first:
+      213: -8846093217606269826
+    second: Vegito_SSJ4_265
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegito_SSJ4_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2298
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389cc51e0acdfc710800000000000000
+      internalID: 1715832566585280899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2298
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacc55a03892906c0800000000000000
+      internalID: -4176761536618574674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2299
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2c8836bfe70220800000000000000
+      internalID: 2452192088038321699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2300
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc582fdf9f5b430800000000000000
+      internalID: 3798216729847778498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2299
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c7723838afdc9b0800000000000000
+      internalID: -5058111363719136161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2299
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f6f530de8755bc0800000000000000
+      internalID: -3794994151630606578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2300
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc7aadcedc1e5c50800000000000000
+      internalID: 6655789042558991561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2301
+        width: 113
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9500bda5322ae0800000000000000
+      internalID: -1575637899527480336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2299
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcdd86395a86d280800000000000000
+      internalID: -9018869087990850370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_16
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2301
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd78c2f985e29750800000000000000
+      internalID: 6310358408545992119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2300
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a02f6aaa523df0800000000000000
+      internalID: -201999345222900684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2208
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e36a27ea6a8c980800000000000000
+      internalID: -8518375426993275254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2210
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccda7a00e342452f0800000000000000
+      internalID: -985122569769734708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2226
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450023a6eaf7f8260800000000000000
+      internalID: 7102035524469260372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2211
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8cface05dfc8170800000000000000
+      internalID: 8182193147035502809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2142
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c113082c0ff6950800000000000000
+      internalID: 6444634309955492923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2142
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48318925, y: 0.570545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33326101aac0e4080800000000000000
+      internalID: -9201403064117484749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2143
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19215cbdd14836df0800000000000000
+      internalID: -188161495643385199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2150
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e550e2d0b856cc0800000000000000
+      internalID: -3718413028601536996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2153
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0b507cc5c3de250800000000000000
+      internalID: 5975498649764212985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2161
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88098de42f992d180800000000000000
+      internalID: -9092035431723659128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2142
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d74757bfb147a0800000000000000
+      internalID: -6394619201725148554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2142
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdeb0c65dbe2e870800000000000000
+      internalID: 8710783931161243067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2153
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d6fc38361638fe0800000000000000
+      internalID: -1187998796654613220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2142
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed728be36f97b50800000000000000
+      internalID: 6591570278871457455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_34
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2142
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbf3f9f0c8098c0800000000000000
+      internalID: -3994538870753477671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2142
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5675ed6ae4ea8e920800000000000000
+      internalID: 3019855202982188901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2158
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746f2cde0eea30ac0800000000000000
+      internalID: -3890073372033092025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2142
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae36d2de5432d770800000000000000
+      internalID: 8634021017491488418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2142
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54887dc7f8bae0c90800000000000000
+      internalID: -7201630121355671483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_39
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2144
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c3c66fa63bec00800000000000000
+      internalID: 930897874953421060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_40
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2150
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2ace58837915600800000000000000
+      internalID: 455311306361971371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2160
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdfc4147ad87dcf0800000000000000
+      internalID: -227557506664301119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2070
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd8d0049b1f91140800000000000000
+      internalID: 4691046264828956100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2070
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebf092e61828e20800000000000000
+      internalID: 3351383382852353616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2073
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4332551d961a6b0800000000000000
+      internalID: -5286828139758799678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2070
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd3da0ec397cbd0800000000000000
+      internalID: -2609954945883709594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2071
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066b89a0eddbe9280800000000000000
+      internalID: -9034575041100466592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2070
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e59bbfb334f6e160800000000000000
+      internalID: 7054594369419711977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2078
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07128cddda51ef80800000000000000
+      internalID: -8079076347592173812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2070
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f5205c31dac9c0800000000000000
+      internalID: -3906079669817577077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2073
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d150c6ae836730800000000000000
+      internalID: 3991190541622694289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_51
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2078
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f33a55c195a9b0800000000000000
+      internalID: -5069485528727686487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_53
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2081
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac317f57feefde80800000000000000
+      internalID: -8151534054291719001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_55
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2078
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a517f37229b3ba230800000000000000
+      internalID: 3651077421823652186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_56
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2078
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975effae6d14695e0800000000000000
+      internalID: -1903261401196010119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_57
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2070
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fefcb49d0e42a4b0800000000000000
+      internalID: -5430692380418441479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_58
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2070
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d4b79ee26831070800000000000000
+      internalID: 8075946092849220903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_59
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2070
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9973279d0fea600800000000000000
+      internalID: 481587026890037759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2011
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14ca22b320b4370800000000000000
+      internalID: 8307736390623052284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2012
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd114d80aa48b1e0800000000000000
+      internalID: -2181911966035927610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2012
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1055bfbf01d560800000000000000
+      internalID: 7336662584018344838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2011
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40992608437692b70800000000000000
+      internalID: 8874738015900178692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2008
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a17b987caafd9480800000000000000
+      internalID: -8890674470694719064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2011
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e5360d1c1ed020800000000000000
+      internalID: 2368361365027285146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2011
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee57dd67a646ef0800000000000000
+      internalID: -115850631650611577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2009
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b19c9375e395bee0800000000000000
+      internalID: -1245927108201639500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2011
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fa4635b826fd90800000000000000
+      internalID: -7064414206718970546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2011
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f817bedf99785eb0800000000000000
+      internalID: -4730897681009403662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_70
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2009
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d52575e1ad2d90800000000000000
+      internalID: -7120857428917889032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2014
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3086678445e6fd960800000000000000
+      internalID: 7628937602060937219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_72
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2014
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748f88269159f0f80800000000000000
+      internalID: -8138122065375332281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_73
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2013
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfda418da04b17c10800000000000000
+      internalID: 2049617264098192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_74
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2014
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e4311b74830b40800000000000000
+      internalID: 5405309641879249057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_75
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2015
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dcb7fb3b7eee80800000000000000
+      internalID: -8147439178377012821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1940
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd649a9237a693070800000000000000
+      internalID: 8086611648773179100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_77
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1940
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a5a86b9780bc60800000000000000
+      internalID: 7831908853542659419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_78
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1940
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a43f92d907a9d0800000000000000
+      internalID: -2763229046149699472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1934
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf5ff02b7917390800000000000000
+      internalID: -7822304286738088919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1939
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84510b42192db3090800000000000000
+      internalID: -8053611987794389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1940
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d212ac22e005b50800000000000000
+      internalID: 6579774598171143444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1939
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2a2f511a916070800000000000000
+      internalID: 8097923004390583211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_83
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1939
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03936fbcc4d239180800000000000000
+      internalID: -9109887813377705680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_84
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1939
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24622e3fc63ebea0800000000000000
+      internalID: -5855182201806494675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1870
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf571e545ccc61c10800000000000000
+      internalID: 2024030230202643963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1872
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803706ee081ad7f40800000000000000
+      internalID: 5727911876212323080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1870
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb262a6157da62da0800000000000000
+      internalID: -5969893537630494017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_88
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1870
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f735ee75df5a9c50800000000000000
+      internalID: 6672751168464435186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1869
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4afeb9085941bad0800000000000000
+      internalID: -2688286860094014902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1890
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cfb00e85d487d00800000000000000
+      internalID: 970610763809684539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_91
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1870
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f1cbe5240aca50800000000000000
+      internalID: 6542045969624725215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_92
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1870
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99706462578c377d0800000000000000
+      internalID: -2921771327754467431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_93
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1888
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e04b9a51d47b5120800000000000000
+      internalID: 2403643268649402592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_94
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1784
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d88e14db31c8010800000000000000
+      internalID: 1192349704921845089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1782
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a819c36ea6405040800000000000000
+      internalID: 4634281731376617634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1774
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa55f2ddb65e5720800000000000000
+      internalID: 2836800188578093818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1774
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe41354b60246c0800000000000000
+      internalID: -4160755734179157080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_98
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1782
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf5a6f120485640800000000000000
+      internalID: 5068871895221665187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_99
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1790
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c03e0f0c4020e050800000000000000
+      internalID: 5827693428859613380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_100
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1803
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c057cee33dc20f60800000000000000
+      internalID: 7999181511096488133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1818
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea40c9308a2eab0800000000000000
+      internalID: -4980233504462426560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_102
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1812
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531c669550b2437a0800000000000000
+      internalID: -6398441868611894987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_103
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1783
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be353f1909365a10800000000000000
+      internalID: 1897767004324314803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_104
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1784
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7315022d8a519b480800000000000000
+      internalID: -8883044975187570377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_105
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1782
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6724454a81371a860800000000000000
+      internalID: 7539433800868315766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_106
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1786
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d382c87e630589d0800000000000000
+      internalID: -2772806222569372712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_107
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1777
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be9f9b7748fe710800000000000000
+      internalID: 1724742832062327612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_110
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1798
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38b1bef036654f0800000000000000
+      internalID: -840375360437910538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_111
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1828
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88673b8748ffe50800000000000000
+      internalID: 6845335612568275170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_112
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1803
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bafd7165b7ef720800000000000000
+      internalID: 2881876421261634335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_113
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1798
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f159b065f44aed590800000000000000
+      internalID: -7647494456575552225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_114
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1788
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f404f220b1e537d0800000000000000
+      internalID: -2939195035172469511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_115
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1804
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178aaa807b750dff0800000000000000
+      internalID: -13414355246077839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1790
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85223b6bc459c9f0800000000000000
+      internalID: -447733455293110899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_117
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d233b19f161b2a70800000000000000
+      internalID: 8803154221470003921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_118
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1785
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f72aa698bf76eaf0800000000000000
+      internalID: -367465888805672973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_119
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1788
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2bc7fc91c32c10800000000000000
+      internalID: 2027677137163201838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_120
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1750
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e71bb93c0e37510800000000000000
+      internalID: 1545826227853557377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_121
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1665
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed7a0d6b7dbfea90800000000000000
+      internalID: -7282393734626771477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_122
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1662
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164e3600ee45e97f0800000000000000
+      internalID: -603951918835571615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1662
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30750770feefe8da0800000000000000
+      internalID: -5940530555879663869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_124
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1662
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b2327da06b5490800000000000000
+      internalID: -7756499635154012763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_125
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1665
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e828e5465f3b820800000000000000
+      internalID: 2932957593779473959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_126
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1633
+        width: 155
+        height: 123
+      alignment: 9
+      pivot: {x: 0.124271244, y: 0.4892322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe58f9a2046fab0800000000000000
+      internalID: -4974718186574975068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_127
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1510
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563eaa4df9b027030800000000000000
+      internalID: 3490865442261230437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_128
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1510
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0327bcb5795410800000000000000
+      internalID: 1466332607072636625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_129
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1518
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7730e55b6d86e0d30800000000000000
+      internalID: 4399569157362680695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_130
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1518
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e36fc9a6bbc1d30800000000000000
+      internalID: 4403600602235813513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1493
+        width: 130
+        height: 101
+      alignment: 9
+      pivot: {x: 0.19532038, y: 0.49999878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd38f21355301cf0800000000000000
+      internalID: -283668145607524914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1374
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f49459b1f86c80800000000000000
+      internalID: -8329141732531439587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1366
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cecfa6687ed1f130800000000000000
+      internalID: 3598902185945976516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_134
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1366
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c650b4454a894d70800000000000000
+      internalID: 9027898958150653634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_135
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1366
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec76da7979e0eab0800000000000000
+      internalID: -4980724479910576924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_136
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1366
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a9042e11b5d000800000000000000
+      internalID: 60148913051116967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_137
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1366
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5f67c125ce4240800000000000000
+      internalID: 4777973003557232051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_138
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1366
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f89b4127b76d690800000000000000
+      internalID: -7577733593100087406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_139
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1361
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9acd46318d80cb0800000000000000
+      internalID: -4897427016957253170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_140
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1366
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91475770748eb6970800000000000000
+      internalID: 8749342092862780441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_141
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1180
+        width: 215
+        height: 160
+      alignment: 9
+      pivot: {x: 0.24465048, y: 0.5562798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9272ff088b3c080800000000000000
+      internalID: -9168281552220116502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_142
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1183
+        width: 215
+        height: 160
+      alignment: 9
+      pivot: {x: 0.26773256, y: 0.53854066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf23291c39bb4d0800000000000000
+      internalID: -3117735857433150441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_143
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1102
+        width: 496
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4fd8201c117700800000000000000
+      internalID: 536240686364576347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_144
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1102
+        width: 199
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70432665666e7e300800000000000000
+      internalID: 281446828944274439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_145
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1018
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947d9c8b16a30b850800000000000000
+      internalID: 6390672062625208137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_146
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1034
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9902a013e7cb63330800000000000000
+      internalID: 3690344194851348633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_147
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1038
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6921f4af99dd8f70800000000000000
+      internalID: 9191241694223346027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_148
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1033
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc96b5eea763540800000000000000
+      internalID: 4987308801513868227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_149
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1008
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630074e8dce249870800000000000000
+      internalID: 8688621041494720566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_150
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 951
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29598203c21eea50800000000000000
+      internalID: 6552195136641128746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_151
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1018
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff50d8cb21a66e450800000000000000
+      internalID: 6117693772534711807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_152
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 942
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323a81704d93ab5f0800000000000000
+      internalID: -740215605934120157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_153
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 934
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc3ddfd061c7690800000000000000
+      internalID: -7603177821559337502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_154
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 932
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac04f6594d57290c0800000000000000
+      internalID: -4570461115927019318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_155
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 937
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630194e013f2f390800000000000000
+      internalID: -7785893551890431128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_156
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1018
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82532d8e65769a00800000000000000
+      internalID: 762926304560632459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_157
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1021
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552035cc2ff983680800000000000000
+      internalID: -8775088008772517291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_158
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1012
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c16dbefefe7de80800000000000000
+      internalID: -8153784786598093687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_159
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1026
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a934714aa2d180800000000000000
+      internalID: -9092017499608078840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 957
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b172721d1773ba40800000000000000
+      internalID: 5382776946385121721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_161
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 950
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea93308e0f9cc5d0800000000000000
+      internalID: -3040880763752703249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_162
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 950
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cbab51017e632c0800000000000000
+      internalID: -4452117125339104199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_163
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 951
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab2e19c7d7da710800000000000000
+      internalID: 1706157807820257997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_164
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01e3d408217eaa0800000000000000
+      internalID: -6131912025380613956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_165
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 981
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108f70203a5f1ba20800000000000000
+      internalID: 3076510100933310465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_166
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1018
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0bd4fce46804f0800000000000000
+      internalID: -862328359758393571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_167
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1014
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd495f5f13e028020800000000000000
+      internalID: 2342450363928777948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_168
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 957
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eb62457c0e22d40800000000000000
+      internalID: 5558252036843552370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_169
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1002
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812da556721d7fef0800000000000000
+      internalID: -74360901693943272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 974
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa42e7474caae8a0800000000000000
+      internalID: -6275013708638696713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_171
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 957
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68517ccbf356dd4b0800000000000000
+      internalID: -5414059852604959354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_172
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 998
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1ce888085ba270800000000000000
+      internalID: 8262794735021464361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_173
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 999
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a8b9b6e82162c0800000000000000
+      internalID: -4440222786187123231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_174
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1007
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960d72bc15811bb0800000000000000
+      internalID: -4967042555712829807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_175
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 995
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6b9cc6f59fb0960800000000000000
+      internalID: 7569417786968618665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_176
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 996
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bfcc775c9d2290800000000000000
+      internalID: -7913497070650017434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_177
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 989
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958bd147e980fcf80800000000000000
+      internalID: -8084233329460791207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_178
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 976
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc646b14058de7d20800000000000000
+      internalID: 3278295417983747791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 969
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915bd0a451f460d0800000000000000
+      internalID: -3430351670371200623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_180
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 970
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca813cde1f4da3d0800000000000000
+      internalID: -3193809566773966131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_181
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 984
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64ab520e6403980800000000000000
+      internalID: -8561264963111729417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_182
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 976
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1603361ecb4bad0800000000000000
+      internalID: -2687315401415564814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_183
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 991
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12369b26e80d79f0800000000000000
+      internalID: -469209001509899750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_184
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 980
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb742e04cc885f0800000000000000
+      internalID: -754128358538233031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_185
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 975
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929f67accaaaf5150800000000000000
+      internalID: 5863592898967566633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_186
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 989
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89db0f591fcd280800000000000000
+      internalID: -9017066727611197270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_187
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 969
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e0601d31bd4f80800000000000000
+      internalID: -8120639677253228459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_188
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 947
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750201cc0fc3a1470800000000000000
+      internalID: 8366066262707544151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_189
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 983
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c16595f3a46d660800000000000000
+      internalID: 7410191872826940538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_190
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 976
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7be1a9c8d2803d0800000000000000
+      internalID: -3240289849988696094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_191
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 986
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d078387876911090800000000000000
+      internalID: -8065500013486640941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_192
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 974
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce19f85e7e3f74350800000000000000
+      internalID: 6001033205808861676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_193
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 952
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe1572c7f1e83160800000000000000
+      internalID: 7005597674610433781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_194
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 981
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f0a74e6bc284c0800000000000000
+      internalID: -4286640220794719975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_195
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 972
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e809e2f8220860800000000000000
+      internalID: 7494597753654797005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_196
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 976
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00854b560dfd3460800000000000000
+      internalID: 7223207581115056140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_197
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 966
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6af7358cf9bc0850800000000000000
+      internalID: 6344650469276121709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_198
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 962
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcefeee3b2c039580800000000000000
+      internalID: -8821693865209692469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_199
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 957
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f65b580325f310800000000000000
+      internalID: 1438094174813877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_200
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 968
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae00393f955c9c0800000000000000
+      internalID: -3907618198995801452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_201
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 958
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c72218a6baa6b0800000000000000
+      internalID: -5284210379790499229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_202
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 960
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1cf8a4a752dfbf0800000000000000
+      internalID: -289033593914670686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_203
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 966
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534246fcf51e7e10800000000000000
+      internalID: 2197217844410860378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_204
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 942
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d54abcc9adf7bb0800000000000000
+      internalID: -4935986299608474224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_205
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 960
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496ccf842643eaa0800000000000000
+      internalID: -6132981144703178426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_206
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 954
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa42ecc8209af70800000000000000
+      internalID: 9198886517658136393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_207
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 950
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0c876832ea068f0800000000000000
+      internalID: -549247686936051537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_208
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 953
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192a95b1b1ed28b0800000000000000
+      internalID: -5175232243406591728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_209
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 942
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f95c570e2bed60800000000000000
+      internalID: 7920474978810196737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_210
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 944
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90d938a59ce0270800000000000000
+      internalID: 8218727760590080470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_211
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 934
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11e6b42d26b8f980800000000000000
+      internalID: -8504847591283433190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_212
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 921
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44609a2c58993ade0800000000000000
+      internalID: -1323045065741236668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_213
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 934
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab778ebd8c292b180800000000000000
+      internalID: -9101050505581791302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_214
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 942
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598699895da498e0800000000000000
+      internalID: -1687533360285054634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_215
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 934
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8ad42f98ecd860800000000000000
+      internalID: 7556170045036596213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_216
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 926
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa646dd1ef080640800000000000000
+      internalID: 5046300845225044734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_217
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbb22209fadded0800000000000000
+      internalID: -2387559193853051651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_218
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 933
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffdb58b0c6ae6370800000000000000
+      internalID: 8317768908456845307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_219
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 911
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb7fdb3ede78ad0800000000000000
+      internalID: -2699927889184834082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_220
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 774
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa110b299b58c490800000000000000
+      internalID: -7725824447344469261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_221
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 769
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264ca163f0c8a880800000000000000
+      internalID: -8599411336915696095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_222
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 768
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcccc842b525f1c80800000000000000
+      internalID: -8349864632712901427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_223
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 766
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be3c715cf13d2630800000000000000
+      internalID: 3903831411768704689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_224
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 768
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6be52a5e6e94660800000000000000
+      internalID: 7370676139114542774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_225
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 790
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa9b2cd79e257f0800000000000000
+      internalID: -625180671903944886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_226
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 773
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceddf5931dd1559b0800000000000000
+      internalID: -5092131019224523284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_227
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 743
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb94a7b4dc68a760800000000000000
+      internalID: 7469339642863852465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_228
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 742
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d420a7bf702fbcf0800000000000000
+      internalID: -234432922686315309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_229
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 742
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60181e603e006ddd0800000000000000
+      internalID: -2461779171238379258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_230
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 598
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83233ffd768e570800000000000000
+      internalID: 8496154908589963480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_231
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 594
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ed3d69b8ae514b0800000000000000
+      internalID: -5470208287119778202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_232
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 646
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ebef420004310c0800000000000000
+      internalID: -4606267624505033079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_233
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 582
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa54e9616f5685b0800000000000000
+      internalID: -5366497033972327765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_234
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 590
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ddee49097edb8c0800000000000000
+      internalID: -3981771887365661306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_235
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 598
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e119d0d5dadce1d0800000000000000
+      internalID: -3320038213412122137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_236
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 598
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1a8d3b1cd64540800000000000000
+      internalID: 4991919246541462800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_237
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 566
+        width: 345
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd70417318436f0800000000000000
+      internalID: -705797168031081164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 614
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5cddcac7c4ce080800000000000000
+      internalID: -9156859843991190085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_239
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4294f9eefd80e610800000000000000
+      internalID: 1648473589603930698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_240
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 622
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64887d3cfb60fa1c0800000000000000
+      internalID: -4490362882770892730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_241
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 610
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9927685f0d3160800000000000000
+      internalID: 7006773467620679506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_242
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 590
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc56bbd16216960800000000000000
+      internalID: 7593392355863284726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_243
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 598
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd06fec1907aa7a0800000000000000
+      internalID: -6365151351789974091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_244
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 586
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68548a41909bd920800000000000000
+      internalID: 3016163329149524076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_245
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 583
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abbd5dabc0d19cf0800000000000000
+      internalID: -247186931323126879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_246
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 358
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c5d3f253c6c990800000000000000
+      internalID: -7365985379472260853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_247
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c07394fc6e1950800000000000000
+      internalID: 6421689916378368505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_248
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 350
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1deffd447c90c0800000000000000
+      internalID: -4567648043705492350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_249
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 359
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3622ac856bbdd0800000000000000
+      internalID: -2469268315992343960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_250
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 359
+        width: 39
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374c0c45d36f46a0800000000000000
+      internalID: -6462837172498315465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_251
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 358
+        width: 41
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6091bef04082e8540800000000000000
+      internalID: 5011987433221986566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_252
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059be0072ac96d080800000000000000
+      internalID: -9162964170360047280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_253
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 327
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaf67978c968faf0800000000000000
+      internalID: -362423460251108632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_254
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 318
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6626fa19e309e60800000000000000
+      internalID: 7966936536252049123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_255
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 326
+        width: 95
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b58d45a87ecfb0800000000000000
+      internalID: -4625627115897374322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_256
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 326
+        width: 90
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22e8f93afb085e0800000000000000
+      internalID: -1909315532527623487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_257
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 198
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a2e3c595250f00800000000000000
+      internalID: 1082312610619238689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_258
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f05d774802b0060800000000000000
+      internalID: 6920661005703122761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_259
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 199
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee71e8179fd232300800000000000000
+      internalID: 226074955673901038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_260
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 214
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d78b43f75751590800000000000000
+      internalID: -7704122398341563108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_261
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 198
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e8f3217edd28d50800000000000000
+      internalID: 6738191977013022292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_262
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb48e5231f186bd0800000000000000
+      internalID: -2636823414724604949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_263
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 199
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a0de6b6775f000800000000000000
+      internalID: 69092672598483090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_264
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 199
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604304eabc959a860800000000000000
+      internalID: 7541657782345282566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegito_SSJ4_265
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 198
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e740692561d5c3580800000000000000
+      internalID: -8846093217606269826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06bbaad61b7414643901b0668cdc0603
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vegito_SSJ4_0: 1715832566585280899
+      Vegito_SSJ4_1: 6340623271830148569
+      Vegito_SSJ4_10: 6655789042558991561
+      Vegito_SSJ4_100: 7999181511096488133
+      Vegito_SSJ4_101: -4980233504462426560
+      Vegito_SSJ4_102: -6398441868611894987
+      Vegito_SSJ4_103: 1897767004324314803
+      Vegito_SSJ4_104: -8883044975187570377
+      Vegito_SSJ4_105: 7539433800868315766
+      Vegito_SSJ4_106: -2772806222569372712
+      Vegito_SSJ4_107: 1724742832062327612
+      Vegito_SSJ4_108: 5484660995822250774
+      Vegito_SSJ4_109: 2253517369964987460
+      Vegito_SSJ4_11: 6062704800549756814
+      Vegito_SSJ4_110: -840375360437910538
+      Vegito_SSJ4_111: 6845335612568275170
+      Vegito_SSJ4_112: 2881876421261634335
+      Vegito_SSJ4_113: -7647494456575552225
+      Vegito_SSJ4_114: -2939195035172469511
+      Vegito_SSJ4_115: -13414355246077839
+      Vegito_SSJ4_116: -447733455293110899
+      Vegito_SSJ4_117: 8803154221470003921
+      Vegito_SSJ4_118: -367465888805672973
+      Vegito_SSJ4_119: 2027677137163201838
+      Vegito_SSJ4_12: -1575637899527480336
+      Vegito_SSJ4_120: 1545826227853557377
+      Vegito_SSJ4_121: -7282393734626771477
+      Vegito_SSJ4_122: -603951918835571615
+      Vegito_SSJ4_123: -5940530555879663869
+      Vegito_SSJ4_124: -7756499635154012763
+      Vegito_SSJ4_125: 2932957593779473959
+      Vegito_SSJ4_126: -4974718186574975068
+      Vegito_SSJ4_127: 3490865442261230437
+      Vegito_SSJ4_128: 1466332607072636625
+      Vegito_SSJ4_129: 4399569157362680695
+      Vegito_SSJ4_13: -9018869087990850370
+      Vegito_SSJ4_130: 4403600602235813513
+      Vegito_SSJ4_131: -283668145607524914
+      Vegito_SSJ4_132: -8329141732531439587
+      Vegito_SSJ4_133: 3598902185945976516
+      Vegito_SSJ4_134: 9027898958150653634
+      Vegito_SSJ4_135: -4980724479910576924
+      Vegito_SSJ4_136: 60148913051116967
+      Vegito_SSJ4_137: 4777973003557232051
+      Vegito_SSJ4_138: -7577733593100087406
+      Vegito_SSJ4_139: -4897427016957253170
+      Vegito_SSJ4_14: 8204574059155186656
+      Vegito_SSJ4_140: 8749342092862780441
+      Vegito_SSJ4_141: -9168281552220116502
+      Vegito_SSJ4_142: -3117735857433150441
+      Vegito_SSJ4_143: 536240686364576347
+      Vegito_SSJ4_144: 281446828944274439
+      Vegito_SSJ4_145: 6390672062625208137
+      Vegito_SSJ4_146: 3690344194851348633
+      Vegito_SSJ4_147: 9191241694223346027
+      Vegito_SSJ4_148: 4987308801513868227
+      Vegito_SSJ4_149: 8688621041494720566
+      Vegito_SSJ4_15: 1419328059780950951
+      Vegito_SSJ4_150: 6552195136641128746
+      Vegito_SSJ4_151: 6117693772534711807
+      Vegito_SSJ4_152: -740215605934120157
+      Vegito_SSJ4_153: -7603177821559337502
+      Vegito_SSJ4_154: -4570461115927019318
+      Vegito_SSJ4_155: -7785893551890431128
+      Vegito_SSJ4_156: 762926304560632459
+      Vegito_SSJ4_157: -8775088008772517291
+      Vegito_SSJ4_158: -8153784786598093687
+      Vegito_SSJ4_159: -9092017499608078840
+      Vegito_SSJ4_16: 6310358408545992119
+      Vegito_SSJ4_160: 5382776946385121721
+      Vegito_SSJ4_161: -3040880763752703249
+      Vegito_SSJ4_162: -4452117125339104199
+      Vegito_SSJ4_163: 1706157807820257997
+      Vegito_SSJ4_164: -6131912025380613956
+      Vegito_SSJ4_165: 3076510100933310465
+      Vegito_SSJ4_166: -862328359758393571
+      Vegito_SSJ4_167: 2342450363928777948
+      Vegito_SSJ4_168: 5558252036843552370
+      Vegito_SSJ4_169: -74360901693943272
+      Vegito_SSJ4_17: -2528859159196494961
+      Vegito_SSJ4_170: -6275013708638696713
+      Vegito_SSJ4_171: -5414059852604959354
+      Vegito_SSJ4_172: 8262794735021464361
+      Vegito_SSJ4_173: -4440222786187123231
+      Vegito_SSJ4_174: -4967042555712829807
+      Vegito_SSJ4_175: 7569417786968618665
+      Vegito_SSJ4_176: -7913497070650017434
+      Vegito_SSJ4_177: -8084233329460791207
+      Vegito_SSJ4_178: 3278295417983747791
+      Vegito_SSJ4_179: -3430351670371200623
+      Vegito_SSJ4_18: -201999345222900684
+      Vegito_SSJ4_180: -3193809566773966131
+      Vegito_SSJ4_181: -8561264963111729417
+      Vegito_SSJ4_182: -2687315401415564814
+      Vegito_SSJ4_183: -469209001509899750
+      Vegito_SSJ4_184: -754128358538233031
+      Vegito_SSJ4_185: 5863592898967566633
+      Vegito_SSJ4_186: -9017066727611197270
+      Vegito_SSJ4_187: -8120639677253228459
+      Vegito_SSJ4_188: 8366066262707544151
+      Vegito_SSJ4_189: 7410191872826940538
+      Vegito_SSJ4_19: -8518375426993275254
+      Vegito_SSJ4_190: -3240289849988696094
+      Vegito_SSJ4_191: -8065500013486640941
+      Vegito_SSJ4_192: 6001033205808861676
+      Vegito_SSJ4_193: 7005597674610433781
+      Vegito_SSJ4_194: -4286640220794719975
+      Vegito_SSJ4_195: 7494597753654797005
+      Vegito_SSJ4_196: 7223207581115056140
+      Vegito_SSJ4_197: 6344650469276121709
+      Vegito_SSJ4_198: -8821693865209692469
+      Vegito_SSJ4_199: 1438094174813877014
+      Vegito_SSJ4_2: -4176761536618574674
+      Vegito_SSJ4_20: -985122569769734708
+      Vegito_SSJ4_200: -3907618198995801452
+      Vegito_SSJ4_201: -5284210379790499229
+      Vegito_SSJ4_202: -289033593914670686
+      Vegito_SSJ4_203: 2197217844410860378
+      Vegito_SSJ4_204: -4935986299608474224
+      Vegito_SSJ4_205: -6132981144703178426
+      Vegito_SSJ4_206: 9198886517658136393
+      Vegito_SSJ4_207: -549247686936051537
+      Vegito_SSJ4_208: -5175232243406591728
+      Vegito_SSJ4_209: 7920474978810196737
+      Vegito_SSJ4_21: 7102035524469260372
+      Vegito_SSJ4_210: 8218727760590080470
+      Vegito_SSJ4_211: -8504847591283433190
+      Vegito_SSJ4_212: -1323045065741236668
+      Vegito_SSJ4_213: -9101050505581791302
+      Vegito_SSJ4_214: -1687533360285054634
+      Vegito_SSJ4_215: 7556170045036596213
+      Vegito_SSJ4_216: 5046300845225044734
+      Vegito_SSJ4_217: -2387559193853051651
+      Vegito_SSJ4_218: 8317768908456845307
+      Vegito_SSJ4_219: -2699927889184834082
+      Vegito_SSJ4_22: 8182193147035502809
+      Vegito_SSJ4_220: -7725824447344469261
+      Vegito_SSJ4_221: -8599411336915696095
+      Vegito_SSJ4_222: -8349864632712901427
+      Vegito_SSJ4_223: 3903831411768704689
+      Vegito_SSJ4_224: 7370676139114542774
+      Vegito_SSJ4_225: -625180671903944886
+      Vegito_SSJ4_226: -5092131019224523284
+      Vegito_SSJ4_227: 7469339642863852465
+      Vegito_SSJ4_228: -234432922686315309
+      Vegito_SSJ4_229: -2461779171238379258
+      Vegito_SSJ4_23: 6444634309955492923
+      Vegito_SSJ4_230: 8496154908589963480
+      Vegito_SSJ4_231: -5470208287119778202
+      Vegito_SSJ4_232: -4606267624505033079
+      Vegito_SSJ4_233: -5366497033972327765
+      Vegito_SSJ4_234: -3981771887365661306
+      Vegito_SSJ4_235: -3320038213412122137
+      Vegito_SSJ4_236: 4991919246541462800
+      Vegito_SSJ4_237: -705797168031081164
+      Vegito_SSJ4_238: -9156859843991190085
+      Vegito_SSJ4_239: 1648473589603930698
+      Vegito_SSJ4_24: -9201403064117484749
+      Vegito_SSJ4_240: -4490362882770892730
+      Vegito_SSJ4_241: 7006773467620679506
+      Vegito_SSJ4_242: 7593392355863284726
+      Vegito_SSJ4_243: -6365151351789974091
+      Vegito_SSJ4_244: 3016163329149524076
+      Vegito_SSJ4_245: -247186931323126879
+      Vegito_SSJ4_246: -7365985379472260853
+      Vegito_SSJ4_247: 6421689916378368505
+      Vegito_SSJ4_248: -4567648043705492350
+      Vegito_SSJ4_249: -2469268315992343960
+      Vegito_SSJ4_25: 17562797146785711
+      Vegito_SSJ4_250: -6462837172498315465
+      Vegito_SSJ4_251: 5011987433221986566
+      Vegito_SSJ4_252: -9162964170360047280
+      Vegito_SSJ4_253: -362423460251108632
+      Vegito_SSJ4_254: 7966936536252049123
+      Vegito_SSJ4_255: -4625627115897374322
+      Vegito_SSJ4_256: -1909315532527623487
+      Vegito_SSJ4_257: 1082312610619238689
+      Vegito_SSJ4_258: 6920661005703122761
+      Vegito_SSJ4_259: 226074955673901038
+      Vegito_SSJ4_26: -188161495643385199
+      Vegito_SSJ4_260: -7704122398341563108
+      Vegito_SSJ4_261: 6738191977013022292
+      Vegito_SSJ4_262: -2636823414724604949
+      Vegito_SSJ4_263: 69092672598483090
+      Vegito_SSJ4_264: 7541657782345282566
+      Vegito_SSJ4_265: -8846093217606269826
+      Vegito_SSJ4_27: -3718413028601536996
+      Vegito_SSJ4_28: 5975498649764212985
+      Vegito_SSJ4_29: -9092035431723659128
+      Vegito_SSJ4_3: -820223249534539484
+      Vegito_SSJ4_30: -6394619201725148554
+      Vegito_SSJ4_31: 8710783931161243067
+      Vegito_SSJ4_32: -1187998796654613220
+      Vegito_SSJ4_33: 6591570278871457455
+      Vegito_SSJ4_34: -3994538870753477671
+      Vegito_SSJ4_35: 3019855202982188901
+      Vegito_SSJ4_36: -3890073372033092025
+      Vegito_SSJ4_37: 8634021017491488418
+      Vegito_SSJ4_38: -7201630121355671483
+      Vegito_SSJ4_39: 930897874953421060
+      Vegito_SSJ4_4: 2452192088038321699
+      Vegito_SSJ4_40: 455311306361971371
+      Vegito_SSJ4_41: -227557506664301119
+      Vegito_SSJ4_42: 4691046264828956100
+      Vegito_SSJ4_43: 3351383382852353616
+      Vegito_SSJ4_44: -5286828139758799678
+      Vegito_SSJ4_45: -2609954945883709594
+      Vegito_SSJ4_46: -9034575041100466592
+      Vegito_SSJ4_47: 7054594369419711977
+      Vegito_SSJ4_48: -8079076347592173812
+      Vegito_SSJ4_49: -3906079669817577077
+      Vegito_SSJ4_5: -1367512881986136624
+      Vegito_SSJ4_50: 3991190541622694289
+      Vegito_SSJ4_51: -5069485528727686487
+      Vegito_SSJ4_52: -7132651238031133971
+      Vegito_SSJ4_53: -8151534054291719001
+      Vegito_SSJ4_54: 5248804370454896250
+      Vegito_SSJ4_55: 3651077421823652186
+      Vegito_SSJ4_56: -1903261401196010119
+      Vegito_SSJ4_57: -5430692380418441479
+      Vegito_SSJ4_58: 8075946092849220903
+      Vegito_SSJ4_59: 481587026890037759
+      Vegito_SSJ4_6: 3798216729847778498
+      Vegito_SSJ4_60: 8307736390623052284
+      Vegito_SSJ4_61: -2181911966035927610
+      Vegito_SSJ4_62: 7336662584018344838
+      Vegito_SSJ4_63: 8874738015900178692
+      Vegito_SSJ4_64: -8890674470694719064
+      Vegito_SSJ4_65: 2368361365027285146
+      Vegito_SSJ4_66: -115850631650611577
+      Vegito_SSJ4_67: -1245927108201639500
+      Vegito_SSJ4_68: -7064414206718970546
+      Vegito_SSJ4_69: -4730897681009403662
+      Vegito_SSJ4_7: 2428110068060006921
+      Vegito_SSJ4_70: -7120857428917889032
+      Vegito_SSJ4_71: 7628937602060937219
+      Vegito_SSJ4_72: -8138122065375332281
+      Vegito_SSJ4_73: 2049617264098192891
+      Vegito_SSJ4_74: 5405309641879249057
+      Vegito_SSJ4_75: -8147439178377012821
+      Vegito_SSJ4_76: 8086611648773179100
+      Vegito_SSJ4_77: 7831908853542659419
+      Vegito_SSJ4_78: -2763229046149699472
+      Vegito_SSJ4_79: -7822304286738088919
+      Vegito_SSJ4_8: -5058111363719136161
+      Vegito_SSJ4_80: -8053611987794389688
+      Vegito_SSJ4_81: 6579774598171143444
+      Vegito_SSJ4_82: 8097923004390583211
+      Vegito_SSJ4_83: -9109887813377705680
+      Vegito_SSJ4_84: -5855182201806494675
+      Vegito_SSJ4_85: 2024030230202643963
+      Vegito_SSJ4_86: 5727911876212323080
+      Vegito_SSJ4_87: -5969893537630494017
+      Vegito_SSJ4_88: 6672751168464435186
+      Vegito_SSJ4_89: -2688286860094014902
+      Vegito_SSJ4_9: -3794994151630606578
+      Vegito_SSJ4_90: 970610763809684539
+      Vegito_SSJ4_91: 6542045969624725215
+      Vegito_SSJ4_92: -2921771327754467431
+      Vegito_SSJ4_93: 2403643268649402592
+      Vegito_SSJ4_94: 1192349704921845089
+      Vegito_SSJ4_95: 4634281731376617634
+      Vegito_SSJ4_96: 2836800188578093818
+      Vegito_SSJ4_97: -4160755734179157080
+      Vegito_SSJ4_98: 5068871895221665187
+      Vegito_SSJ4_99: 5827693428859613380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

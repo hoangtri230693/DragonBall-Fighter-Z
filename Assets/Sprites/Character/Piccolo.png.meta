@@ -1,0 +1,6635 @@
+fileFormatVersion: 2
+guid: ee65094dbd96bfe41a6149024d946a66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8484840552167942596
+    second: Piccolo_0
+  - first:
+      213: 5024995259960825438
+    second: Piccolo_1
+  - first:
+      213: 8228121794619142506
+    second: Piccolo_2
+  - first:
+      213: -481259608224790835
+    second: Piccolo_3
+  - first:
+      213: -4815089848760012543
+    second: Piccolo_4
+  - first:
+      213: -917215538598395701
+    second: Piccolo_5
+  - first:
+      213: -2077543436577340594
+    second: Piccolo_6
+  - first:
+      213: -8486120596202316034
+    second: Piccolo_7
+  - first:
+      213: 791670933954112244
+    second: Piccolo_8
+  - first:
+      213: -8225922988011080708
+    second: Piccolo_9
+  - first:
+      213: -1320974953526565890
+    second: Piccolo_10
+  - first:
+      213: 822975133932043440
+    second: Piccolo_11
+  - first:
+      213: -3574590276128360286
+    second: Piccolo_12
+  - first:
+      213: 4216713184837765145
+    second: Piccolo_13
+  - first:
+      213: 9088465345426057004
+    second: Piccolo_14
+  - first:
+      213: 8192830455799173408
+    second: Piccolo_15
+  - first:
+      213: 2640086936023516826
+    second: Piccolo_16
+  - first:
+      213: 8358367112312585751
+    second: Piccolo_17
+  - first:
+      213: 1452440200427013282
+    second: Piccolo_18
+  - first:
+      213: -396640080373661184
+    second: Piccolo_19
+  - first:
+      213: -1067843733788492922
+    second: Piccolo_20
+  - first:
+      213: 8007577089895929674
+    second: Piccolo_21
+  - first:
+      213: -7027958515451327223
+    second: Piccolo_22
+  - first:
+      213: 9207223399192259450
+    second: Piccolo_23
+  - first:
+      213: 5457109167543700370
+    second: Piccolo_24
+  - first:
+      213: 177805619093864227
+    second: Piccolo_25
+  - first:
+      213: -9010127893555880979
+    second: Piccolo_26
+  - first:
+      213: -7981629393307386452
+    second: Piccolo_27
+  - first:
+      213: 6483053183713270551
+    second: Piccolo_28
+  - first:
+      213: -8674379215626619729
+    second: Piccolo_29
+  - first:
+      213: -8714057833250386469
+    second: Piccolo_30
+  - first:
+      213: -36973461197862297
+    second: Piccolo_31
+  - first:
+      213: 8033033084537204782
+    second: Piccolo_32
+  - first:
+      213: -2916531602819830966
+    second: Piccolo_33
+  - first:
+      213: 5031435269755645383
+    second: Piccolo_34
+  - first:
+      213: 1985570772885114409
+    second: Piccolo_35
+  - first:
+      213: -6437123393266836620
+    second: Piccolo_36
+  - first:
+      213: 372060773558940238
+    second: Piccolo_37
+  - first:
+      213: -2648914826786551842
+    second: Piccolo_38
+  - first:
+      213: 5743061514210025681
+    second: Piccolo_39
+  - first:
+      213: 181704791289906958
+    second: Piccolo_40
+  - first:
+      213: 438248644606824984
+    second: Piccolo_41
+  - first:
+      213: 5638015186149768984
+    second: Piccolo_42
+  - first:
+      213: 5544576681293958415
+    second: Piccolo_43
+  - first:
+      213: -7894998684679297513
+    second: Piccolo_44
+  - first:
+      213: -1616603214122611666
+    second: Piccolo_45
+  - first:
+      213: 101376682902516365
+    second: Piccolo_46
+  - first:
+      213: -5584502125867125998
+    second: Piccolo_47
+  - first:
+      213: 478387877080128664
+    second: Piccolo_48
+  - first:
+      213: -7329323340915866612
+    second: Piccolo_49
+  - first:
+      213: -2358149771162643791
+    second: Piccolo_50
+  - first:
+      213: -8422387838421396505
+    second: Piccolo_51
+  - first:
+      213: 7501691224970971346
+    second: Piccolo_52
+  - first:
+      213: -4464240576599269341
+    second: Piccolo_53
+  - first:
+      213: 4515350056508731830
+    second: Piccolo_54
+  - first:
+      213: -31628776706226446
+    second: Piccolo_55
+  - first:
+      213: 8388464631747706390
+    second: Piccolo_56
+  - first:
+      213: 8857344666708485272
+    second: Piccolo_57
+  - first:
+      213: -2190492017976887677
+    second: Piccolo_58
+  - first:
+      213: -5704068320092608670
+    second: Piccolo_59
+  - first:
+      213: -6972418733844366093
+    second: Piccolo_60
+  - first:
+      213: -2005492464346875367
+    second: Piccolo_61
+  - first:
+      213: -5324640394352586720
+    second: Piccolo_62
+  - first:
+      213: -2211540978307041584
+    second: Piccolo_63
+  - first:
+      213: -4045787100405816238
+    second: Piccolo_64
+  - first:
+      213: 5323419207530264339
+    second: Piccolo_65
+  - first:
+      213: -7592437880493507735
+    second: Piccolo_66
+  - first:
+      213: 790371642590419008
+    second: Piccolo_67
+  - first:
+      213: 1731100767631970349
+    second: Piccolo_68
+  - first:
+      213: -990138504891466618
+    second: Piccolo_69
+  - first:
+      213: 1236359644249618001
+    second: Piccolo_70
+  - first:
+      213: -4666779899734857160
+    second: Piccolo_71
+  - first:
+      213: -4263344793496597600
+    second: Piccolo_72
+  - first:
+      213: 6227832123140943323
+    second: Piccolo_73
+  - first:
+      213: 818790120068853255
+    second: Piccolo_74
+  - first:
+      213: 5028232162942461074
+    second: Piccolo_75
+  - first:
+      213: -1165606920500628630
+    second: Piccolo_76
+  - first:
+      213: 6850851373806014704
+    second: Piccolo_77
+  - first:
+      213: -3969022074457711856
+    second: Piccolo_78
+  - first:
+      213: -7593372749265283846
+    second: Piccolo_79
+  - first:
+      213: 6209130814716222178
+    second: Piccolo_80
+  - first:
+      213: 8167407562910512509
+    second: Piccolo_81
+  - first:
+      213: -7164609415113687372
+    second: Piccolo_82
+  - first:
+      213: -5918927885529510622
+    second: Piccolo_83
+  - first:
+      213: -4821891515824716687
+    second: Piccolo_84
+  - first:
+      213: 7188303664558861819
+    second: Piccolo_85
+  - first:
+      213: -7342174698408805488
+    second: Piccolo_86
+  - first:
+      213: 7939388625683038597
+    second: Piccolo_87
+  - first:
+      213: -1872791452233272032
+    second: Piccolo_88
+  - first:
+      213: 7245594615011504973
+    second: Piccolo_89
+  - first:
+      213: -215198296310018487
+    second: Piccolo_90
+  - first:
+      213: -2499632157553965008
+    second: Piccolo_91
+  - first:
+      213: 6250801491369868952
+    second: Piccolo_92
+  - first:
+      213: -6731791283616353444
+    second: Piccolo_93
+  - first:
+      213: 8380202092402528167
+    second: Piccolo_94
+  - first:
+      213: -2673508582605418612
+    second: Piccolo_95
+  - first:
+      213: 3124245503803722553
+    second: Piccolo_96
+  - first:
+      213: 7260096006966633190
+    second: Piccolo_97
+  - first:
+      213: 9121647042075591246
+    second: Piccolo_98
+  - first:
+      213: 6181735244487373342
+    second: Piccolo_99
+  - first:
+      213: -5798381967489800159
+    second: Piccolo_100
+  - first:
+      213: -2825014112101336218
+    second: Piccolo_101
+  - first:
+      213: 2561676471930504619
+    second: Piccolo_102
+  - first:
+      213: 366309253280150952
+    second: Piccolo_103
+  - first:
+      213: -1547008594144625175
+    second: Piccolo_104
+  - first:
+      213: 4087505430692571868
+    second: Piccolo_105
+  - first:
+      213: -7149607064114351006
+    second: Piccolo_106
+  - first:
+      213: -6369624282384517735
+    second: Piccolo_107
+  - first:
+      213: 6393758881241289544
+    second: Piccolo_108
+  - first:
+      213: 1543784793754024867
+    second: Piccolo_109
+  - first:
+      213: -6640995139395704090
+    second: Piccolo_110
+  - first:
+      213: -6255588188699355327
+    second: Piccolo_111
+  - first:
+      213: -918834459572663348
+    second: Piccolo_112
+  - first:
+      213: -8370001639361073650
+    second: Piccolo_113
+  - first:
+      213: -5724315158402261704
+    second: Piccolo_114
+  - first:
+      213: -4294201116243152761
+    second: Piccolo_115
+  - first:
+      213: 1834637712867914838
+    second: Piccolo_116
+  - first:
+      213: 579947038005256533
+    second: Piccolo_117
+  - first:
+      213: 4861893901040019934
+    second: Piccolo_118
+  - first:
+      213: -7408051338628663283
+    second: Piccolo_119
+  - first:
+      213: -940941679813419073
+    second: Piccolo_120
+  - first:
+      213: 4602124226062577305
+    second: Piccolo_121
+  - first:
+      213: -1605207642484865307
+    second: Piccolo_122
+  - first:
+      213: -6325468952412584400
+    second: Piccolo_123
+  - first:
+      213: -3551347076221361119
+    second: Piccolo_124
+  - first:
+      213: 1395901636080443998
+    second: Piccolo_125
+  - first:
+      213: -1304603007046050283
+    second: Piccolo_126
+  - first:
+      213: 3020243736044538249
+    second: Piccolo_127
+  - first:
+      213: 5547145583917373469
+    second: Piccolo_128
+  - first:
+      213: 8172080403730757966
+    second: Piccolo_129
+  - first:
+      213: -6369132686826274561
+    second: Piccolo_130
+  - first:
+      213: -1328839194917806588
+    second: Piccolo_131
+  - first:
+      213: 6809418520072303649
+    second: Piccolo_132
+  - first:
+      213: 8376290777853662137
+    second: Piccolo_133
+  - first:
+      213: -8726826506858749545
+    second: Piccolo_134
+  - first:
+      213: -4863010761775112141
+    second: Piccolo_135
+  - first:
+      213: -6771154829968657865
+    second: Piccolo_136
+  - first:
+      213: -7650759199470126239
+    second: Piccolo_137
+  - first:
+      213: 8811482109768801886
+    second: Piccolo_138
+  - first:
+      213: -8053647423557105961
+    second: Piccolo_139
+  - first:
+      213: 6776501300713230059
+    second: Piccolo_140
+  - first:
+      213: 6560594289098521942
+    second: Piccolo_141
+  - first:
+      213: 7744570719169443466
+    second: Piccolo_142
+  - first:
+      213: 1996570107483056239
+    second: Piccolo_143
+  - first:
+      213: 2082359226554209518
+    second: Piccolo_144
+  - first:
+      213: 704848402259020552
+    second: Piccolo_145
+  - first:
+      213: 3154473758081416056
+    second: Piccolo_146
+  - first:
+      213: -4142718561141848899
+    second: Piccolo_147
+  - first:
+      213: 8806740468269906669
+    second: Piccolo_148
+  - first:
+      213: 1920698340104059182
+    second: Piccolo_149
+  - first:
+      213: 5259184205265080656
+    second: Piccolo_150
+  - first:
+      213: -4791624663593270242
+    second: Piccolo_151
+  - first:
+      213: -8217859892633263560
+    second: Piccolo_152
+  - first:
+      213: -6322242639374485989
+    second: Piccolo_153
+  - first:
+      213: -27634018919778520
+    second: Piccolo_154
+  - first:
+      213: 4935234772371795866
+    second: Piccolo_155
+  - first:
+      213: 2438735342326242600
+    second: Piccolo_156
+  - first:
+      213: 3036790999163185683
+    second: Piccolo_157
+  - first:
+      213: 1801296118763112933
+    second: Piccolo_158
+  - first:
+      213: 7014772381761585948
+    second: Piccolo_159
+  - first:
+      213: -3519204621853831937
+    second: Piccolo_160
+  - first:
+      213: 2916970184147708145
+    second: Piccolo_161
+  - first:
+      213: 9093160953307151969
+    second: Piccolo_162
+  - first:
+      213: 6666952516151028652
+    second: Piccolo_163
+  - first:
+      213: -5137389183196271875
+    second: Piccolo_164
+  - first:
+      213: 6042469989315898150
+    second: Piccolo_165
+  - first:
+      213: 2345720140973932980
+    second: Piccolo_166
+  - first:
+      213: 5941360827885222654
+    second: Piccolo_167
+  - first:
+      213: 7988737992714243238
+    second: Piccolo_168
+  - first:
+      213: 2045758235503316450
+    second: Piccolo_169
+  - first:
+      213: 1737635689276504274
+    second: Piccolo_170
+  - first:
+      213: 1342477421908286305
+    second: Piccolo_171
+  - first:
+      213: 3077528854900213780
+    second: Piccolo_172
+  - first:
+      213: -3220894365253655039
+    second: Piccolo_173
+  - first:
+      213: -8259945709780537827
+    second: Piccolo_174
+  - first:
+      213: -2596311370608856786
+    second: Piccolo_175
+  - first:
+      213: 8411259966971001662
+    second: Piccolo_176
+  - first:
+      213: -811219989130420080
+    second: Piccolo_177
+  - first:
+      213: 2053172640855542019
+    second: Piccolo_178
+  - first:
+      213: -436518037916084791
+    second: Piccolo_179
+  - first:
+      213: -5405498318089280756
+    second: Piccolo_180
+  - first:
+      213: 2162163685817864897
+    second: Piccolo_181
+  - first:
+      213: 5028574531045467225
+    second: Piccolo_182
+  - first:
+      213: 898023573250494058
+    second: Piccolo_183
+  - first:
+      213: 3892746864195677141
+    second: Piccolo_184
+  - first:
+      213: 3254629658962565142
+    second: Piccolo_185
+  - first:
+      213: 7211430941278482833
+    second: Piccolo_186
+  - first:
+      213: -4225578264552187627
+    second: Piccolo_187
+  - first:
+      213: 5326405136332562653
+    second: Piccolo_188
+  - first:
+      213: -1243789450659980675
+    second: Piccolo_189
+  - first:
+      213: 2462209030004054993
+    second: Piccolo_190
+  - first:
+      213: 7010408362416394703
+    second: Piccolo_191
+  - first:
+      213: -5606595584329396295
+    second: Piccolo_192
+  - first:
+      213: -7442327503317969326
+    second: Piccolo_193
+  - first:
+      213: -8643005703890682591
+    second: Piccolo_194
+  - first:
+      213: 7878892229012524329
+    second: Piccolo_195
+  - first:
+      213: -1475203301643919659
+    second: Piccolo_196
+  - first:
+      213: -4417610239951742033
+    second: Piccolo_197
+  - first:
+      213: 4803057632990054010
+    second: Piccolo_198
+  - first:
+      213: 5793723604929862861
+    second: Piccolo_199
+  - first:
+      213: -4924786056723513203
+    second: Piccolo_200
+  - first:
+      213: 2547068667105927262
+    second: Piccolo_201
+  - first:
+      213: 2411771794473114941
+    second: Piccolo_202
+  - first:
+      213: 5122166958258232552
+    second: Piccolo_203
+  - first:
+      213: 3723019670822403444
+    second: Piccolo_204
+  - first:
+      213: -2507552902562579778
+    second: Piccolo_205
+  - first:
+      213: -8756680521623261363
+    second: Piccolo_206
+  - first:
+      213: -1335471991160819934
+    second: Piccolo_207
+  - first:
+      213: 7391006558362716730
+    second: Piccolo_208
+  - first:
+      213: -13520012099336604
+    second: Piccolo_209
+  - first:
+      213: 685384194022646191
+    second: Piccolo_210
+  - first:
+      213: -4583549698877870333
+    second: Piccolo_211
+  - first:
+      213: 4218520377323445269
+    second: Piccolo_212
+  - first:
+      213: 8638022709963404147
+    second: Piccolo_213
+  - first:
+      213: -5829331825773111596
+    second: Piccolo_214
+  - first:
+      213: -5523107487561106142
+    second: Piccolo_215
+  - first:
+      213: -5596081661944210132
+    second: Piccolo_216
+  - first:
+      213: 8770520680141368641
+    second: Piccolo_217
+  - first:
+      213: -5543574194078002323
+    second: Piccolo_218
+  - first:
+      213: -9129581764949443253
+    second: Piccolo_219
+  - first:
+      213: 6956399592260799437
+    second: Piccolo_220
+  - first:
+      213: -2379461694319810253
+    second: Piccolo_221
+  - first:
+      213: 5631836668427990792
+    second: Piccolo_222
+  - first:
+      213: 7242505283082226733
+    second: Piccolo_223
+  - first:
+      213: 4741820490825423850
+    second: Piccolo_224
+  - first:
+      213: -1458384902475703953
+    second: Piccolo_225
+  - first:
+      213: -1769299923786439714
+    second: Piccolo_226
+  - first:
+      213: -1150166220477731573
+    second: Piccolo_227
+  - first:
+      213: -4558458075397655235
+    second: Piccolo_228
+  - first:
+      213: -4510462064646139593
+    second: Piccolo_229
+  - first:
+      213: -8125360479006873911
+    second: Piccolo_230
+  - first:
+      213: 1734902993149417712
+    second: Piccolo_231
+  - first:
+      213: -335456325498173025
+    second: Piccolo_232
+  - first:
+      213: 89720400365874273
+    second: Piccolo_233
+  - first:
+      213: -7165641030992010653
+    second: Piccolo_234
+  - first:
+      213: 3473610288142694881
+    second: Piccolo_235
+  - first:
+      213: -8606620175524025834
+    second: Piccolo_236
+  - first:
+      213: -503834165749283016
+    second: Piccolo_237
+  - first:
+      213: -3839394600043170041
+    second: Piccolo_238
+  - first:
+      213: -2294138190899139771
+    second: Piccolo_239
+  - first:
+      213: -1177274915843953935
+    second: Piccolo_240
+  - first:
+      213: 4532270094731730590
+    second: Piccolo_241
+  - first:
+      213: 4432677422189000186
+    second: Piccolo_242
+  - first:
+      213: -3938491362155385564
+    second: Piccolo_243
+  - first:
+      213: 4618730859296953211
+    second: Piccolo_244
+  - first:
+      213: 8598837215581391213
+    second: Piccolo_245
+  - first:
+      213: 1247335272588457235
+    second: Piccolo_246
+  - first:
+      213: -2866658311458205698
+    second: Piccolo_247
+  - first:
+      213: 3556339951400328324
+    second: Piccolo_248
+  - first:
+      213: 5507721947799311874
+    second: Piccolo_249
+  - first:
+      213: -1050230275223214144
+    second: Piccolo_250
+  - first:
+      213: 3892245684169530305
+    second: Piccolo_251
+  - first:
+      213: -178773206611930078
+    second: Piccolo_252
+  - first:
+      213: 8135811761700658788
+    second: Piccolo_253
+  - first:
+      213: 7455730547078613988
+    second: Piccolo_254
+  - first:
+      213: -5454548210480061769
+    second: Piccolo_255
+  - first:
+      213: 8994195221272413428
+    second: Piccolo_256
+  - first:
+      213: 2427552782408794820
+    second: Piccolo_257
+  - first:
+      213: -7222638122604606501
+    second: Piccolo_258
+  - first:
+      213: 2918073578223618051
+    second: Piccolo_259
+  - first:
+      213: -1725692852259892327
+    second: Piccolo_260
+  - first:
+      213: 2686826036115238212
+    second: Piccolo_261
+  - first:
+      213: -1790357049902920990
+    second: Piccolo_262
+  - first:
+      213: -100941836380348289
+    second: Piccolo_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piccolo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c365330f87acf3a80800000000000000
+      internalID: -8484840552167942596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569cfbb09e5cb540800000000000000
+      internalID: 5024995259960825438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617ce08d29203270800000000000000
+      internalID: 8228121794619142506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc68407afe83259f0800000000000000
+      internalID: -481259608224790835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f1134b4d5d2db0800000000000000
+      internalID: -4815089848760012543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 380
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0cf57c3556543f0800000000000000
+      internalID: -917215538598395701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 380
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430d5170451b23e0800000000000000
+      internalID: -2077543436577340594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 380
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe1c36774e3b3a80800000000000000
+      internalID: -8486120596202316034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 380
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa265d15849cfa00800000000000000
+      internalID: 791670933954112244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 380
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf331ed00a6a7dd80800000000000000
+      internalID: -8225922988011080708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 380
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36cd15744faade0800000000000000
+      internalID: -1320974953526565890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcbff4268bcb6b00800000000000000
+      internalID: 822975133932043440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 351
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8bdc53511846ec0800000000000000
+      internalID: -3574590276128360286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91806fdec46c48a30800000000000000
+      internalID: 4216713184837765145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 351
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2761933417b02e70800000000000000
+      internalID: 9088465345426057004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 351
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02159ee54e7c2b170800000000000000
+      internalID: 8192830455799173408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c4dd941973a420800000000000000
+      internalID: 2640086936023516826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 351
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef2b7aa92eef370800000000000000
+      internalID: 8358367112312585751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a403fbbaaa182410800000000000000
+      internalID: 1452440200427013282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00245a9c2f9de7af0800000000000000
+      internalID: -396640080373661184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 351
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf8e328c14e21f0800000000000000
+      internalID: -1067843733788492922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a479dc2ffe0a02f60800000000000000
+      internalID: 8007577089895929674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 351
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d875647fca77e90800000000000000
+      internalID: -7027958515451327223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7be48c46e0a6cf70800000000000000
+      internalID: 9207223399192259450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b48f7ffdb8bbb40800000000000000
+      internalID: 5457109167543700370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 292
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f782db441b77200800000000000000
+      internalID: 177805619093864227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 290
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb53c32b6895f280800000000000000
+      internalID: -9010127893555880979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 291
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb813fa5e8b3190800000000000000
+      internalID: -7981629393307386452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 292
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd13b958e68f950800000000000000
+      internalID: 6483053183713270551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 292
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43b8def0a6e9780800000000000000
+      internalID: -8674379215626619729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd86e8d192711780800000000000000
+      internalID: -8714057833250386469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 245
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a4f2b35d4ac7ff0800000000000000
+      internalID: -36973461197862297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20fcc097011b7f60800000000000000
+      internalID: 8033033084537204782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 245
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b29bda5f56687d0800000000000000
+      internalID: -2916531602819830966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 245
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd282c58bf33d540800000000000000
+      internalID: 5031435269755645383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 245
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0732191a2e8b10800000000000000
+      internalID: 1985570772885114409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 247
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b19f0116ebaa6a0800000000000000
+      internalID: -6437123393266836620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 245
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a4b5e40473bf40800000000000000
+      internalID: 5743061514210025681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0742d28b8b858200800000000000000
+      internalID: 181704791289906958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 245
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812161102d8f41600800000000000000
+      internalID: 438248644606824984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 245
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff6b8b0f04e3e40800000000000000
+      internalID: 5638015186149768984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 245
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dc07e7d1b42fc40800000000000000
+      internalID: 5544576681293958415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_44
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 245
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a38996845f6290800000000000000
+      internalID: -7894998684679297513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c877f11fba099e0800000000000000
+      internalID: -1616603214122611666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8279e45e89286100800000000000000
+      internalID: 101376682902516365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 195
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b64c87ecdf72b0800000000000000
+      internalID: -5584502125867125998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cd6365d3393a600800000000000000
+      internalID: 478387877080128664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040bbcf043094a90800000000000000
+      internalID: -7329323340915866612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29ea2f64b264fd0800000000000000
+      internalID: -2358149771162643791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3925a72eaad1b80800000000000000
+      internalID: -8422387838421396505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 236
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84f076c6c5b1860800000000000000
+      internalID: 7501691224970971346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206aef19d4db02c0800000000000000
+      internalID: -4464240576599269341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 195
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b13ebaf3feb9ae30800000000000000
+      internalID: 4515350056508731830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 195
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201be1c5c31b16b0800000000000000
+      internalID: -5324640394352586720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6f9cd82370f41e0800000000000000
+      internalID: -2211540978307041584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 195
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2542473511a7ad7c0800000000000000
+      internalID: -4045787100405816238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 195
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3173557809590e940800000000000000
+      internalID: 5323419207530264339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_66
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 195
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf6f169fd32a690800000000000000
+      internalID: -7592437880493507735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 195
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abcf9c9f7e85d4c0800000000000000
+      internalID: -4263344793496597600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b934ab3733be8c0800000000000000
+      internalID: -3969022074457711856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 165
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af459e847bbee9690800000000000000
+      internalID: -7593372749265283846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 165
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea971f14934b2650800000000000000
+      internalID: 6209130814716222178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_81
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 148
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75be1bd7e5785170800000000000000
+      internalID: 8167407562910512509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 148
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bebab952b1329c90800000000000000
+      internalID: -7164609415113687372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 148
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0cdba27ebbdda0800000000000000
+      internalID: -5918927885529510622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 166
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744ccdb633351db0800000000000000
+      internalID: -4821891515824716687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 148
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd6baff81cf1c360800000000000000
+      internalID: 7188303664558861819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 169
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7b76230b5b1a90800000000000000
+      internalID: -7342174698408805488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 148
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5814d9fe3ef5e2e60800000000000000
+      internalID: 7939388625683038597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257f3fb8128206e0800000000000000
+      internalID: -1872791452233272032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d437e3ed9e58d8460800000000000000
+      internalID: 7245594615011504973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0c282a46730df0800000000000000
+      internalID: -215198296310018487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_91
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384adbdbc58f4dd0800000000000000
+      internalID: -2499632157553965008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_92
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 88
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e359696de4fb650800000000000000
+      internalID: 6250801491369868952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_93
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 88
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f9fd7e7fd392a0800000000000000
+      internalID: -6731791283616353444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 89
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af43af17657c4470800000000000000
+      internalID: 8380202092402528167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 88
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f88d5eb1ac5ead0800000000000000
+      internalID: -2673508582605418612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 88
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b05559bbc8b5b20800000000000000
+      internalID: 3124245503803722553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_97
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 80
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e26a7a4ada01c460800000000000000
+      internalID: 7260096006966633190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42886df7a9969e70800000000000000
+      internalID: 9121647042075591246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12be2fd37fe9c550800000000000000
+      internalID: 6181735244487373342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_100
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286dbb5252088fa0800000000000000
+      internalID: -5798381967489800159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bfbb2f1a88bc8d0800000000000000
+      internalID: -2825014112101336218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_102
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c4eacd27ec8320800000000000000
+      internalID: 2561676471930504619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b3b73354651500800000000000000
+      internalID: 366309253280150952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed788941ebe78ae0800000000000000
+      internalID: -1547008594144625175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_105
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda29ed588cb9b830800000000000000
+      internalID: 4087505430692571868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26437d3614e77cc90800000000000000
+      internalID: -7149607064114351006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_107
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b4cf767c8a97a0800000000000000
+      internalID: -6369624282384517735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d2efa3d13bb850800000000000000
+      internalID: 6393758881241289544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abbb513710ac6510800000000000000
+      internalID: 1543784793754024867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_110
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea29313b1276d3a0800000000000000
+      internalID: -6640995139395704090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14712779fafaf29a0800000000000000
+      internalID: -6255588188699355327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_112
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb88cd5de4af33f0800000000000000
+      internalID: -918834459572663348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e227cead7c7db80800000000000000
+      internalID: -8370001639361073650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_114
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9c0131b52f80b0800000000000000
+      internalID: -5724315158402261704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_115
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780bd3026dee764c0800000000000000
+      internalID: -4294201116243152761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f60f8741f57910800000000000000
+      internalID: 1834637712867914838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_117
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e7d422c26c0800800000000000000
+      internalID: 579947038005256533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_118
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e02b5ebae87340800000000000000
+      internalID: 4861893901040019934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_119
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d087e2b9e80513990800000000000000
+      internalID: -7408051338628663283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9c5c078a11f2f0800000000000000
+      internalID: -940941679813419073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eedaab9970edf30800000000000000
+      internalID: 4602124226062577305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_122
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e682f6672829b9e0800000000000000
+      internalID: -1605207642484865307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_123
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 59
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0368fa5608b6738a0800000000000000
+      internalID: -6325468952412584400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12424b766a417bec0800000000000000
+      internalID: -3551347076221361119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_125
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5226f7642d3f5310800000000000000
+      internalID: 1395901636080443998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_126
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e1d182a7e15ede0800000000000000
+      internalID: -1304603007046050283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_127
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989880e0daf0ae920800000000000000
+      internalID: 3020243736044538249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_128
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1895ceb48b6bfc40800000000000000
+      internalID: 5547145583917373469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_129
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e497d4464df096170800000000000000
+      internalID: 8172080403730757966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_130
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff00462019b4c97a0800000000000000
+      internalID: -6369132686826274561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_131
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ede4feac30f8de0800000000000000
+      internalID: -1328839194917806588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_132
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12430efe01aef7e50800000000000000
+      internalID: 6809418520072303649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_133
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3195d35109e3470800000000000000
+      internalID: 8376290777853662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_134
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791a83a578514e680800000000000000
+      internalID: -8726826506858749545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_135
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302e7d3a7d138cb0800000000000000
+      internalID: -4863010761775112141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_136
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7323c88ae860802a0800000000000000
+      internalID: -6771154829968657865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_137
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bf7852b0b03d590800000000000000
+      internalID: -7650759199470126239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_138
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e9a792b4ca84a70800000000000000
+      internalID: 8811482109768801886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_139
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d683ac9652bb3090800000000000000
+      internalID: -8053647423557105961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_140
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0cf09708fa0e50800000000000000
+      internalID: 6776501300713230059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_141
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7c251fb9eb0b50800000000000000
+      internalID: 6560594289098521942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_142
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a867cfd590e3a7b60800000000000000
+      internalID: 7744570719169443466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_143
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e0b93fed35bb10800000000000000
+      internalID: 1996570107483056239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_144
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee455890fa606ec10800000000000000
+      internalID: 2082359226554209518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_145
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b862d23ef18c900800000000000000
+      internalID: 704848402259020552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_146
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bfbbb7b21f6cb20800000000000000
+      internalID: 3154473758081416056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_147
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db409beea6b1286c0800000000000000
+      internalID: -4142718561141848899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_148
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf848bbc3d73a70800000000000000
+      internalID: 8806740468269906669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_149
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b59ac6f0b7aa10800000000000000
+      internalID: 1920698340104059182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0519b2b9b206cf840800000000000000
+      internalID: 5259184205265080656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_151
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c58d61cab08db0800000000000000
+      internalID: -4791624663593270242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_152
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8322aadb7fb44fd80800000000000000
+      internalID: -8217859892633263560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_153
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167140f0d1e248a0800000000000000
+      internalID: -6322242639374485989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_154
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f1969103dd9ff0800000000000000
+      internalID: -27634018919778520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6062a0e97d7440800000000000000
+      internalID: 4935234772371795866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ddb847fd028d120800000000000000
+      internalID: 2438735342326242600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_157
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aa93af259d42a20800000000000000
+      internalID: 3036790999163185683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94a2eb64d7ff810800000000000000
+      internalID: 1801296118763112933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_159
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13ce1bb05a795160800000000000000
+      internalID: 7014772381761585948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_160
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc4d7eba06492fc0800000000000000
+      internalID: -3519204621853831937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_161
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a78e7de82b7820800000000000000
+      internalID: 2916970184147708145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_162
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e335b95b5613e70800000000000000
+      internalID: 9093160953307151969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_163
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 43
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab249b8df5c58c50800000000000000
+      internalID: 6666952516151028652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_164
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfae6a6c1c354b8b0800000000000000
+      internalID: -5137389183196271875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_165
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be12fd07a2bd350800000000000000
+      internalID: 6042469989315898150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b10b314a0cad8020800000000000000
+      internalID: 2345720140973932980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_167
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf48cb134f37250800000000000000
+      internalID: 5941360827885222654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_168
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac4663d0e2bdde60800000000000000
+      internalID: 7988737992714243238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_169
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed418bb64ef36c10800000000000000
+      internalID: 2045758235503316450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_170
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8fd58f3725d1810800000000000000
+      internalID: 1737635689276504274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_171
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b53db3a1071a210800000000000000
+      internalID: 1342477421908286305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_172
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188756203495ba20800000000000000
+      internalID: 3077528854900213780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_173
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106affbc3a51d43d0800000000000000
+      internalID: -3220894365253655039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_174
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee488d327ce5d80800000000000000
+      internalID: -8259945709780537827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_175
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213d84709c08fbd0800000000000000
+      internalID: -2596311370608856786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_176
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b35cc006ccab470800000000000000
+      internalID: 8411259966971001662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_177
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906f29c7b7fdb4f0800000000000000
+      internalID: -811219989130420080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_178
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 43
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ceb083a55e7c10800000000000000
+      internalID: 2053172640855542019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_179
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c516f3482d21f9f0800000000000000
+      internalID: -436518037916084791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0321545befcbf4b0800000000000000
+      internalID: -5405498318089280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_181
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 43
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25c67aa6c810e10800000000000000
+      internalID: 2162163685817864897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954aa89b4e519c540800000000000000
+      internalID: 5028574531045467225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_183
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec5839eab667c00800000000000000
+      internalID: 898023573250494058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_184
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db26e8f5a0d50630800000000000000
+      internalID: 3892746864195677141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_185
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6181ae95e64ca2d20800000000000000
+      internalID: 3254629658962565142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_186
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 45
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913a29bb36241460800000000000000
+      internalID: 7211430941278482833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51951cad4fabb55c0800000000000000
+      internalID: -4225578264552187627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_188
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02be040413be940800000000000000
+      internalID: 5326405136332562653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_189
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9802a51c2dbee0800000000000000
+      internalID: -1243789450659980675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_190
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db962441168b2220800000000000000
+      internalID: 2462209030004054993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_191
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d14c4349f94160800000000000000
+      internalID: 7010408362416394703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_192
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc5c4650f5132b0800000000000000
+      internalID: -5606595584329396295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_193
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256dc9e119a87b890800000000000000
+      internalID: -7442327503317969326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dbbebda10ed0880800000000000000
+      internalID: -8643005703890682591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_195
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d80e5fcb2775d60800000000000000
+      internalID: 7878892229012524329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_196
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded702c966078be0800000000000000
+      internalID: -1475203301643919659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_197
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab5c8b64ee71b2c0800000000000000
+      internalID: -4417610239951742033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_198
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c9123873e7a240800000000000000
+      internalID: 4803057632990054010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_199
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd3a61ce0776050800000000000000
+      internalID: 5793723604929862861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_200
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c23e8c25a7abb0800000000000000
+      internalID: -4924786056723513203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_201
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5060613571095320800000000000000
+      internalID: 2547068667105927262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d50e04ba5587120800000000000000
+      internalID: 2411771794473114941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_203
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec993bc5b7951740800000000000000
+      internalID: 5122166958258232552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_204
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d392b4aa2daa330800000000000000
+      internalID: 3723019670822403444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_205
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf143bbe1633dd0800000000000000
+      internalID: -2507552902562579778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_206
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f2011e5750a7680800000000000000
+      internalID: -8756680521623261363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_207
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2067bc43777de0800000000000000
+      internalID: -1335471991160819934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_208
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3acacb3e41229660800000000000000
+      internalID: 7391006558362716730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_209
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c571ee97ffcff0800000000000000
+      internalID: -13520012099336604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_210
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1236b0b49f28900800000000000000
+      internalID: 685384194022646191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_211
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f290465d5f360c0800000000000000
+      internalID: -4583549698877870333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_212
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c5c18bee13b8a30800000000000000
+      internalID: 4218520377323445269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_213
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373302573eb60e770800000000000000
+      internalID: 8638022709963404147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_214
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d61aeee69d0a1fa0800000000000000
+      internalID: -5829331825773111596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_215
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbe93b00bf953b0800000000000000
+      internalID: -5523107487561106142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ddcb5b069b652b0800000000000000
+      internalID: -5596081661944210132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d2b03271627b970800000000000000
+      internalID: 8770520680141368641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_218
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6355ff34a44113b0800000000000000
+      internalID: -5543574194078002323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_219
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dfd4061c53d4180800000000000000
+      internalID: -9129581764949443253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_220
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb806492981a8060800000000000000
+      internalID: 6956399592260799437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_221
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3392b6922347afed0800000000000000
+      internalID: -2379461694319810253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_222
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077ba67c9d482e40800000000000000
+      internalID: 5631836668427990792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_223
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c810abe2c828460800000000000000
+      internalID: 7242505283082226733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_224
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5158fc945ec140800000000000000
+      internalID: 4741820490825423850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_225
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69942678a6c2cbe0800000000000000
+      internalID: -1458384902475703953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_226
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3659de71f2277e0800000000000000
+      internalID: -1769299923786439714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_227
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d65c39ae9c900f0800000000000000
+      internalID: -1150166220477731573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_228
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35796c388a1db0c0800000000000000
+      internalID: -4558458075397655235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73154ef46ae9761c0800000000000000
+      internalID: -4510462064646139593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_230
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c62cc0c1bbec3f80800000000000000
+      internalID: -8125360479006873911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_231
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8de62941d931810800000000000000
+      internalID: 1734902993149417712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_232
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f990601df38385bf0800000000000000
+      internalID: -335456325498173025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_233
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ce9e09a30ce3100800000000000000
+      internalID: 89720400365874273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_234
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e1cf82778e8c90800000000000000
+      internalID: -7165641030992010653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e933e0372eb43030800000000000000
+      internalID: 3473610288142694881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_236
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2e29dc842f8880800000000000000
+      internalID: -8606620175524025834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_237
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370fc4ee750209f0800000000000000
+      internalID: -503834165749283016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_238
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707bfd704fab7bac0800000000000000
+      internalID: -3839394600043170041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_239
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bacc168759920e0800000000000000
+      internalID: -2294138190899139771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_240
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faa42693ba79afe0800000000000000
+      internalID: -1177274915843953935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_241
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5c9e53abd5ee30800000000000000
+      internalID: 4532270094731730590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_242
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5387151a8048d30800000000000000
+      internalID: 4432677422189000186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_243
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42da8cf19faa759c0800000000000000
+      internalID: -3938491362155385564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_244
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739785de37091040800000000000000
+      internalID: 4618730859296953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_245
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69432493e4355770800000000000000
+      internalID: 8598837215581391213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_246
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315337e52dc6f4110800000000000000
+      internalID: 1247335272588457235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_247
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effcc1534759738d0800000000000000
+      internalID: -2866658311458205698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_248
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1fbfe758aa5130800000000000000
+      internalID: 3556339951400328324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_249
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206533c2eeb5f6c40800000000000000
+      internalID: 5507721947799311874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_250
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a5f80125dc61f0800000000000000
+      internalID: -1050230275223214144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_251
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbd877e3d8040630800000000000000
+      internalID: 3892245684169530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_252
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d98c37bed48df0800000000000000
+      internalID: -178773206611930078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_253
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46edc9f11b538e070800000000000000
+      internalID: 8135811761700658788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_254
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb46af2e63187760800000000000000
+      internalID: 7455730547078613988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_255
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e7105d4d8d44b0800000000000000
+      internalID: -5454548210480061769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_256
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4457486ecc1dc70800000000000000
+      internalID: 8994195221272413428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_257
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ccf4d46660b120800000000000000
+      internalID: 2427552782408794820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_258
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb45f805e804cb90800000000000000
+      internalID: -7222638122604606501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_259
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c87275741f7820800000000000000
+      internalID: 2918073578223618051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_260
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9935e957e7b1d08e0800000000000000
+      internalID: -1725692852259892327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_261
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d6bef5b06894520800000000000000
+      internalID: 2686826036115238212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_262
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea8b63bfbf5727e0800000000000000
+      internalID: -1790357049902920990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_263
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e2934fe1699ef0800000000000000
+      internalID: -100941836380348289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_264
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 292
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebb083385095e429b132a39fb8150f
+      internalID: 850520176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piccolo_265
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 291
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4ed958247c094f9b59b07ed70ea04
+      internalID: 1634906565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 46bc9d8242441884da2e6cceb9793cee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Piccolo_0: -8484840552167942596
+      Piccolo_1: 5024995259960825438
+      Piccolo_10: -1320974953526565890
+      Piccolo_100: -5798381967489800159
+      Piccolo_101: -2825014112101336218
+      Piccolo_102: 2561676471930504619
+      Piccolo_103: 366309253280150952
+      Piccolo_104: -1547008594144625175
+      Piccolo_105: 4087505430692571868
+      Piccolo_106: -7149607064114351006
+      Piccolo_107: -6369624282384517735
+      Piccolo_108: 6393758881241289544
+      Piccolo_109: 1543784793754024867
+      Piccolo_11: 822975133932043440
+      Piccolo_110: -6640995139395704090
+      Piccolo_111: -6255588188699355327
+      Piccolo_112: -918834459572663348
+      Piccolo_113: -8370001639361073650
+      Piccolo_114: -5724315158402261704
+      Piccolo_115: -4294201116243152761
+      Piccolo_116: 1834637712867914838
+      Piccolo_117: 579947038005256533
+      Piccolo_118: 4861893901040019934
+      Piccolo_119: -7408051338628663283
+      Piccolo_12: -3574590276128360286
+      Piccolo_120: -940941679813419073
+      Piccolo_121: 4602124226062577305
+      Piccolo_122: -1605207642484865307
+      Piccolo_123: -6325468952412584400
+      Piccolo_124: -3551347076221361119
+      Piccolo_125: 1395901636080443998
+      Piccolo_126: -1304603007046050283
+      Piccolo_127: 3020243736044538249
+      Piccolo_128: 5547145583917373469
+      Piccolo_129: 8172080403730757966
+      Piccolo_13: 4216713184837765145
+      Piccolo_130: -6369132686826274561
+      Piccolo_131: -1328839194917806588
+      Piccolo_132: 6809418520072303649
+      Piccolo_133: 8376290777853662137
+      Piccolo_134: -8726826506858749545
+      Piccolo_135: -4863010761775112141
+      Piccolo_136: -6771154829968657865
+      Piccolo_137: -7650759199470126239
+      Piccolo_138: 8811482109768801886
+      Piccolo_139: -8053647423557105961
+      Piccolo_14: 9088465345426057004
+      Piccolo_140: 6776501300713230059
+      Piccolo_141: 6560594289098521942
+      Piccolo_142: 7744570719169443466
+      Piccolo_143: 1996570107483056239
+      Piccolo_144: 2082359226554209518
+      Piccolo_145: 704848402259020552
+      Piccolo_146: 3154473758081416056
+      Piccolo_147: -4142718561141848899
+      Piccolo_148: 8806740468269906669
+      Piccolo_149: 1920698340104059182
+      Piccolo_15: 8192830455799173408
+      Piccolo_150: 5259184205265080656
+      Piccolo_151: -4791624663593270242
+      Piccolo_152: -8217859892633263560
+      Piccolo_153: -6322242639374485989
+      Piccolo_154: -27634018919778520
+      Piccolo_155: 4935234772371795866
+      Piccolo_156: 2438735342326242600
+      Piccolo_157: 3036790999163185683
+      Piccolo_158: 1801296118763112933
+      Piccolo_159: 7014772381761585948
+      Piccolo_16: 2640086936023516826
+      Piccolo_160: -3519204621853831937
+      Piccolo_161: 2916970184147708145
+      Piccolo_162: 9093160953307151969
+      Piccolo_163: 6666952516151028652
+      Piccolo_164: -5137389183196271875
+      Piccolo_165: 6042469989315898150
+      Piccolo_166: 2345720140973932980
+      Piccolo_167: 5941360827885222654
+      Piccolo_168: 7988737992714243238
+      Piccolo_169: 2045758235503316450
+      Piccolo_17: 8358367112312585751
+      Piccolo_170: 1737635689276504274
+      Piccolo_171: 1342477421908286305
+      Piccolo_172: 3077528854900213780
+      Piccolo_173: -3220894365253655039
+      Piccolo_174: -8259945709780537827
+      Piccolo_175: -2596311370608856786
+      Piccolo_176: 8411259966971001662
+      Piccolo_177: -811219989130420080
+      Piccolo_178: 2053172640855542019
+      Piccolo_179: -436518037916084791
+      Piccolo_18: 1452440200427013282
+      Piccolo_180: -5405498318089280756
+      Piccolo_181: 2162163685817864897
+      Piccolo_182: 5028574531045467225
+      Piccolo_183: 898023573250494058
+      Piccolo_184: 3892746864195677141
+      Piccolo_185: 3254629658962565142
+      Piccolo_186: 7211430941278482833
+      Piccolo_187: -4225578264552187627
+      Piccolo_188: 5326405136332562653
+      Piccolo_189: -1243789450659980675
+      Piccolo_19: -396640080373661184
+      Piccolo_190: 2462209030004054993
+      Piccolo_191: 7010408362416394703
+      Piccolo_192: -5606595584329396295
+      Piccolo_193: -7442327503317969326
+      Piccolo_194: -8643005703890682591
+      Piccolo_195: 7878892229012524329
+      Piccolo_196: -1475203301643919659
+      Piccolo_197: -4417610239951742033
+      Piccolo_198: 4803057632990054010
+      Piccolo_199: 5793723604929862861
+      Piccolo_2: 8228121794619142506
+      Piccolo_20: -1067843733788492922
+      Piccolo_200: -4924786056723513203
+      Piccolo_201: 2547068667105927262
+      Piccolo_202: 2411771794473114941
+      Piccolo_203: 5122166958258232552
+      Piccolo_204: 3723019670822403444
+      Piccolo_205: -2507552902562579778
+      Piccolo_206: -8756680521623261363
+      Piccolo_207: -1335471991160819934
+      Piccolo_208: 7391006558362716730
+      Piccolo_209: -13520012099336604
+      Piccolo_21: 8007577089895929674
+      Piccolo_210: 685384194022646191
+      Piccolo_211: -4583549698877870333
+      Piccolo_212: 4218520377323445269
+      Piccolo_213: 8638022709963404147
+      Piccolo_214: -5829331825773111596
+      Piccolo_215: -5523107487561106142
+      Piccolo_216: -5596081661944210132
+      Piccolo_217: 8770520680141368641
+      Piccolo_218: -5543574194078002323
+      Piccolo_219: -9129581764949443253
+      Piccolo_22: -7027958515451327223
+      Piccolo_220: 6956399592260799437
+      Piccolo_221: -2379461694319810253
+      Piccolo_222: 5631836668427990792
+      Piccolo_223: 7242505283082226733
+      Piccolo_224: 4741820490825423850
+      Piccolo_225: -1458384902475703953
+      Piccolo_226: -1769299923786439714
+      Piccolo_227: -1150166220477731573
+      Piccolo_228: -4558458075397655235
+      Piccolo_229: -4510462064646139593
+      Piccolo_23: 9207223399192259450
+      Piccolo_230: -8125360479006873911
+      Piccolo_231: 1734902993149417712
+      Piccolo_232: -335456325498173025
+      Piccolo_233: 89720400365874273
+      Piccolo_234: -7165641030992010653
+      Piccolo_235: 3473610288142694881
+      Piccolo_236: -8606620175524025834
+      Piccolo_237: -503834165749283016
+      Piccolo_238: -3839394600043170041
+      Piccolo_239: -2294138190899139771
+      Piccolo_24: 5457109167543700370
+      Piccolo_240: -1177274915843953935
+      Piccolo_241: 4532270094731730590
+      Piccolo_242: 4432677422189000186
+      Piccolo_243: -3938491362155385564
+      Piccolo_244: 4618730859296953211
+      Piccolo_245: 8598837215581391213
+      Piccolo_246: 1247335272588457235
+      Piccolo_247: -2866658311458205698
+      Piccolo_248: 3556339951400328324
+      Piccolo_249: 5507721947799311874
+      Piccolo_25: 177805619093864227
+      Piccolo_250: -1050230275223214144
+      Piccolo_251: 3892245684169530305
+      Piccolo_252: -178773206611930078
+      Piccolo_253: 8135811761700658788
+      Piccolo_254: 7455730547078613988
+      Piccolo_255: -5454548210480061769
+      Piccolo_256: 8994195221272413428
+      Piccolo_257: 2427552782408794820
+      Piccolo_258: -7222638122604606501
+      Piccolo_259: 2918073578223618051
+      Piccolo_26: -9010127893555880979
+      Piccolo_260: -1725692852259892327
+      Piccolo_261: 2686826036115238212
+      Piccolo_262: -1790357049902920990
+      Piccolo_263: -100941836380348289
+      Piccolo_264: 850520176
+      Piccolo_265: 1634906565
+      Piccolo_27: -7981629393307386452
+      Piccolo_28: 6483053183713270551
+      Piccolo_29: -8674379215626619729
+      Piccolo_3: -481259608224790835
+      Piccolo_30: -8714057833250386469
+      Piccolo_31: -36973461197862297
+      Piccolo_32: 8033033084537204782
+      Piccolo_33: -2916531602819830966
+      Piccolo_34: 5031435269755645383
+      Piccolo_35: 1985570772885114409
+      Piccolo_36: -6437123393266836620
+      Piccolo_37: 372060773558940238
+      Piccolo_38: -2648914826786551842
+      Piccolo_39: 5743061514210025681
+      Piccolo_4: -4815089848760012543
+      Piccolo_40: 181704791289906958
+      Piccolo_41: 438248644606824984
+      Piccolo_42: 5638015186149768984
+      Piccolo_43: 5544576681293958415
+      Piccolo_44: -7894998684679297513
+      Piccolo_45: -1616603214122611666
+      Piccolo_46: 101376682902516365
+      Piccolo_47: -5584502125867125998
+      Piccolo_48: 478387877080128664
+      Piccolo_49: -7329323340915866612
+      Piccolo_5: -917215538598395701
+      Piccolo_50: -2358149771162643791
+      Piccolo_51: -8422387838421396505
+      Piccolo_52: 7501691224970971346
+      Piccolo_53: -4464240576599269341
+      Piccolo_54: 4515350056508731830
+      Piccolo_55: -31628776706226446
+      Piccolo_56: 8388464631747706390
+      Piccolo_57: 8857344666708485272
+      Piccolo_58: -2190492017976887677
+      Piccolo_59: -5704068320092608670
+      Piccolo_6: -2077543436577340594
+      Piccolo_60: -6972418733844366093
+      Piccolo_61: -2005492464346875367
+      Piccolo_62: -5324640394352586720
+      Piccolo_63: -2211540978307041584
+      Piccolo_64: -4045787100405816238
+      Piccolo_65: 5323419207530264339
+      Piccolo_66: -7592437880493507735
+      Piccolo_67: 790371642590419008
+      Piccolo_68: 1731100767631970349
+      Piccolo_69: -990138504891466618
+      Piccolo_7: -8486120596202316034
+      Piccolo_70: 1236359644249618001
+      Piccolo_71: -4666779899734857160
+      Piccolo_72: -4263344793496597600
+      Piccolo_73: 6227832123140943323
+      Piccolo_74: 818790120068853255
+      Piccolo_75: 5028232162942461074
+      Piccolo_76: -1165606920500628630
+      Piccolo_77: 6850851373806014704
+      Piccolo_78: -3969022074457711856
+      Piccolo_79: -7593372749265283846
+      Piccolo_8: 791670933954112244
+      Piccolo_80: 6209130814716222178
+      Piccolo_81: 8167407562910512509
+      Piccolo_82: -7164609415113687372
+      Piccolo_83: -5918927885529510622
+      Piccolo_84: -4821891515824716687
+      Piccolo_85: 7188303664558861819
+      Piccolo_86: -7342174698408805488
+      Piccolo_87: 7939388625683038597
+      Piccolo_88: -1872791452233272032
+      Piccolo_89: 7245594615011504973
+      Piccolo_9: -8225922988011080708
+      Piccolo_90: -215198296310018487
+      Piccolo_91: -2499632157553965008
+      Piccolo_92: 6250801491369868952
+      Piccolo_93: -6731791283616353444
+      Piccolo_94: 8380202092402528167
+      Piccolo_95: -2673508582605418612
+      Piccolo_96: 3124245503803722553
+      Piccolo_97: 7260096006966633190
+      Piccolo_98: 9121647042075591246
+      Piccolo_99: 6181735244487373342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

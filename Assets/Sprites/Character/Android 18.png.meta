@@ -1,0 +1,7209 @@
+fileFormatVersion: 2
+guid: 3ba05ea5d6f0abb4ea6d879b6dd43c0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4714665710929403756
+    second: Android 18_0
+  - first:
+      213: -6916279010886744011
+    second: Android 18_1
+  - first:
+      213: 2939450041208648909
+    second: Android 18_2
+  - first:
+      213: -3909217430618046432
+    second: Android 18_3
+  - first:
+      213: 6587593209597908335
+    second: Android 18_4
+  - first:
+      213: 8800515711543082177
+    second: Android 18_5
+  - first:
+      213: -5735722399374386581
+    second: Android 18_6
+  - first:
+      213: 774185469447810558
+    second: Android 18_7
+  - first:
+      213: -2376274053987214378
+    second: Android 18_8
+  - first:
+      213: 3266116408824517870
+    second: Android 18_9
+  - first:
+      213: 21724954818409641
+    second: Android 18_10
+  - first:
+      213: -6033376987071044560
+    second: Android 18_11
+  - first:
+      213: 7622725442464612431
+    second: Android 18_12
+  - first:
+      213: -354756147107241912
+    second: Android 18_13
+  - first:
+      213: -3161546238550044420
+    second: Android 18_14
+  - first:
+      213: 8014950226947731659
+    second: Android 18_15
+  - first:
+      213: -8571056910385061255
+    second: Android 18_16
+  - first:
+      213: -8627128548927145682
+    second: Android 18_17
+  - first:
+      213: -4738241621754585114
+    second: Android 18_18
+  - first:
+      213: -2995371231071024176
+    second: Android 18_19
+  - first:
+      213: -4841290409271571995
+    second: Android 18_20
+  - first:
+      213: -8902744024966872567
+    second: Android 18_21
+  - first:
+      213: 5941087826193620397
+    second: Android 18_22
+  - first:
+      213: 6582680555690346538
+    second: Android 18_23
+  - first:
+      213: -6605582801206132745
+    second: Android 18_24
+  - first:
+      213: 1653068552278101585
+    second: Android 18_25
+  - first:
+      213: -5493843921760343941
+    second: Android 18_26
+  - first:
+      213: 4527058762983775576
+    second: Android 18_27
+  - first:
+      213: -2162576837816658830
+    second: Android 18_28
+  - first:
+      213: -1937360312599276214
+    second: Android 18_29
+  - first:
+      213: -5972593537087138776
+    second: Android 18_30
+  - first:
+      213: 3947867116566773016
+    second: Android 18_31
+  - first:
+      213: -7092726821785700111
+    second: Android 18_32
+  - first:
+      213: -5318848696353981095
+    second: Android 18_33
+  - first:
+      213: 6014117293715317752
+    second: Android 18_34
+  - first:
+      213: -2246015592017040941
+    second: Android 18_35
+  - first:
+      213: -684743607740781015
+    second: Android 18_36
+  - first:
+      213: 7406269628480705079
+    second: Android 18_37
+  - first:
+      213: 324740901971176276
+    second: Android 18_38
+  - first:
+      213: 6260781003294144724
+    second: Android 18_39
+  - first:
+      213: 93910979744279288
+    second: Android 18_40
+  - first:
+      213: -7554637043183822111
+    second: Android 18_41
+  - first:
+      213: -589042640054261243
+    second: Android 18_42
+  - first:
+      213: 6684609300569449312
+    second: Android 18_43
+  - first:
+      213: 5664079018417388067
+    second: Android 18_44
+  - first:
+      213: -3413081468393461859
+    second: Android 18_45
+  - first:
+      213: -5591978207115514975
+    second: Android 18_46
+  - first:
+      213: -2634685988861249077
+    second: Android 18_47
+  - first:
+      213: -3789257537206107822
+    second: Android 18_48
+  - first:
+      213: -2630244034231772819
+    second: Android 18_49
+  - first:
+      213: -3670082961257243016
+    second: Android 18_50
+  - first:
+      213: -6751876082479983133
+    second: Android 18_51
+  - first:
+      213: -2092701544742682062
+    second: Android 18_52
+  - first:
+      213: 5395130492435298739
+    second: Android 18_53
+  - first:
+      213: 5929984071775604051
+    second: Android 18_54
+  - first:
+      213: 2254701225888371598
+    second: Android 18_55
+  - first:
+      213: 6566990443900851178
+    second: Android 18_56
+  - first:
+      213: 429377538302207163
+    second: Android 18_57
+  - first:
+      213: -1975500366551666533
+    second: Android 18_58
+  - first:
+      213: 2800854995489770651
+    second: Android 18_59
+  - first:
+      213: 2008887795508445035
+    second: Android 18_60
+  - first:
+      213: -666404475898197109
+    second: Android 18_61
+  - first:
+      213: 5922536063821812979
+    second: Android 18_62
+  - first:
+      213: 6694954701950536099
+    second: Android 18_63
+  - first:
+      213: 4073376404265522488
+    second: Android 18_64
+  - first:
+      213: 3959090178399895833
+    second: Android 18_65
+  - first:
+      213: 6177896542903865181
+    second: Android 18_66
+  - first:
+      213: -9204865563607725099
+    second: Android 18_67
+  - first:
+      213: -3726131293280575742
+    second: Android 18_68
+  - first:
+      213: 6962397832836781742
+    second: Android 18_69
+  - first:
+      213: 5546648335155315487
+    second: Android 18_70
+  - first:
+      213: 6941275078017042502
+    second: Android 18_71
+  - first:
+      213: 3275574864192353097
+    second: Android 18_72
+  - first:
+      213: 7410507258315917020
+    second: Android 18_73
+  - first:
+      213: -7117751295527499112
+    second: Android 18_74
+  - first:
+      213: -508974552105605229
+    second: Android 18_75
+  - first:
+      213: -103477157154924956
+    second: Android 18_76
+  - first:
+      213: 7816368875635727027
+    second: Android 18_77
+  - first:
+      213: -4242870321861248323
+    second: Android 18_78
+  - first:
+      213: 4197860759756814568
+    second: Android 18_79
+  - first:
+      213: -96874177429350528
+    second: Android 18_80
+  - first:
+      213: 4520404325216586799
+    second: Android 18_81
+  - first:
+      213: -1319305801829141601
+    second: Android 18_82
+  - first:
+      213: 3750979437619883057
+    second: Android 18_83
+  - first:
+      213: 7998598698733704047
+    second: Android 18_84
+  - first:
+      213: 2400980733630287984
+    second: Android 18_85
+  - first:
+      213: 5652242529172477916
+    second: Android 18_86
+  - first:
+      213: 1638078510740660279
+    second: Android 18_87
+  - first:
+      213: -676737752164983043
+    second: Android 18_88
+  - first:
+      213: 4835299462547494085
+    second: Android 18_89
+  - first:
+      213: -4627957881395766137
+    second: Android 18_90
+  - first:
+      213: -1183477682493545200
+    second: Android 18_91
+  - first:
+      213: 253883227513172064
+    second: Android 18_92
+  - first:
+      213: -1750760550954482032
+    second: Android 18_93
+  - first:
+      213: 544953779434263223
+    second: Android 18_94
+  - first:
+      213: -177594499927816634
+    second: Android 18_95
+  - first:
+      213: -6212131534025231385
+    second: Android 18_96
+  - first:
+      213: -39654245895262443
+    second: Android 18_97
+  - first:
+      213: 1965267543161497564
+    second: Android 18_98
+  - first:
+      213: 7791802953771457072
+    second: Android 18_99
+  - first:
+      213: 841237206469097623
+    second: Android 18_100
+  - first:
+      213: 4809102952356615893
+    second: Android 18_101
+  - first:
+      213: 7656152320833657359
+    second: Android 18_102
+  - first:
+      213: 3592229047726480054
+    second: Android 18_103
+  - first:
+      213: -3022892413518280021
+    second: Android 18_104
+  - first:
+      213: -7980678084034634263
+    second: Android 18_105
+  - first:
+      213: 1783782936681730248
+    second: Android 18_106
+  - first:
+      213: -1487948721841466886
+    second: Android 18_107
+  - first:
+      213: -7907516944766791613
+    second: Android 18_108
+  - first:
+      213: 5451209997499279874
+    second: Android 18_109
+  - first:
+      213: 5705811449409292922
+    second: Android 18_110
+  - first:
+      213: -4045707733819448216
+    second: Android 18_111
+  - first:
+      213: -518094687179248355
+    second: Android 18_112
+  - first:
+      213: -3737387442268509970
+    second: Android 18_113
+  - first:
+      213: -2960702623180350971
+    second: Android 18_114
+  - first:
+      213: 4303734810576063135
+    second: Android 18_115
+  - first:
+      213: 819181289650623766
+    second: Android 18_116
+  - first:
+      213: -6689344825073887569
+    second: Android 18_117
+  - first:
+      213: -1155341764530972861
+    second: Android 18_118
+  - first:
+      213: 953950831488264016
+    second: Android 18_119
+  - first:
+      213: -8294878467078609095
+    second: Android 18_120
+  - first:
+      213: -3895845561286135075
+    second: Android 18_121
+  - first:
+      213: 3919077925847464658
+    second: Android 18_122
+  - first:
+      213: -5176127180904687107
+    second: Android 18_123
+  - first:
+      213: -6417967068948165460
+    second: Android 18_124
+  - first:
+      213: -4862306948776860324
+    second: Android 18_125
+  - first:
+      213: 5365481274611703547
+    second: Android 18_126
+  - first:
+      213: -148537501831965379
+    second: Android 18_127
+  - first:
+      213: -3857352642723732476
+    second: Android 18_128
+  - first:
+      213: -2928251974897969543
+    second: Android 18_129
+  - first:
+      213: 2953694321686212753
+    second: Android 18_130
+  - first:
+      213: 8764919354431443419
+    second: Android 18_131
+  - first:
+      213: 6965238701549101964
+    second: Android 18_132
+  - first:
+      213: 1283229219716536196
+    second: Android 18_133
+  - first:
+      213: -1300456498409297565
+    second: Android 18_134
+  - first:
+      213: -412931099866264642
+    second: Android 18_135
+  - first:
+      213: 5688737767058509266
+    second: Android 18_136
+  - first:
+      213: 468291289563249311
+    second: Android 18_137
+  - first:
+      213: -8928210154824912298
+    second: Android 18_138
+  - first:
+      213: -8010754178752443247
+    second: Android 18_139
+  - first:
+      213: -6029869661619969043
+    second: Android 18_140
+  - first:
+      213: 36222624694401321
+    second: Android 18_141
+  - first:
+      213: 7660719344059400604
+    second: Android 18_142
+  - first:
+      213: -4351942148215586786
+    second: Android 18_143
+  - first:
+      213: 1388516850403928124
+    second: Android 18_144
+  - first:
+      213: -990092890778535464
+    second: Android 18_145
+  - first:
+      213: -2273980626689197644
+    second: Android 18_146
+  - first:
+      213: -410314823196024062
+    second: Android 18_147
+  - first:
+      213: 350966379653556795
+    second: Android 18_148
+  - first:
+      213: 158685008365661550
+    second: Android 18_149
+  - first:
+      213: -6824790120642934925
+    second: Android 18_150
+  - first:
+      213: -8963733242485346219
+    second: Android 18_151
+  - first:
+      213: 5184746686405088714
+    second: Android 18_152
+  - first:
+      213: -1065087028476242409
+    second: Android 18_153
+  - first:
+      213: -8689140316852931563
+    second: Android 18_154
+  - first:
+      213: 3317234196668109259
+    second: Android 18_155
+  - first:
+      213: -1943256093675248597
+    second: Android 18_156
+  - first:
+      213: -1138375948465388085
+    second: Android 18_157
+  - first:
+      213: 847512737032751617
+    second: Android 18_158
+  - first:
+      213: 4341985200686504571
+    second: Android 18_159
+  - first:
+      213: -8993119391750422475
+    second: Android 18_160
+  - first:
+      213: -4894669277525128141
+    second: Android 18_161
+  - first:
+      213: 2935189999181809372
+    second: Android 18_162
+  - first:
+      213: 8866473312260708099
+    second: Android 18_163
+  - first:
+      213: -1690143245386769916
+    second: Android 18_164
+  - first:
+      213: 4451177149278703025
+    second: Android 18_165
+  - first:
+      213: 305736040464359344
+    second: Android 18_166
+  - first:
+      213: 5497363278754735592
+    second: Android 18_167
+  - first:
+      213: -5037132852546191132
+    second: Android 18_168
+  - first:
+      213: 8935355031041411264
+    second: Android 18_169
+  - first:
+      213: 506829384179740491
+    second: Android 18_170
+  - first:
+      213: 7042973943447250829
+    second: Android 18_171
+  - first:
+      213: -6815393919620453248
+    second: Android 18_172
+  - first:
+      213: 8021368343108192741
+    second: Android 18_173
+  - first:
+      213: 5466980046252371913
+    second: Android 18_174
+  - first:
+      213: -6801612995251707005
+    second: Android 18_175
+  - first:
+      213: -7917291825053627220
+    second: Android 18_176
+  - first:
+      213: -8806336878230765270
+    second: Android 18_177
+  - first:
+      213: -8504478237625078302
+    second: Android 18_178
+  - first:
+      213: -2636664110593059910
+    second: Android 18_179
+  - first:
+      213: 4966312046113524362
+    second: Android 18_180
+  - first:
+      213: -8343555281453373153
+    second: Android 18_181
+  - first:
+      213: 1784119351526437506
+    second: Android 18_182
+  - first:
+      213: 8232083515299790110
+    second: Android 18_183
+  - first:
+      213: 1033729190633319991
+    second: Android 18_184
+  - first:
+      213: -86465333353828528
+    second: Android 18_185
+  - first:
+      213: -3285735876983551514
+    second: Android 18_186
+  - first:
+      213: 5634066419810840978
+    second: Android 18_187
+  - first:
+      213: -5972716597670039520
+    second: Android 18_188
+  - first:
+      213: 8816097154451589945
+    second: Android 18_189
+  - first:
+      213: -2819793755674098844
+    second: Android 18_190
+  - first:
+      213: -2373656446398182892
+    second: Android 18_191
+  - first:
+      213: -2770860008642260619
+    second: Android 18_192
+  - first:
+      213: -2386948942813145803
+    second: Android 18_193
+  - first:
+      213: -543159735584533900
+    second: Android 18_194
+  - first:
+      213: 2428753963004788987
+    second: Android 18_195
+  - first:
+      213: -261323012796317836
+    second: Android 18_196
+  - first:
+      213: -1953215312585562466
+    second: Android 18_197
+  - first:
+      213: 4091959210924487680
+    second: Android 18_198
+  - first:
+      213: -2269043636431394597
+    second: Android 18_199
+  - first:
+      213: -1846526734564149511
+    second: Android 18_200
+  - first:
+      213: 2156163078698475871
+    second: Android 18_201
+  - first:
+      213: -8714816946409384525
+    second: Android 18_202
+  - first:
+      213: 4798077008136914782
+    second: Android 18_203
+  - first:
+      213: -8264742473735995164
+    second: Android 18_204
+  - first:
+      213: 6298774331686715261
+    second: Android 18_205
+  - first:
+      213: 3649343571435200333
+    second: Android 18_206
+  - first:
+      213: 123650918095133378
+    second: Android 18_207
+  - first:
+      213: -967410986286372028
+    second: Android 18_208
+  - first:
+      213: -7377274053943341768
+    second: Android 18_209
+  - first:
+      213: 5855727429117343202
+    second: Android 18_210
+  - first:
+      213: 4268764898604916311
+    second: Android 18_211
+  - first:
+      213: -7060209834621876153
+    second: Android 18_212
+  - first:
+      213: 1151566321449556336
+    second: Android 18_213
+  - first:
+      213: 7851203043693726825
+    second: Android 18_214
+  - first:
+      213: -4331661758501899306
+    second: Android 18_215
+  - first:
+      213: -6909754307284275417
+    second: Android 18_216
+  - first:
+      213: -3416526284978876570
+    second: Android 18_217
+  - first:
+      213: -4352719961964854593
+    second: Android 18_218
+  - first:
+      213: -199995174632962277
+    second: Android 18_219
+  - first:
+      213: -508027411892802694
+    second: Android 18_220
+  - first:
+      213: 6822666537937786518
+    second: Android 18_221
+  - first:
+      213: 5104164973681069872
+    second: Android 18_222
+  - first:
+      213: -6998737804768428371
+    second: Android 18_223
+  - first:
+      213: -2547541974594598132
+    second: Android 18_224
+  - first:
+      213: 4411653495604466358
+    second: Android 18_225
+  - first:
+      213: -1308451013711167823
+    second: Android 18_226
+  - first:
+      213: -7026042238172400737
+    second: Android 18_227
+  - first:
+      213: -1394743126991053848
+    second: Android 18_228
+  - first:
+      213: 6210826120355422022
+    second: Android 18_229
+  - first:
+      213: 5241317627414720209
+    second: Android 18_230
+  - first:
+      213: -2628025901842981529
+    second: Android 18_231
+  - first:
+      213: -1196838814882480993
+    second: Android 18_232
+  - first:
+      213: 6997700286866564253
+    second: Android 18_233
+  - first:
+      213: -5418220449359877560
+    second: Android 18_234
+  - first:
+      213: -3709771579647141913
+    second: Android 18_235
+  - first:
+      213: 5167317635154169215
+    second: Android 18_236
+  - first:
+      213: 7758936736619976985
+    second: Android 18_237
+  - first:
+      213: -9217195789414913650
+    second: Android 18_238
+  - first:
+      213: -3965904755544523208
+    second: Android 18_239
+  - first:
+      213: 3850729014930324152
+    second: Android 18_240
+  - first:
+      213: 6070791807454444189
+    second: Android 18_241
+  - first:
+      213: 8544200141829025710
+    second: Android 18_242
+  - first:
+      213: 5664858524717244214
+    second: Android 18_243
+  - first:
+      213: -2296984594122328873
+    second: Android 18_244
+  - first:
+      213: 8644269737939455029
+    second: Android 18_245
+  - first:
+      213: -5836149703883939570
+    second: Android 18_246
+  - first:
+      213: -3036926156359859532
+    second: Android 18_247
+  - first:
+      213: 8387400898296675183
+    second: Android 18_248
+  - first:
+      213: -4432794466409967556
+    second: Android 18_249
+  - first:
+      213: -4950404200461665578
+    second: Android 18_250
+  - first:
+      213: -8804713802842138101
+    second: Android 18_251
+  - first:
+      213: 2829729731622675349
+    second: Android 18_252
+  - first:
+      213: -5234348484175615077
+    second: Android 18_253
+  - first:
+      213: -521887571242568459
+    second: Android 18_254
+  - first:
+      213: 3825871405502207343
+    second: Android 18_255
+  - first:
+      213: -516394559186082088
+    second: Android 18_256
+  - first:
+      213: -1275017900445637091
+    second: Android 18_257
+  - first:
+      213: 7302144280187040929
+    second: Android 18_258
+  - first:
+      213: 1305156158666254177
+    second: Android 18_259
+  - first:
+      213: -4321308356180673769
+    second: Android 18_260
+  - first:
+      213: 9079875296429007816
+    second: Android 18_261
+  - first:
+      213: 4326126863164704993
+    second: Android 18_262
+  - first:
+      213: -4729075904849561564
+    second: Android 18_263
+  - first:
+      213: -1966941189861885670
+    second: Android 18_264
+  - first:
+      213: 5597964443596691945
+    second: Android 18_265
+  - first:
+      213: -1927150391580075930
+    second: Android 18_266
+  - first:
+      213: -5260906215080635697
+    second: Android 18_267
+  - first:
+      213: 307187753851063351
+    second: Android 18_268
+  - first:
+      213: 5656172806680422169
+    second: Android 18_269
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Android 18_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a659e384229eb0800000000000000
+      internalID: -4714665710929403756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5380b9432e07400a0800000000000000
+      internalID: -6916279010886744011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 383
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4bf351d360bc820800000000000000
+      internalID: 2939450041208648909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200f32757bafb9c0800000000000000
+      internalID: -3909217430618046432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65dbde1f15db6b50800000000000000
+      internalID: 6587593209597908335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf4ca9966b12a70800000000000000
+      internalID: 8800515711543082177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ad90fedde9660b0800000000000000
+      internalID: -5735722399374386581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efda4b825957eba00800000000000000
+      internalID: 774185469447810558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5d138657c50fd0800000000000000
+      internalID: -2376274053987214378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45f07b193935d20800000000000000
+      internalID: 3266116408824517870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a476b63bbe2d4000800000000000000
+      internalID: 21724954818409641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342d91b893254ca0800000000000000
+      internalID: -6033376987071044560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408f6a276c59c960800000000000000
+      internalID: 7622725442464612431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84069cde927a31bf0800000000000000
+      internalID: -354756147107241912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf09046527eef14d0800000000000000
+      internalID: -3161546238550044420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f7a134c2da3f60800000000000000
+      internalID: 8014950226947731659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97267d2c62d7d0980800000000000000
+      internalID: -8571056910385061255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f0911b48464880800000000000000
+      internalID: -8627128548927145682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd85b69526e3eb0800000000000000
+      internalID: -4738241621754585114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 354
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db46994cbd4e66d0800000000000000
+      internalID: -2995371231071024176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 354
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ccd4e50840dcb0800000000000000
+      internalID: -4841290409271571995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024e916a79137480800000000000000
+      internalID: -8902744024966872567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 354
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1ba396ebf27250800000000000000
+      internalID: 5941087826193620397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a284bcfb6116a5b50800000000000000
+      internalID: 6582680555690346538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbdafa0714454a0800000000000000
+      internalID: -6605582801206132745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 354
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec7e70711e0f610800000000000000
+      internalID: 1653068552278101585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 354
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7829009f02f1c3b0800000000000000
+      internalID: -5493843921760343941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d97f4a5f753de30800000000000000
+      internalID: 4527058762983775576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 354
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745376e2dbfcf1e0800000000000000
+      internalID: -2162576837816658830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45949d6f0d1d15e0800000000000000
+      internalID: -1937360312599276214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824902a72d51d1da0800000000000000
+      internalID: -5972593537087138776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d786fc934a9c630800000000000000
+      internalID: 3947867116566773016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f392d882919d90800000000000000
+      internalID: -7092726821785700111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d75c78a47af26b0800000000000000
+      internalID: -5318848696353981095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36f6180df667350800000000000000
+      internalID: 6014117293715317752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e5dd08bc84d0e0800000000000000
+      internalID: -2246015592017040941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2462115d4f76f0800000000000000
+      internalID: -684743607740781015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7325b5cacfa58c660800000000000000
+      internalID: 7406269628480705079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 354
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b280a3126b18400800000000000000
+      internalID: 324740901971176276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87cd5c623c2e650800000000000000
+      internalID: 6260781003294144724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_40
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 354
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faaa2cd983ad4100800000000000000
+      internalID: 93910979744279288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea550aa2a9882790800000000000000
+      internalID: -7554637043183822111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 354
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae10af6dc43d7f0800000000000000
+      internalID: -589042640054261243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 353
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e6b60eb084cc50800000000000000
+      internalID: 6684609300569449312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af2809bd9da9e40800000000000000
+      internalID: 5664079018417388067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9760fedc7c42a0d0800000000000000
+      internalID: -3413081468393461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab672db27d4562b0800000000000000
+      internalID: -5591978207115514975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9f9336d07bf6bd0800000000000000
+      internalID: -2634685988861249077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 354
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251cb54a85ad96bc0800000000000000
+      internalID: -3789257537206107822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69560b8cfe7f7bd0800000000000000
+      internalID: -2630244034231772819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 354
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5c0eddfe311dc0800000000000000
+      internalID: -3670082961257243016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 354
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e51358d9748c42a0800000000000000
+      internalID: -6751876082479983133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23283bc580b35f2e0800000000000000
+      internalID: -2092701544742682062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 294
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fb76299a5fda40800000000000000
+      internalID: 5395130492435298739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc8e948198b4250800000000000000
+      internalID: 5929984071775604051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 293
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83d6bba1de4a4f10800000000000000
+      internalID: 2254701225888371598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 293
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3581ce303a22b50800000000000000
+      internalID: 6566990443900851178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_57
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 294
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e80d989475f500800000000000000
+      internalID: 429377538302207163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 294
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b80e12ec9594e0800000000000000
+      internalID: -1975500366551666533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ccb8167c2aed620800000000000000
+      internalID: 2800854995489770651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_60
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 246
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ff5e47ec001eb10800000000000000
+      internalID: 2008887795508445035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 246
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b8b51f8a470c6f0800000000000000
+      internalID: -666404475898197109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 246
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41a8dcb23113250800000000000000
+      internalID: 5922536063821812979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 246
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9c71d74d149ec50800000000000000
+      internalID: 6694954701950536099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 246
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83554bc024a878830800000000000000
+      internalID: 4073376404265522488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_65
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 246
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91183458a8381f630800000000000000
+      internalID: 3959090178399895833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 237
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f06e28c2c4cb550800000000000000
+      internalID: 6177896542903865181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 246
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8fe31a8fb14080800000000000000
+      internalID: -9204865563607725099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 246
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f5b85a45f1a4cc0800000000000000
+      internalID: -3726131293280575742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 246
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea69f2bc0f76f9060800000000000000
+      internalID: 6962397832836781742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13c1fef547a9fc40800000000000000
+      internalID: 5546648335155315487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6484a7138ec545060800000000000000
+      internalID: 6941275078017042502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9433267fbfd257d20800000000000000
+      internalID: 3275574864192353097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_73
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 196
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6cf51c61967d660800000000000000
+      internalID: 7410507258315917020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ac18e78eaa83d90800000000000000
+      internalID: -7117751295527499112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397280e6752cfe8f0800000000000000
+      internalID: -508974552105605229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 196
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466d965e210609ef0800000000000000
+      internalID: -103477157154924956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3badfa95412597c60800000000000000
+      internalID: 7816368875635727027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 196
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab9650ceb4e15c0800000000000000
+      internalID: -4242870321861248323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 196
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e83bd9ae1cc14a30800000000000000
+      internalID: 4197860759756814568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_80
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 196
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0875a6ae275d7aef0800000000000000
+      internalID: -96874177429350528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 196
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c8cad98c3bbbe30800000000000000
+      internalID: 4520404325216586799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_82
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 196
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93bcdbfc52e0bde0800000000000000
+      internalID: -1319305801829141601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 178
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca02bcce72e0430800000000000000
+      internalID: 3750979437619883057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_84
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 136
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f639cea532bb00f60800000000000000
+      internalID: 7998598698733704047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_85
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 88
+        width: 55
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070179c914ff15120800000000000000
+      internalID: 2400980733630287984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd75ea722acc07e40800000000000000
+      internalID: 5652242529172477916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730e5e20abf9bb610800000000000000
+      internalID: 1638078510740660279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe1c14999ebb96f0800000000000000
+      internalID: -676737752164983043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 136
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d7cf1e3f6a1340800000000000000
+      internalID: 4835299462547494085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c9feba3d036cfb0800000000000000
+      internalID: -4627957881395766137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015ae5f6151739fe0800000000000000
+      internalID: -1183477682493545200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0603a564379f58300800000000000000
+      internalID: 253883227513172064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09647990e8c04b7e0800000000000000
+      internalID: -1750760550954482032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 88
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b29f2a3390109700800000000000000
+      internalID: 544953779434263223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_95
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 88
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464db54ebe098df0800000000000000
+      internalID: -177594499927816634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_96
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 88
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37c6878431ac9a0800000000000000
+      internalID: -6212131534025231385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_97
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 88
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa3976cae137ff0800000000000000
+      internalID: -39654245895262443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_98
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 88
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7eeb60b68064b10800000000000000
+      internalID: 1965267543161497564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a1363f08b022c60800000000000000
+      internalID: 7791802953771457072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798be6f38ccacab00800000000000000
+      internalID: 841237206469097623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_101
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d69f7bc7ad5db240800000000000000
+      internalID: 4809102952356615893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_102
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 59
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9295c8fd104a60800000000000000
+      internalID: 7656152320833657359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba939559492ad130800000000000000
+      internalID: 3592229047726480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_104
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa050aad578c06d0800000000000000
+      internalID: -3022892413518280021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_105
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edde56e09fee3190800000000000000
+      internalID: -7980678084034634263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05159412541c810800000000000000
+      internalID: 1783782936681730248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_107
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af194ae558eb95be0800000000000000
+      internalID: -1487948721841466886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_108
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3401bcb0c3bd24290800000000000000
+      internalID: -7907516944766791613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_109
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aa0096c9696ab40800000000000000
+      internalID: 5451209997499279874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac565584d1f2f40800000000000000
+      internalID: 5705811449409292922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86424ac4042cad7c0800000000000000
+      internalID: -4045707733819448216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_112
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de9a280ab5fc8f0800000000000000
+      internalID: -518094687179248355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_113
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8649b3ce1222cc0800000000000000
+      internalID: -3737387442268509970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_114
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a94c396a879e6d0800000000000000
+      internalID: -2960702623180350971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_115
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8edf0200f9bb30800000000000000
+      internalID: 4303734810576063135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6159540fa015e5b00800000000000000
+      internalID: 819181289650623766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69f51c25caa23a0800000000000000
+      internalID: -6689344825073887569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_118
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 59
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34755f259c667ffe0800000000000000
+      internalID: -1155341764530972861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057eb0c1a3d1d3d00800000000000000
+      internalID: 953950831488264016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_120
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9372eba7bfba2ec80800000000000000
+      internalID: -8294878467078609095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f1c36a1d2fe9c0800000000000000
+      internalID: -3895845561286135075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da76310c9c536630800000000000000
+      internalID: 3919077925847464658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_123
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df99ee5d0c3ba28b0800000000000000
+      internalID: -5176127180904687107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_124
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac803364fccee6a0800000000000000
+      internalID: -6417967068948165460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_125
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55ed39779d958cb0800000000000000
+      internalID: -4862306948776860324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_126
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9d3eaac4067a40800000000000000
+      internalID: 5365481274611703547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_127
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d355b77dde940fdf0800000000000000
+      internalID: -148537501831965379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_128
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a905653ee77ac0800000000000000
+      internalID: -3857352642723732476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 59
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976de57e752cc57d0800000000000000
+      internalID: -2928251974897969543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f1331651adf820800000000000000
+      internalID: 2953694321686212753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_131
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd115ddd6bf33a970800000000000000
+      internalID: 8764919354431443419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_132
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8323a512bf79a060800000000000000
+      internalID: 6965238701549101964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_133
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4871b9e2d22fec110800000000000000
+      internalID: 1283229219716536196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_134
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369277e64b9d3fde0800000000000000
+      internalID: -1300456498409297565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_135
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb82cb3a59f44af0800000000000000
+      internalID: -412931099866264642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0fd1ebd472fe40800000000000000
+      internalID: 5688737767058509266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_137
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab3dd5274bf7600800000000000000
+      internalID: 468291289563249311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_138
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65230a9fa20a81480800000000000000
+      internalID: -8928210154824912298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_139
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0c78648514d090800000000000000
+      internalID: -8010754178752443247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_140
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ac398d79915ca0800000000000000
+      internalID: -6029869661619969043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_141
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 45
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929fdb50940b08000800000000000000
+      internalID: 36222624694401321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91cf9ab7a7505a60800000000000000
+      internalID: 7660719344059400604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_143
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104f8c7cabca93c0800000000000000
+      internalID: -4351942148215586786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_144
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3868f008b0054310800000000000000
+      internalID: 1388516850403928124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_145
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97186f2cb7242f0800000000000000
+      internalID: -990092890778535464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_146
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f1180ba23170e0800000000000000
+      internalID: -2273980626689197644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_147
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e25d97d44e4af0800000000000000
+      internalID: -410314823196024062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_148
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aea531012eed400800000000000000
+      internalID: 350966379653556795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_149
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 59
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da0d2ac23c33200800000000000000
+      internalID: 158685008365661550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_150
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778b786b897941a0800000000000000
+      internalID: -6824790120642934925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_151
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fc4c9b1c6a9380800000000000000
+      internalID: -8963733242485346219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_152
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac51f8d24abe3f740800000000000000
+      internalID: 5184746686405088714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_153
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161ccc9dfc0831f0800000000000000
+      internalID: -1065087028476242409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_154
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b47a3be8f96780800000000000000
+      internalID: -8689140316852931563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_155
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 57
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc15e292dee290e20800000000000000
+      internalID: 3317234196668109259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24afdce0ea2805e0800000000000000
+      internalID: -1943256093675248597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_157
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54fd23b1da330f0800000000000000
+      internalID: -1138375948465388085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_158
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ac4711858f2cb00800000000000000
+      internalID: 847512737032751617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a1ce20984d14c30800000000000000
+      internalID: 4341985200686504571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_160
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5300a009f85023380800000000000000
+      internalID: -8993119391750422475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_161
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 45
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cc814a934a21cb0800000000000000
+      internalID: -4894669277525128141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_162
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6c281c0c3ebb820800000000000000
+      internalID: 2935189999181809372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_163
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d7cb308a0c0b70800000000000000
+      internalID: 8866473312260708099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_164
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a123f4ca76b88e0800000000000000
+      internalID: -1690143245386769916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_165
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 45
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc71fa802c5cd30800000000000000
+      internalID: 4451177149278703025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_166
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf99e61f413e3400800000000000000
+      internalID: 305736040464359344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_167
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e37796ce8a4c40800000000000000
+      internalID: 5497363278754735592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_168
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c885cb52881ab0800000000000000
+      internalID: -5037132852546191132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_169
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 43
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c809372f02c00c70800000000000000
+      internalID: 8935355031041411264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_170
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f63cdb3ae980700800000000000000
+      internalID: 506829384179740491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87618d7c7badb160800000000000000
+      internalID: 7042973943447250829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_172
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6aa0f65bda61a0800000000000000
+      internalID: -6815393919620453248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_173
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9078f4200a15f60800000000000000
+      internalID: 8021368343108192741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_174
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 45
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6503036d9edb40800000000000000
+      internalID: 5466980046252371913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_175
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383675e6401db91a0800000000000000
+      internalID: -6801612995251707005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_176
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac03906801202290800000000000000
+      internalID: -7917291825053627220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_177
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2102a8644b99c580800000000000000
+      internalID: -8806336878230765270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_178
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed215ef9160af980800000000000000
+      internalID: -8504478237625078302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_179
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3541806ffa86bd0800000000000000
+      internalID: -2636664110593059910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_180
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a07584e72ebe440800000000000000
+      internalID: 4966312046113524362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_181
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1923257dacb53c80800000000000000
+      internalID: -8343555281453373153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_182
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28232a8f81772c810800000000000000
+      internalID: 1784119351526437506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_183
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dfaca775c3e3270800000000000000
+      internalID: 8232083515299790110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea6a1d83b885e00800000000000000
+      internalID: 1033729190633319991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_185
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f2f08cc30dccef0800000000000000
+      internalID: -86465333353828528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_186
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e983a2e0a8b662d0800000000000000
+      internalID: -3285735876983551514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_187
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 43
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29138c9ee89303e40800000000000000
+      internalID: 5634066419810840978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_188
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203cc336e5ac1da0800000000000000
+      internalID: -5972716597670039520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_189
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4b6cf6a1195a70800000000000000
+      internalID: 8816097154451589945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_190
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634e25e4841ed8d0800000000000000
+      internalID: -2819793755674098844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_191
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ace95c9041f0fd0800000000000000
+      internalID: -2373656446398182892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_192
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571da86b08deb89d0800000000000000
+      internalID: -2770860008642260619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535d0a6459adfded0800000000000000
+      internalID: -2386948942813145803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_194
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4725038291f4678f0800000000000000
+      internalID: -543159735584533900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf009bb7cdaa4b120800000000000000
+      internalID: 2428753963004788987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_196
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff3aaba189f5cf0800000000000000
+      internalID: -261323012796317836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_197
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96eb739509c4e4e0800000000000000
+      internalID: -1953215312585562466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_198
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ba82e83f89c830800000000000000
+      internalID: 4091959210924487680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_199
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd865a6a5dcb280e0800000000000000
+      internalID: -2269043636431394597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_200
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ba0ed7b1df56e0800000000000000
+      internalID: -1846526734564149511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_201
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51a2af65ea3ced10800000000000000
+      internalID: 2156163078698475871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5d6ba0920ce0780800000000000000
+      internalID: -8714816946409384525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_203
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5748fa1e91369240800000000000000
+      internalID: 4798077008136914782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_204
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e002e4328cbd4d80800000000000000
+      internalID: -8264742473735995164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_205
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff880e1edb96750800000000000000
+      internalID: 6298774331686715261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_206
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f10c6a4a215a230800000000000000
+      internalID: 3649343571435200333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_207
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca1639dadb47b100800000000000000
+      internalID: 123650918095133378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b279265d01392f0800000000000000
+      internalID: -967410986286372028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_209
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d400c9558ae9990800000000000000
+      internalID: -7377274053943341768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_210
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5fc026219b34150800000000000000
+      internalID: 5855727429117343202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_211
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e9003fe03bd3b30800000000000000
+      internalID: 4268764898604916311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_212
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748c4afdf88150e90800000000000000
+      internalID: -7060209834621876153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079dd45d77f2bff00800000000000000
+      internalID: 1151566321449556336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_214
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c84de129315fc60800000000000000
+      internalID: 7851203043693726825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3b95da498d2e3c0800000000000000
+      internalID: -4331661758501899306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_216
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f6815211f9b10a0800000000000000
+      internalID: -6909754307284275417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_217
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f8c02027f0690d0800000000000000
+      internalID: -3416526284978876570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_218
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2455c91480893c0800000000000000
+      internalID: -4352719961964854593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_219
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17c533c279793df0800000000000000
+      internalID: -199995174632962277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_220
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7be7f1b2cf13f8f0800000000000000
+      internalID: -508027411892802694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_221
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d9b6711bfeae50800000000000000
+      internalID: 6822666537937786518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_222
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f40432003a5d640800000000000000
+      internalID: 5104164973681069872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3ea62c0d7fde90800000000000000
+      internalID: -6998737804768428371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_224
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b44e1521055acd0800000000000000
+      internalID: -2547541974594598132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_225
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b25d95fa77593d30800000000000000
+      internalID: 4411653495604466358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_226
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1befeb94cb277dde0800000000000000
+      internalID: -1308451013711167823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_227
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f7d85fcb7e7e90800000000000000
+      internalID: -7026042238172400737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_228
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd7c20480e4ace0800000000000000
+      internalID: -1394743126991053848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_229
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f90893379413650800000000000000
+      internalID: 6210826120355422022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_230
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2c09cc96ecb840800000000000000
+      internalID: 5241317627414720209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_231
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d9f1cbd50678bd0800000000000000
+      internalID: -2628025901842981529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_232
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb7816079f36fe0800000000000000
+      internalID: -1196838814882480993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_233
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a453e553dc1160800000000000000
+      internalID: 6997700286866564253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_234
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa521553d9ec4b0800000000000000
+      internalID: -5418220449359877560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_235
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7da4d476e348cc0800000000000000
+      internalID: -3709771579647141913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_236
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc9f4f20006b740800000000000000
+      internalID: 5167317635154169215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_237
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91956f47ad74dab60800000000000000
+      internalID: 7758936736619976985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_238
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a2baa341f51080800000000000000
+      internalID: -9217195789414913650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_239
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7cb813a646f8c0800000000000000
+      internalID: -3965904755544523208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_240
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba363513a9807530800000000000000
+      internalID: 3850729014930324152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_241
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a7ca40cf8cf3450800000000000000
+      internalID: 6070791807454444189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_242
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafaf8782c8139670800000000000000
+      internalID: 8544200141829025710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_243
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5d9480de9d9e40800000000000000
+      internalID: 5664858524717244214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_244
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43bcc7ea87f10e0800000000000000
+      internalID: -2296984594122328873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_245
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4a80078d96f770800000000000000
+      internalID: 8644269737939455029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_246
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e012ffbf3c4d10fa0800000000000000
+      internalID: -5836149703883939570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_247
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2041940cbaad5d0800000000000000
+      internalID: -3036926156359859532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_248
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf3cbbda8066470800000000000000
+      internalID: 8387400898296675183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_249
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3011533bec8b72c0800000000000000
+      internalID: -4432794466409967556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_250
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da71e8ab91ac4bb0800000000000000
+      internalID: -4950404200461665578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_251
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a9d98127f5fc580800000000000000
+      internalID: -8804713802842138101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_252
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932bb7c238354720800000000000000
+      internalID: 2829729731622675349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_253
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bab1259cbdb57b0800000000000000
+      internalID: -5234348484175615077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_254
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4356fd402e1c8f0800000000000000
+      internalID: -521887571242568459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_255
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659841e5c9381530800000000000000
+      internalID: 3825871405502207343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_256
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e4c762e565d8f0800000000000000
+      internalID: -516394559186082088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_257
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d166ca199f93e4ee0800000000000000
+      internalID: -1275017900445637091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_258
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f23fc88d665560800000000000000
+      internalID: 7302144280187040929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_259
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16727bd7c98dc1210800000000000000
+      internalID: 1305156158666254177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_260
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7ce002f0a704c0800000000000000
+      internalID: -4321308356180673769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_261
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ee709972320e70800000000000000
+      internalID: 9079875296429007816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_262
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80534167d790c30800000000000000
+      internalID: 4326126863164704993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_263
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428359f2582fe5eb0800000000000000
+      internalID: -4729075904849561564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_264
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b23cb86504b4e0800000000000000
+      internalID: -1966941189861885670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_265
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e919dd8007ffad40800000000000000
+      internalID: 5597964443596691945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_266
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685d19ede26145e0800000000000000
+      internalID: -1927150391580075930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_267
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2597dbba18df6b0800000000000000
+      internalID: -5260906215080635697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_268
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c84a372a9534400800000000000000
+      internalID: 307187753851063351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_269
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91729623333ce7e40800000000000000
+      internalID: 5656172806680422169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_270
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 293
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f31829fc59c541b9ab11338bd2981
+      internalID: 2093697607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Android 18_271
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 291
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2582286ca9f7428eeddcf53a98090
+      internalID: -1529745206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 062ff88303f4101458e77f5b6cc40446
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Android 18_0: -4714665710929403756
+      Android 18_1: -6916279010886744011
+      Android 18_10: 21724954818409641
+      Android 18_100: 841237206469097623
+      Android 18_101: 4809102952356615893
+      Android 18_102: 7656152320833657359
+      Android 18_103: 3592229047726480054
+      Android 18_104: -3022892413518280021
+      Android 18_105: -7980678084034634263
+      Android 18_106: 1783782936681730248
+      Android 18_107: -1487948721841466886
+      Android 18_108: -7907516944766791613
+      Android 18_109: 5451209997499279874
+      Android 18_11: -6033376987071044560
+      Android 18_110: 5705811449409292922
+      Android 18_111: -4045707733819448216
+      Android 18_112: -518094687179248355
+      Android 18_113: -3737387442268509970
+      Android 18_114: -2960702623180350971
+      Android 18_115: 4303734810576063135
+      Android 18_116: 819181289650623766
+      Android 18_117: -6689344825073887569
+      Android 18_118: -1155341764530972861
+      Android 18_119: 953950831488264016
+      Android 18_12: 7622725442464612431
+      Android 18_120: -8294878467078609095
+      Android 18_121: -3895845561286135075
+      Android 18_122: 3919077925847464658
+      Android 18_123: -5176127180904687107
+      Android 18_124: -6417967068948165460
+      Android 18_125: -4862306948776860324
+      Android 18_126: 5365481274611703547
+      Android 18_127: -148537501831965379
+      Android 18_128: -3857352642723732476
+      Android 18_129: -2928251974897969543
+      Android 18_13: -354756147107241912
+      Android 18_130: 2953694321686212753
+      Android 18_131: 8764919354431443419
+      Android 18_132: 6965238701549101964
+      Android 18_133: 1283229219716536196
+      Android 18_134: -1300456498409297565
+      Android 18_135: -412931099866264642
+      Android 18_136: 5688737767058509266
+      Android 18_137: 468291289563249311
+      Android 18_138: -8928210154824912298
+      Android 18_139: -8010754178752443247
+      Android 18_14: -3161546238550044420
+      Android 18_140: -6029869661619969043
+      Android 18_141: 36222624694401321
+      Android 18_142: 7660719344059400604
+      Android 18_143: -4351942148215586786
+      Android 18_144: 1388516850403928124
+      Android 18_145: -990092890778535464
+      Android 18_146: -2273980626689197644
+      Android 18_147: -410314823196024062
+      Android 18_148: 350966379653556795
+      Android 18_149: 158685008365661550
+      Android 18_15: 8014950226947731659
+      Android 18_150: -6824790120642934925
+      Android 18_151: -8963733242485346219
+      Android 18_152: 5184746686405088714
+      Android 18_153: -1065087028476242409
+      Android 18_154: -8689140316852931563
+      Android 18_155: 3317234196668109259
+      Android 18_156: -1943256093675248597
+      Android 18_157: -1138375948465388085
+      Android 18_158: 847512737032751617
+      Android 18_159: 4341985200686504571
+      Android 18_16: -8571056910385061255
+      Android 18_160: -8993119391750422475
+      Android 18_161: -4894669277525128141
+      Android 18_162: 2935189999181809372
+      Android 18_163: 8866473312260708099
+      Android 18_164: -1690143245386769916
+      Android 18_165: 4451177149278703025
+      Android 18_166: 305736040464359344
+      Android 18_167: 5497363278754735592
+      Android 18_168: -5037132852546191132
+      Android 18_169: 8935355031041411264
+      Android 18_17: -8627128548927145682
+      Android 18_170: 506829384179740491
+      Android 18_171: 7042973943447250829
+      Android 18_172: -6815393919620453248
+      Android 18_173: 8021368343108192741
+      Android 18_174: 5466980046252371913
+      Android 18_175: -6801612995251707005
+      Android 18_176: -7917291825053627220
+      Android 18_177: -8806336878230765270
+      Android 18_178: -8504478237625078302
+      Android 18_179: -2636664110593059910
+      Android 18_18: -4738241621754585114
+      Android 18_180: 4966312046113524362
+      Android 18_181: -8343555281453373153
+      Android 18_182: 1784119351526437506
+      Android 18_183: 8232083515299790110
+      Android 18_184: 1033729190633319991
+      Android 18_185: -86465333353828528
+      Android 18_186: -3285735876983551514
+      Android 18_187: 5634066419810840978
+      Android 18_188: -5972716597670039520
+      Android 18_189: 8816097154451589945
+      Android 18_19: -2995371231071024176
+      Android 18_190: -2819793755674098844
+      Android 18_191: -2373656446398182892
+      Android 18_192: -2770860008642260619
+      Android 18_193: -2386948942813145803
+      Android 18_194: -543159735584533900
+      Android 18_195: 2428753963004788987
+      Android 18_196: -261323012796317836
+      Android 18_197: -1953215312585562466
+      Android 18_198: 4091959210924487680
+      Android 18_199: -2269043636431394597
+      Android 18_2: 2939450041208648909
+      Android 18_20: -4841290409271571995
+      Android 18_200: -1846526734564149511
+      Android 18_201: 2156163078698475871
+      Android 18_202: -8714816946409384525
+      Android 18_203: 4798077008136914782
+      Android 18_204: -8264742473735995164
+      Android 18_205: 6298774331686715261
+      Android 18_206: 3649343571435200333
+      Android 18_207: 123650918095133378
+      Android 18_208: -967410986286372028
+      Android 18_209: -7377274053943341768
+      Android 18_21: -8902744024966872567
+      Android 18_210: 5855727429117343202
+      Android 18_211: 4268764898604916311
+      Android 18_212: -7060209834621876153
+      Android 18_213: 1151566321449556336
+      Android 18_214: 7851203043693726825
+      Android 18_215: -4331661758501899306
+      Android 18_216: -6909754307284275417
+      Android 18_217: -3416526284978876570
+      Android 18_218: -4352719961964854593
+      Android 18_219: -199995174632962277
+      Android 18_22: 5941087826193620397
+      Android 18_220: -508027411892802694
+      Android 18_221: 6822666537937786518
+      Android 18_222: 5104164973681069872
+      Android 18_223: -6998737804768428371
+      Android 18_224: -2547541974594598132
+      Android 18_225: 4411653495604466358
+      Android 18_226: -1308451013711167823
+      Android 18_227: -7026042238172400737
+      Android 18_228: -1394743126991053848
+      Android 18_229: 6210826120355422022
+      Android 18_23: 6582680555690346538
+      Android 18_230: 5241317627414720209
+      Android 18_231: -2628025901842981529
+      Android 18_232: -1196838814882480993
+      Android 18_233: 6997700286866564253
+      Android 18_234: -5418220449359877560
+      Android 18_235: -3709771579647141913
+      Android 18_236: 5167317635154169215
+      Android 18_237: 7758936736619976985
+      Android 18_238: -9217195789414913650
+      Android 18_239: -3965904755544523208
+      Android 18_24: -6605582801206132745
+      Android 18_240: 3850729014930324152
+      Android 18_241: 6070791807454444189
+      Android 18_242: 8544200141829025710
+      Android 18_243: 5664858524717244214
+      Android 18_244: -2296984594122328873
+      Android 18_245: 8644269737939455029
+      Android 18_246: -5836149703883939570
+      Android 18_247: -3036926156359859532
+      Android 18_248: 8387400898296675183
+      Android 18_249: -4432794466409967556
+      Android 18_25: 1653068552278101585
+      Android 18_250: -4950404200461665578
+      Android 18_251: -8804713802842138101
+      Android 18_252: 2829729731622675349
+      Android 18_253: -5234348484175615077
+      Android 18_254: -521887571242568459
+      Android 18_255: 3825871405502207343
+      Android 18_256: -516394559186082088
+      Android 18_257: -1275017900445637091
+      Android 18_258: 7302144280187040929
+      Android 18_259: 1305156158666254177
+      Android 18_26: -5493843921760343941
+      Android 18_260: -4321308356180673769
+      Android 18_261: 9079875296429007816
+      Android 18_262: 4326126863164704993
+      Android 18_263: -4729075904849561564
+      Android 18_264: -1966941189861885670
+      Android 18_265: 5597964443596691945
+      Android 18_266: -1927150391580075930
+      Android 18_267: -5260906215080635697
+      Android 18_268: 307187753851063351
+      Android 18_269: 5656172806680422169
+      Android 18_27: 4527058762983775576
+      Android 18_270: 2093697607
+      Android 18_271: -1529745206
+      Android 18_28: -2162576837816658830
+      Android 18_29: -1937360312599276214
+      Android 18_3: -3909217430618046432
+      Android 18_30: -5972593537087138776
+      Android 18_31: 3947867116566773016
+      Android 18_32: -7092726821785700111
+      Android 18_33: -5318848696353981095
+      Android 18_34: 6014117293715317752
+      Android 18_35: -2246015592017040941
+      Android 18_36: -684743607740781015
+      Android 18_37: 7406269628480705079
+      Android 18_38: 324740901971176276
+      Android 18_39: 6260781003294144724
+      Android 18_4: 6587593209597908335
+      Android 18_40: 93910979744279288
+      Android 18_41: -7554637043183822111
+      Android 18_42: -589042640054261243
+      Android 18_43: 6684609300569449312
+      Android 18_44: 5664079018417388067
+      Android 18_45: -3413081468393461859
+      Android 18_46: -5591978207115514975
+      Android 18_47: -2634685988861249077
+      Android 18_48: -3789257537206107822
+      Android 18_49: -2630244034231772819
+      Android 18_5: 8800515711543082177
+      Android 18_50: -3670082961257243016
+      Android 18_51: -6751876082479983133
+      Android 18_52: -2092701544742682062
+      Android 18_53: 5395130492435298739
+      Android 18_54: 5929984071775604051
+      Android 18_55: 2254701225888371598
+      Android 18_56: 6566990443900851178
+      Android 18_57: 429377538302207163
+      Android 18_58: -1975500366551666533
+      Android 18_59: 2800854995489770651
+      Android 18_6: -5735722399374386581
+      Android 18_60: 2008887795508445035
+      Android 18_61: -666404475898197109
+      Android 18_62: 5922536063821812979
+      Android 18_63: 6694954701950536099
+      Android 18_64: 4073376404265522488
+      Android 18_65: 3959090178399895833
+      Android 18_66: 6177896542903865181
+      Android 18_67: -9204865563607725099
+      Android 18_68: -3726131293280575742
+      Android 18_69: 6962397832836781742
+      Android 18_7: 774185469447810558
+      Android 18_70: 5546648335155315487
+      Android 18_71: 6941275078017042502
+      Android 18_72: 3275574864192353097
+      Android 18_73: 7410507258315917020
+      Android 18_74: -7117751295527499112
+      Android 18_75: -508974552105605229
+      Android 18_76: -103477157154924956
+      Android 18_77: 7816368875635727027
+      Android 18_78: -4242870321861248323
+      Android 18_79: 4197860759756814568
+      Android 18_8: -2376274053987214378
+      Android 18_80: -96874177429350528
+      Android 18_81: 4520404325216586799
+      Android 18_82: -1319305801829141601
+      Android 18_83: 3750979437619883057
+      Android 18_84: 7998598698733704047
+      Android 18_85: 2400980733630287984
+      Android 18_86: 5652242529172477916
+      Android 18_87: 1638078510740660279
+      Android 18_88: -676737752164983043
+      Android 18_89: 4835299462547494085
+      Android 18_9: 3266116408824517870
+      Android 18_90: -4627957881395766137
+      Android 18_91: -1183477682493545200
+      Android 18_92: 253883227513172064
+      Android 18_93: -1750760550954482032
+      Android 18_94: 544953779434263223
+      Android 18_95: -177594499927816634
+      Android 18_96: -6212131534025231385
+      Android 18_97: -39654245895262443
+      Android 18_98: 1965267543161497564
+      Android 18_99: 7791802953771457072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

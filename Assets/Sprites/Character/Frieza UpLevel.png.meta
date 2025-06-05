@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: b3d21eef7d242d94eae089c60e47555d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2107481128475380367
+    second: Frieza UpLevel_0
+  - first:
+      213: 4007151443989313275
+    second: Frieza UpLevel_1
+  - first:
+      213: 3928000441520907856
+    second: Frieza UpLevel_2
+  - first:
+      213: -7874759254938891858
+    second: Frieza UpLevel_3
+  - first:
+      213: 4605875726508670710
+    second: Frieza UpLevel_4
+  - first:
+      213: -2406639546757394129
+    second: Frieza UpLevel_5
+  - first:
+      213: -4107468752777198665
+    second: Frieza UpLevel_6
+  - first:
+      213: -8288873594267983940
+    second: Frieza UpLevel_7
+  - first:
+      213: -3636957014289910051
+    second: Frieza UpLevel_8
+  - first:
+      213: 625965184045407854
+    second: Frieza UpLevel_9
+  - first:
+      213: 151164458433672309
+    second: Frieza UpLevel_10
+  - first:
+      213: 4189397958786131840
+    second: Frieza UpLevel_11
+  - first:
+      213: -4892473243782481938
+    second: Frieza UpLevel_12
+  - first:
+      213: 9193764917526081198
+    second: Frieza UpLevel_13
+  - first:
+      213: -7351428367539875859
+    second: Frieza UpLevel_14
+  - first:
+      213: 5609431229361821266
+    second: Frieza UpLevel_15
+  - first:
+      213: -3935772555017151709
+    second: Frieza UpLevel_16
+  - first:
+      213: 7364946567804676454
+    second: Frieza UpLevel_17
+  - first:
+      213: 6501008227171540733
+    second: Frieza UpLevel_18
+  - first:
+      213: -7513051448671187408
+    second: Frieza UpLevel_19
+  - first:
+      213: 6615812402705878908
+    second: Frieza UpLevel_20
+  - first:
+      213: -2943885870349574783
+    second: Frieza UpLevel_21
+  - first:
+      213: -3389192782574153897
+    second: Frieza UpLevel_22
+  - first:
+      213: 4474353715066446996
+    second: Frieza UpLevel_23
+  - first:
+      213: -693321862661622935
+    second: Frieza UpLevel_24
+  - first:
+      213: 2763709165433077962
+    second: Frieza UpLevel_25
+  - first:
+      213: -6967205981941171916
+    second: Frieza UpLevel_26
+  - first:
+      213: -4513133194141198131
+    second: Frieza UpLevel_27
+  - first:
+      213: 3622934016266798203
+    second: Frieza UpLevel_28
+  - first:
+      213: -8388051640032780070
+    second: Frieza UpLevel_29
+  - first:
+      213: 7702369344100142450
+    second: Frieza UpLevel_30
+  - first:
+      213: -361117317513499204
+    second: Frieza UpLevel_31
+  - first:
+      213: 6684265866296945061
+    second: Frieza UpLevel_32
+  - first:
+      213: -4438852660306012648
+    second: Frieza UpLevel_33
+  - first:
+      213: 3101799594424834740
+    second: Frieza UpLevel_34
+  - first:
+      213: 6068802096031631759
+    second: Frieza UpLevel_35
+  - first:
+      213: 3462020819436152492
+    second: Frieza UpLevel_36
+  - first:
+      213: -1496261818354690698
+    second: Frieza UpLevel_37
+  - first:
+      213: -5783480496910475638
+    second: Frieza UpLevel_38
+  - first:
+      213: 2895586070000355636
+    second: Frieza UpLevel_39
+  - first:
+      213: 7432665321635234299
+    second: Frieza UpLevel_40
+  - first:
+      213: 644763606917850244
+    second: Frieza UpLevel_41
+  - first:
+      213: -4634564543701532233
+    second: Frieza UpLevel_42
+  - first:
+      213: -7718936600799413819
+    second: Frieza UpLevel_43
+  - first:
+      213: -4382946082231073067
+    second: Frieza UpLevel_44
+  - first:
+      213: -2369779148884517238
+    second: Frieza UpLevel_45
+  - first:
+      213: 490388093592149608
+    second: Frieza UpLevel_46
+  - first:
+      213: -3632258341040752119
+    second: Frieza UpLevel_47
+  - first:
+      213: 4450725767470142909
+    second: Frieza UpLevel_48
+  - first:
+      213: 3439619680890178486
+    second: Frieza UpLevel_49
+  - first:
+      213: -6313910379801756116
+    second: Frieza UpLevel_50
+  - first:
+      213: 8585979678187672675
+    second: Frieza UpLevel_51
+  - first:
+      213: 680746505717008707
+    second: Frieza UpLevel_52
+  - first:
+      213: -2949460018791637746
+    second: Frieza UpLevel_53
+  - first:
+      213: 6905431919529828669
+    second: Frieza UpLevel_54
+  - first:
+      213: -8981834312063780490
+    second: Frieza UpLevel_55
+  - first:
+      213: -550596290786274277
+    second: Frieza UpLevel_56
+  - first:
+      213: -7375320986783512290
+    second: Frieza UpLevel_57
+  - first:
+      213: -6407926725661536497
+    second: Frieza UpLevel_58
+  - first:
+      213: 930176041243393602
+    second: Frieza UpLevel_59
+  - first:
+      213: -1439076870252784446
+    second: Frieza UpLevel_60
+  - first:
+      213: 1190346148226606512
+    second: Frieza UpLevel_61
+  - first:
+      213: 2923519555945205642
+    second: Frieza UpLevel_62
+  - first:
+      213: -738725148039897753
+    second: Frieza UpLevel_63
+  - first:
+      213: -431740365243165455
+    second: Frieza UpLevel_64
+  - first:
+      213: -321926655805998792
+    second: Frieza UpLevel_65
+  - first:
+      213: 3106873983323686125
+    second: Frieza UpLevel_66
+  - first:
+      213: -1518586887285570925
+    second: Frieza UpLevel_67
+  - first:
+      213: 8700097595835517216
+    second: Frieza UpLevel_68
+  - first:
+      213: 739122583009258920
+    second: Frieza UpLevel_69
+  - first:
+      213: 7538887896689621076
+    second: Frieza UpLevel_70
+  - first:
+      213: -6153507347476048691
+    second: Frieza UpLevel_71
+  - first:
+      213: -1977379717061899007
+    second: Frieza UpLevel_72
+  - first:
+      213: -2892376307416456471
+    second: Frieza UpLevel_73
+  - first:
+      213: -7598889536091941970
+    second: Frieza UpLevel_74
+  - first:
+      213: -2284566673360506435
+    second: Frieza UpLevel_75
+  - first:
+      213: -9000953199574804000
+    second: Frieza UpLevel_76
+  - first:
+      213: 5617853082063344602
+    second: Frieza UpLevel_77
+  - first:
+      213: -170071666554427315
+    second: Frieza UpLevel_78
+  - first:
+      213: -4821236026194595152
+    second: Frieza UpLevel_79
+  - first:
+      213: 9128225897496300855
+    second: Frieza UpLevel_80
+  - first:
+      213: 2079273302896080575
+    second: Frieza UpLevel_81
+  - first:
+      213: -2981646098532647885
+    second: Frieza UpLevel_82
+  - first:
+      213: 4316436871313586703
+    second: Frieza UpLevel_83
+  - first:
+      213: 1391644904628361526
+    second: Frieza UpLevel_84
+  - first:
+      213: 988102550410913037
+    second: Frieza UpLevel_85
+  - first:
+      213: -3516123404496974725
+    second: Frieza UpLevel_86
+  - first:
+      213: -6191825396844171936
+    second: Frieza UpLevel_87
+  - first:
+      213: -8182563619398335375
+    second: Frieza UpLevel_88
+  - first:
+      213: -4229543530641258412
+    second: Frieza UpLevel_89
+  - first:
+      213: 530288186238689564
+    second: Frieza UpLevel_90
+  - first:
+      213: 6305190889379184818
+    second: Frieza UpLevel_91
+  - first:
+      213: -7545980451695968305
+    second: Frieza UpLevel_92
+  - first:
+      213: -7846983760458858832
+    second: Frieza UpLevel_93
+  - first:
+      213: 4052284110836200453
+    second: Frieza UpLevel_94
+  - first:
+      213: 207018671637084900
+    second: Frieza UpLevel_95
+  - first:
+      213: 7040089075326250190
+    second: Frieza UpLevel_96
+  - first:
+      213: 6813688477740180230
+    second: Frieza UpLevel_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frieza UpLevel_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 730
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175b26e5419b0c2e0800000000000000
+      internalID: -2107481128475380367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 730
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf63d2ce1034c9730800000000000000
+      internalID: 4007151443989313275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 730
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0566e62179f038630800000000000000
+      internalID: 3928000441520907856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 730
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9c5ad0e2c37b290800000000000000
+      internalID: -7874759254938891858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 730
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb42ef19b5bef30800000000000000
+      internalID: 4605875726508670710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 730
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f215e194516e99ed0800000000000000
+      internalID: -2406639546757394129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 731
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3c2b08ee65ff6c0800000000000000
+      internalID: -4107468752777198665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 731
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9a81e16108fc80800000000000000
+      internalID: -8288873594267983940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 731
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd672eb6ddee68dc0800000000000000
+      internalID: -3636957014289910051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 730
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed9c4b400efa800800000000000000
+      internalID: 625965184045407854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 730
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747a97264b091200800000000000000
+      internalID: 151164458433672309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 730
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a1344f3bb32a30800000000000000
+      internalID: 4189397958786131840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 730
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7fd3791817a1cb0800000000000000
+      internalID: -4892473243782481938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 730
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae27995b70d69f70800000000000000
+      internalID: 9193764917526081198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 645
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4e0969da7af990800000000000000
+      internalID: -7351428367539875859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 647
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256181aabf3b8dd40800000000000000
+      internalID: 5609431229361821266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 648
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b987db6b35169c0800000000000000
+      internalID: -3935772555017151709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 648
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669eabbd1eb853660800000000000000
+      internalID: 7364946567804676454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 648
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe937ee988383a50800000000000000
+      internalID: 6501008227171540733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 650
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e48b663874cb790800000000000000
+      internalID: -7513051448671187408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 650
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f48e3045610db50800000000000000
+      internalID: 6615812402705878908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 649
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9586f5673527d0800000000000000
+      internalID: -2943885870349574783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 650
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8957fe1b27f0d0800000000000000
+      internalID: -3389192782574153897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 647
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4942cf96ff8181e30800000000000000
+      internalID: 4474353715066446996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 648
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ba057073d066f0800000000000000
+      internalID: -693321862661622935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 583
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0412cd7daaa5620800000000000000
+      internalID: 2763709165433077962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 583
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4397b61c2138f4f90800000000000000
+      internalID: -6967205981941171916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 581
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8903385412e51c0800000000000000
+      internalID: -4513133194141198131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 582
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74034cea4f374230800000000000000
+      internalID: 3622934016266798203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 588
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a636a977a79b80800000000000000
+      internalID: -8388051640032780070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 580
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d82fb0c1054ea60800000000000000
+      internalID: 7702369344100142450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 583
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdad5786bd0dfaf0800000000000000
+      internalID: -361117317513499204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 582
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9e5e0046843cc50800000000000000
+      internalID: 6684265866296945061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 580
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816992406070662c0800000000000000
+      internalID: -4438852660306012648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 580
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba942e0c4ecb0b20800000000000000
+      internalID: 3101799594424834740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 533
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898c1a3a57b83450800000000000000
+      internalID: 6068802096031631759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 533
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6af7bb7919b0030800000000000000
+      internalID: 3462020819436152492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 534
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751df1cdc53c3be0800000000000000
+      internalID: -1496261818354690698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 539
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e50485123fcbfa0800000000000000
+      internalID: -5783480496910475638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c0fe60303f2820800000000000000
+      internalID: 2895586070000355636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 533
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ce66eab1262760800000000000000
+      internalID: 7432665321635234299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 534
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484207a9519a2f800800000000000000
+      internalID: 644763606917850244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 534
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1cc0c3a18beafb0800000000000000
+      internalID: -4634564543701532233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 548
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9f699ee04d0e490800000000000000
+      internalID: -7718936600799413819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 492
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64de292c5ac23c0800000000000000
+      internalID: -4382946082231073067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 492
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5c927b6adc1fd0800000000000000
+      internalID: -2369779148884517238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 495
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e14a87f553ec600800000000000000
+      internalID: 490388093592149608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 492
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af0d98840a79dc0800000000000000
+      internalID: -3632258341040752119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 492
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db55cba218724cd30800000000000000
+      internalID: 4450725767470142909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 492
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbc6e930ebfbbf20800000000000000
+      internalID: 3439619680890178486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 492
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb34c46fb7068a0800000000000000
+      internalID: -6313910379801756116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_51
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 492
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364591fd607872770800000000000000
+      internalID: 8585979678187672675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 494
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c957175f727900800000000000000
+      internalID: 680746505717008707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 494
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d15b46db96117d0800000000000000
+      internalID: -2949460018791637746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 492
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3128388eb505df50800000000000000
+      internalID: 6905431919529828669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 492
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f50ee74d1a5380800000000000000
+      internalID: -8981834312063780490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 496
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1459093793eb58f0800000000000000
+      internalID: -550596290786274277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_57
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 501
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19094e73a895a990800000000000000
+      internalID: -7375320986783512290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 488
+        width: 129
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f463af7987217a0800000000000000
+      internalID: -6407926725661536497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 450
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e34e46e26a8ec00800000000000000
+      internalID: 930176041243393602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 449
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c41a18063f570ce0800000000000000
+      internalID: -1439076870252784446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 448
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b52dccd385f48010800000000000000
+      internalID: 1190346148226606512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 448
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8502fb8d629820800000000000000
+      internalID: 2923519555945205642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 446
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1f6c44658fb5f0800000000000000
+      internalID: -738725148039897753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 452
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4db7edc66220af0800000000000000
+      internalID: -431740365243165455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 450
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83934f48969488bf0800000000000000
+      internalID: -321926655805998792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de449e94d65dd1b20800000000000000
+      internalID: 3106873983323686125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39207c69545eceae0800000000000000
+      internalID: -1518586887285570925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 433
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02981071ba4fcb870800000000000000
+      internalID: 8700097595835517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_69
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 146
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6cbdb214e14a00800000000000000
+      internalID: 739122583009258920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 404
+        width: 103
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4583dab69928f9860800000000000000
+      internalID: 7538887896689621076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 412
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41fee8ba95a9aa0800000000000000
+      internalID: -6153507347476048691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 407
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d867abf9fee84e0800000000000000
+      internalID: -1977379717061899007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 406
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2afa7a2173cd7d0800000000000000
+      internalID: -2892376307416456471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 336
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39ec14a325b8690800000000000000
+      internalID: -7598889536091941970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 336
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b6a8f6b69b40e0800000000000000
+      internalID: -2284566673360506435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 300
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e99d6b01c0361380800000000000000
+      internalID: -9000953199574804000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 337
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad318bc0d9f96fd40800000000000000
+      internalID: 5617853082063344602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482aa868b8c3adf0800000000000000
+      internalID: -170071666554427315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_79
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 304
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2fa50d067871db0800000000000000
+      internalID: -4821236026194595152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_80
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 307
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dc9c12719fdae70800000000000000
+      internalID: 9128225897496300855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f2127d001bdc10800000000000000
+      internalID: 2079273302896080575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 308
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c380bbba01f96d0800000000000000
+      internalID: -2981646098532647885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_83
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 300
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a7b0a077017eb30800000000000000
+      internalID: 4316436871313586703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 315
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391bd1eaad105310800000000000000
+      internalID: 1391644904628361526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 298
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0566eec80276bd00800000000000000
+      internalID: 988102550410913037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 228
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c45809468343fc0800000000000000
+      internalID: -3516123404496974725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 230
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6cd57b97321aa0800000000000000
+      internalID: -6191825396844171936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 229
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744ab1cdb1b17e80800000000000000
+      internalID: -8182563619398335375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45883166194ad45c0800000000000000
+      internalID: -4229543530641258412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_90
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e759bb46fb5700800000000000000
+      internalID: 530288186238689564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_91
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 204
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0c97225b9808750800000000000000
+      internalID: 6305190889379184818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 121
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfbe9e62ca474790800000000000000
+      internalID: -7545980451695968305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be379f48d9e91390800000000000000
+      internalID: -7846983760458858832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_94
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 122
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f95bcdea9c3830800000000000000
+      internalID: 4052284110836200453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea3dc0926a7fd200800000000000000
+      internalID: 207018671637084900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccede9c6bb63b160800000000000000
+      internalID: 7040089075326250190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frieza UpLevel_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 122
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60320ede1951f8e50800000000000000
+      internalID: 6813688477740180230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 107366f323504f5499990d06aff02a7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frieza UpLevel_0: -2107481128475380367
+      Frieza UpLevel_1: 4007151443989313275
+      Frieza UpLevel_10: 151164458433672309
+      Frieza UpLevel_11: 4189397958786131840
+      Frieza UpLevel_12: -4892473243782481938
+      Frieza UpLevel_13: 9193764917526081198
+      Frieza UpLevel_14: -7351428367539875859
+      Frieza UpLevel_15: 5609431229361821266
+      Frieza UpLevel_16: -3935772555017151709
+      Frieza UpLevel_17: 7364946567804676454
+      Frieza UpLevel_18: 6501008227171540733
+      Frieza UpLevel_19: -7513051448671187408
+      Frieza UpLevel_2: 3928000441520907856
+      Frieza UpLevel_20: 6615812402705878908
+      Frieza UpLevel_21: -2943885870349574783
+      Frieza UpLevel_22: -3389192782574153897
+      Frieza UpLevel_23: 4474353715066446996
+      Frieza UpLevel_24: -693321862661622935
+      Frieza UpLevel_25: 2763709165433077962
+      Frieza UpLevel_26: -6967205981941171916
+      Frieza UpLevel_27: -4513133194141198131
+      Frieza UpLevel_28: 3622934016266798203
+      Frieza UpLevel_29: -8388051640032780070
+      Frieza UpLevel_3: -7874759254938891858
+      Frieza UpLevel_30: 7702369344100142450
+      Frieza UpLevel_31: -361117317513499204
+      Frieza UpLevel_32: 6684265866296945061
+      Frieza UpLevel_33: -4438852660306012648
+      Frieza UpLevel_34: 3101799594424834740
+      Frieza UpLevel_35: 6068802096031631759
+      Frieza UpLevel_36: 3462020819436152492
+      Frieza UpLevel_37: -1496261818354690698
+      Frieza UpLevel_38: -5783480496910475638
+      Frieza UpLevel_39: 2895586070000355636
+      Frieza UpLevel_4: 4605875726508670710
+      Frieza UpLevel_40: 7432665321635234299
+      Frieza UpLevel_41: 644763606917850244
+      Frieza UpLevel_42: -4634564543701532233
+      Frieza UpLevel_43: -7718936600799413819
+      Frieza UpLevel_44: -4382946082231073067
+      Frieza UpLevel_45: -2369779148884517238
+      Frieza UpLevel_46: 490388093592149608
+      Frieza UpLevel_47: -3632258341040752119
+      Frieza UpLevel_48: 4450725767470142909
+      Frieza UpLevel_49: 3439619680890178486
+      Frieza UpLevel_5: -2406639546757394129
+      Frieza UpLevel_50: -6313910379801756116
+      Frieza UpLevel_51: 8585979678187672675
+      Frieza UpLevel_52: 680746505717008707
+      Frieza UpLevel_53: -2949460018791637746
+      Frieza UpLevel_54: 6905431919529828669
+      Frieza UpLevel_55: -8981834312063780490
+      Frieza UpLevel_56: -550596290786274277
+      Frieza UpLevel_57: -7375320986783512290
+      Frieza UpLevel_58: -6407926725661536497
+      Frieza UpLevel_59: 930176041243393602
+      Frieza UpLevel_6: -4107468752777198665
+      Frieza UpLevel_60: -1439076870252784446
+      Frieza UpLevel_61: 1190346148226606512
+      Frieza UpLevel_62: 2923519555945205642
+      Frieza UpLevel_63: -738725148039897753
+      Frieza UpLevel_64: -431740365243165455
+      Frieza UpLevel_65: -321926655805998792
+      Frieza UpLevel_66: 3106873983323686125
+      Frieza UpLevel_67: -1518586887285570925
+      Frieza UpLevel_68: 8700097595835517216
+      Frieza UpLevel_69: 739122583009258920
+      Frieza UpLevel_7: -8288873594267983940
+      Frieza UpLevel_70: 7538887896689621076
+      Frieza UpLevel_71: -6153507347476048691
+      Frieza UpLevel_72: -1977379717061899007
+      Frieza UpLevel_73: -2892376307416456471
+      Frieza UpLevel_74: -7598889536091941970
+      Frieza UpLevel_75: -2284566673360506435
+      Frieza UpLevel_76: -9000953199574804000
+      Frieza UpLevel_77: 5617853082063344602
+      Frieza UpLevel_78: -170071666554427315
+      Frieza UpLevel_79: -4821236026194595152
+      Frieza UpLevel_8: -3636957014289910051
+      Frieza UpLevel_80: 9128225897496300855
+      Frieza UpLevel_81: 2079273302896080575
+      Frieza UpLevel_82: -2981646098532647885
+      Frieza UpLevel_83: 4316436871313586703
+      Frieza UpLevel_84: 1391644904628361526
+      Frieza UpLevel_85: 988102550410913037
+      Frieza UpLevel_86: -3516123404496974725
+      Frieza UpLevel_87: -6191825396844171936
+      Frieza UpLevel_88: -8182563619398335375
+      Frieza UpLevel_89: -4229543530641258412
+      Frieza UpLevel_9: 625965184045407854
+      Frieza UpLevel_90: 530288186238689564
+      Frieza UpLevel_91: 6305190889379184818
+      Frieza UpLevel_92: -7545980451695968305
+      Frieza UpLevel_93: -7846983760458858832
+      Frieza UpLevel_94: 4052284110836200453
+      Frieza UpLevel_95: 207018671637084900
+      Frieza UpLevel_96: 7040089075326250190
+      Frieza UpLevel_97: 6813688477740180230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

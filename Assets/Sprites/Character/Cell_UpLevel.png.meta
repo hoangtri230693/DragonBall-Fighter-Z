@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 67608db6bef6b6141a9aad4c5d964c58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7639859682586269127
+    second: Cell_UpLevel_0
+  - first:
+      213: -7282090994733402026
+    second: Cell_UpLevel_1
+  - first:
+      213: 3998126977489759358
+    second: Cell_UpLevel_2
+  - first:
+      213: 8112493519673889504
+    second: Cell_UpLevel_3
+  - first:
+      213: -7201738382828630941
+    second: Cell_UpLevel_4
+  - first:
+      213: 1666953953697115307
+    second: Cell_UpLevel_5
+  - first:
+      213: -1784410296188105937
+    second: Cell_UpLevel_6
+  - first:
+      213: 8761368856963010544
+    second: Cell_UpLevel_7
+  - first:
+      213: -331242883052063770
+    second: Cell_UpLevel_8
+  - first:
+      213: 8746801109026868122
+    second: Cell_UpLevel_9
+  - first:
+      213: 3715699521288789544
+    second: Cell_UpLevel_10
+  - first:
+      213: 5805175642663412016
+    second: Cell_UpLevel_11
+  - first:
+      213: 4588095271052118715
+    second: Cell_UpLevel_12
+  - first:
+      213: 4816936047909774267
+    second: Cell_UpLevel_13
+  - first:
+      213: -965464762370473697
+    second: Cell_UpLevel_14
+  - first:
+      213: -776477096391071106
+    second: Cell_UpLevel_15
+  - first:
+      213: -5388997839629190181
+    second: Cell_UpLevel_16
+  - first:
+      213: -6290830744103097601
+    second: Cell_UpLevel_17
+  - first:
+      213: 6143809913017638863
+    second: Cell_UpLevel_18
+  - first:
+      213: 5983453099738227780
+    second: Cell_UpLevel_19
+  - first:
+      213: -2993841656733578976
+    second: Cell_UpLevel_20
+  - first:
+      213: 1071849741921727991
+    second: Cell_UpLevel_21
+  - first:
+      213: 1362027182232049622
+    second: Cell_UpLevel_22
+  - first:
+      213: -2114258408897525859
+    second: Cell_UpLevel_23
+  - first:
+      213: -8135999664032321296
+    second: Cell_UpLevel_24
+  - first:
+      213: 1046475039942013608
+    second: Cell_UpLevel_25
+  - first:
+      213: 2864418050856586395
+    second: Cell_UpLevel_26
+  - first:
+      213: 121661023378544754
+    second: Cell_UpLevel_27
+  - first:
+      213: -6585289533157508969
+    second: Cell_UpLevel_28
+  - first:
+      213: 1198552719746649204
+    second: Cell_UpLevel_29
+  - first:
+      213: -1546648572333335389
+    second: Cell_UpLevel_30
+  - first:
+      213: -2730263876440819930
+    second: Cell_UpLevel_31
+  - first:
+      213: 2107835971264623301
+    second: Cell_UpLevel_32
+  - first:
+      213: -5070160133109713862
+    second: Cell_UpLevel_33
+  - first:
+      213: 3096565676440143148
+    second: Cell_UpLevel_34
+  - first:
+      213: -2177040723541876769
+    second: Cell_UpLevel_35
+  - first:
+      213: 8513452772798756994
+    second: Cell_UpLevel_36
+  - first:
+      213: 9218259539805632407
+    second: Cell_UpLevel_37
+  - first:
+      213: 6974837446692289540
+    second: Cell_UpLevel_38
+  - first:
+      213: 4788044304929915580
+    second: Cell_UpLevel_39
+  - first:
+      213: 8301487250193891532
+    second: Cell_UpLevel_40
+  - first:
+      213: -8213245897473790912
+    second: Cell_UpLevel_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cell_UpLevel_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2460
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aed9da814c9f590800000000000000
+      internalID: -7639859682586269127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2458
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65838dc82d0d0fa90800000000000000
+      internalID: -7282090994733402026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2458
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cee249d433c7730800000000000000
+      internalID: 3998126977489759358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2458
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e212d2dfdd559070800000000000000
+      internalID: 8112493519673889504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2458
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c0436e8194e0c90800000000000000
+      internalID: -7201738382828630941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2458
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacac0bf9c5322710800000000000000
+      internalID: 1666953953697115307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2458
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b88223a408c37e0800000000000000
+      internalID: -1784410296188105937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2458
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff43714e82a69970800000000000000
+      internalID: 8761368856963010544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2458
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33e455a50376bf0800000000000000
+      internalID: -331242883052063770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2458
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0a802441e26970800000000000000
+      internalID: 8746801109026868122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2320
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf90f88092334550800000000000000
+      internalID: 6143809913017638863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2328
+        width: 154
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446b1c74ee790350800000000000000
+      internalID: 5983453099738227780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2328
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029c0a010ecb376d0800000000000000
+      internalID: -2993841656733578976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2328
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5b6df49a9ffde00800000000000000
+      internalID: 1071849741921727991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2328
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71e538184e6e210800000000000000
+      internalID: 1362027182232049622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2328
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97c74ecd25a8a2e0800000000000000
+      internalID: -2114258408897525859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2324
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f7a4796f171f80800000000000000
+      internalID: -8135999664032321296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 507
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c06897a0570c720800000000000000
+      internalID: 2864418050856586395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 508
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781d716e0a30b100800000000000000
+      internalID: 121661023378544754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 507
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987c095f0a5c94a0800000000000000
+      internalID: -6585289533157508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 507
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cc311395d12a010800000000000000
+      internalID: 1198552719746649204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 507
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd4b56153398ae0800000000000000
+      internalID: -1546648572333335389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 508
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f9ad48772c1ad0800000000000000
+      internalID: -2730263876440819930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 507
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2b408e5a9804d10800000000000000
+      internalID: 2107835971264623301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_33
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 507
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f5a7c83c23a9b0800000000000000
+      internalID: -5070160133109713862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 507
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c1ef831639fa20800000000000000
+      internalID: 3096565676440143148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_35
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 507
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1ab31ff899c1e0800000000000000
+      internalID: -2177040723541876769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 377
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79778750636ddef70800000000000000
+      internalID: 9218259539805632407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 377
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbf2814b99bc060800000000000000
+      internalID: 6974837446692289540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 377
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb20e2c5dec827240800000000000000
+      internalID: 4788044304929915580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 377
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0cd3fbbaec43370800000000000000
+      internalID: 8301487250193891532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cell_UpLevel_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 377
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce3243f50b40e80800000000000000
+      internalID: -8213245897473790912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d2dc40407de0b74283cbf09067e9ec0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cell_UpLevel_0: -7639859682586269127
+      Cell_UpLevel_1: -7282090994733402026
+      Cell_UpLevel_18: 6143809913017638863
+      Cell_UpLevel_19: 5983453099738227780
+      Cell_UpLevel_2: 3998126977489759358
+      Cell_UpLevel_20: -2993841656733578976
+      Cell_UpLevel_21: 1071849741921727991
+      Cell_UpLevel_22: 1362027182232049622
+      Cell_UpLevel_23: -2114258408897525859
+      Cell_UpLevel_24: -8135999664032321296
+      Cell_UpLevel_26: 2864418050856586395
+      Cell_UpLevel_27: 121661023378544754
+      Cell_UpLevel_28: -6585289533157508969
+      Cell_UpLevel_29: 1198552719746649204
+      Cell_UpLevel_3: 8112493519673889504
+      Cell_UpLevel_30: -1546648572333335389
+      Cell_UpLevel_31: -2730263876440819930
+      Cell_UpLevel_32: 2107835971264623301
+      Cell_UpLevel_33: -5070160133109713862
+      Cell_UpLevel_34: 3096565676440143148
+      Cell_UpLevel_35: -2177040723541876769
+      Cell_UpLevel_37: 9218259539805632407
+      Cell_UpLevel_38: 6974837446692289540
+      Cell_UpLevel_39: 4788044304929915580
+      Cell_UpLevel_4: -7201738382828630941
+      Cell_UpLevel_40: 8301487250193891532
+      Cell_UpLevel_41: -8213245897473790912
+      Cell_UpLevel_5: 1666953953697115307
+      Cell_UpLevel_6: -1784410296188105937
+      Cell_UpLevel_7: 8761368856963010544
+      Cell_UpLevel_8: -331242883052063770
+      Cell_UpLevel_9: 8746801109026868122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

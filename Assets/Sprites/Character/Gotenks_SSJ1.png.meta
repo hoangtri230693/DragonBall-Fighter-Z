@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 1f3bab52eadf1b3489b4e8df258f9ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 877818034822457791
+    second: Gotenks_SSJ1_0
+  - first:
+      213: 318059703816778326
+    second: Gotenks_SSJ1_1
+  - first:
+      213: 3229819402846178782
+    second: Gotenks_SSJ1_2
+  - first:
+      213: -3472040229720589084
+    second: Gotenks_SSJ1_3
+  - first:
+      213: 9018985360080670410
+    second: Gotenks_SSJ1_4
+  - first:
+      213: -4814304547898525271
+    second: Gotenks_SSJ1_5
+  - first:
+      213: 5489400292535479342
+    second: Gotenks_SSJ1_6
+  - first:
+      213: 2829554783580129766
+    second: Gotenks_SSJ1_7
+  - first:
+      213: 3546689445093249629
+    second: Gotenks_SSJ1_8
+  - first:
+      213: -14484164022330141
+    second: Gotenks_SSJ1_9
+  - first:
+      213: -5001763943008197475
+    second: Gotenks_SSJ1_10
+  - first:
+      213: 8724201041266357476
+    second: Gotenks_SSJ1_11
+  - first:
+      213: 6956416443965297381
+    second: Gotenks_SSJ1_12
+  - first:
+      213: -7919353776983711045
+    second: Gotenks_SSJ1_13
+  - first:
+      213: -7309801407790789755
+    second: Gotenks_SSJ1_14
+  - first:
+      213: 5761796277088202508
+    second: Gotenks_SSJ1_15
+  - first:
+      213: -7595579903918877229
+    second: Gotenks_SSJ1_16
+  - first:
+      213: -5937807233366933028
+    second: Gotenks_SSJ1_17
+  - first:
+      213: -2307537035138641878
+    second: Gotenks_SSJ1_18
+  - first:
+      213: 8770219728904832292
+    second: Gotenks_SSJ1_19
+  - first:
+      213: 4306826899602431462
+    second: Gotenks_SSJ1_20
+  - first:
+      213: -2608807441673234978
+    second: Gotenks_SSJ1_21
+  - first:
+      213: -1497645990349547695
+    second: Gotenks_SSJ1_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1163
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9260f0ad2ae2c00800000000000000
+      internalID: 877818034822457791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1165
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6527d5f8d99f96400800000000000000
+      internalID: 318059703816778326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1164
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8f4372af92dc20800000000000000
+      internalID: 3229819402846178782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1162
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace8e0e766fd92d70800000000000000
+      internalID: 9018985360080670410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1161
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9f5fd5587203db0800000000000000
+      internalID: -4814304547898525271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1165
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521967524f583130800000000000000
+      internalID: 3546689445093249629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1164
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9494caba8ccff0800000000000000
+      internalID: -14484164022330141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1165
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a3aeb13a269ab0800000000000000
+      internalID: -5001763943008197475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1163
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e436cdcf96921970800000000000000
+      internalID: 8724201041266357476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1165
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2dc3c26e72a8060800000000000000
+      internalID: 6956416443965297381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1165
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ec38c2bdc81290800000000000000
+      internalID: -7919353776983711045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1165
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcafd395e5e8a90800000000000000
+      internalID: -7309801407790789755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1165
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fa20ccf2306ff40800000000000000
+      internalID: 5761796277088202508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_19
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1162
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ce77706416b970800000000000000
+      internalID: 8770219728904832292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ1_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1165
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5dbaf2477abcbd0800000000000000
+      internalID: -2608807441673234978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ed9b3fea26bee94e8f185dec34212a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gotenks_SSJ1_0: 877818034822457791
+      Gotenks_SSJ1_1: 318059703816778326
+      Gotenks_SSJ1_10: -5001763943008197475
+      Gotenks_SSJ1_11: 8724201041266357476
+      Gotenks_SSJ1_12: 6956416443965297381
+      Gotenks_SSJ1_13: -7919353776983711045
+      Gotenks_SSJ1_14: -7309801407790789755
+      Gotenks_SSJ1_15: 5761796277088202508
+      Gotenks_SSJ1_16: -7595579903918877229
+      Gotenks_SSJ1_17: -5937807233366933028
+      Gotenks_SSJ1_18: -2307537035138641878
+      Gotenks_SSJ1_19: 8770219728904832292
+      Gotenks_SSJ1_2: 3229819402846178782
+      Gotenks_SSJ1_20: 4306826899602431462
+      Gotenks_SSJ1_21: -2608807441673234978
+      Gotenks_SSJ1_22: -1497645990349547695
+      Gotenks_SSJ1_3: -3472040229720589084
+      Gotenks_SSJ1_4: 9018985360080670410
+      Gotenks_SSJ1_5: -4814304547898525271
+      Gotenks_SSJ1_6: 5489400292535479342
+      Gotenks_SSJ1_7: 2829554783580129766
+      Gotenks_SSJ1_8: 3546689445093249629
+      Gotenks_SSJ1_9: -14484164022330141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

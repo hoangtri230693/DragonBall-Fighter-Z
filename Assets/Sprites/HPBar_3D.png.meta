@@ -1,0 +1,4811 @@
+fileFormatVersion: 2
+guid: 81db6278aa028d04c8c59955da39be57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8476684560622206895
+    second: HPBar_3D_0
+  - first:
+      213: -1231140011737940453
+    second: HPBar_3D_1
+  - first:
+      213: 921836989112511736
+    second: HPBar_3D_2
+  - first:
+      213: 6748399744884734916
+    second: HPBar_3D_3
+  - first:
+      213: 4192316042143600568
+    second: HPBar_3D_4
+  - first:
+      213: 5936589783575586272
+    second: HPBar_3D_5
+  - first:
+      213: -5460122123571382627
+    second: HPBar_3D_6
+  - first:
+      213: -391445149372992237
+    second: HPBar_3D_7
+  - first:
+      213: -2711178754078604105
+    second: HPBar_3D_8
+  - first:
+      213: 4325058033812977315
+    second: HPBar_3D_9
+  - first:
+      213: 4979233630600346309
+    second: HPBar_3D_10
+  - first:
+      213: 7002727796206652106
+    second: HPBar_3D_11
+  - first:
+      213: 4154738118141465431
+    second: HPBar_3D_12
+  - first:
+      213: -6634823371725713325
+    second: HPBar_3D_13
+  - first:
+      213: 3291231435639985918
+    second: HPBar_3D_14
+  - first:
+      213: 1263017412172959599
+    second: HPBar_3D_15
+  - first:
+      213: -3319894503585871285
+    second: HPBar_3D_16
+  - first:
+      213: -5196327477413171113
+    second: HPBar_3D_17
+  - first:
+      213: 6193755083288569162
+    second: HPBar_3D_18
+  - first:
+      213: -4859261399173548812
+    second: HPBar_3D_19
+  - first:
+      213: -1709175748428709561
+    second: HPBar_3D_20
+  - first:
+      213: -8803829245825516044
+    second: HPBar_3D_21
+  - first:
+      213: 5185490855182993255
+    second: HPBar_3D_22
+  - first:
+      213: 4640147605866184135
+    second: HPBar_3D_23
+  - first:
+      213: 5398947363130270385
+    second: HPBar_3D_24
+  - first:
+      213: 1802926011135712537
+    second: HPBar_3D_25
+  - first:
+      213: 3874272860588166192
+    second: HPBar_3D_26
+  - first:
+      213: -7532073694196112335
+    second: HPBar_3D_27
+  - first:
+      213: -126680889750765801
+    second: HPBar_3D_28
+  - first:
+      213: 7139075650623321699
+    second: HPBar_3D_29
+  - first:
+      213: 3254732460049947558
+    second: HPBar_3D_30
+  - first:
+      213: 6427792802903021763
+    second: HPBar_3D_31
+  - first:
+      213: -1445224626813148782
+    second: HPBar_3D_32
+  - first:
+      213: 4263303242450068020
+    second: HPBar_3D_33
+  - first:
+      213: -3107499781820238839
+    second: HPBar_3D_34
+  - first:
+      213: 4598633629799378203
+    second: HPBar_3D_35
+  - first:
+      213: 1497388321883952439
+    second: HPBar_3D_36
+  - first:
+      213: -8162896801045448413
+    second: HPBar_3D_37
+  - first:
+      213: 6143100096981621091
+    second: HPBar_3D_38
+  - first:
+      213: 5832744592657058557
+    second: HPBar_3D_39
+  - first:
+      213: -7058761405820032332
+    second: HPBar_3D_40
+  - first:
+      213: -3435690774055422056
+    second: HPBar_3D_41
+  - first:
+      213: 6958465901871089651
+    second: HPBar_3D_42
+  - first:
+      213: -6724060833198040555
+    second: HPBar_3D_43
+  - first:
+      213: -5591734404435582831
+    second: HPBar_3D_44
+  - first:
+      213: 3871295530825768491
+    second: HPBar_3D_45
+  - first:
+      213: 4840989830902117123
+    second: HPBar_3D_46
+  - first:
+      213: 6748286758187410614
+    second: HPBar_3D_47
+  - first:
+      213: 303973822998214387
+    second: HPBar_3D_48
+  - first:
+      213: 8111692188852688785
+    second: HPBar_3D_49
+  - first:
+      213: 172407925932185988
+    second: HPBar_3D_50
+  - first:
+      213: -378514953460752247
+    second: HPBar_3D_51
+  - first:
+      213: 1302541390845157857
+    second: HPBar_3D_52
+  - first:
+      213: 7868654155044894244
+    second: HPBar_3D_53
+  - first:
+      213: -1026647386950021334
+    second: HPBar_3D_54
+  - first:
+      213: -6094263817338544605
+    second: HPBar_3D_55
+  - first:
+      213: 840006000629476301
+    second: HPBar_3D_56
+  - first:
+      213: -2831450957669402773
+    second: HPBar_3D_57
+  - first:
+      213: -8902923805651521761
+    second: HPBar_3D_58
+  - first:
+      213: 5935294548745391546
+    second: HPBar_3D_59
+  - first:
+      213: -511872473456438114
+    second: HPBar_3D_60
+  - first:
+      213: 470010938074447337
+    second: HPBar_3D_61
+  - first:
+      213: 5701165130074702925
+    second: HPBar_3D_62
+  - first:
+      213: -5965453364594590192
+    second: HPBar_3D_63
+  - first:
+      213: -8633253223844524170
+    second: HPBar_3D_64
+  - first:
+      213: -4983777202851086039
+    second: HPBar_3D_65
+  - first:
+      213: 5570127092791835937
+    second: HPBar_3D_66
+  - first:
+      213: 2134637039531727177
+    second: HPBar_3D_67
+  - first:
+      213: -3683039847466953389
+    second: HPBar_3D_68
+  - first:
+      213: 4031624362555250115
+    second: HPBar_3D_69
+  - first:
+      213: -2122719342165125437
+    second: HPBar_3D_70
+  - first:
+      213: 2994223348207671917
+    second: HPBar_3D_71
+  - first:
+      213: 2236734362172463536
+    second: HPBar_3D_72
+  - first:
+      213: -3457097515111266140
+    second: HPBar_3D_73
+  - first:
+      213: 8158831612664732709
+    second: HPBar_3D_74
+  - first:
+      213: -4483777546187004488
+    second: HPBar_3D_75
+  - first:
+      213: 2386968516349458194
+    second: HPBar_3D_76
+  - first:
+      213: 1567546798456036092
+    second: HPBar_3D_77
+  - first:
+      213: -6567194995107436763
+    second: HPBar_3D_78
+  - first:
+      213: -7757904213364500280
+    second: HPBar_3D_79
+  - first:
+      213: 3860672116178985244
+    second: HPBar_3D_80
+  - first:
+      213: 2514055064504857022
+    second: HPBar_3D_81
+  - first:
+      213: 6393924748992516300
+    second: HPBar_3D_82
+  - first:
+      213: -7748419694164735122
+    second: HPBar_3D_83
+  - first:
+      213: -2899222447358949763
+    second: HPBar_3D_84
+  - first:
+      213: -4449029755811946056
+    second: HPBar_3D_85
+  - first:
+      213: 481480711997525803
+    second: HPBar_3D_86
+  - first:
+      213: -2472565779423859839
+    second: HPBar_3D_87
+  - first:
+      213: -8408939865486200226
+    second: HPBar_3D_88
+  - first:
+      213: -6979835777297940897
+    second: HPBar_3D_89
+  - first:
+      213: 6415426195655185860
+    second: HPBar_3D_90
+  - first:
+      213: 4811312781757788002
+    second: HPBar_3D_91
+  - first:
+      213: -6442586013915682998
+    second: HPBar_3D_92
+  - first:
+      213: 651081646354878290
+    second: HPBar_3D_93
+  - first:
+      213: -623257399025337351
+    second: HPBar_3D_94
+  - first:
+      213: -1723449557064825822
+    second: HPBar_3D_95
+  - first:
+      213: -2218458786286749270
+    second: HPBar_3D_96
+  - first:
+      213: 1951675583858292834
+    second: HPBar_3D_97
+  - first:
+      213: 7761860011904684775
+    second: HPBar_3D_98
+  - first:
+      213: -2758112586337795145
+    second: HPBar_3D_99
+  - first:
+      213: -4243446256970014608
+    second: HPBar_3D_100
+  - first:
+      213: -4364089786920965869
+    second: HPBar_3D_101
+  - first:
+      213: 3090252230031839214
+    second: HPBar_3D_102
+  - first:
+      213: -9034971150463432564
+    second: HPBar_3D_103
+  - first:
+      213: 6719045114103261857
+    second: HPBar_3D_104
+  - first:
+      213: -3298451405182734685
+    second: HPBar_3D_105
+  - first:
+      213: 2222996921071305856
+    second: HPBar_3D_106
+  - first:
+      213: -4223819149263253163
+    second: HPBar_3D_107
+  - first:
+      213: -3362727391268587168
+    second: HPBar_3D_108
+  - first:
+      213: 193018827564075763
+    second: HPBar_3D_109
+  - first:
+      213: 4287893908254952862
+    second: HPBar_3D_110
+  - first:
+      213: -6661818940745414597
+    second: HPBar_3D_111
+  - first:
+      213: -9064688507018528281
+    second: HPBar_3D_112
+  - first:
+      213: 3277144204679403182
+    second: HPBar_3D_113
+  - first:
+      213: -8529072044867797963
+    second: HPBar_3D_114
+  - first:
+      213: -4785063447073879560
+    second: HPBar_3D_115
+  - first:
+      213: 8478204380298517521
+    second: HPBar_3D_116
+  - first:
+      213: 8607264723985584541
+    second: HPBar_3D_117
+  - first:
+      213: -3055353257325444355
+    second: HPBar_3D_118
+  - first:
+      213: -4196714571625491435
+    second: HPBar_3D_119
+  - first:
+      213: 5037297797658901915
+    second: HPBar_3D_120
+  - first:
+      213: -947646207011847324
+    second: HPBar_3D_121
+  - first:
+      213: 5351408368215434740
+    second: HPBar_3D_122
+  - first:
+      213: 4289752554973556074
+    second: HPBar_3D_123
+  - first:
+      213: -2300621383003338560
+    second: HPBar_3D_124
+  - first:
+      213: -5305819813502049064
+    second: HPBar_3D_125
+  - first:
+      213: 4795284230533247022
+    second: HPBar_3D_126
+  - first:
+      213: -6544362975655798495
+    second: HPBar_3D_127
+  - first:
+      213: -6122434000559636960
+    second: HPBar_3D_128
+  - first:
+      213: -5571681434521539728
+    second: HPBar_3D_129
+  - first:
+      213: -909830241670499084
+    second: HPBar_3D_130
+  - first:
+      213: 4605973168121719707
+    second: HPBar_3D_131
+  - first:
+      213: 5964204387790440604
+    second: HPBar_3D_132
+  - first:
+      213: 3815715734035273361
+    second: HPBar_3D_133
+  - first:
+      213: -4167037845972925432
+    second: HPBar_3D_134
+  - first:
+      213: -7871743781230414288
+    second: HPBar_3D_135
+  - first:
+      213: -6848100939361114852
+    second: HPBar_3D_136
+  - first:
+      213: 8613858521761079230
+    second: HPBar_3D_137
+  - first:
+      213: 1854116380577913977
+    second: HPBar_3D_138
+  - first:
+      213: 2497696327837119351
+    second: HPBar_3D_139
+  - first:
+      213: 1186810789826258328
+    second: HPBar_3D_140
+  - first:
+      213: 6989281522734608320
+    second: HPBar_3D_141
+  - first:
+      213: -4605597855950477564
+    second: HPBar_3D_142
+  - first:
+      213: 4590260423395278450
+    second: HPBar_3D_143
+  - first:
+      213: -4417737199055031216
+    second: HPBar_3D_144
+  - first:
+      213: -2990882722991149939
+    second: HPBar_3D_145
+  - first:
+      213: -5207944673909138579
+    second: HPBar_3D_146
+  - first:
+      213: 7533949439999385085
+    second: HPBar_3D_147
+  - first:
+      213: -5590784653999647434
+    second: HPBar_3D_148
+  - first:
+      213: 445792665822410525
+    second: HPBar_3D_149
+  - first:
+      213: -7755574530118302611
+    second: HPBar_3D_150
+  - first:
+      213: 7666031161127252393
+    second: HPBar_3D_151
+  - first:
+      213: 3323892759224275427
+    second: HPBar_3D_152
+  - first:
+      213: -7160403838921675797
+    second: HPBar_3D_153
+  - first:
+      213: -3776482619619234671
+    second: HPBar_3D_154
+  - first:
+      213: 7949448377834434920
+    second: HPBar_3D_155
+  - first:
+      213: 6796015887273329309
+    second: HPBar_3D_156
+  - first:
+      213: 8875381714687899620
+    second: HPBar_3D_157
+  - first:
+      213: 7650653700576734521
+    second: HPBar_3D_158
+  - first:
+      213: -5101655018667317088
+    second: HPBar_3D_159
+  - first:
+      213: 7257093381338704497
+    second: HPBar_3D_160
+  - first:
+      213: -6039544252838397624
+    second: HPBar_3D_161
+  - first:
+      213: 8317170031609169711
+    second: HPBar_3D_162
+  - first:
+      213: -593523154205642027
+    second: HPBar_3D_163
+  - first:
+      213: 4243887552754887705
+    second: HPBar_3D_164
+  - first:
+      213: -2017178186923627219
+    second: HPBar_3D_165
+  - first:
+      213: -8219090401559361683
+    second: HPBar_3D_166
+  - first:
+      213: -215526198298818125
+    second: HPBar_3D_167
+  - first:
+      213: 5997113561530718994
+    second: HPBar_3D_168
+  - first:
+      213: 1205260902976418469
+    second: HPBar_3D_169
+  - first:
+      213: -5375893608681611291
+    second: HPBar_3D_170
+  - first:
+      213: 5266315197430079965
+    second: HPBar_3D_171
+  - first:
+      213: -4497170196628806749
+    second: HPBar_3D_172
+  - first:
+      213: -5856772408499505500
+    second: HPBar_3D_173
+  - first:
+      213: -9064297579766218298
+    second: HPBar_3D_174
+  - first:
+      213: -405033470944628973
+    second: HPBar_3D_175
+  - first:
+      213: 806187665305657764
+    second: HPBar_3D_176
+  - first:
+      213: -1738454776416179786
+    second: HPBar_3D_177
+  - first:
+      213: -5763206771327318940
+    second: HPBar_3D_178
+  - first:
+      213: -3211501646669782206
+    second: HPBar_3D_179
+  - first:
+      213: -6104423271371834607
+    second: HPBar_3D_180
+  - first:
+      213: -6833707395252386246
+    second: HPBar_3D_181
+  - first:
+      213: -8473394895675466267
+    second: HPBar_3D_182
+  - first:
+      213: 2007939946657084313
+    second: HPBar_3D_183
+  - first:
+      213: -5270057869817770957
+    second: HPBar_3D_184
+  - first:
+      213: -8396024912168032109
+    second: HPBar_3D_185
+  - first:
+      213: -1534033581656591659
+    second: HPBar_3D_186
+  - first:
+      213: 7173089164706002364
+    second: HPBar_3D_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HPBar_3D_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 326
+        width: 215
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafbcec42bb33a570800000000000000
+      internalID: 8476684560622206895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 350
+        width: 150
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef693aeac1aeee0800000000000000
+      internalID: -1231140011737940453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 331
+        width: 150
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40f80a945ff5ad0800000000000000
+      internalID: -2711178754078604105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 217
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d8924e4898a930800000000000000
+      internalID: 4154738118141465431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 312
+        width: 150
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35054d4db4f5ce3a0800000000000000
+      internalID: -6634823371725713325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 293
+        width: 150
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc3b505a3278110800000000000000
+      internalID: 1263017412172959599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 278
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0efdd98d5de1d0800000000000000
+      internalID: -3319894503585871285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 274
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750bf2cc0bfe2e7b0800000000000000
+      internalID: -5196327477413171113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 272
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a456f2dae63a4f550800000000000000
+      internalID: 6193755083288569162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 277
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43e7fb08f609cb0800000000000000
+      internalID: -4859261399173548812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 262
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c13066b9c748e0800000000000000
+      internalID: -1709175748428709561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 266
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdff5312f382d580800000000000000
+      internalID: -8803829245825516044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 212
+        width: 217
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7670839757096f740800000000000000
+      internalID: 5185490855182993255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 247
+        width: 153
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7809b9ad156040800000000000000
+      internalID: 4640147605866184135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2696c950aecea40800000000000000
+      internalID: 5398947363130270385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 228
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5e02a7a7450910800000000000000
+      internalID: 1802926011135712537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 228
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c4b42d3ae24c530800000000000000
+      internalID: 3874272860588166192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 228
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134606bb1e2b87790800000000000000
+      internalID: -7532073694196112335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3396e660fd3ef0800000000000000
+      internalID: -126680889750765801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663b04da77131360800000000000000
+      internalID: 7139075650623321699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd5389de12b2d20800000000000000
+      internalID: 3254732460049947558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 157
+        width: 217
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d8d29f7b143950800000000000000
+      internalID: 6427792802903021763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 191
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e72aebd781fbe0800000000000000
+      internalID: -1445224626813148782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e10806bb4a2b30800000000000000
+      internalID: 4263303242450068020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9043005a961ffd4d0800000000000000
+      internalID: -3107499781820238839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6b54fbe0a1df30800000000000000
+      internalID: 4598633629799378203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73516b8cebac7c410800000000000000
+      internalID: 1497388321883952439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329738bbb9097be80800000000000000
+      internalID: -8162896801045448413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d14c9dfca04550800000000000000
+      internalID: 6143100096981621091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa87e6cd4212f050800000000000000
+      internalID: 5832744592657058557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_40
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba2cdb76ed3a0e90800000000000000
+      internalID: -7058761405820032332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 189
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f65ea179f150d0800000000000000
+      internalID: -3435690774055422056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c1b6cedf619060800000000000000
+      internalID: 6958465901871089651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1d1d3c465fa2a0800000000000000
+      internalID: -6724060833198040555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 191
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19069497f2b2662b0800000000000000
+      internalID: -5591734404435582831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e5d6736ca99b530800000000000000
+      internalID: 3871295530825768491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f2304a96ae2340800000000000000
+      internalID: 4840989830902117123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ab387d0bb6ad50800000000000000
+      internalID: 6748286758187410614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 189
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f673dcd49ee73400800000000000000
+      internalID: 303973822998214387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19710e37115829070800000000000000
+      internalID: 8111692188852688785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48956ad5814846200800000000000000
+      internalID: 172407925932185988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_51
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 189
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806cc0c7ae3fbaf0800000000000000
+      internalID: -378514953460752247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_52
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a19a6e7e831210800000000000000
+      internalID: 1302541390845157857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4263adb9343133d60800000000000000
+      internalID: 7868654155044894244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_54
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fc24714ad90c1f0800000000000000
+      internalID: -1026647386950021334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 189
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1500d853dc6ba0800000000000000
+      internalID: -6094263817338544605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_56
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb67bcc10d48ab00800000000000000
+      internalID: 840006000629476301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 189
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fc2d0b5aa4b8d0800000000000000
+      internalID: -2831450957669402773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa5cde7f5727480800000000000000
+      internalID: -8902923805651521761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd084f02f66e5250800000000000000
+      internalID: 5935294548745391546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94145982b675e8f0800000000000000
+      internalID: -511872473456438114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb97c3570d58600800000000000000
+      internalID: 470010938074447337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4442ffca7b9e1f40800000000000000
+      internalID: 5701165130074702925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3e2f65c3763da0800000000000000
+      internalID: -5965453364594590192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_64
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f40c01fe5803880800000000000000
+      internalID: -8633253223844524170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_65
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9210f580a0116dab0800000000000000
+      internalID: -4983777202851086039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df2af34111d4d40800000000000000
+      internalID: 5570127092791835937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 178
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491ea1e311cf9d10800000000000000
+      internalID: 2134637039531727177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559f16b5c633ecc0800000000000000
+      internalID: -3683039847466953389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59aed4ff433f730800000000000000
+      internalID: 4031624362555250115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_70
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6956441069a82e0800000000000000
+      internalID: -2122719342165125437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a5918654e9d8920800000000000000
+      internalID: 2994223348207671917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_72
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 178
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9133a3d0a7a0f10800000000000000
+      internalID: 2236734362172463536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 178
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a848e1602ce500d0800000000000000
+      internalID: -3457097515111266140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_74
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdb17df1ef93170800000000000000
+      internalID: 8158831612664732709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_75
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a6abe31c66c1c0800000000000000
+      internalID: -4483777546187004488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 178
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217fc0b0837302120800000000000000
+      internalID: 2386968516349458194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 178
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfad5ca028b01c510800000000000000
+      internalID: 1567546798456036092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_78
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e5e942f2acd4a0800000000000000
+      internalID: -6567194995107436763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 178
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c817e89833665490800000000000000
+      internalID: -7757904213364500280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11aa1fb5dcd39530800000000000000
+      internalID: 3860672116178985244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_81
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb17599d2c7b3e220800000000000000
+      internalID: 2514055064504857022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_82
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc01748cea8cbb850800000000000000
+      internalID: 6393924748992516300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_83
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8bae4755187490800000000000000
+      internalID: -7748419694164735122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c45c7b84e3c7d0800000000000000
+      internalID: -2899222447358949763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_85
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1afa1520fd142c0800000000000000
+      internalID: -4449029755811946056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_86
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 178
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f80d418209ea600800000000000000
+      internalID: 481480711997525803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b67a9168eafadd0800000000000000
+      internalID: -2472565779423859839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f21caeb17d4b80800000000000000
+      internalID: -8408939865486200226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_89
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef79f5754a22f90800000000000000
+      internalID: -6979835777297940897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_90
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c553c2722c280950800000000000000
+      internalID: 6415426195655185860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f28fbcb7735c240800000000000000
+      internalID: 4811312781757788002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 165
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e7a597265796a0800000000000000
+      internalID: -6442586013915682998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 165
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f42cace4b190900800000000000000
+      internalID: 651081646354878290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_94
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 165
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbf57f92beb957f0800000000000000
+      internalID: -623257399025337351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_95
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 165
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224c8d252c31518e0800000000000000
+      internalID: -1723449557064825822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b88edc737631e0800000000000000
+      internalID: -2218458786286749270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 165
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683da46a9eb51b10800000000000000
+      internalID: 1951675583858292834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 92
+        width: 217
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e253e58e8aa7bb60800000000000000
+      internalID: 7761860011904684775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 217
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b34dc0473739b9d0800000000000000
+      internalID: -2758112586337795145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_100
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07067ddac104c15c0800000000000000
+      internalID: -4243446256970014608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196aa2f573af63c0800000000000000
+      internalID: -4364089786920965869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_102
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef0865c708c2ea20800000000000000
+      internalID: 3090252230031839214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_103
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8889b4ab955d9280800000000000000
+      internalID: -9034971150463432564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_104
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae2f7aee7de3d50800000000000000
+      internalID: 6719045114103261857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_105
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee1354ceb8932d0800000000000000
+      internalID: -3298451405182734685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 37
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0840e39fbeba9de10800000000000000
+      internalID: 2222996921071305856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551dbacccdaf165c0800000000000000
+      internalID: -4223819149263253163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_108
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b5fe01413551d0800000000000000
+      internalID: -3362727391268587168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_109
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa4bebd99dbda200800000000000000
+      internalID: 193018827564075763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_110
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d09149ac8a18b30800000000000000
+      internalID: 4287893908254952862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_111
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 31
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3886ee18f67c83a0800000000000000
+      internalID: -6661818940745414597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_112
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9389364d1c33280800000000000000
+      internalID: -9064688507018528281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea655a58a41ca7d20800000000000000
+      internalID: 3277144204679403182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_114
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb0f50a26a2a980800000000000000
+      internalID: -8529072044867797963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_115
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f98471b52a089db0800000000000000
+      internalID: -4785063447073879560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c9ad4e6f1a8a570800000000000000
+      internalID: 8478204380298517521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_117
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9159e8c9a5237770800000000000000
+      internalID: 8607264723985584541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_118
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2c8c186643995d0800000000000000
+      internalID: -3055353257325444355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_119
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5149e8e055642c5c0800000000000000
+      internalID: -4196714571625491435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_120
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 31
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df05188a318e540800000000000000
+      internalID: 5037297797658901915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_121
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463005aabc849d2f0800000000000000
+      internalID: -947646207011847324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5a883de85044a40800000000000000
+      internalID: 5351408368215434740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_123
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de58d7833488b30800000000000000
+      internalID: 4289752554973556074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_124
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80b679a0d8210e0800000000000000
+      internalID: -2300621383003338560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42bf5bdf0fd56b0800000000000000
+      internalID: -5305819813502049064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_126
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2077f5e9954c8240800000000000000
+      internalID: 4795284230533247022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_127
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 24
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12951d21c80cd25a0800000000000000
+      internalID: -6544362975655798495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_128
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e7edbe6beb80ba0800000000000000
+      internalID: -6122434000559636960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_129
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b64bd51496da2b0800000000000000
+      internalID: -5571681434521539728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f472573732af53f0800000000000000
+      internalID: -909830241670499084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b20e26134bbef30800000000000000
+      internalID: 4605973168121719707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_132
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98431e7a4c15c250800000000000000
+      internalID: 5964204387790440604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_133
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969a0b5e3524f430800000000000000
+      internalID: 3815715734035273361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_134
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804cc213825bb26c0800000000000000
+      internalID: -4167037845972925432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036fedcbcb2f1c290800000000000000
+      internalID: -7871743781230414288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_136
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ac5b7a78a6f0a0800000000000000
+      internalID: -6848100939361114852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5a07ffa29a8770800000000000000
+      internalID: 8613858521761079230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 24
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c549c46052bb910800000000000000
+      internalID: 1854116380577913977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_139
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7737789a39999a220800000000000000
+      internalID: 2497696327837119351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_140
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 24
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e1371026687010800000000000000
+      internalID: 1186810789826258328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_141
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf2ccd938aeef060800000000000000
+      internalID: 6989281522734608320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_142
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40765c9c621a510c0800000000000000
+      internalID: -4605597855950477564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e720be881e3bf30800000000000000
+      internalID: 4590260423395278450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_144
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054bb437c6b01b2c0800000000000000
+      internalID: -4417737199055031216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c624382004e76d0800000000000000
+      internalID: -2990882722991149939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_146
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b12c579e9a9b7b0800000000000000
+      internalID: -5207944673909138579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd9aee5917fd8860800000000000000
+      internalID: 7533949439999385085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_148
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63555aa7afa8962b0800000000000000
+      internalID: -5590784653999647434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_149
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b1d15116cf2600800000000000000
+      internalID: 445792665822410525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_150
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d644b3f3e0aae5490800000000000000
+      internalID: -7755574530118302611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_151
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 5
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1b01489b6336a60800000000000000
+      internalID: 7666031161127252393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_152
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e15e019ad6d02e20800000000000000
+      internalID: 3323892759224275427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_153
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebeabc55a221ac90800000000000000
+      internalID: -7160403838921675797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_154
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 18
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca82de01d379bc0800000000000000
+      internalID: -3776482619619234671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_155
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86170218e2d125e60800000000000000
+      internalID: 7949448377834434920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_156
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9286d0517c405e50800000000000000
+      internalID: 6796015887273329309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_157
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e738fd45a0bb2b70800000000000000
+      internalID: 8875381714687899620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_158
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d676a71059c2a60800000000000000
+      internalID: 7650653700576734521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_159
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8eebd4ac74339b0800000000000000
+      internalID: -5101655018667317088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_160
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a28880bff56b460800000000000000
+      internalID: 7257093381338704497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_161
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b05c308a3f2ca0800000000000000
+      internalID: -6039544252838397624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c696d3168c6370800000000000000
+      internalID: 8317170031609169711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_163
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27a9bf5d163c7f0800000000000000
+      internalID: -593523154205642027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c28a08e3155ea30800000000000000
+      internalID: 4243887552754887705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_165
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 11
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d20cf502b8104e0800000000000000
+      internalID: -2017178186923627219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_166
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674b3e83dcefed80800000000000000
+      internalID: -8219090401559361683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_167
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cb96801c420df0800000000000000
+      internalID: -215526198298818125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b57b892070a3350800000000000000
+      internalID: 5997113561530718994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_169
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2739fc762f9b010800000000000000
+      internalID: 1205260902976418469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_170
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef5d30ee3df465b0800000000000000
+      internalID: -5375893608681611291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_171
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1af0a15c5b51940800000000000000
+      internalID: 5266315197430079965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_172
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3677f7887d691c0800000000000000
+      internalID: -4497170196628806749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_173
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f315668098bea0800000000000000
+      internalID: -5856772408499505500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_174
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10a9b3065253280800000000000000
+      internalID: -9064297579766218298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_175
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa3324438016af0800000000000000
+      internalID: -405033470944628973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_176
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a168d40967203b00800000000000000
+      internalID: 806187665305657764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_177
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9e1a17794cfd7e0800000000000000
+      internalID: -1738454776416179786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_178
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c8ebe9f9f400b0800000000000000
+      internalID: -5763206771327318940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_179
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436aa284447e63d0800000000000000
+      internalID: -3211501646669782206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_180
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bf047906bb84ba0800000000000000
+      internalID: -6104423271371834607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_181
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36850f945bc921a0800000000000000
+      internalID: -6833707395252386246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_182
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd7a18c34786a80800000000000000
+      internalID: -8473394895675466267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_183
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ffc23eb2addb10800000000000000
+      internalID: 2007939946657084313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_184
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c82c31a4efcd6b0800000000000000
+      internalID: -5270057869817770957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_185
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e4e093d35b7b80800000000000000
+      internalID: -8396024912168032109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_186
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b6dbc59406bae0800000000000000
+      internalID: -1534033581656591659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBar_3D_187
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53184379eeb8360800000000000000
+      internalID: 7173089164706002364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 844f206eb5b18d54d987cde8185eaa8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HPBar_3D_0: 8476684560622206895
+      HPBar_3D_1: -1231140011737940453
+      HPBar_3D_10: 4979233630600346309
+      HPBar_3D_100: -4243446256970014608
+      HPBar_3D_101: -4364089786920965869
+      HPBar_3D_102: 3090252230031839214
+      HPBar_3D_103: -9034971150463432564
+      HPBar_3D_104: 6719045114103261857
+      HPBar_3D_105: -3298451405182734685
+      HPBar_3D_106: 2222996921071305856
+      HPBar_3D_107: -4223819149263253163
+      HPBar_3D_108: -3362727391268587168
+      HPBar_3D_109: 193018827564075763
+      HPBar_3D_11: 7002727796206652106
+      HPBar_3D_110: 4287893908254952862
+      HPBar_3D_111: -6661818940745414597
+      HPBar_3D_112: -9064688507018528281
+      HPBar_3D_113: 3277144204679403182
+      HPBar_3D_114: -8529072044867797963
+      HPBar_3D_115: -4785063447073879560
+      HPBar_3D_116: 8478204380298517521
+      HPBar_3D_117: 8607264723985584541
+      HPBar_3D_118: -3055353257325444355
+      HPBar_3D_119: -4196714571625491435
+      HPBar_3D_12: 4154738118141465431
+      HPBar_3D_120: 5037297797658901915
+      HPBar_3D_121: -947646207011847324
+      HPBar_3D_122: 5351408368215434740
+      HPBar_3D_123: 4289752554973556074
+      HPBar_3D_124: -2300621383003338560
+      HPBar_3D_125: -5305819813502049064
+      HPBar_3D_126: 4795284230533247022
+      HPBar_3D_127: -6544362975655798495
+      HPBar_3D_128: -6122434000559636960
+      HPBar_3D_129: -5571681434521539728
+      HPBar_3D_13: -6634823371725713325
+      HPBar_3D_130: -909830241670499084
+      HPBar_3D_131: 4605973168121719707
+      HPBar_3D_132: 5964204387790440604
+      HPBar_3D_133: 3815715734035273361
+      HPBar_3D_134: -4167037845972925432
+      HPBar_3D_135: -7871743781230414288
+      HPBar_3D_136: -6848100939361114852
+      HPBar_3D_137: 8613858521761079230
+      HPBar_3D_138: 1854116380577913977
+      HPBar_3D_139: 2497696327837119351
+      HPBar_3D_14: 3291231435639985918
+      HPBar_3D_140: 1186810789826258328
+      HPBar_3D_141: 6989281522734608320
+      HPBar_3D_142: -4605597855950477564
+      HPBar_3D_143: 4590260423395278450
+      HPBar_3D_144: -4417737199055031216
+      HPBar_3D_145: -2990882722991149939
+      HPBar_3D_146: -5207944673909138579
+      HPBar_3D_147: 7533949439999385085
+      HPBar_3D_148: -5590784653999647434
+      HPBar_3D_149: 445792665822410525
+      HPBar_3D_15: 1263017412172959599
+      HPBar_3D_150: -7755574530118302611
+      HPBar_3D_151: 7666031161127252393
+      HPBar_3D_152: 3323892759224275427
+      HPBar_3D_153: -7160403838921675797
+      HPBar_3D_154: -3776482619619234671
+      HPBar_3D_155: 7949448377834434920
+      HPBar_3D_156: 6796015887273329309
+      HPBar_3D_157: 8875381714687899620
+      HPBar_3D_158: 7650653700576734521
+      HPBar_3D_159: -5101655018667317088
+      HPBar_3D_16: -3319894503585871285
+      HPBar_3D_160: 7257093381338704497
+      HPBar_3D_161: -6039544252838397624
+      HPBar_3D_162: 8317170031609169711
+      HPBar_3D_163: -593523154205642027
+      HPBar_3D_164: 4243887552754887705
+      HPBar_3D_165: -2017178186923627219
+      HPBar_3D_166: -8219090401559361683
+      HPBar_3D_167: -215526198298818125
+      HPBar_3D_168: 5997113561530718994
+      HPBar_3D_169: 1205260902976418469
+      HPBar_3D_17: -5196327477413171113
+      HPBar_3D_170: -5375893608681611291
+      HPBar_3D_171: 5266315197430079965
+      HPBar_3D_172: -4497170196628806749
+      HPBar_3D_173: -5856772408499505500
+      HPBar_3D_174: -9064297579766218298
+      HPBar_3D_175: -405033470944628973
+      HPBar_3D_176: 806187665305657764
+      HPBar_3D_177: -1738454776416179786
+      HPBar_3D_178: -5763206771327318940
+      HPBar_3D_179: -3211501646669782206
+      HPBar_3D_18: 6193755083288569162
+      HPBar_3D_180: -6104423271371834607
+      HPBar_3D_181: -6833707395252386246
+      HPBar_3D_182: -8473394895675466267
+      HPBar_3D_183: 2007939946657084313
+      HPBar_3D_184: -5270057869817770957
+      HPBar_3D_185: -8396024912168032109
+      HPBar_3D_186: -1534033581656591659
+      HPBar_3D_187: 7173089164706002364
+      HPBar_3D_19: -4859261399173548812
+      HPBar_3D_2: 921836989112511736
+      HPBar_3D_20: -1709175748428709561
+      HPBar_3D_21: -8803829245825516044
+      HPBar_3D_22: 5185490855182993255
+      HPBar_3D_23: 4640147605866184135
+      HPBar_3D_24: 5398947363130270385
+      HPBar_3D_25: 1802926011135712537
+      HPBar_3D_26: 3874272860588166192
+      HPBar_3D_27: -7532073694196112335
+      HPBar_3D_28: -126680889750765801
+      HPBar_3D_29: 7139075650623321699
+      HPBar_3D_3: 6748399744884734916
+      HPBar_3D_30: 3254732460049947558
+      HPBar_3D_31: 6427792802903021763
+      HPBar_3D_32: -1445224626813148782
+      HPBar_3D_33: 4263303242450068020
+      HPBar_3D_34: -3107499781820238839
+      HPBar_3D_35: 4598633629799378203
+      HPBar_3D_36: 1497388321883952439
+      HPBar_3D_37: -8162896801045448413
+      HPBar_3D_38: 6143100096981621091
+      HPBar_3D_39: 5832744592657058557
+      HPBar_3D_4: 4192316042143600568
+      HPBar_3D_40: -7058761405820032332
+      HPBar_3D_41: -3435690774055422056
+      HPBar_3D_42: 6958465901871089651
+      HPBar_3D_43: -6724060833198040555
+      HPBar_3D_44: -5591734404435582831
+      HPBar_3D_45: 3871295530825768491
+      HPBar_3D_46: 4840989830902117123
+      HPBar_3D_47: 6748286758187410614
+      HPBar_3D_48: 303973822998214387
+      HPBar_3D_49: 8111692188852688785
+      HPBar_3D_5: 5936589783575586272
+      HPBar_3D_50: 172407925932185988
+      HPBar_3D_51: -378514953460752247
+      HPBar_3D_52: 1302541390845157857
+      HPBar_3D_53: 7868654155044894244
+      HPBar_3D_54: -1026647386950021334
+      HPBar_3D_55: -6094263817338544605
+      HPBar_3D_56: 840006000629476301
+      HPBar_3D_57: -2831450957669402773
+      HPBar_3D_58: -8902923805651521761
+      HPBar_3D_59: 5935294548745391546
+      HPBar_3D_6: -5460122123571382627
+      HPBar_3D_60: -511872473456438114
+      HPBar_3D_61: 470010938074447337
+      HPBar_3D_62: 5701165130074702925
+      HPBar_3D_63: -5965453364594590192
+      HPBar_3D_64: -8633253223844524170
+      HPBar_3D_65: -4983777202851086039
+      HPBar_3D_66: 5570127092791835937
+      HPBar_3D_67: 2134637039531727177
+      HPBar_3D_68: -3683039847466953389
+      HPBar_3D_69: 4031624362555250115
+      HPBar_3D_7: -391445149372992237
+      HPBar_3D_70: -2122719342165125437
+      HPBar_3D_71: 2994223348207671917
+      HPBar_3D_72: 2236734362172463536
+      HPBar_3D_73: -3457097515111266140
+      HPBar_3D_74: 8158831612664732709
+      HPBar_3D_75: -4483777546187004488
+      HPBar_3D_76: 2386968516349458194
+      HPBar_3D_77: 1567546798456036092
+      HPBar_3D_78: -6567194995107436763
+      HPBar_3D_79: -7757904213364500280
+      HPBar_3D_8: -2711178754078604105
+      HPBar_3D_80: 3860672116178985244
+      HPBar_3D_81: 2514055064504857022
+      HPBar_3D_82: 6393924748992516300
+      HPBar_3D_83: -7748419694164735122
+      HPBar_3D_84: -2899222447358949763
+      HPBar_3D_85: -4449029755811946056
+      HPBar_3D_86: 481480711997525803
+      HPBar_3D_87: -2472565779423859839
+      HPBar_3D_88: -8408939865486200226
+      HPBar_3D_89: -6979835777297940897
+      HPBar_3D_9: 4325058033812977315
+      HPBar_3D_90: 6415426195655185860
+      HPBar_3D_91: 4811312781757788002
+      HPBar_3D_92: -6442586013915682998
+      HPBar_3D_93: 651081646354878290
+      HPBar_3D_94: -623257399025337351
+      HPBar_3D_95: -1723449557064825822
+      HPBar_3D_96: -2218458786286749270
+      HPBar_3D_97: 1951675583858292834
+      HPBar_3D_98: 7761860011904684775
+      HPBar_3D_99: -2758112586337795145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

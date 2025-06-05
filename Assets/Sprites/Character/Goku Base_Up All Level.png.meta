@@ -1,0 +1,6595 @@
+fileFormatVersion: 2
+guid: 4af99628245b8f14aa41094444b9b4cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4832681537220892854
+    second: Goku Base_Up All Level_0
+  - first:
+      213: 6822463571183218594
+    second: Goku Base_Up All Level_1
+  - first:
+      213: -1713844121761194373
+    second: Goku Base_Up All Level_2
+  - first:
+      213: -6626783135161236245
+    second: Goku Base_Up All Level_3
+  - first:
+      213: -1684451444998756792
+    second: Goku Base_Up All Level_4
+  - first:
+      213: -7077794767305751552
+    second: Goku Base_Up All Level_5
+  - first:
+      213: 9020526414393569229
+    second: Goku Base_Up All Level_6
+  - first:
+      213: -5675437044617873480
+    second: Goku Base_Up All Level_7
+  - first:
+      213: -4078693878794189506
+    second: Goku Base_Up All Level_8
+  - first:
+      213: 7950109610999840526
+    second: Goku Base_Up All Level_9
+  - first:
+      213: 1790739831599318282
+    second: Goku Base_Up All Level_10
+  - first:
+      213: -4822993606983762939
+    second: Goku Base_Up All Level_11
+  - first:
+      213: 4542900431249329402
+    second: Goku Base_Up All Level_12
+  - first:
+      213: -2657260586718969571
+    second: Goku Base_Up All Level_13
+  - first:
+      213: -5060478112872059723
+    second: Goku Base_Up All Level_14
+  - first:
+      213: -1266528105102237000
+    second: Goku Base_Up All Level_15
+  - first:
+      213: -4027836206465456735
+    second: Goku Base_Up All Level_16
+  - first:
+      213: 8597864062730629785
+    second: Goku Base_Up All Level_17
+  - first:
+      213: 8926645210677715578
+    second: Goku Base_Up All Level_18
+  - first:
+      213: -8860522316100579270
+    second: Goku Base_Up All Level_19
+  - first:
+      213: 5563709529102290820
+    second: Goku Base_Up All Level_20
+  - first:
+      213: 3709099933667866686
+    second: Goku Base_Up All Level_21
+  - first:
+      213: 7559127995826133294
+    second: Goku Base_Up All Level_22
+  - first:
+      213: -2819421518057051535
+    second: Goku Base_Up All Level_23
+  - first:
+      213: 6420329425652879828
+    second: Goku Base_Up All Level_24
+  - first:
+      213: 31761217025864429
+    second: Goku Base_Up All Level_25
+  - first:
+      213: 3257077504213653908
+    second: Goku Base_Up All Level_26
+  - first:
+      213: -7359325099086041377
+    second: Goku Base_Up All Level_27
+  - first:
+      213: 4528764964581299299
+    second: Goku Base_Up All Level_28
+  - first:
+      213: -1264175283775457770
+    second: Goku Base_Up All Level_29
+  - first:
+      213: 2896784124426291805
+    second: Goku Base_Up All Level_30
+  - first:
+      213: -2539644725122625227
+    second: Goku Base_Up All Level_31
+  - first:
+      213: 6185946958671993547
+    second: Goku Base_Up All Level_32
+  - first:
+      213: -1057403278171454177
+    second: Goku Base_Up All Level_33
+  - first:
+      213: 7939888401689297430
+    second: Goku Base_Up All Level_34
+  - first:
+      213: 584774518978444363
+    second: Goku Base_Up All Level_35
+  - first:
+      213: 4813935548118258522
+    second: Goku Base_Up All Level_36
+  - first:
+      213: -626672026286570716
+    second: Goku Base_Up All Level_37
+  - first:
+      213: 2973452264434395217
+    second: Goku Base_Up All Level_38
+  - first:
+      213: 6028754454159531905
+    second: Goku Base_Up All Level_39
+  - first:
+      213: -6433369061187884121
+    second: Goku Base_Up All Level_40
+  - first:
+      213: -8735589035171016823
+    second: Goku Base_Up All Level_41
+  - first:
+      213: -7742013391352563886
+    second: Goku Base_Up All Level_42
+  - first:
+      213: -7720154848062555343
+    second: Goku Base_Up All Level_43
+  - first:
+      213: -5949989943600439292
+    second: Goku Base_Up All Level_44
+  - first:
+      213: -6261072387296726714
+    second: Goku Base_Up All Level_45
+  - first:
+      213: 6176516377353303783
+    second: Goku Base_Up All Level_46
+  - first:
+      213: 9103799778680544921
+    second: Goku Base_Up All Level_47
+  - first:
+      213: -1795806201499780006
+    second: Goku Base_Up All Level_48
+  - first:
+      213: 4985852231176168279
+    second: Goku Base_Up All Level_49
+  - first:
+      213: -744195707681771610
+    second: Goku Base_Up All Level_50
+  - first:
+      213: -2466532377043961077
+    second: Goku Base_Up All Level_51
+  - first:
+      213: 3208235204770583025
+    second: Goku Base_Up All Level_52
+  - first:
+      213: -4484567704467547514
+    second: Goku Base_Up All Level_53
+  - first:
+      213: 5603867244685300122
+    second: Goku Base_Up All Level_54
+  - first:
+      213: 9055126687496803435
+    second: Goku Base_Up All Level_55
+  - first:
+      213: -2596487669328742980
+    second: Goku Base_Up All Level_56
+  - first:
+      213: -4502106632766707277
+    second: Goku Base_Up All Level_57
+  - first:
+      213: 4647768951275852885
+    second: Goku Base_Up All Level_58
+  - first:
+      213: -2616174548641179489
+    second: Goku Base_Up All Level_59
+  - first:
+      213: 7862316031150955448
+    second: Goku Base_Up All Level_60
+  - first:
+      213: 3733106795786098732
+    second: Goku Base_Up All Level_61
+  - first:
+      213: -6395447334362518423
+    second: Goku Base_Up All Level_62
+  - first:
+      213: -8268189147901239970
+    second: Goku Base_Up All Level_63
+  - first:
+      213: -895740604680297246
+    second: Goku Base_Up All Level_64
+  - first:
+      213: 1940106185051348958
+    second: Goku Base_Up All Level_65
+  - first:
+      213: 240132845515219653
+    second: Goku Base_Up All Level_66
+  - first:
+      213: 1021146227544735601
+    second: Goku Base_Up All Level_67
+  - first:
+      213: 5866846794927067531
+    second: Goku Base_Up All Level_68
+  - first:
+      213: 8093622536393068013
+    second: Goku Base_Up All Level_69
+  - first:
+      213: 3802792387439573490
+    second: Goku Base_Up All Level_70
+  - first:
+      213: 2814392667927763796
+    second: Goku Base_Up All Level_71
+  - first:
+      213: -706869855080671942
+    second: Goku Base_Up All Level_72
+  - first:
+      213: 856509246371245988
+    second: Goku Base_Up All Level_73
+  - first:
+      213: 808543997204225119
+    second: Goku Base_Up All Level_74
+  - first:
+      213: -323615524804440832
+    second: Goku Base_Up All Level_75
+  - first:
+      213: -6512164789254436418
+    second: Goku Base_Up All Level_76
+  - first:
+      213: -2200754664938094175
+    second: Goku Base_Up All Level_77
+  - first:
+      213: 7290562196647092881
+    second: Goku Base_Up All Level_78
+  - first:
+      213: 5281702427429274121
+    second: Goku Base_Up All Level_79
+  - first:
+      213: -2146400079593599446
+    second: Goku Base_Up All Level_80
+  - first:
+      213: -6711996197367313540
+    second: Goku Base_Up All Level_81
+  - first:
+      213: 4297293757500681634
+    second: Goku Base_Up All Level_82
+  - first:
+      213: -253460769486282950
+    second: Goku Base_Up All Level_83
+  - first:
+      213: -2063933248477233823
+    second: Goku Base_Up All Level_84
+  - first:
+      213: 2471362594810375560
+    second: Goku Base_Up All Level_85
+  - first:
+      213: -5859200805562764343
+    second: Goku Base_Up All Level_86
+  - first:
+      213: 4951124452620773790
+    second: Goku Base_Up All Level_87
+  - first:
+      213: -8672782115951958068
+    second: Goku Base_Up All Level_88
+  - first:
+      213: -4669676481099741627
+    second: Goku Base_Up All Level_89
+  - first:
+      213: 7816937619749492891
+    second: Goku Base_Up All Level_90
+  - first:
+      213: 3081233460157919935
+    second: Goku Base_Up All Level_91
+  - first:
+      213: 148878382625672679
+    second: Goku Base_Up All Level_92
+  - first:
+      213: 6588730618688314772
+    second: Goku Base_Up All Level_93
+  - first:
+      213: 8931993076034906710
+    second: Goku Base_Up All Level_94
+  - first:
+      213: 9079021654342978039
+    second: Goku Base_Up All Level_95
+  - first:
+      213: -5884103116321683696
+    second: Goku Base_Up All Level_96
+  - first:
+      213: 5116520456114051860
+    second: Goku Base_Up All Level_97
+  - first:
+      213: 7798758459703354658
+    second: Goku Base_Up All Level_98
+  - first:
+      213: 8569193526837135522
+    second: Goku Base_Up All Level_99
+  - first:
+      213: 9158617215143306692
+    second: Goku Base_Up All Level_100
+  - first:
+      213: -187916079871248987
+    second: Goku Base_Up All Level_101
+  - first:
+      213: 4675468735733577397
+    second: Goku Base_Up All Level_102
+  - first:
+      213: -2415675282385478647
+    second: Goku Base_Up All Level_103
+  - first:
+      213: 1951548876534983937
+    second: Goku Base_Up All Level_104
+  - first:
+      213: -6787943458381964887
+    second: Goku Base_Up All Level_105
+  - first:
+      213: 8281231543392027488
+    second: Goku Base_Up All Level_106
+  - first:
+      213: -989876238997076982
+    second: Goku Base_Up All Level_107
+  - first:
+      213: -4740683151262233707
+    second: Goku Base_Up All Level_108
+  - first:
+      213: -8791818360600164502
+    second: Goku Base_Up All Level_109
+  - first:
+      213: -8503760056558718987
+    second: Goku Base_Up All Level_110
+  - first:
+      213: 4775747738070323239
+    second: Goku Base_Up All Level_111
+  - first:
+      213: -7713062086402250948
+    second: Goku Base_Up All Level_112
+  - first:
+      213: 5677547216585306288
+    second: Goku Base_Up All Level_113
+  - first:
+      213: 508246616982941775
+    second: Goku Base_Up All Level_114
+  - first:
+      213: 8594596770896345974
+    second: Goku Base_Up All Level_115
+  - first:
+      213: -556147070450604643
+    second: Goku Base_Up All Level_116
+  - first:
+      213: 6056757548710383374
+    second: Goku Base_Up All Level_117
+  - first:
+      213: -7386944376869916969
+    second: Goku Base_Up All Level_118
+  - first:
+      213: -6045638245937712251
+    second: Goku Base_Up All Level_119
+  - first:
+      213: 1896676856428846899
+    second: Goku Base_Up All Level_120
+  - first:
+      213: -4589202603375753959
+    second: Goku Base_Up All Level_121
+  - first:
+      213: -4500914166556282234
+    second: Goku Base_Up All Level_122
+  - first:
+      213: 4847665987743105647
+    second: Goku Base_Up All Level_123
+  - first:
+      213: -448153344513823924
+    second: Goku Base_Up All Level_124
+  - first:
+      213: -3318151966085987692
+    second: Goku Base_Up All Level_125
+  - first:
+      213: -61983458491181847
+    second: Goku Base_Up All Level_126
+  - first:
+      213: -3826026558452146384
+    second: Goku Base_Up All Level_127
+  - first:
+      213: -7427828527073077812
+    second: Goku Base_Up All Level_128
+  - first:
+      213: 3341294533614010500
+    second: Goku Base_Up All Level_129
+  - first:
+      213: 1034077233165521483
+    second: Goku Base_Up All Level_130
+  - first:
+      213: -1419861529426652515
+    second: Goku Base_Up All Level_131
+  - first:
+      213: -6209536621251748818
+    second: Goku Base_Up All Level_132
+  - first:
+      213: 5896486087401842741
+    second: Goku Base_Up All Level_133
+  - first:
+      213: -8040092613505639047
+    second: Goku Base_Up All Level_134
+  - first:
+      213: -2002929587659292630
+    second: Goku Base_Up All Level_135
+  - first:
+      213: -2171735790453146877
+    second: Goku Base_Up All Level_136
+  - first:
+      213: 2974081098770494625
+    second: Goku Base_Up All Level_137
+  - first:
+      213: 4302882855397311624
+    second: Goku Base_Up All Level_138
+  - first:
+      213: 545112927677620977
+    second: Goku Base_Up All Level_139
+  - first:
+      213: 5469899739005961064
+    second: Goku Base_Up All Level_140
+  - first:
+      213: 4134964598484500432
+    second: Goku Base_Up All Level_141
+  - first:
+      213: 8135079717258349716
+    second: Goku Base_Up All Level_142
+  - first:
+      213: -22746203539648586
+    second: Goku Base_Up All Level_143
+  - first:
+      213: 6737794863546907306
+    second: Goku Base_Up All Level_144
+  - first:
+      213: 3726768059255998510
+    second: Goku Base_Up All Level_145
+  - first:
+      213: 4040178152821995642
+    second: Goku Base_Up All Level_146
+  - first:
+      213: 5437732339730829086
+    second: Goku Base_Up All Level_147
+  - first:
+      213: 6227044695673786064
+    second: Goku Base_Up All Level_148
+  - first:
+      213: -967157340059983609
+    second: Goku Base_Up All Level_149
+  - first:
+      213: 5242812666951388579
+    second: Goku Base_Up All Level_150
+  - first:
+      213: -8611673783591698479
+    second: Goku Base_Up All Level_151
+  - first:
+      213: -6164940124795182008
+    second: Goku Base_Up All Level_152
+  - first:
+      213: 94908359078702614
+    second: Goku Base_Up All Level_153
+  - first:
+      213: 1934016363855871492
+    second: Goku Base_Up All Level_154
+  - first:
+      213: -1087180363827594554
+    second: Goku Base_Up All Level_155
+  - first:
+      213: -6164960594318243684
+    second: Goku Base_Up All Level_156
+  - first:
+      213: -1324164441792736541
+    second: Goku Base_Up All Level_157
+  - first:
+      213: 2007999591555971013
+    second: Goku Base_Up All Level_158
+  - first:
+      213: 2774032156066009960
+    second: Goku Base_Up All Level_159
+  - first:
+      213: 899914955811463730
+    second: Goku Base_Up All Level_160
+  - first:
+      213: -2606869302593371891
+    second: Goku Base_Up All Level_161
+  - first:
+      213: -8662913227350526437
+    second: Goku Base_Up All Level_162
+  - first:
+      213: -1368906519160990900
+    second: Goku Base_Up All Level_163
+  - first:
+      213: 2489137304319397747
+    second: Goku Base_Up All Level_164
+  - first:
+      213: -142750939375821524
+    second: Goku Base_Up All Level_165
+  - first:
+      213: -7730016302774120140
+    second: Goku Base_Up All Level_166
+  - first:
+      213: 3631279586920807317
+    second: Goku Base_Up All Level_167
+  - first:
+      213: 1341678308632091398
+    second: Goku Base_Up All Level_168
+  - first:
+      213: -725112303022465575
+    second: Goku Base_Up All Level_169
+  - first:
+      213: -7266461926186388145
+    second: Goku Base_Up All Level_170
+  - first:
+      213: 165731694611810938
+    second: Goku Base_Up All Level_171
+  - first:
+      213: -1882925450895171797
+    second: Goku Base_Up All Level_172
+  - first:
+      213: -7132626595363511148
+    second: Goku Base_Up All Level_173
+  - first:
+      213: 5649128568632209736
+    second: Goku Base_Up All Level_174
+  - first:
+      213: 7889210267903058420
+    second: Goku Base_Up All Level_175
+  - first:
+      213: -5985634726965700887
+    second: Goku Base_Up All Level_176
+  - first:
+      213: -8751785511159376876
+    second: Goku Base_Up All Level_177
+  - first:
+      213: -3235925796203747759
+    second: Goku Base_Up All Level_178
+  - first:
+      213: 7217647559457561022
+    second: Goku Base_Up All Level_179
+  - first:
+      213: -5984729581987577027
+    second: Goku Base_Up All Level_180
+  - first:
+      213: 7773247338242095482
+    second: Goku Base_Up All Level_181
+  - first:
+      213: 8620090234014670566
+    second: Goku Base_Up All Level_182
+  - first:
+      213: 8030988182244492599
+    second: Goku Base_Up All Level_183
+  - first:
+      213: 2696083619148749746
+    second: Goku Base_Up All Level_184
+  - first:
+      213: 692850707633007235
+    second: Goku Base_Up All Level_185
+  - first:
+      213: -2424790991335037531
+    second: Goku Base_Up All Level_186
+  - first:
+      213: -42748024101410901
+    second: Goku Base_Up All Level_187
+  - first:
+      213: 5123787390784930443
+    second: Goku Base_Up All Level_188
+  - first:
+      213: -7492211562061774015
+    second: Goku Base_Up All Level_189
+  - first:
+      213: -6974449496758598478
+    second: Goku Base_Up All Level_190
+  - first:
+      213: -1842116227398717049
+    second: Goku Base_Up All Level_191
+  - first:
+      213: 7856470967303396770
+    second: Goku Base_Up All Level_192
+  - first:
+      213: -5231704071990571909
+    second: Goku Base_Up All Level_193
+  - first:
+      213: 668134932855918024
+    second: Goku Base_Up All Level_194
+  - first:
+      213: -6066630828979895003
+    second: Goku Base_Up All Level_195
+  - first:
+      213: 5986134204655548075
+    second: Goku Base_Up All Level_196
+  - first:
+      213: -4612450120100204878
+    second: Goku Base_Up All Level_197
+  - first:
+      213: -6136779159467108991
+    second: Goku Base_Up All Level_198
+  - first:
+      213: 161942094855388737
+    second: Goku Base_Up All Level_199
+  - first:
+      213: -1468345284910406294
+    second: Goku Base_Up All Level_200
+  - first:
+      213: 6733144274328143474
+    second: Goku Base_Up All Level_201
+  - first:
+      213: -2965024748482990482
+    second: Goku Base_Up All Level_202
+  - first:
+      213: 6753537919081957368
+    second: Goku Base_Up All Level_203
+  - first:
+      213: -48908324024586544
+    second: Goku Base_Up All Level_204
+  - first:
+      213: 1187400335346683738
+    second: Goku Base_Up All Level_205
+  - first:
+      213: -1066516036385809682
+    second: Goku Base_Up All Level_206
+  - first:
+      213: 4961536521447288699
+    second: Goku Base_Up All Level_207
+  - first:
+      213: -8222321222186099538
+    second: Goku Base_Up All Level_208
+  - first:
+      213: 5256513455144498869
+    second: Goku Base_Up All Level_209
+  - first:
+      213: -1335941608276161014
+    second: Goku Base_Up All Level_210
+  - first:
+      213: -2689648494864126392
+    second: Goku Base_Up All Level_211
+  - first:
+      213: 8889618792351321307
+    second: Goku Base_Up All Level_212
+  - first:
+      213: 1402217857852193283
+    second: Goku Base_Up All Level_213
+  - first:
+      213: 6345759042073268064
+    second: Goku Base_Up All Level_214
+  - first:
+      213: 5378043738770704705
+    second: Goku Base_Up All Level_215
+  - first:
+      213: 6004195218523998430
+    second: Goku Base_Up All Level_216
+  - first:
+      213: 5781077584832397963
+    second: Goku Base_Up All Level_217
+  - first:
+      213: -5368087435392105280
+    second: Goku Base_Up All Level_218
+  - first:
+      213: -3128903283648989139
+    second: Goku Base_Up All Level_219
+  - first:
+      213: 3023469129747925549
+    second: Goku Base_Up All Level_220
+  - first:
+      213: 4693024409716443798
+    second: Goku Base_Up All Level_221
+  - first:
+      213: -7855534865198144265
+    second: Goku Base_Up All Level_222
+  - first:
+      213: -4659998353883469344
+    second: Goku Base_Up All Level_223
+  - first:
+      213: 5963804578052869581
+    second: Goku Base_Up All Level_224
+  - first:
+      213: 5004098505137786638
+    second: Goku Base_Up All Level_225
+  - first:
+      213: -5500955580423756183
+    second: Goku Base_Up All Level_226
+  - first:
+      213: -6240649528285862736
+    second: Goku Base_Up All Level_227
+  - first:
+      213: -1169523859998766836
+    second: Goku Base_Up All Level_228
+  - first:
+      213: 493083885758556827
+    second: Goku Base_Up All Level_229
+  - first:
+      213: -5154941882135972738
+    second: Goku Base_Up All Level_230
+  - first:
+      213: -4424460681333454048
+    second: Goku Base_Up All Level_231
+  - first:
+      213: 6141142520723181412
+    second: Goku Base_Up All Level_232
+  - first:
+      213: 7420759278924494708
+    second: Goku Base_Up All Level_233
+  - first:
+      213: -1279370663323407587
+    second: Goku Base_Up All Level_234
+  - first:
+      213: -5759509704543609949
+    second: Goku Base_Up All Level_235
+  - first:
+      213: -9097885059107807096
+    second: Goku Base_Up All Level_236
+  - first:
+      213: 5919017444653794469
+    second: Goku Base_Up All Level_237
+  - first:
+      213: -4877280552300447966
+    second: Goku Base_Up All Level_238
+  - first:
+      213: -997905870814465218
+    second: Goku Base_Up All Level_239
+  - first:
+      213: -2279840356524721685
+    second: Goku Base_Up All Level_240
+  - first:
+      213: 8174309224785178300
+    second: Goku Base_Up All Level_241
+  - first:
+      213: -1230720497565547651
+    second: Goku Base_Up All Level_242
+  - first:
+      213: -2598439145258634767
+    second: Goku Base_Up All Level_243
+  - first:
+      213: 9214050368621711479
+    second: Goku Base_Up All Level_244
+  - first:
+      213: -3094740524676641729
+    second: Goku Base_Up All Level_245
+  - first:
+      213: 5289353313834175308
+    second: Goku Base_Up All Level_246
+  - first:
+      213: 4139781864914853497
+    second: Goku Base_Up All Level_247
+  - first:
+      213: -7086968631785459194
+    second: Goku Base_Up All Level_248
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2858
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d3a2e042211340800000000000000
+      internalID: 4832681537220892854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2858
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2b6598724eae50800000000000000
+      internalID: 6822463571183218594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2858
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e58020ad33738e0800000000000000
+      internalID: -1713844121761194373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2858
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44a2949dfe804a0800000000000000
+      internalID: -6626783135161236245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2858
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a47bd550af98e0800000000000000
+      internalID: -1684451444998756792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2858
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044f9da82f96cd90800000000000000
+      internalID: -7077794767305751552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2858
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe4f82bf85f2d70800000000000000
+      internalID: 9020526414393569229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2858
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77572e31ccc31b0800000000000000
+      internalID: -5675437044617873480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2858
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3589eee6819567c0800000000000000
+      internalID: -4078693878794189506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_9
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2892
+        width: 123
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7019d196745e60800000000000000
+      internalID: 7950109610999840526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2877
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05ce9b936cf9d810800000000000000
+      internalID: 1790739831599318282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2877
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb0c52ed8411db0800000000000000
+      internalID: -4822993606983762939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2802
+        width: 192
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcc5967fdf9b0f30800000000000000
+      internalID: 4542900431249329402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2786
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1148fc33938f1bd0800000000000000
+      internalID: -2657260586718969571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2786
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc2f98c7f195c9b0800000000000000
+      internalID: -5060478112872059723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2786
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2255516636c6ee0800000000000000
+      internalID: -1266528105102237000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2786
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a56b248f404a18c0800000000000000
+      internalID: -4027836206465456735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2786
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992f726cfcfb15770800000000000000
+      internalID: 8597864062730629785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2786
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7223621680d1eb70800000000000000
+      internalID: 8926645210677715578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2793
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30576806e9190580800000000000000
+      internalID: -8860522316100579270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2796
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0993c654463d40800000000000000
+      internalID: 5563709529102290820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b2beecbe597330800000000000000
+      internalID: 3709099933667866686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2786
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e295deabcda67e860800000000000000
+      internalID: 7559127995826133294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2786
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aed1831176fd8d0800000000000000
+      internalID: -2819421518057051535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11705a897991950800000000000000
+      internalID: 6420329425652879828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2786
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2f57a98a6d07000800000000000000
+      internalID: 31761217025864429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2818
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499129cbbb6733d20800000000000000
+      internalID: 3257077504213653908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2786
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2c5250dc6ed990800000000000000
+      internalID: -7359325099086041377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2786
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645a19adb769de30800000000000000
+      internalID: 4528764964581299299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163cbcf64fb47ee0800000000000000
+      internalID: -1264175283775457770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2708
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8b6730d1733820800000000000000
+      internalID: 2896784124426291805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2708
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311f5ff39e51ccd0800000000000000
+      internalID: -2539644725122625227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2718
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca5d0ffbf5e8d550800000000000000
+      internalID: 6185946958671993547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2710
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c14422595351f0800000000000000
+      internalID: -1057403278171454177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2708
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124fea1f66203e60800000000000000
+      internalID: 7939888401689297430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2708
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf865a3598d1800800000000000000
+      internalID: 584774518978444363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2726
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d63d20e88ec240800000000000000
+      internalID: 4813935548118258522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2708
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c382cc1d9d47f0800000000000000
+      internalID: -626672026286570716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2708
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158613a9413d34920800000000000000
+      internalID: 2973452264434395217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2726
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9b3efb307aa350800000000000000
+      internalID: 6028754454159531905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2629
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab68ee9ce418b6a0800000000000000
+      internalID: -6433369061187884121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2629
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f85de3e04f4c680800000000000000
+      internalID: -8735589035171016823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2629
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257fc1ae6d7de8490800000000000000
+      internalID: -7742013391352563886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2629
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb83e91108cd490800000000000000
+      internalID: -7720154848062555343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2646
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ac82bba36d6da0800000000000000
+      internalID: -5949989943600439292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2629
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641fb2a16d33c19a0800000000000000
+      internalID: -6261072387296726714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2629
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b68dabe467b550800000000000000
+      internalID: 6176516377353303783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2629
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e988a2aa1375e70800000000000000
+      internalID: 9103799778680544921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2629
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c792a36c30417e0800000000000000
+      internalID: -1795806201499780006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2646
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75328d5203e413540800000000000000
+      internalID: 4985852231176168279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2548
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afe14062f51ca5f0800000000000000
+      internalID: -744195707681771610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2548
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7b4f0fdd15cdd0800000000000000
+      internalID: -2466532377043961077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2548
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d048bbe0f58c20800000000000000
+      internalID: 3208235204770583025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2548
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad50cde6d93c1c0800000000000000
+      internalID: -4484567704467547514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2548
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a911ae7819fe4cd40800000000000000
+      internalID: 5603867244685300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2548
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6418640fb54aad70800000000000000
+      internalID: 9055126687496803435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2548
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb57af5b83c67fbd0800000000000000
+      internalID: -2596487669328742980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2548
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a205eedd4581c0800000000000000
+      internalID: -4502106632766707277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2548
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55413ea7c31308040800000000000000
+      internalID: 4647768951275852885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2552
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9813ddeb1b71bbd0800000000000000
+      internalID: -2616174548641179489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_60
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2555
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9c9426ce8c1d60800000000000000
+      internalID: 7862316031150955448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_61
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2555
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285d671ad8aec330800000000000000
+      internalID: 3733106795786098732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_62
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2378
+        width: 182
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c6a9fa88ece37a0800000000000000
+      internalID: -6395447334362518423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2464
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d5b97d6cd714d80800000000000000
+      internalID: -8268189147901239970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2462
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e423277aa0b193f0800000000000000
+      internalID: -895740604680297246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2462
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf1682db44acea10800000000000000
+      internalID: 1940106185051348958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2467
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a6dbfc8f155300800000000000000
+      internalID: 240132845515219653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2467
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb88c6517db2e00800000000000000
+      internalID: 1021146227544735601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2462
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81544b731a3b6150800000000000000
+      internalID: 5866846794927067531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2461
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0ec3a0d2525070800000000000000
+      internalID: 8093622536393068013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2467
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f935ef378b36c430800000000000000
+      internalID: 3802792387439573490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2467
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b5c4e583bbe0720800000000000000
+      internalID: 2814392667927763796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_72
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2465
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a351c79ac91b036f0800000000000000
+      internalID: -706869855080671942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2379
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afabc02f9ee2eb00800000000000000
+      internalID: 856509246371245988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2379
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd1aa4b76883b00800000000000000
+      internalID: 808543997204225119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2379
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dca301569428bf0800000000000000
+      internalID: -323615524804440832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2379
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9cea980a420a5a0800000000000000
+      internalID: -6512164789254436418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2379
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c496da495571e0800000000000000
+      internalID: -2200754664938094175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2379
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192aa08d0b74d2560800000000000000
+      internalID: 7290562196647092881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2398
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028d34cf506c4940800000000000000
+      internalID: 5281702427429274121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2366
+        width: 124
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e04fdef747632e0800000000000000
+      internalID: -2146400079593599446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2283
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b062a25033ad2a0800000000000000
+      internalID: -6711996197367313540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2283
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade45787ed03ab30800000000000000
+      internalID: 4297293757500681634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2283
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd546e5c68b7cf0800000000000000
+      internalID: -253460769486282950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_84
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2283
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d756c45af6b53e0800000000000000
+      internalID: -2063933248477233823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2283
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2cd6af2b0c4220800000000000000
+      internalID: 2471362594810375560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2285
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3bfb429efefaea0800000000000000
+      internalID: -5859200805562764343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_87
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2281
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99263d157de5b440800000000000000
+      internalID: 4951124452620773790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2299
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a25cad9614a780800000000000000
+      internalID: -8672782115951958068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2187
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546cd004bf9f13fb0800000000000000
+      internalID: -4669676481099741627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_90
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2187
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985e8869575b7c60800000000000000
+      internalID: 7816937619749492891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2187
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2b2c6c18db2ca20800000000000000
+      internalID: 3081233460157919935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_92
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2187
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4327a91ce01200800000000000000
+      internalID: 148878382625672679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_93
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2187
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d18afc69fdf6b50800000000000000
+      internalID: 6588730618688314772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_94
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2187
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2f410160d4fb70800000000000000
+      internalID: 8931993076034906710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_95
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2109
+        width: 125
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f94137871a2ffd70800000000000000
+      internalID: 9079021654342978039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_96
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2058
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01780e91467775ea0800000000000000
+      internalID: -5884103116321683696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_97
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2058
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b92b01f38810740800000000000000
+      internalID: 5116520456114051860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2058
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e0bfdf71ca3c60800000000000000
+      internalID: 7798758459703354658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_99
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2058
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a844b27c14ebe670800000000000000
+      internalID: 8569193526837135522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_100
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2058
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e46e25d1f91f70800000000000000
+      internalID: 9158617215143306692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2058
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b0bb2253646df0800000000000000
+      internalID: -187916079871248987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_102
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2058
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b638df1b0a92e040800000000000000
+      internalID: 4675468735733577397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_103
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2058
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd8b4212cc97ed0800000000000000
+      internalID: -2415675282385478647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_104
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2058
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2eab0d5b451b10800000000000000
+      internalID: 1951548876534983937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_105
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2058
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d4bf73616cc1a0800000000000000
+      internalID: -6787943458381964887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1943
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06344ae7638dce270800000000000000
+      internalID: 8281231543392027488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_107
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1943
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04caf22ec04342f0800000000000000
+      internalID: -989876238997076982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1943
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bc5588ac5b53eb0800000000000000
+      internalID: -4740683151262233707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_109
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1943
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a678ba638cf2df580800000000000000
+      internalID: -8791818360600164502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1943
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff69ad88439cf980800000000000000
+      internalID: -8503760056558718987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1943
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7209e88c34dd64240800000000000000
+      internalID: 4775747738070323239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_112
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1943
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e571e5e2b5f490800000000000000
+      internalID: -7713062086402250948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_113
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1907
+        width: 383
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b03310dc13bace40800000000000000
+      internalID: 5677547216585306288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1783
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ff87fa97ad0700800000000000000
+      internalID: 508246616982941775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_115
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1783
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bfefc1a34264770800000000000000
+      internalID: 8594596770896345974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_116
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1783
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95eaee9f2b2848f0800000000000000
+      internalID: -556147070450604643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1783
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4c8586eced0450800000000000000
+      internalID: 6056757548710383374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1838
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de69191a3d4c7990800000000000000
+      internalID: -7386944376869916969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_119
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1783
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583fd56eb04991ca0800000000000000
+      internalID: -6045638245937712251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_120
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1783
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f55294d89525a10800000000000000
+      internalID: 1896676856428846899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_121
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1783
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158d7ffb80ef40c0800000000000000
+      internalID: -4589202603375753959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_122
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1780
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b3e1996a8981c0800000000000000
+      internalID: -4500914166556282234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_123
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1783
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62cb25288e564340800000000000000
+      internalID: 4847665987743105647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_124
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1783
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ba95758e6d7c9f0800000000000000
+      internalID: -448153344513823924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_125
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1723
+        width: 100
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924eaefd5e83f1d0800000000000000
+      internalID: -3318151966085987692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_126
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1783
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4dea67f5ac32ff0800000000000000
+      internalID: -61983458491181847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_127
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1621
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fdf32cd1937eac0800000000000000
+      internalID: -3826026558452146384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1621
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5db471f4d0be890800000000000000
+      internalID: -7427828527073077812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_129
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1621
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4808406eca9ae5e20800000000000000
+      internalID: 3341294533614010500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_130
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1621
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425629c3c7c95e00800000000000000
+      internalID: 1034077233165521483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_131
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1626
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9218443673ab4ce0800000000000000
+      internalID: -1419861529426652515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_132
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1636
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c928ea75b43d9a0800000000000000
+      internalID: -6209536621251748818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_133
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1628
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ae960bd684d150800000000000000
+      internalID: 5896486087401842741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_134
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1565
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d11c2cd5adb6090800000000000000
+      internalID: -8040092613505639047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1621
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb9001ec17cd1e0800000000000000
+      internalID: -2171735790453146877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_137
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1621
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a43b61800f064920800000000000000
+      internalID: 2974081098770494625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_138
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1513
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884431ac829e6bb30800000000000000
+      internalID: 4302882855397311624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_139
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1513
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a2b0d151a09700800000000000000
+      internalID: 545112927677620977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_140
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1513
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c374f4dcf8eb40800000000000000
+      internalID: 5469899739005961064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_141
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1513
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dffb73f468526930800000000000000
+      internalID: 4134964598484500432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_142
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1513
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4baeb6eb95e070800000000000000
+      internalID: 8135079717258349716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_143
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1513
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfc70ac2703faff0800000000000000
+      internalID: -22746203539648586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_144
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1513
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3a23eab4718d50800000000000000
+      internalID: 6737794863546907306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_145
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1513
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c93cfdc328b330800000000000000
+      internalID: 3726768059255998510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_146
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1405
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78bf3ccf98911830800000000000000
+      internalID: 4040178152821995642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_147
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1395
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4f4da0c4b67b40800000000000000
+      internalID: 5437732339730829086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1395
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0decd1e8828ea6650800000000000000
+      internalID: 6227044695673786064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_149
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1395
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70120dff587f392f0800000000000000
+      internalID: -967157340059983609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_150
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1395
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4e8dc75632c840800000000000000
+      internalID: 5242812666951388579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_151
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1395
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff87702503d7880800000000000000
+      internalID: -8611673783591698479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_152
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1448
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e708ae9bb17aa0800000000000000
+      internalID: -6164940124795182008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_153
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1357
+        width: 393
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ee91556ae215100800000000000000
+      internalID: 94908359078702614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_154
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1424
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40efb65d2a107da10800000000000000
+      internalID: 1934016363855871492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1429
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab64f183f89e0f0800000000000000
+      internalID: -1087180363827594554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c984169b009a17aa0800000000000000
+      internalID: -6164960594318243684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_157
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1411
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e29db6b47f9f9de0800000000000000
+      internalID: -1324164441792736541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_158
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1405
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7b2db5df8dddb10800000000000000
+      internalID: 2007999591555971013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_159
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1413
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86353d96c875f7620800000000000000
+      internalID: 2774032156066009960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_160
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1236
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232243562e32d7c00800000000000000
+      internalID: 899914955811463730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_161
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1236
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014d0b5e2a82dbd0800000000000000
+      internalID: -2606869302593371891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_162
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1236
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b163dbb515627c780800000000000000
+      internalID: -8662913227350526437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_163
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1236
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4351ba06caa00de0800000000000000
+      internalID: -1368906519160990900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_164
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1236
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f8125b0313b8220800000000000000
+      internalID: 2489137304319397747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_165
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1236
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9627e6c8d40ef0800000000000000
+      internalID: -142750939375821524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_166
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1236
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4319b25c02779b490800000000000000
+      internalID: -7730016302774120140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_167
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1236
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bba828b85e46230800000000000000
+      internalID: 3631279586920807317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_168
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bdcdc20599e9210800000000000000
+      internalID: 1341678308632091398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_169
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1236
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9414c332efe5f0800000000000000
+      internalID: -725112303022465575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_170
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1236
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4572c3a067582b90800000000000000
+      internalID: -7266461926186388145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_171
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1062
+        width: 233
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4c51291ccc4200800000000000000
+      internalID: 165731694611810938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_172
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd9d057418ed5e0800000000000000
+      internalID: -1882925450895171797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_173
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1062
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494aadbd6e1d30d90800000000000000
+      internalID: -7132626595363511148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_174
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1062
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84175d7b08cb56e40800000000000000
+      internalID: 5649128568632209736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_175
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1062
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e9b890fa1c7d60800000000000000
+      internalID: 7889210267903058420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_176
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1062
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e697f7dde0ceeca0800000000000000
+      internalID: -5985634726965700887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_177
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1062
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145fe052796b8680800000000000000
+      internalID: -8751785511159376876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_178
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1062
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156a0cd02aea713d0800000000000000
+      internalID: -3235925796203747759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_179
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1062
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9de6fe63c3a2460800000000000000
+      internalID: 7217647559457561022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_180
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1064
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cbd45728f1fca0800000000000000
+      internalID: -5984729581987577027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_181
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1064
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79bb2b054f10eb60800000000000000
+      internalID: 7773247338242095482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_182
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1062
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee124a8566b0a770800000000000000
+      internalID: 8620090234014670566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_183
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1061
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7350b06a33dc37f60800000000000000
+      internalID: 8030988182244492599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_184
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1048
+        width: 164
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5c1464c96a6520800000000000000
+      internalID: 2696083619148749746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_185
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 910
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae7d63c008d9900800000000000000
+      internalID: 692850707633007235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_186
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 849
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a568e2c079695ed0800000000000000
+      internalID: -2424790991335037531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_187
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 849
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e59806e0286ff0800000000000000
+      internalID: -42748024101410901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 849
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828c542c795b1740800000000000000
+      internalID: 5123787390784930443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_189
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 803
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143cb3d9741560890800000000000000
+      internalID: -7492211562061774015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_190
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 800
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b44dc98227c53f90800000000000000
+      internalID: -6974449496758598478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_191
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 849
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781bae61d0d7f66e0800000000000000
+      internalID: -1842116227398717049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_192
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 849
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add94a28bac70d60800000000000000
+      internalID: 7856470967303396770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_193
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 849
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c89038dd04567b0800000000000000
+      internalID: -5231704071990571909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_194
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 849
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd08e67e21b54900800000000000000
+      internalID: 668134932855918024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_195
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 849
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5254837476ffecba0800000000000000
+      internalID: -6066630828979895003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_196
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 849
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba63f4ed755031350800000000000000
+      internalID: 5986134204655548075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_197
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 849
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be2837bd094dffb0800000000000000
+      internalID: -4612450120100204878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_198
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 890
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18551f65ed7c5daa0800000000000000
+      internalID: -6136779159467108991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_199
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb90e2a755f3200800000000000000
+      internalID: 161942094855388737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_200
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 654
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ab453eb36f9be0800000000000000
+      internalID: -1468345284910406294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 654
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276c8c43b0fe07d50800000000000000
+      internalID: 6733144274328143474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_202
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 654
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eed6c53bd1ad6d0800000000000000
+      internalID: -2965024748482990482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_203
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 654
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c204a4f269bd50800000000000000
+      internalID: 6753537919081957368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_204
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 654
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de64ff632e325ff0800000000000000
+      internalID: -48908324024586544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_205
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 654
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc48a505e7a7010800000000000000
+      internalID: 1187400335346683738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_206
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 674
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea57f7c059f231f0800000000000000
+      internalID: -1066516036385809682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_207
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 692
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f2efccd2bead440800000000000000
+      internalID: 4961536521447288699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_208
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 674
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac1172896274ed80800000000000000
+      internalID: -8222321222186099538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_209
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 654
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6f2f22323e2f840800000000000000
+      internalID: 5256513455144498869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_210
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 653
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e09067f28c57de0800000000000000
+      internalID: -1335941608276161014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_211
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 654
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea5fcb1f27caad0800000000000000
+      internalID: -2689648494864126392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_212
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 654
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcccb241354e5b70800000000000000
+      internalID: 8889618792351321307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_213
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 654
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3df266bda57310800000000000000
+      internalID: 1402217857852193283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_214
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 663
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f000d3a3aa01850800000000000000
+      internalID: 6345759042073268064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_215
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 653
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14901fb4946a2aa40800000000000000
+      internalID: 5378043738770704705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_216
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 653
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8c83a5dbf235350800000000000000
+      internalID: 6004195218523998430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_217
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 663
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8288e61f638a3050800000000000000
+      internalID: 5781077584832397963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_218
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 544
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4473a3be8b085b0800000000000000
+      internalID: -5368087435392105280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_219
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 544
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d287c898a07e394d0800000000000000
+      internalID: -3128903283648989139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_220
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 544
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0cfb872585f920800000000000000
+      internalID: 3023469129747925549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_221
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 549
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac26ff5d8f02140800000000000000
+      internalID: 4693024409716443798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_222
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 547
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f42b2719a88bf290800000000000000
+      internalID: -7855534865198144265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_223
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 545
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9eed6df2c545fb0800000000000000
+      internalID: -4659998353883469344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_224
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 544
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd80b88aa0b3c250800000000000000
+      internalID: 5963804578052869581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_225
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 544
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0dcbd311227540800000000000000
+      internalID: 5004098505137786638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_226
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 544
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a3af7b0ea8a3b0800000000000000
+      internalID: -5500955580423756183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_227
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4efc28152c469a0800000000000000
+      internalID: -6240649528285862736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_228
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 565
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c090e68ee3405cfe0800000000000000
+      internalID: -1169523859998766836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_229
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 547
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aab1f7e29c7d600800000000000000
+      internalID: 493083885758556827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_230
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 547
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7470859ba7f578b0800000000000000
+      internalID: -5154941882135972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_231
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 530
+        width: 144
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bcf6eb3782992c0800000000000000
+      internalID: -4424460681333454048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_232
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 439
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f80ced598b93550800000000000000
+      internalID: 6141142520723181412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_233
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 439
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4777aff4f35dbf660800000000000000
+      internalID: 7420759278924494708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_234
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 434
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6d8cf823ce3ee0800000000000000
+      internalID: -1279370663323407587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_235
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 410
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab534c507c1210b0800000000000000
+      internalID: -5759509704543609949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_236
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 458
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ab8ccdb1ddb180800000000000000
+      internalID: -9097885059107807096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_237
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 421
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40eef6103942250800000000000000
+      internalID: 5919017444653794469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_238
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 362
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227f53abd2b605cb0800000000000000
+      internalID: -4877280552300447966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_239
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 382
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33b3dac5e9b622f0800000000000000
+      internalID: -997905870814465218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_240
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 343
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97ebc56416c50e0800000000000000
+      internalID: -2279840356524721685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_241
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 322
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee48b3eeaf07170800000000000000
+      internalID: 8174309224785178300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_242
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 213
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7340d46a3a9beee0800000000000000
+      internalID: -1230720497565547651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_243
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 213
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b3605d5d70fbd0800000000000000
+      internalID: -2598439145258634767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_244
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770114cfdf1eedf70800000000000000
+      internalID: 9214050368621711479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_245
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c84a2b3e54d05d0800000000000000
+      internalID: -3094740524676641729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_246
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 213
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0f9290de876940800000000000000
+      internalID: 5289353313834175308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_247
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9ad13ca5737930800000000000000
+      internalID: 4139781864914853497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Base_Up All Level_248
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 213
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027718e39706ad90800000000000000
+      internalID: -7086968631785459194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31059f09ba278244db0fe06c6d28fac4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goku Base_Up All Level_0: 4832681537220892854
+      Goku Base_Up All Level_1: 6822463571183218594
+      Goku Base_Up All Level_10: 1790739831599318282
+      Goku Base_Up All Level_100: 9158617215143306692
+      Goku Base_Up All Level_101: -187916079871248987
+      Goku Base_Up All Level_102: 4675468735733577397
+      Goku Base_Up All Level_103: -2415675282385478647
+      Goku Base_Up All Level_104: 1951548876534983937
+      Goku Base_Up All Level_105: -6787943458381964887
+      Goku Base_Up All Level_106: 8281231543392027488
+      Goku Base_Up All Level_107: -989876238997076982
+      Goku Base_Up All Level_108: -4740683151262233707
+      Goku Base_Up All Level_109: -8791818360600164502
+      Goku Base_Up All Level_11: -4822993606983762939
+      Goku Base_Up All Level_110: -8503760056558718987
+      Goku Base_Up All Level_111: 4775747738070323239
+      Goku Base_Up All Level_112: -7713062086402250948
+      Goku Base_Up All Level_113: 5677547216585306288
+      Goku Base_Up All Level_114: 508246616982941775
+      Goku Base_Up All Level_115: 8594596770896345974
+      Goku Base_Up All Level_116: -556147070450604643
+      Goku Base_Up All Level_117: 6056757548710383374
+      Goku Base_Up All Level_118: -7386944376869916969
+      Goku Base_Up All Level_119: -6045638245937712251
+      Goku Base_Up All Level_12: 4542900431249329402
+      Goku Base_Up All Level_120: 1896676856428846899
+      Goku Base_Up All Level_121: -4589202603375753959
+      Goku Base_Up All Level_122: -4500914166556282234
+      Goku Base_Up All Level_123: 4847665987743105647
+      Goku Base_Up All Level_124: -448153344513823924
+      Goku Base_Up All Level_125: -3318151966085987692
+      Goku Base_Up All Level_126: -61983458491181847
+      Goku Base_Up All Level_127: -3826026558452146384
+      Goku Base_Up All Level_128: -7427828527073077812
+      Goku Base_Up All Level_129: 3341294533614010500
+      Goku Base_Up All Level_13: -2657260586718969571
+      Goku Base_Up All Level_130: 1034077233165521483
+      Goku Base_Up All Level_131: -1419861529426652515
+      Goku Base_Up All Level_132: -6209536621251748818
+      Goku Base_Up All Level_133: 5896486087401842741
+      Goku Base_Up All Level_134: -8040092613505639047
+      Goku Base_Up All Level_135: -2002929587659292630
+      Goku Base_Up All Level_136: -2171735790453146877
+      Goku Base_Up All Level_137: 2974081098770494625
+      Goku Base_Up All Level_138: 4302882855397311624
+      Goku Base_Up All Level_139: 545112927677620977
+      Goku Base_Up All Level_14: -5060478112872059723
+      Goku Base_Up All Level_140: 5469899739005961064
+      Goku Base_Up All Level_141: 4134964598484500432
+      Goku Base_Up All Level_142: 8135079717258349716
+      Goku Base_Up All Level_143: -22746203539648586
+      Goku Base_Up All Level_144: 6737794863546907306
+      Goku Base_Up All Level_145: 3726768059255998510
+      Goku Base_Up All Level_146: 4040178152821995642
+      Goku Base_Up All Level_147: 5437732339730829086
+      Goku Base_Up All Level_148: 6227044695673786064
+      Goku Base_Up All Level_149: -967157340059983609
+      Goku Base_Up All Level_15: -1266528105102237000
+      Goku Base_Up All Level_150: 5242812666951388579
+      Goku Base_Up All Level_151: -8611673783591698479
+      Goku Base_Up All Level_152: -6164940124795182008
+      Goku Base_Up All Level_153: 94908359078702614
+      Goku Base_Up All Level_154: 1934016363855871492
+      Goku Base_Up All Level_155: -1087180363827594554
+      Goku Base_Up All Level_156: -6164960594318243684
+      Goku Base_Up All Level_157: -1324164441792736541
+      Goku Base_Up All Level_158: 2007999591555971013
+      Goku Base_Up All Level_159: 2774032156066009960
+      Goku Base_Up All Level_16: -4027836206465456735
+      Goku Base_Up All Level_160: 899914955811463730
+      Goku Base_Up All Level_161: -2606869302593371891
+      Goku Base_Up All Level_162: -8662913227350526437
+      Goku Base_Up All Level_163: -1368906519160990900
+      Goku Base_Up All Level_164: 2489137304319397747
+      Goku Base_Up All Level_165: -142750939375821524
+      Goku Base_Up All Level_166: -7730016302774120140
+      Goku Base_Up All Level_167: 3631279586920807317
+      Goku Base_Up All Level_168: 1341678308632091398
+      Goku Base_Up All Level_169: -725112303022465575
+      Goku Base_Up All Level_17: 8597864062730629785
+      Goku Base_Up All Level_170: -7266461926186388145
+      Goku Base_Up All Level_171: 165731694611810938
+      Goku Base_Up All Level_172: -1882925450895171797
+      Goku Base_Up All Level_173: -7132626595363511148
+      Goku Base_Up All Level_174: 5649128568632209736
+      Goku Base_Up All Level_175: 7889210267903058420
+      Goku Base_Up All Level_176: -5985634726965700887
+      Goku Base_Up All Level_177: -8751785511159376876
+      Goku Base_Up All Level_178: -3235925796203747759
+      Goku Base_Up All Level_179: 7217647559457561022
+      Goku Base_Up All Level_18: 8926645210677715578
+      Goku Base_Up All Level_180: -5984729581987577027
+      Goku Base_Up All Level_181: 7773247338242095482
+      Goku Base_Up All Level_182: 8620090234014670566
+      Goku Base_Up All Level_183: 8030988182244492599
+      Goku Base_Up All Level_184: 2696083619148749746
+      Goku Base_Up All Level_185: 692850707633007235
+      Goku Base_Up All Level_186: -2424790991335037531
+      Goku Base_Up All Level_187: -42748024101410901
+      Goku Base_Up All Level_188: 5123787390784930443
+      Goku Base_Up All Level_189: -7492211562061774015
+      Goku Base_Up All Level_19: -8860522316100579270
+      Goku Base_Up All Level_190: -6974449496758598478
+      Goku Base_Up All Level_191: -1842116227398717049
+      Goku Base_Up All Level_192: 7856470967303396770
+      Goku Base_Up All Level_193: -5231704071990571909
+      Goku Base_Up All Level_194: 668134932855918024
+      Goku Base_Up All Level_195: -6066630828979895003
+      Goku Base_Up All Level_196: 5986134204655548075
+      Goku Base_Up All Level_197: -4612450120100204878
+      Goku Base_Up All Level_198: -6136779159467108991
+      Goku Base_Up All Level_199: 161942094855388737
+      Goku Base_Up All Level_2: -1713844121761194373
+      Goku Base_Up All Level_20: 5563709529102290820
+      Goku Base_Up All Level_200: -1468345284910406294
+      Goku Base_Up All Level_201: 6733144274328143474
+      Goku Base_Up All Level_202: -2965024748482990482
+      Goku Base_Up All Level_203: 6753537919081957368
+      Goku Base_Up All Level_204: -48908324024586544
+      Goku Base_Up All Level_205: 1187400335346683738
+      Goku Base_Up All Level_206: -1066516036385809682
+      Goku Base_Up All Level_207: 4961536521447288699
+      Goku Base_Up All Level_208: -8222321222186099538
+      Goku Base_Up All Level_209: 5256513455144498869
+      Goku Base_Up All Level_21: 3709099933667866686
+      Goku Base_Up All Level_210: -1335941608276161014
+      Goku Base_Up All Level_211: -2689648494864126392
+      Goku Base_Up All Level_212: 8889618792351321307
+      Goku Base_Up All Level_213: 1402217857852193283
+      Goku Base_Up All Level_214: 6345759042073268064
+      Goku Base_Up All Level_215: 5378043738770704705
+      Goku Base_Up All Level_216: 6004195218523998430
+      Goku Base_Up All Level_217: 5781077584832397963
+      Goku Base_Up All Level_218: -5368087435392105280
+      Goku Base_Up All Level_219: -3128903283648989139
+      Goku Base_Up All Level_22: 7559127995826133294
+      Goku Base_Up All Level_220: 3023469129747925549
+      Goku Base_Up All Level_221: 4693024409716443798
+      Goku Base_Up All Level_222: -7855534865198144265
+      Goku Base_Up All Level_223: -4659998353883469344
+      Goku Base_Up All Level_224: 5963804578052869581
+      Goku Base_Up All Level_225: 5004098505137786638
+      Goku Base_Up All Level_226: -5500955580423756183
+      Goku Base_Up All Level_227: -6240649528285862736
+      Goku Base_Up All Level_228: -1169523859998766836
+      Goku Base_Up All Level_229: 493083885758556827
+      Goku Base_Up All Level_23: -2819421518057051535
+      Goku Base_Up All Level_230: -5154941882135972738
+      Goku Base_Up All Level_231: -4424460681333454048
+      Goku Base_Up All Level_232: 6141142520723181412
+      Goku Base_Up All Level_233: 7420759278924494708
+      Goku Base_Up All Level_234: -1279370663323407587
+      Goku Base_Up All Level_235: -5759509704543609949
+      Goku Base_Up All Level_236: -9097885059107807096
+      Goku Base_Up All Level_237: 5919017444653794469
+      Goku Base_Up All Level_238: -4877280552300447966
+      Goku Base_Up All Level_239: -997905870814465218
+      Goku Base_Up All Level_24: 6420329425652879828
+      Goku Base_Up All Level_240: -2279840356524721685
+      Goku Base_Up All Level_241: 8174309224785178300
+      Goku Base_Up All Level_242: -1230720497565547651
+      Goku Base_Up All Level_243: -2598439145258634767
+      Goku Base_Up All Level_244: 9214050368621711479
+      Goku Base_Up All Level_245: -3094740524676641729
+      Goku Base_Up All Level_246: 5289353313834175308
+      Goku Base_Up All Level_247: 4139781864914853497
+      Goku Base_Up All Level_248: -7086968631785459194
+      Goku Base_Up All Level_25: 31761217025864429
+      Goku Base_Up All Level_26: 3257077504213653908
+      Goku Base_Up All Level_27: -7359325099086041377
+      Goku Base_Up All Level_28: 4528764964581299299
+      Goku Base_Up All Level_29: -1264175283775457770
+      Goku Base_Up All Level_3: -6626783135161236245
+      Goku Base_Up All Level_30: 2896784124426291805
+      Goku Base_Up All Level_31: -2539644725122625227
+      Goku Base_Up All Level_32: 6185946958671993547
+      Goku Base_Up All Level_33: -1057403278171454177
+      Goku Base_Up All Level_34: 7939888401689297430
+      Goku Base_Up All Level_35: 584774518978444363
+      Goku Base_Up All Level_36: 4813935548118258522
+      Goku Base_Up All Level_37: -626672026286570716
+      Goku Base_Up All Level_38: 2973452264434395217
+      Goku Base_Up All Level_39: 6028754454159531905
+      Goku Base_Up All Level_4: -1684451444998756792
+      Goku Base_Up All Level_40: -6433369061187884121
+      Goku Base_Up All Level_41: -8735589035171016823
+      Goku Base_Up All Level_42: -7742013391352563886
+      Goku Base_Up All Level_43: -7720154848062555343
+      Goku Base_Up All Level_44: -5949989943600439292
+      Goku Base_Up All Level_45: -6261072387296726714
+      Goku Base_Up All Level_46: 6176516377353303783
+      Goku Base_Up All Level_47: 9103799778680544921
+      Goku Base_Up All Level_48: -1795806201499780006
+      Goku Base_Up All Level_49: 4985852231176168279
+      Goku Base_Up All Level_5: -7077794767305751552
+      Goku Base_Up All Level_50: -744195707681771610
+      Goku Base_Up All Level_51: -2466532377043961077
+      Goku Base_Up All Level_52: 3208235204770583025
+      Goku Base_Up All Level_53: -4484567704467547514
+      Goku Base_Up All Level_54: 5603867244685300122
+      Goku Base_Up All Level_55: 9055126687496803435
+      Goku Base_Up All Level_56: -2596487669328742980
+      Goku Base_Up All Level_57: -4502106632766707277
+      Goku Base_Up All Level_58: 4647768951275852885
+      Goku Base_Up All Level_59: -2616174548641179489
+      Goku Base_Up All Level_6: 9020526414393569229
+      Goku Base_Up All Level_60: 7862316031150955448
+      Goku Base_Up All Level_61: 3733106795786098732
+      Goku Base_Up All Level_62: -6395447334362518423
+      Goku Base_Up All Level_63: -8268189147901239970
+      Goku Base_Up All Level_64: -895740604680297246
+      Goku Base_Up All Level_65: 1940106185051348958
+      Goku Base_Up All Level_66: 240132845515219653
+      Goku Base_Up All Level_67: 1021146227544735601
+      Goku Base_Up All Level_68: 5866846794927067531
+      Goku Base_Up All Level_69: 8093622536393068013
+      Goku Base_Up All Level_7: -5675437044617873480
+      Goku Base_Up All Level_70: 3802792387439573490
+      Goku Base_Up All Level_71: 2814392667927763796
+      Goku Base_Up All Level_72: -706869855080671942
+      Goku Base_Up All Level_73: 856509246371245988
+      Goku Base_Up All Level_74: 808543997204225119
+      Goku Base_Up All Level_75: -323615524804440832
+      Goku Base_Up All Level_76: -6512164789254436418
+      Goku Base_Up All Level_77: -2200754664938094175
+      Goku Base_Up All Level_78: 7290562196647092881
+      Goku Base_Up All Level_79: 5281702427429274121
+      Goku Base_Up All Level_8: -4078693878794189506
+      Goku Base_Up All Level_80: -2146400079593599446
+      Goku Base_Up All Level_81: -6711996197367313540
+      Goku Base_Up All Level_82: 4297293757500681634
+      Goku Base_Up All Level_83: -253460769486282950
+      Goku Base_Up All Level_84: -2063933248477233823
+      Goku Base_Up All Level_85: 2471362594810375560
+      Goku Base_Up All Level_86: -5859200805562764343
+      Goku Base_Up All Level_87: 4951124452620773790
+      Goku Base_Up All Level_88: -8672782115951958068
+      Goku Base_Up All Level_89: -4669676481099741627
+      Goku Base_Up All Level_9: 7950109610999840526
+      Goku Base_Up All Level_90: 7816937619749492891
+      Goku Base_Up All Level_91: 3081233460157919935
+      Goku Base_Up All Level_92: 148878382625672679
+      Goku Base_Up All Level_93: 6588730618688314772
+      Goku Base_Up All Level_94: 8931993076034906710
+      Goku Base_Up All Level_95: 9079021654342978039
+      Goku Base_Up All Level_96: -5884103116321683696
+      Goku Base_Up All Level_97: 5116520456114051860
+      Goku Base_Up All Level_98: 7798758459703354658
+      Goku Base_Up All Level_99: 8569193526837135522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

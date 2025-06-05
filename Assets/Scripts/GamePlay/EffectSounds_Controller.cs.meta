@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e3584918fa3b9194da51e01de67c14c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effectSound_Controller: {instanceID: 0}
+  - Fly: {fileID: 8300000, guid: 8a88ca391149b6240a4359cc5353197e, type: 3}
+  - Move: {fileID: 8300000, guid: de1a1d7e989a2b948a745773e2f8953d, type: 3}
+  - Attack: {fileID: 8300000, guid: 111e7e7af2739364f88f887169a4f950, type: 3}
+  - Up_Energy: {fileID: 8300000, guid: 538ac36fa08037a4b852c5b1b3873ad8, type: 3}
+  - Ki_Base: {fileID: 8300000, guid: 5c656861c94080c41affbabfedea6d37, type: 3}
+  - Ki_Final: {fileID: 8300000, guid: 15d52389ab38abf4498c836634ff0344, type: 3}
+  - Ki_Final_Boom: {fileID: 8300000, guid: 0503dd4ecda6d9e4e853733cfd3a030c, type: 3}
+  - Up_Level: {fileID: 8300000, guid: e9d9dd775cc8fd44a9bd4cedde45adbe, type: 3}
+  - FusionDance: {fileID: 8300000, guid: d41d5ebd85355f94b8197c322e0a9530, type: 3}
+  - Ki_Kamehameha: {fileID: 8300000, guid: 974a84572ecb6d144bb4faa37967c88b, type: 3}
+  - Ki_Kamehameha_Bigbang: {fileID: 8300000, guid: 614b825b949f71541a9eb233254009ff, type: 3}
+  - Ki_Kamehameha_Final: {fileID: 8300000, guid: f11466af4922e8146a763d8d92f977d3, type: 3}
+  - Ki_DragonFist: {fileID: 8300000, guid: bb856733bf22125409539acd297b46e0, type: 3}
+  - VICTORY: {fileID: 8300000, guid: e3831b2b7bb389c4b926125c639aba27, type: 3}
+  - GAMEOVER: {fileID: 8300000, guid: 68b5abc41700bd84f88ab813532e3618, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

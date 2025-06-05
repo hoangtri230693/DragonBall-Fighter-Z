@@ -1,0 +1,6327 @@
+fileFormatVersion: 2
+guid: 672ef1e5639026440bcef2d82b32b172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1707784811139654493
+    second: Vegeta Base_Up All Level_0
+  - first:
+      213: -398830369908451154
+    second: Vegeta Base_Up All Level_1
+  - first:
+      213: -7701886131014824418
+    second: Vegeta Base_Up All Level_2
+  - first:
+      213: 7473328686202548851
+    second: Vegeta Base_Up All Level_3
+  - first:
+      213: 7505472153677882849
+    second: Vegeta Base_Up All Level_4
+  - first:
+      213: -6873535734877940545
+    second: Vegeta Base_Up All Level_5
+  - first:
+      213: 1645476176524631261
+    second: Vegeta Base_Up All Level_6
+  - first:
+      213: -6863445841513923140
+    second: Vegeta Base_Up All Level_7
+  - first:
+      213: 1587243854806315363
+    second: Vegeta Base_Up All Level_8
+  - first:
+      213: 8055564572316236548
+    second: Vegeta Base_Up All Level_9
+  - first:
+      213: 2455538229721775328
+    second: Vegeta Base_Up All Level_10
+  - first:
+      213: -8142655378913387101
+    second: Vegeta Base_Up All Level_11
+  - first:
+      213: -6851031140891355757
+    second: Vegeta Base_Up All Level_12
+  - first:
+      213: 7179537316407211683
+    second: Vegeta Base_Up All Level_13
+  - first:
+      213: 7212919030509536052
+    second: Vegeta Base_Up All Level_14
+  - first:
+      213: 1997807099134585571
+    second: Vegeta Base_Up All Level_15
+  - first:
+      213: -6030603430073193562
+    second: Vegeta Base_Up All Level_16
+  - first:
+      213: -3583449032265926659
+    second: Vegeta Base_Up All Level_17
+  - first:
+      213: 7831721036873095027
+    second: Vegeta Base_Up All Level_18
+  - first:
+      213: -1124596054387690455
+    second: Vegeta Base_Up All Level_19
+  - first:
+      213: 2565358979584158766
+    second: Vegeta Base_Up All Level_20
+  - first:
+      213: 2984764035442371697
+    second: Vegeta Base_Up All Level_21
+  - first:
+      213: -5430106660812097520
+    second: Vegeta Base_Up All Level_22
+  - first:
+      213: -8711958244655517972
+    second: Vegeta Base_Up All Level_23
+  - first:
+      213: 7117600525080338009
+    second: Vegeta Base_Up All Level_24
+  - first:
+      213: -2687710427257916579
+    second: Vegeta Base_Up All Level_25
+  - first:
+      213: 4362063469228386227
+    second: Vegeta Base_Up All Level_26
+  - first:
+      213: 9005507748455481011
+    second: Vegeta Base_Up All Level_27
+  - first:
+      213: 7172049209694262105
+    second: Vegeta Base_Up All Level_28
+  - first:
+      213: 1593908674065707966
+    second: Vegeta Base_Up All Level_29
+  - first:
+      213: 5507904707627109413
+    second: Vegeta Base_Up All Level_30
+  - first:
+      213: 4335546518188606389
+    second: Vegeta Base_Up All Level_31
+  - first:
+      213: 1327148243684615457
+    second: Vegeta Base_Up All Level_32
+  - first:
+      213: 3044172691020714048
+    second: Vegeta Base_Up All Level_33
+  - first:
+      213: -5713019777974010361
+    second: Vegeta Base_Up All Level_34
+  - first:
+      213: -5147590102077665109
+    second: Vegeta Base_Up All Level_35
+  - first:
+      213: -5425042509772088486
+    second: Vegeta Base_Up All Level_36
+  - first:
+      213: 7717287797969492013
+    second: Vegeta Base_Up All Level_37
+  - first:
+      213: 3484776836453287717
+    second: Vegeta Base_Up All Level_38
+  - first:
+      213: -2310564114002649154
+    second: Vegeta Base_Up All Level_39
+  - first:
+      213: -5974993370245432675
+    second: Vegeta Base_Up All Level_40
+  - first:
+      213: -1590248210467607414
+    second: Vegeta Base_Up All Level_41
+  - first:
+      213: 1932834158534272364
+    second: Vegeta Base_Up All Level_42
+  - first:
+      213: 2264625825647587634
+    second: Vegeta Base_Up All Level_43
+  - first:
+      213: -6252908113621988319
+    second: Vegeta Base_Up All Level_44
+  - first:
+      213: -6414714384873670439
+    second: Vegeta Base_Up All Level_45
+  - first:
+      213: 5039686344027700231
+    second: Vegeta Base_Up All Level_46
+  - first:
+      213: -2599971686246143076
+    second: Vegeta Base_Up All Level_47
+  - first:
+      213: 4433718765188005372
+    second: Vegeta Base_Up All Level_48
+  - first:
+      213: 5970283039838292766
+    second: Vegeta Base_Up All Level_49
+  - first:
+      213: -8691808858130874897
+    second: Vegeta Base_Up All Level_50
+  - first:
+      213: -3316121392184882862
+    second: Vegeta Base_Up All Level_51
+  - first:
+      213: 2679706274729044592
+    second: Vegeta Base_Up All Level_52
+  - first:
+      213: -8200645083701497399
+    second: Vegeta Base_Up All Level_53
+  - first:
+      213: 3673808920414159591
+    second: Vegeta Base_Up All Level_54
+  - first:
+      213: 4724488647821066891
+    second: Vegeta Base_Up All Level_55
+  - first:
+      213: 4551619134187868029
+    second: Vegeta Base_Up All Level_56
+  - first:
+      213: -2943808144577528479
+    second: Vegeta Base_Up All Level_57
+  - first:
+      213: -2115333133000715476
+    second: Vegeta Base_Up All Level_58
+  - first:
+      213: 8471672308906212394
+    second: Vegeta Base_Up All Level_59
+  - first:
+      213: 6631066877135895726
+    second: Vegeta Base_Up All Level_60
+  - first:
+      213: 6520712406002339283
+    second: Vegeta Base_Up All Level_61
+  - first:
+      213: -6889988602931970527
+    second: Vegeta Base_Up All Level_62
+  - first:
+      213: -5672956433095800804
+    second: Vegeta Base_Up All Level_63
+  - first:
+      213: -4558101203372239294
+    second: Vegeta Base_Up All Level_64
+  - first:
+      213: -3966266958150745102
+    second: Vegeta Base_Up All Level_65
+  - first:
+      213: -8508186746094114497
+    second: Vegeta Base_Up All Level_66
+  - first:
+      213: -1526114768908344230
+    second: Vegeta Base_Up All Level_67
+  - first:
+      213: 4006996896203503679
+    second: Vegeta Base_Up All Level_68
+  - first:
+      213: 2734294488203437146
+    second: Vegeta Base_Up All Level_69
+  - first:
+      213: 5012175825133201416
+    second: Vegeta Base_Up All Level_70
+  - first:
+      213: -3224151272201326888
+    second: Vegeta Base_Up All Level_71
+  - first:
+      213: 6966581906089297591
+    second: Vegeta Base_Up All Level_72
+  - first:
+      213: -7157924515271288442
+    second: Vegeta Base_Up All Level_73
+  - first:
+      213: 8485077957361630430
+    second: Vegeta Base_Up All Level_74
+  - first:
+      213: 2560852033595990442
+    second: Vegeta Base_Up All Level_75
+  - first:
+      213: 1995621598261541265
+    second: Vegeta Base_Up All Level_76
+  - first:
+      213: 4861594428867972419
+    second: Vegeta Base_Up All Level_77
+  - first:
+      213: -6553587167689976399
+    second: Vegeta Base_Up All Level_78
+  - first:
+      213: 5806045460636297511
+    second: Vegeta Base_Up All Level_79
+  - first:
+      213: -3030598168042055316
+    second: Vegeta Base_Up All Level_80
+  - first:
+      213: -5567903663459312511
+    second: Vegeta Base_Up All Level_81
+  - first:
+      213: 1565186973361254119
+    second: Vegeta Base_Up All Level_82
+  - first:
+      213: -705102953749698957
+    second: Vegeta Base_Up All Level_83
+  - first:
+      213: 3257717248350592976
+    second: Vegeta Base_Up All Level_84
+  - first:
+      213: -4709281411494291112
+    second: Vegeta Base_Up All Level_85
+  - first:
+      213: -1447205450042668919
+    second: Vegeta Base_Up All Level_86
+  - first:
+      213: 4086111492911509945
+    second: Vegeta Base_Up All Level_87
+  - first:
+      213: -5564362617600615895
+    second: Vegeta Base_Up All Level_88
+  - first:
+      213: -7049703203691820591
+    second: Vegeta Base_Up All Level_89
+  - first:
+      213: 3880365293921834919
+    second: Vegeta Base_Up All Level_90
+  - first:
+      213: -6977298504397826549
+    second: Vegeta Base_Up All Level_91
+  - first:
+      213: -7561235321885453779
+    second: Vegeta Base_Up All Level_92
+  - first:
+      213: -8401265608429566742
+    second: Vegeta Base_Up All Level_93
+  - first:
+      213: 8108486723962614938
+    second: Vegeta Base_Up All Level_94
+  - first:
+      213: 1799806464002312665
+    second: Vegeta Base_Up All Level_95
+  - first:
+      213: 1022394356226391279
+    second: Vegeta Base_Up All Level_96
+  - first:
+      213: 4193048464279680271
+    second: Vegeta Base_Up All Level_97
+  - first:
+      213: -4383376256578072069
+    second: Vegeta Base_Up All Level_98
+  - first:
+      213: -7642171534991201639
+    second: Vegeta Base_Up All Level_99
+  - first:
+      213: 6768806589609635598
+    second: Vegeta Base_Up All Level_100
+  - first:
+      213: -5819346422227746570
+    second: Vegeta Base_Up All Level_101
+  - first:
+      213: -8692229792040685066
+    second: Vegeta Base_Up All Level_102
+  - first:
+      213: 3369717159290940068
+    second: Vegeta Base_Up All Level_103
+  - first:
+      213: 3870359934120120225
+    second: Vegeta Base_Up All Level_104
+  - first:
+      213: -831240440457132628
+    second: Vegeta Base_Up All Level_105
+  - first:
+      213: -6009963381736706508
+    second: Vegeta Base_Up All Level_106
+  - first:
+      213: -3881682785417811829
+    second: Vegeta Base_Up All Level_107
+  - first:
+      213: 5150466400353380086
+    second: Vegeta Base_Up All Level_108
+  - first:
+      213: -9020791808067743799
+    second: Vegeta Base_Up All Level_109
+  - first:
+      213: -3966363828728238897
+    second: Vegeta Base_Up All Level_110
+  - first:
+      213: 3657242677176017126
+    second: Vegeta Base_Up All Level_111
+  - first:
+      213: -2645342219552286664
+    second: Vegeta Base_Up All Level_112
+  - first:
+      213: 8428703552115538946
+    second: Vegeta Base_Up All Level_113
+  - first:
+      213: 5194962451208626260
+    second: Vegeta Base_Up All Level_114
+  - first:
+      213: 4871681022969888053
+    second: Vegeta Base_Up All Level_115
+  - first:
+      213: -218627646103160177
+    second: Vegeta Base_Up All Level_116
+  - first:
+      213: 8676543179597652361
+    second: Vegeta Base_Up All Level_117
+  - first:
+      213: -7955030852365851637
+    second: Vegeta Base_Up All Level_118
+  - first:
+      213: -8096950437768762705
+    second: Vegeta Base_Up All Level_119
+  - first:
+      213: 2059230514852079314
+    second: Vegeta Base_Up All Level_120
+  - first:
+      213: 5155398127182149966
+    second: Vegeta Base_Up All Level_121
+  - first:
+      213: 6572472631249534845
+    second: Vegeta Base_Up All Level_122
+  - first:
+      213: 105129730897479429
+    second: Vegeta Base_Up All Level_123
+  - first:
+      213: 6809829183559233645
+    second: Vegeta Base_Up All Level_124
+  - first:
+      213: 7709845991237541274
+    second: Vegeta Base_Up All Level_125
+  - first:
+      213: 6377036247701189717
+    second: Vegeta Base_Up All Level_126
+  - first:
+      213: 4644804357427794737
+    second: Vegeta Base_Up All Level_127
+  - first:
+      213: 3162706576096481662
+    second: Vegeta Base_Up All Level_128
+  - first:
+      213: 5257922787258986991
+    second: Vegeta Base_Up All Level_129
+  - first:
+      213: -6525881043166615707
+    second: Vegeta Base_Up All Level_130
+  - first:
+      213: -8140725658720105913
+    second: Vegeta Base_Up All Level_131
+  - first:
+      213: 8128236833105049428
+    second: Vegeta Base_Up All Level_132
+  - first:
+      213: 5657285860829175587
+    second: Vegeta Base_Up All Level_133
+  - first:
+      213: -1002113491556140842
+    second: Vegeta Base_Up All Level_134
+  - first:
+      213: -5667000776437554640
+    second: Vegeta Base_Up All Level_135
+  - first:
+      213: 2976326264464901265
+    second: Vegeta Base_Up All Level_136
+  - first:
+      213: 1394481114580631702
+    second: Vegeta Base_Up All Level_137
+  - first:
+      213: 2431232886332532369
+    second: Vegeta Base_Up All Level_138
+  - first:
+      213: 6064975229207085765
+    second: Vegeta Base_Up All Level_139
+  - first:
+      213: 7509467959986484673
+    second: Vegeta Base_Up All Level_140
+  - first:
+      213: -1578485075466273379
+    second: Vegeta Base_Up All Level_141
+  - first:
+      213: 7094521104635985010
+    second: Vegeta Base_Up All Level_142
+  - first:
+      213: 2161231106218312087
+    second: Vegeta Base_Up All Level_143
+  - first:
+      213: 4033931598771473542
+    second: Vegeta Base_Up All Level_144
+  - first:
+      213: -1615584602703564571
+    second: Vegeta Base_Up All Level_145
+  - first:
+      213: 4702009595068789309
+    second: Vegeta Base_Up All Level_146
+  - first:
+      213: -6490247127511381605
+    second: Vegeta Base_Up All Level_147
+  - first:
+      213: 6081565449814880944
+    second: Vegeta Base_Up All Level_148
+  - first:
+      213: 2690364475224188235
+    second: Vegeta Base_Up All Level_149
+  - first:
+      213: -8756285697639945683
+    second: Vegeta Base_Up All Level_150
+  - first:
+      213: -3729306311718738300
+    second: Vegeta Base_Up All Level_151
+  - first:
+      213: -2484447303216029071
+    second: Vegeta Base_Up All Level_152
+  - first:
+      213: 4310165093750353592
+    second: Vegeta Base_Up All Level_153
+  - first:
+      213: 4409168937641172807
+    second: Vegeta Base_Up All Level_154
+  - first:
+      213: -7831608957254781122
+    second: Vegeta Base_Up All Level_155
+  - first:
+      213: -3775730402700446456
+    second: Vegeta Base_Up All Level_156
+  - first:
+      213: -7287381951753926771
+    second: Vegeta Base_Up All Level_157
+  - first:
+      213: 4300716193244055110
+    second: Vegeta Base_Up All Level_158
+  - first:
+      213: 5732920288644042043
+    second: Vegeta Base_Up All Level_159
+  - first:
+      213: 2606536170031875370
+    second: Vegeta Base_Up All Level_160
+  - first:
+      213: -5926945446722920462
+    second: Vegeta Base_Up All Level_161
+  - first:
+      213: 9045260087110560796
+    second: Vegeta Base_Up All Level_162
+  - first:
+      213: 1319336892033051744
+    second: Vegeta Base_Up All Level_163
+  - first:
+      213: 1383839067592853462
+    second: Vegeta Base_Up All Level_164
+  - first:
+      213: 8942795164177896837
+    second: Vegeta Base_Up All Level_165
+  - first:
+      213: 8862464421831001085
+    second: Vegeta Base_Up All Level_166
+  - first:
+      213: -2386081407162426212
+    second: Vegeta Base_Up All Level_167
+  - first:
+      213: 668900409680951288
+    second: Vegeta Base_Up All Level_168
+  - first:
+      213: -1375615821044528230
+    second: Vegeta Base_Up All Level_169
+  - first:
+      213: 3221458999975101578
+    second: Vegeta Base_Up All Level_170
+  - first:
+      213: 5183802966231097002
+    second: Vegeta Base_Up All Level_171
+  - first:
+      213: -2530780808567485528
+    second: Vegeta Base_Up All Level_172
+  - first:
+      213: -8869872722546916146
+    second: Vegeta Base_Up All Level_173
+  - first:
+      213: -330651505799628222
+    second: Vegeta Base_Up All Level_174
+  - first:
+      213: 1239108729036922219
+    second: Vegeta Base_Up All Level_175
+  - first:
+      213: -4813460859613739079
+    second: Vegeta Base_Up All Level_176
+  - first:
+      213: -7046120983371330779
+    second: Vegeta Base_Up All Level_177
+  - first:
+      213: 2052540770356723466
+    second: Vegeta Base_Up All Level_178
+  - first:
+      213: 1738148205685798991
+    second: Vegeta Base_Up All Level_179
+  - first:
+      213: 2232194707058113179
+    second: Vegeta Base_Up All Level_180
+  - first:
+      213: 511508400022923915
+    second: Vegeta Base_Up All Level_181
+  - first:
+      213: -4341758615828818800
+    second: Vegeta Base_Up All Level_182
+  - first:
+      213: -6778246939774983994
+    second: Vegeta Base_Up All Level_183
+  - first:
+      213: -2558529184023298453
+    second: Vegeta Base_Up All Level_184
+  - first:
+      213: -4793876393957011358
+    second: Vegeta Base_Up All Level_185
+  - first:
+      213: 6425015023234681942
+    second: Vegeta Base_Up All Level_186
+  - first:
+      213: 5266957195832195883
+    second: Vegeta Base_Up All Level_187
+  - first:
+      213: -5872188941908203451
+    second: Vegeta Base_Up All Level_188
+  - first:
+      213: 1667652052236541626
+    second: Vegeta Base_Up All Level_189
+  - first:
+      213: 1434432227522436846
+    second: Vegeta Base_Up All Level_190
+  - first:
+      213: 2862756678513892234
+    second: Vegeta Base_Up All Level_191
+  - first:
+      213: -7318923706374714239
+    second: Vegeta Base_Up All Level_192
+  - first:
+      213: 566085664041077210
+    second: Vegeta Base_Up All Level_193
+  - first:
+      213: 3395644331451364736
+    second: Vegeta Base_Up All Level_194
+  - first:
+      213: -8061774356899538669
+    second: Vegeta Base_Up All Level_195
+  - first:
+      213: -9119491293612748050
+    second: Vegeta Base_Up All Level_196
+  - first:
+      213: 5666037081705963514
+    second: Vegeta Base_Up All Level_197
+  - first:
+      213: -3965287667921124488
+    second: Vegeta Base_Up All Level_198
+  - first:
+      213: 4994862213672844251
+    second: Vegeta Base_Up All Level_199
+  - first:
+      213: 1149908117918933475
+    second: Vegeta Base_Up All Level_200
+  - first:
+      213: 7155205335237784757
+    second: Vegeta Base_Up All Level_201
+  - first:
+      213: 6374928077779000247
+    second: Vegeta Base_Up All Level_202
+  - first:
+      213: -8921045689164343188
+    second: Vegeta Base_Up All Level_203
+  - first:
+      213: -8783268494531332156
+    second: Vegeta Base_Up All Level_204
+  - first:
+      213: 3428700550017202165
+    second: Vegeta Base_Up All Level_205
+  - first:
+      213: -5521818310564065917
+    second: Vegeta Base_Up All Level_206
+  - first:
+      213: -6321166652943544022
+    second: Vegeta Base_Up All Level_207
+  - first:
+      213: 3993109474219943513
+    second: Vegeta Base_Up All Level_208
+  - first:
+      213: -316639790263830760
+    second: Vegeta Base_Up All Level_209
+  - first:
+      213: -2913804130323420866
+    second: Vegeta Base_Up All Level_210
+  - first:
+      213: 4429338221235513170
+    second: Vegeta Base_Up All Level_211
+  - first:
+      213: 5374493571850375958
+    second: Vegeta Base_Up All Level_212
+  - first:
+      213: 1896070884115485965
+    second: Vegeta Base_Up All Level_213
+  - first:
+      213: -1636893389412015450
+    second: Vegeta Base_Up All Level_214
+  - first:
+      213: 6638078645960829909
+    second: Vegeta Base_Up All Level_215
+  - first:
+      213: 3171356912429619062
+    second: Vegeta Base_Up All Level_216
+  - first:
+      213: -1365419706809103382
+    second: Vegeta Base_Up All Level_217
+  - first:
+      213: -8279503640723102240
+    second: Vegeta Base_Up All Level_218
+  - first:
+      213: -5116054535808173142
+    second: Vegeta Base_Up All Level_219
+  - first:
+      213: 7198830493799298894
+    second: Vegeta Base_Up All Level_220
+  - first:
+      213: -4010832996138277080
+    second: Vegeta Base_Up All Level_221
+  - first:
+      213: 1782379288143224271
+    second: Vegeta Base_Up All Level_222
+  - first:
+      213: -1080347804053930777
+    second: Vegeta Base_Up All Level_223
+  - first:
+      213: -7558551044510906126
+    second: Vegeta Base_Up All Level_224
+  - first:
+      213: 40519350339484521
+    second: Vegeta Base_Up All Level_225
+  - first:
+      213: 8688727336597598735
+    second: Vegeta Base_Up All Level_226
+  - first:
+      213: 8473634680907864414
+    second: Vegeta Base_Up All Level_227
+  - first:
+      213: 129803189789823755
+    second: Vegeta Base_Up All Level_228
+  - first:
+      213: -4903395256884891793
+    second: Vegeta Base_Up All Level_229
+  - first:
+      213: 3180278812124503800
+    second: Vegeta Base_Up All Level_230
+  - first:
+      213: -6270856077135346371
+    second: Vegeta Base_Up All Level_231
+  - first:
+      213: 1391348101278650905
+    second: Vegeta Base_Up All Level_232
+  - first:
+      213: -2656842055502060554
+    second: Vegeta Base_Up All Level_233
+  - first:
+      213: -8998076567262064256
+    second: Vegeta Base_Up All Level_234
+  - first:
+      213: 2452980859282545614
+    second: Vegeta Base_Up All Level_235
+  - first:
+      213: 4092020320877928043
+    second: Vegeta Base_Up All Level_236
+  - first:
+      213: 7127009396741357848
+    second: Vegeta Base_Up All Level_237
+  - first:
+      213: 4278191657693641029
+    second: Vegeta Base_Up All Level_238
+  - first:
+      213: 2591436593525546953
+    second: Vegeta Base_Up All Level_239
+  - first:
+      213: 8963114237406622640
+    second: Vegeta Base_Up All Level_240
+  - first:
+      213: 8287708265607690760
+    second: Vegeta Base_Up All Level_241
+  - first:
+      213: 8669821986507470350
+    second: Vegeta Base_Up All Level_242
+  - first:
+      213: 4662510855852888712
+    second: Vegeta Base_Up All Level_243
+  - first:
+      213: -6284784025197721721
+    second: Vegeta Base_Up All Level_244
+  - first:
+      213: -4695438753557345565
+    second: Vegeta Base_Up All Level_245
+  - first:
+      213: -3300350264016132797
+    second: Vegeta Base_Up All Level_246
+  - first:
+      213: -6475536556578670268
+    second: Vegeta Base_Up All Level_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2862
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5369cccc3543b710800000000000000
+      internalID: 1707784811139654493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2863
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea818f344e1177af0800000000000000
+      internalID: -398830369908451154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2858
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e8a54ce576d1590800000000000000
+      internalID: -7701886131014824418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2858
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f6de38d896b760800000000000000
+      internalID: 7473328686202548851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2858
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e56e87782bc82860800000000000000
+      internalID: 7505472153677882849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2858
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb495abaaab4c90a0800000000000000
+      internalID: -6873535734877940545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2858
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc5e1c4dd7e5d610800000000000000
+      internalID: 1645476176524631261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2858
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd3e690f5420c0a0800000000000000
+      internalID: -6863445841513923140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2858
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f6a950e5070610800000000000000
+      internalID: 1587243854806315363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_9
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2892
+        width: 123
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b712e5c4d1bcf60800000000000000
+      internalID: 8055564572316236548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2876
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec35fa8203d31220800000000000000
+      internalID: 2455538229721775328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2876
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad9173131a7ffe80800000000000000
+      internalID: -8142655378913387101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2802
+        width: 192
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951806c97f3ce0a0800000000000000
+      internalID: -6851031140891355757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2790
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6fc148627d2a360800000000000000
+      internalID: 7179537316407211683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2790
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330d2f74af691460800000000000000
+      internalID: 7212919030509536052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2790
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaaba9c8f2a9bb10800000000000000
+      internalID: 1997807099134585571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2797
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab2c31c12efe4ca0800000000000000
+      internalID: -6030603430073193562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2812
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df772115718054ec0800000000000000
+      internalID: -3583449032265926659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2800
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37756cee9ccdfac60800000000000000
+      internalID: 7831721036873095027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2808
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247a6ec8d1a460f0800000000000000
+      internalID: -1124596054387690455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2790
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce87b666cf99320800000000000000
+      internalID: 2565358979584158766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2790
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c67e683130c6920800000000000000
+      internalID: 2984764035442371697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2808
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ffcd03c264a4b0800000000000000
+      internalID: -5430106660812097520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2790
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea5496228e81780800000000000000
+      internalID: -8711958244655517972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2790
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1c8687fbc6c260800000000000000
+      internalID: 7117600525080338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2715
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53bd244b9553bad0800000000000000
+      internalID: -2687710427257916579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2715
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e0133d99298c30800000000000000
+      internalID: 4362063469228386227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2721
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be77b0859df9fc70800000000000000
+      internalID: 9005507748455481011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2715
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953927fc1cc388360800000000000000
+      internalID: 7172049209694262105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2715
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b9128e73be1610800000000000000
+      internalID: 1593908674065707966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2715
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc0d24622007c40800000000000000
+      internalID: 5507904707627109413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2733
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b340db6694fa2c30800000000000000
+      internalID: 4335546518188606389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2715
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ea1dcb4afa6210800000000000000
+      internalID: 1327148243684615457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2639
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401c3b0fe21f3a20800000000000000
+      internalID: 3044172691020714048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2639
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ef313e7c647b0b0800000000000000
+      internalID: -5713019777974010361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2639
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0185443161098b0800000000000000
+      internalID: -5147590102077665109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2639
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b14a9949066b4b0800000000000000
+      internalID: -5425042509772088486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2657
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289d634d50591b60800000000000000
+      internalID: 7717287797969492013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2559
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ce42d11a6c5030800000000000000
+      internalID: 3484776836453287717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2559
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5b122e2a3fefd0800000000000000
+      internalID: -2310564114002649154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2559
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af437cf2f841da0800000000000000
+      internalID: -5974993370245432675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2559
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca0669dad4ee9e0800000000000000
+      internalID: -1590248210467607414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2559
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652d253d6ec2da10800000000000000
+      internalID: 1932834158534272364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2579
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23176ee90319d6f10800000000000000
+      internalID: 2264625825647587634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2559
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c476233353939a0800000000000000
+      internalID: -6252908113621988319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_45
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2559
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8340ae04b5af6a0800000000000000
+      internalID: -6414714384873670439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2559
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c782b470090f540800000000000000
+      internalID: 5039686344027700231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2559
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba93fc68b0bebd0800000000000000
+      internalID: -2599971686246143076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2559
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdb301e9bbb78d30800000000000000
+      internalID: 4433718765188005372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_49
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2566
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bc916fac4bad250800000000000000
+      internalID: 5970283039838292766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_50
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2559
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf38b05ed706780800000000000000
+      internalID: -8691808858130874897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_51
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2560
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590fb2d925caf1d0800000000000000
+      internalID: -3316121392184882862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2477
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a2c9fb8aa303520800000000000000
+      internalID: 2679706274729044592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2488
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c13be8ceb4713e80800000000000000
+      internalID: -8200645083701497399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2477
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e282f99fbdfbf230800000000000000
+      internalID: 3673808920414159591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2477
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828dbec461c09140800000000000000
+      internalID: 4724488647821066891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2484
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f832eac799a2f30800000000000000
+      internalID: 4551619134187868029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2482
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfd87e61e7527d0800000000000000
+      internalID: -2943808144577528479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2483
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23d0e919b3d4a2e0800000000000000
+      internalID: -2115333133000715476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_59
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2477
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3ed1841d619570800000000000000
+      internalID: 8471672308906212394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_60
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2477
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac3b8d1138460c50800000000000000
+      internalID: 6631066877135895726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2489
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd804292693e7a50800000000000000
+      internalID: 6520712406002339283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_62
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2483
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12effbfced7d160a0800000000000000
+      internalID: -6889988602931970527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_63
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2483
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ce034e2c9541b0800000000000000
+      internalID: -5672956433095800804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_64
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2482
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24697bafa1f5eb0c0800000000000000
+      internalID: -4558101203372239294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_65
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2482
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f34e0b373df4f8c0800000000000000
+      internalID: -3966266958150745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2383
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39af549b39dce980800000000000000
+      internalID: -8508186746094114497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2383
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54adb014b622dae0800000000000000
+      internalID: -1526114768908344230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2383
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387d467276bb9730800000000000000
+      internalID: 4006996896203503679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2377
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54aca0a95a22f520800000000000000
+      internalID: 2734294488203437146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_70
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2413
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8086dd87b53de8540800000000000000
+      internalID: 5012175825133201416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_71
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2383
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee05e00838143d0800000000000000
+      internalID: -3224151272201326888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_72
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2383
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6cd1345554ea060800000000000000
+      internalID: 6966581906089297591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2383
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d132e391f9ac90800000000000000
+      internalID: -7157924515271288442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_74
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2383
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7904427d01c570800000000000000
+      internalID: 8485077957361630430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_75
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa163d84b59f98320800000000000000
+      internalID: 2560852033595990442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_76
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2210
+        width: 281
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f976354fd1bb10800000000000000
+      internalID: 1995621598261541265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2292
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d81be006ad77340800000000000000
+      internalID: 4861594428867972419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d741813bfc05a0800000000000000
+      internalID: -6553587167689976399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_79
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2292
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729eefea597339050800000000000000
+      internalID: 5806045460636297511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2292
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6957e0e50721f5d0800000000000000
+      internalID: -3030598168042055316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_81
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2294
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c59eb3e15dab2b0800000000000000
+      internalID: -5567903663459312511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_82
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2292
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee24427249a8b510800000000000000
+      internalID: 1565186973361254119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2288
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376abaf6998f636f0800000000000000
+      internalID: -705102953749698957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2310
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9996c39cb53d20800000000000000
+      internalID: 3257717248350592976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2179
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595880d18545aeb0800000000000000
+      internalID: -4709281411494291112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_86
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2178
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98882319f4e7aebe0800000000000000
+      internalID: -1447205450042668919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2178
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1b1afe0c8c4b830800000000000000
+      internalID: 4086111492911509945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2179
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ad3783ea967c2b0800000000000000
+      internalID: -5564362617600615895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2160
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90404894c6a2e90800000000000000
+      internalID: -7049703203691820591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_90
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2178
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a717fefca3d9d530800000000000000
+      internalID: 3880365293921834919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_91
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2046
+        width: 236
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d0814af7ab2f90800000000000000
+      internalID: -6977298504397826549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1923
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2291ef2988111790800000000000000
+      internalID: -7561235321885453779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1928
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae489d1e075b86b80800000000000000
+      internalID: -8401265608429566742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1928
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9433cff6b1278070800000000000000
+      internalID: 8108486723962614938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1928
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94f4771723af810800000000000000
+      internalID: 1799806464002312665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_96
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1928
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecfc370046403e00800000000000000
+      internalID: 1022394356226391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1928
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05336fcc53b03a30800000000000000
+      internalID: 4193048464279680271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1928
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf158cdc48e1b23c0800000000000000
+      internalID: -4383376256578072069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_99
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1928
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a6f389a7d81f590800000000000000
+      internalID: -7642171534991201639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_100
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1928
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f61070bb1afed50800000000000000
+      internalID: 6768806589609635598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_101
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1928
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0cc2ed2478d3fa0800000000000000
+      internalID: -5819346422227746570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_102
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1928
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f85bbe0ffe5780800000000000000
+      internalID: -8692229792040685066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_103
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1877
+        width: 100
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa231127e3a3ce20800000000000000
+      internalID: 3369717159290940068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1817
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4222aad746b530800000000000000
+      internalID: 3870359934120120225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1817
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca50d973937d674f0800000000000000
+      internalID: -831240440457132628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1817
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6a7e7522589ca0800000000000000
+      internalID: -6009963381736706508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_107
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1817
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b882c6c921e712ac0800000000000000
+      internalID: -3881682785417811829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1803
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e5ac17e12a7740800000000000000
+      internalID: 5150466400353380086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_109
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1838
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf4e5f05a5bfc280800000000000000
+      internalID: -9020791808067743799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1843
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcce1bacc15a4f8c0800000000000000
+      internalID: -3966363828728238897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_111
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1865
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a97686d221c230800000000000000
+      internalID: 3657242677176017126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_112
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1864
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8381e36544bd94bd0800000000000000
+      internalID: -2645342219552286664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_113
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1792
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c7be43935c8f470800000000000000
+      internalID: 8428703552115538946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1794
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45068c543d6381840800000000000000
+      internalID: 5194962451208626260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_115
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1796
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db1214410bb9340800000000000000
+      internalID: 4871681022969888053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_116
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1843
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8af0ff605747fcf0800000000000000
+      internalID: -218627646103160177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_117
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1798
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a1423d06496870800000000000000
+      internalID: 8676543179597652361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1816
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e57b569d0a9190800000000000000
+      internalID: -7955030852365851637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_119
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1779
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa69d0f97ad1af80800000000000000
+      internalID: -8096950437768762705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1782
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d627643e3bd39c10800000000000000
+      internalID: 2059230514852079314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_121
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1613
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f76e3847ab8740800000000000000
+      internalID: 5155398127182149966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1618
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ffa91290d163b50800000000000000
+      internalID: 6572472631249534845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1618
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070a79eeee757100800000000000000
+      internalID: 105129730897479429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_125
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1613
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ddeac9410eefa60800000000000000
+      internalID: 7709845991237541274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_129
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1614
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f007dae4e7f840800000000000000
+      internalID: 5257922787258986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1618
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f87f955c4dc070800000000000000
+      internalID: 8128236833105049428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_133
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1619
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f109f4487b28e40800000000000000
+      internalID: 5657285860829175587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_134
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1618
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d87b2fb617c712f0800000000000000
+      internalID: -1002113491556140842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_135
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1649
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032a392a1d4ca51b0800000000000000
+      internalID: -5667000776437554640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_142
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1469
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf6553b5dc47260800000000000000
+      internalID: 7094521104635985010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_143
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1460
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791caab8d3c3efd10800000000000000
+      internalID: 2161231106218312087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_144
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1461
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c4ff89a676bf730800000000000000
+      internalID: 4033931598771473542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_145
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1469
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e073431d5a4499e0800000000000000
+      internalID: -1615584602703564571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_146
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1469
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32bd8c70d4e04140800000000000000
+      internalID: 4702009595068789309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_147
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1459
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b994f24df920ee5a0800000000000000
+      internalID: -6490247127511381605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_148
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1403
+        width: 505
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2318a1e8f066450800000000000000
+      internalID: 6081565449814880944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_149
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1269
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45611e6c38165520800000000000000
+      internalID: 2690364475224188235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1274
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a66500d8c6b7680800000000000000
+      internalID: -8756285697639945683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_151
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1301
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e16f0ba7de3cc0800000000000000
+      internalID: -3729306311718738300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_152
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1296
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a1a44758758dd0800000000000000
+      internalID: -2484447303216029071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_153
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1274
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be27480158c0db30800000000000000
+      internalID: 4310165093750353592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_154
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1274
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd9cab9c3803d30800000000000000
+      internalID: 4409168937641172807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_155
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1274
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37bf03a529805390800000000000000
+      internalID: -7831608957254781122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1274
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805b5631439e99bc0800000000000000
+      internalID: -3775730402700446456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_157
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1274
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874d1f99b40eda90800000000000000
+      internalID: -7287381951753926771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_158
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1274
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646051277963fab30800000000000000
+      internalID: 4300716193244055110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_159
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1263
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0242d0ac6f8f40800000000000000
+      internalID: 5732920288644042043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_160
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1269
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2505fc26d64c2420800000000000000
+      internalID: 2606536170031875370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_161
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1101
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff16fcb4824fbda0800000000000000
+      internalID: -5926945446722920462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_162
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1133
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c6e391028378d70800000000000000
+      internalID: 9045260087110560796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_163
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1133
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca2b4c9e93f4210800000000000000
+      internalID: 1319336892033051744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_164
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1105
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70e22dc42643310800000000000000
+      internalID: 1383839067592853462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_165
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1106
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58597e322d03b1c70800000000000000
+      internalID: 8942795164177896837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_166
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1178
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df346c1bf6ccdfa70800000000000000
+      internalID: 8862464421831001085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_167
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c5be82a9fe2eed0800000000000000
+      internalID: -2386081407162426212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_168
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1094
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7752de069684900800000000000000
+      internalID: 668900409680951288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_169
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1101
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bcb37f2b4d8ece0800000000000000
+      internalID: -1375615821044528230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_170
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1104
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84400874ebe4bc20800000000000000
+      internalID: 3221458999975101578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_171
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1101
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae12d3355190f740800000000000000
+      internalID: 5183802966231097002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_172
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1101
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab85f4634cd0ecd0800000000000000
+      internalID: -2530780808567485528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_173
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1101
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec40aa1e0c1e7e480800000000000000
+      internalID: -8869872722546916146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_174
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1134
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a7d54153a496bf0800000000000000
+      internalID: -330651505799628222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_175
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1146
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd450f2d2323110800000000000000
+      internalID: 1239108729036922219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_176
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1134
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70a7ad9d6233db0800000000000000
+      internalID: -4813460859613739079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_177
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc9bd2c46273e90800000000000000
+      internalID: -7046120983371330779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_178
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1124
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f7e10b4f61c7c10800000000000000
+      internalID: 2052540770356723466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_179
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1117
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4872ee75942f1810800000000000000
+      internalID: 1738148205685798991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_180
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 956
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab4b762495afe10800000000000000
+      internalID: 2232194707058113179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_181
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 961
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aaef20e2e391700800000000000000
+      internalID: 511508400022923915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_182
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 961
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941803ea89feb3c0800000000000000
+      internalID: -4341758615828818800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 961
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c065da2254dee1a0800000000000000
+      internalID: -6778246939774983994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_184
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 961
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e32d643474e7cd0800000000000000
+      internalID: -2558529184023298453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_185
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 961
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260df0991dab87db0800000000000000
+      internalID: -4793876393957011358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_186
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 961
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c83785f1d3a2950800000000000000
+      internalID: 6425015023234681942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_187
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1011
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bf3c00aadf71940800000000000000
+      internalID: 5266957195832195883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_188
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 961
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a59ff44bc18ea0800000000000000
+      internalID: -5872188941908203451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_189
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 961
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9286b4b0b42710800000000000000
+      internalID: 1667652052236541626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_190
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 803
+        width: 237
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed8dfc28028e310800000000000000
+      internalID: 1434432227522436846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_191
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 803
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9235180e8ab720800000000000000
+      internalID: 2862756678513892234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_192
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 805
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c89579aa5fd6a90800000000000000
+      internalID: -7318923706374714239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_193
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 812
+        width: 109
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad90c9589e32bd700800000000000000
+      internalID: 566085664041077210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_194
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 803
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853abf4780cf1f20800000000000000
+      internalID: 3395644331451364736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_195
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 803
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31956ad7fe2de1090800000000000000
+      internalID: -8061774356899538669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_196
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 803
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d1ff4cfe017180800000000000000
+      internalID: -9119491293612748050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_197
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 803
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff5643b4bec1ae40800000000000000
+      internalID: 5666037081705963514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_198
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 803
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873035100e778f8c0800000000000000
+      internalID: -3965287667921124488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_199
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 803
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbbdfb28b0515540800000000000000
+      internalID: 4994862213672844251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_200
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 803
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e165ec375b45ff00800000000000000
+      internalID: 1149908117918933475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_201
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 803
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f3dda7556c4360800000000000000
+      internalID: 7155205335237784757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_202
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 803
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb5ea89f4b487850800000000000000
+      internalID: 6374928077779000247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_203
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 803
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6854502634123480800000000000000
+      internalID: -8921045689164343188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_204
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 759
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7749807df8b1680800000000000000
+      internalID: -8783268494531332156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_205
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 601
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f736f4fbf0359f20800000000000000
+      internalID: 3428700550017202165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_206
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 606
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc49c908f8e53b0800000000000000
+      internalID: -5521818310564065917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_207
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 606
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21514d8b64b648a0800000000000000
+      internalID: -6321166652943544022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_208
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 606
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956602019ef5a6730800000000000000
+      internalID: 3993109474219943513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_209
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 606
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817f193d9c11b9bf0800000000000000
+      internalID: -316639790263830760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_210
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 606
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a10bd4961097d0800000000000000
+      internalID: -2913804130323420866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_211
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 606
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257adc205ab287d30800000000000000
+      internalID: 4429338221235513170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 606
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61313c5ad69069a40800000000000000
+      internalID: 5374493571850375958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_213
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 606
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d051aac5c62305a10800000000000000
+      internalID: 1896070884115485965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_214
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 606
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a269ec82269849e0800000000000000
+      internalID: -1636893389412015450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_215
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 636
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe993cb513f1c50800000000000000
+      internalID: 6638078645960829909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_216
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 606
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677d85d2f4ce20c20800000000000000
+      internalID: 3171356912429619062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_217
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 606
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb435ec20e0d0de0800000000000000
+      internalID: -1365419706809103382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_218
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 625
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e565223e4b491d80800000000000000
+      internalID: -8279503640723102240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_219
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 468
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb0a5718f1009b0800000000000000
+      internalID: -5116054535808173142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_220
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 468
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47382d613267e360800000000000000
+      internalID: 7198830493799298894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_221
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 468
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82723cbe3a8a658c0800000000000000
+      internalID: -4010832996138277080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_222
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 468
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5ac4e4884cb810800000000000000
+      internalID: 1782379288143224271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_223
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 468
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecfd796565d101f0800000000000000
+      internalID: -1080347804053930777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_224
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 468
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f805473fd1aa1790800000000000000
+      internalID: -7558551044510906126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_225
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 451
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb38b6224ff8000800000000000000
+      internalID: 40519350339484521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 383
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0230205a7f849870800000000000000
+      internalID: 8688727336597598735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_227
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 381
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5991f7d8d5689570800000000000000
+      internalID: 8473634680907864414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_228
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 390
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03922a30572dc100800000000000000
+      internalID: 129803189789823755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_229
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 388
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6a004ef3a3fbb0800000000000000
+      internalID: -4903395256884891793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed163dabe922c20800000000000000
+      internalID: 3180278812124503800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 390
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358fbc4f9179f8a0800000000000000
+      internalID: -6270856077135346371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_232
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 383
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d0a7f9bf0f4310800000000000000
+      internalID: 1391348101278650905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_233
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 381
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32b712a30012bd0800000000000000
+      internalID: -2656842055502060554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_234
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 324
+        width: 147
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08114923909602380800000000000000
+      internalID: -8998076567262064256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_235
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 323
+        width: 241
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb5e56581dba0220800000000000000
+      internalID: 2452980859282545614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_236
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6edb972dc6c9c830800000000000000
+      internalID: 4092020320877928043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_237
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811c3ab294938e260800000000000000
+      internalID: 7127009396741357848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_238
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 324
+        width: 133
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5497ed555a03f5b30800000000000000
+      internalID: 4278191657693641029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_239
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 324
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd90f0ad1a6f320800000000000000
+      internalID: 2591436593525546953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_240
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b33ed909e0636c70800000000000000
+      internalID: 8963114237406622640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_241
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 209
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a7d95e1cad30370800000000000000
+      internalID: 8287708265607690760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_242
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 209
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0636ab7925615870800000000000000
+      internalID: 8669821986507470350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_243
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 209
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882938c9be094b040800000000000000
+      internalID: 4662510855852888712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_244
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7874a003a36f7c8a0800000000000000
+      internalID: -6284784025197721721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_245
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 209
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8c95c45376deb0800000000000000
+      internalID: -4695438753557345565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_246
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 209
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345a3febbecc232d0800000000000000
+      internalID: -3300350264016132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta Base_Up All Level_247
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 209
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44972178fc54226a0800000000000000
+      internalID: -6475536556578670268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f29bac87654b944ba65a5364b700317
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vegeta Base_Up All Level_0: 1707784811139654493
+      Vegeta Base_Up All Level_1: -398830369908451154
+      Vegeta Base_Up All Level_10: 2455538229721775328
+      Vegeta Base_Up All Level_100: 6768806589609635598
+      Vegeta Base_Up All Level_101: -5819346422227746570
+      Vegeta Base_Up All Level_102: -8692229792040685066
+      Vegeta Base_Up All Level_103: 3369717159290940068
+      Vegeta Base_Up All Level_104: 3870359934120120225
+      Vegeta Base_Up All Level_105: -831240440457132628
+      Vegeta Base_Up All Level_106: -6009963381736706508
+      Vegeta Base_Up All Level_107: -3881682785417811829
+      Vegeta Base_Up All Level_108: 5150466400353380086
+      Vegeta Base_Up All Level_109: -9020791808067743799
+      Vegeta Base_Up All Level_11: -8142655378913387101
+      Vegeta Base_Up All Level_110: -3966363828728238897
+      Vegeta Base_Up All Level_111: 3657242677176017126
+      Vegeta Base_Up All Level_112: -2645342219552286664
+      Vegeta Base_Up All Level_113: 8428703552115538946
+      Vegeta Base_Up All Level_114: 5194962451208626260
+      Vegeta Base_Up All Level_115: 4871681022969888053
+      Vegeta Base_Up All Level_116: -218627646103160177
+      Vegeta Base_Up All Level_117: 8676543179597652361
+      Vegeta Base_Up All Level_118: -7955030852365851637
+      Vegeta Base_Up All Level_119: -8096950437768762705
+      Vegeta Base_Up All Level_12: -6851031140891355757
+      Vegeta Base_Up All Level_120: 2059230514852079314
+      Vegeta Base_Up All Level_121: 5155398127182149966
+      Vegeta Base_Up All Level_122: 6572472631249534845
+      Vegeta Base_Up All Level_123: 105129730897479429
+      Vegeta Base_Up All Level_124: 6809829183559233645
+      Vegeta Base_Up All Level_125: 7709845991237541274
+      Vegeta Base_Up All Level_126: 6377036247701189717
+      Vegeta Base_Up All Level_127: 4644804357427794737
+      Vegeta Base_Up All Level_128: 3162706576096481662
+      Vegeta Base_Up All Level_129: 5257922787258986991
+      Vegeta Base_Up All Level_13: 7179537316407211683
+      Vegeta Base_Up All Level_130: -6525881043166615707
+      Vegeta Base_Up All Level_131: -8140725658720105913
+      Vegeta Base_Up All Level_132: 8128236833105049428
+      Vegeta Base_Up All Level_133: 5657285860829175587
+      Vegeta Base_Up All Level_134: -1002113491556140842
+      Vegeta Base_Up All Level_135: -5667000776437554640
+      Vegeta Base_Up All Level_136: 2976326264464901265
+      Vegeta Base_Up All Level_137: 1394481114580631702
+      Vegeta Base_Up All Level_138: 2431232886332532369
+      Vegeta Base_Up All Level_139: 6064975229207085765
+      Vegeta Base_Up All Level_14: 7212919030509536052
+      Vegeta Base_Up All Level_140: 7509467959986484673
+      Vegeta Base_Up All Level_141: -1578485075466273379
+      Vegeta Base_Up All Level_142: 7094521104635985010
+      Vegeta Base_Up All Level_143: 2161231106218312087
+      Vegeta Base_Up All Level_144: 4033931598771473542
+      Vegeta Base_Up All Level_145: -1615584602703564571
+      Vegeta Base_Up All Level_146: 4702009595068789309
+      Vegeta Base_Up All Level_147: -6490247127511381605
+      Vegeta Base_Up All Level_148: 6081565449814880944
+      Vegeta Base_Up All Level_149: 2690364475224188235
+      Vegeta Base_Up All Level_15: 1997807099134585571
+      Vegeta Base_Up All Level_150: -8756285697639945683
+      Vegeta Base_Up All Level_151: -3729306311718738300
+      Vegeta Base_Up All Level_152: -2484447303216029071
+      Vegeta Base_Up All Level_153: 4310165093750353592
+      Vegeta Base_Up All Level_154: 4409168937641172807
+      Vegeta Base_Up All Level_155: -7831608957254781122
+      Vegeta Base_Up All Level_156: -3775730402700446456
+      Vegeta Base_Up All Level_157: -7287381951753926771
+      Vegeta Base_Up All Level_158: 4300716193244055110
+      Vegeta Base_Up All Level_159: 5732920288644042043
+      Vegeta Base_Up All Level_16: -6030603430073193562
+      Vegeta Base_Up All Level_160: 2606536170031875370
+      Vegeta Base_Up All Level_161: -5926945446722920462
+      Vegeta Base_Up All Level_162: 9045260087110560796
+      Vegeta Base_Up All Level_163: 1319336892033051744
+      Vegeta Base_Up All Level_164: 1383839067592853462
+      Vegeta Base_Up All Level_165: 8942795164177896837
+      Vegeta Base_Up All Level_166: 8862464421831001085
+      Vegeta Base_Up All Level_167: -2386081407162426212
+      Vegeta Base_Up All Level_168: 668900409680951288
+      Vegeta Base_Up All Level_169: -1375615821044528230
+      Vegeta Base_Up All Level_17: -3583449032265926659
+      Vegeta Base_Up All Level_170: 3221458999975101578
+      Vegeta Base_Up All Level_171: 5183802966231097002
+      Vegeta Base_Up All Level_172: -2530780808567485528
+      Vegeta Base_Up All Level_173: -8869872722546916146
+      Vegeta Base_Up All Level_174: -330651505799628222
+      Vegeta Base_Up All Level_175: 1239108729036922219
+      Vegeta Base_Up All Level_176: -4813460859613739079
+      Vegeta Base_Up All Level_177: -7046120983371330779
+      Vegeta Base_Up All Level_178: 2052540770356723466
+      Vegeta Base_Up All Level_179: 1738148205685798991
+      Vegeta Base_Up All Level_18: 7831721036873095027
+      Vegeta Base_Up All Level_180: 2232194707058113179
+      Vegeta Base_Up All Level_181: 511508400022923915
+      Vegeta Base_Up All Level_182: -4341758615828818800
+      Vegeta Base_Up All Level_183: -6778246939774983994
+      Vegeta Base_Up All Level_184: -2558529184023298453
+      Vegeta Base_Up All Level_185: -4793876393957011358
+      Vegeta Base_Up All Level_186: 6425015023234681942
+      Vegeta Base_Up All Level_187: 5266957195832195883
+      Vegeta Base_Up All Level_188: -5872188941908203451
+      Vegeta Base_Up All Level_189: 1667652052236541626
+      Vegeta Base_Up All Level_19: -1124596054387690455
+      Vegeta Base_Up All Level_190: 1434432227522436846
+      Vegeta Base_Up All Level_191: 2862756678513892234
+      Vegeta Base_Up All Level_192: -7318923706374714239
+      Vegeta Base_Up All Level_193: 566085664041077210
+      Vegeta Base_Up All Level_194: 3395644331451364736
+      Vegeta Base_Up All Level_195: -8061774356899538669
+      Vegeta Base_Up All Level_196: -9119491293612748050
+      Vegeta Base_Up All Level_197: 5666037081705963514
+      Vegeta Base_Up All Level_198: -3965287667921124488
+      Vegeta Base_Up All Level_199: 4994862213672844251
+      Vegeta Base_Up All Level_2: -7701886131014824418
+      Vegeta Base_Up All Level_20: 2565358979584158766
+      Vegeta Base_Up All Level_200: 1149908117918933475
+      Vegeta Base_Up All Level_201: 7155205335237784757
+      Vegeta Base_Up All Level_202: 6374928077779000247
+      Vegeta Base_Up All Level_203: -8921045689164343188
+      Vegeta Base_Up All Level_204: -8783268494531332156
+      Vegeta Base_Up All Level_205: 3428700550017202165
+      Vegeta Base_Up All Level_206: -5521818310564065917
+      Vegeta Base_Up All Level_207: -6321166652943544022
+      Vegeta Base_Up All Level_208: 3993109474219943513
+      Vegeta Base_Up All Level_209: -316639790263830760
+      Vegeta Base_Up All Level_21: 2984764035442371697
+      Vegeta Base_Up All Level_210: -2913804130323420866
+      Vegeta Base_Up All Level_211: 4429338221235513170
+      Vegeta Base_Up All Level_212: 5374493571850375958
+      Vegeta Base_Up All Level_213: 1896070884115485965
+      Vegeta Base_Up All Level_214: -1636893389412015450
+      Vegeta Base_Up All Level_215: 6638078645960829909
+      Vegeta Base_Up All Level_216: 3171356912429619062
+      Vegeta Base_Up All Level_217: -1365419706809103382
+      Vegeta Base_Up All Level_218: -8279503640723102240
+      Vegeta Base_Up All Level_219: -5116054535808173142
+      Vegeta Base_Up All Level_22: -5430106660812097520
+      Vegeta Base_Up All Level_220: 7198830493799298894
+      Vegeta Base_Up All Level_221: -4010832996138277080
+      Vegeta Base_Up All Level_222: 1782379288143224271
+      Vegeta Base_Up All Level_223: -1080347804053930777
+      Vegeta Base_Up All Level_224: -7558551044510906126
+      Vegeta Base_Up All Level_225: 40519350339484521
+      Vegeta Base_Up All Level_226: 8688727336597598735
+      Vegeta Base_Up All Level_227: 8473634680907864414
+      Vegeta Base_Up All Level_228: 129803189789823755
+      Vegeta Base_Up All Level_229: -4903395256884891793
+      Vegeta Base_Up All Level_23: -8711958244655517972
+      Vegeta Base_Up All Level_230: 3180278812124503800
+      Vegeta Base_Up All Level_231: -6270856077135346371
+      Vegeta Base_Up All Level_232: 1391348101278650905
+      Vegeta Base_Up All Level_233: -2656842055502060554
+      Vegeta Base_Up All Level_234: -8998076567262064256
+      Vegeta Base_Up All Level_235: 2452980859282545614
+      Vegeta Base_Up All Level_236: 4092020320877928043
+      Vegeta Base_Up All Level_237: 7127009396741357848
+      Vegeta Base_Up All Level_238: 4278191657693641029
+      Vegeta Base_Up All Level_239: 2591436593525546953
+      Vegeta Base_Up All Level_24: 7117600525080338009
+      Vegeta Base_Up All Level_240: 8963114237406622640
+      Vegeta Base_Up All Level_241: 8287708265607690760
+      Vegeta Base_Up All Level_242: 8669821986507470350
+      Vegeta Base_Up All Level_243: 4662510855852888712
+      Vegeta Base_Up All Level_244: -6284784025197721721
+      Vegeta Base_Up All Level_245: -4695438753557345565
+      Vegeta Base_Up All Level_246: -3300350264016132797
+      Vegeta Base_Up All Level_247: -6475536556578670268
+      Vegeta Base_Up All Level_25: -2687710427257916579
+      Vegeta Base_Up All Level_26: 4362063469228386227
+      Vegeta Base_Up All Level_27: 9005507748455481011
+      Vegeta Base_Up All Level_28: 7172049209694262105
+      Vegeta Base_Up All Level_29: 1593908674065707966
+      Vegeta Base_Up All Level_3: 7473328686202548851
+      Vegeta Base_Up All Level_30: 5507904707627109413
+      Vegeta Base_Up All Level_31: 4335546518188606389
+      Vegeta Base_Up All Level_32: 1327148243684615457
+      Vegeta Base_Up All Level_33: 3044172691020714048
+      Vegeta Base_Up All Level_34: -5713019777974010361
+      Vegeta Base_Up All Level_35: -5147590102077665109
+      Vegeta Base_Up All Level_36: -5425042509772088486
+      Vegeta Base_Up All Level_37: 7717287797969492013
+      Vegeta Base_Up All Level_38: 3484776836453287717
+      Vegeta Base_Up All Level_39: -2310564114002649154
+      Vegeta Base_Up All Level_4: 7505472153677882849
+      Vegeta Base_Up All Level_40: -5974993370245432675
+      Vegeta Base_Up All Level_41: -1590248210467607414
+      Vegeta Base_Up All Level_42: 1932834158534272364
+      Vegeta Base_Up All Level_43: 2264625825647587634
+      Vegeta Base_Up All Level_44: -6252908113621988319
+      Vegeta Base_Up All Level_45: -6414714384873670439
+      Vegeta Base_Up All Level_46: 5039686344027700231
+      Vegeta Base_Up All Level_47: -2599971686246143076
+      Vegeta Base_Up All Level_48: 4433718765188005372
+      Vegeta Base_Up All Level_49: 5970283039838292766
+      Vegeta Base_Up All Level_5: -6873535734877940545
+      Vegeta Base_Up All Level_50: -8691808858130874897
+      Vegeta Base_Up All Level_51: -3316121392184882862
+      Vegeta Base_Up All Level_52: 2679706274729044592
+      Vegeta Base_Up All Level_53: -8200645083701497399
+      Vegeta Base_Up All Level_54: 3673808920414159591
+      Vegeta Base_Up All Level_55: 4724488647821066891
+      Vegeta Base_Up All Level_56: 4551619134187868029
+      Vegeta Base_Up All Level_57: -2943808144577528479
+      Vegeta Base_Up All Level_58: -2115333133000715476
+      Vegeta Base_Up All Level_59: 8471672308906212394
+      Vegeta Base_Up All Level_6: 1645476176524631261
+      Vegeta Base_Up All Level_60: 6631066877135895726
+      Vegeta Base_Up All Level_61: 6520712406002339283
+      Vegeta Base_Up All Level_62: -6889988602931970527
+      Vegeta Base_Up All Level_63: -5672956433095800804
+      Vegeta Base_Up All Level_64: -4558101203372239294
+      Vegeta Base_Up All Level_65: -3966266958150745102
+      Vegeta Base_Up All Level_66: -8508186746094114497
+      Vegeta Base_Up All Level_67: -1526114768908344230
+      Vegeta Base_Up All Level_68: 4006996896203503679
+      Vegeta Base_Up All Level_69: 2734294488203437146
+      Vegeta Base_Up All Level_7: -6863445841513923140
+      Vegeta Base_Up All Level_70: 5012175825133201416
+      Vegeta Base_Up All Level_71: -3224151272201326888
+      Vegeta Base_Up All Level_72: 6966581906089297591
+      Vegeta Base_Up All Level_73: -7157924515271288442
+      Vegeta Base_Up All Level_74: 8485077957361630430
+      Vegeta Base_Up All Level_75: 2560852033595990442
+      Vegeta Base_Up All Level_76: 1995621598261541265
+      Vegeta Base_Up All Level_77: 4861594428867972419
+      Vegeta Base_Up All Level_78: -6553587167689976399
+      Vegeta Base_Up All Level_79: 5806045460636297511
+      Vegeta Base_Up All Level_8: 1587243854806315363
+      Vegeta Base_Up All Level_80: -3030598168042055316
+      Vegeta Base_Up All Level_81: -5567903663459312511
+      Vegeta Base_Up All Level_82: 1565186973361254119
+      Vegeta Base_Up All Level_83: -705102953749698957
+      Vegeta Base_Up All Level_84: 3257717248350592976
+      Vegeta Base_Up All Level_85: -4709281411494291112
+      Vegeta Base_Up All Level_86: -1447205450042668919
+      Vegeta Base_Up All Level_87: 4086111492911509945
+      Vegeta Base_Up All Level_88: -5564362617600615895
+      Vegeta Base_Up All Level_89: -7049703203691820591
+      Vegeta Base_Up All Level_9: 8055564572316236548
+      Vegeta Base_Up All Level_90: 3880365293921834919
+      Vegeta Base_Up All Level_91: -6977298504397826549
+      Vegeta Base_Up All Level_92: -7561235321885453779
+      Vegeta Base_Up All Level_93: -8401265608429566742
+      Vegeta Base_Up All Level_94: 8108486723962614938
+      Vegeta Base_Up All Level_95: 1799806464002312665
+      Vegeta Base_Up All Level_96: 1022394356226391279
+      Vegeta Base_Up All Level_97: 4193048464279680271
+      Vegeta Base_Up All Level_98: -4383376256578072069
+      Vegeta Base_Up All Level_99: -7642171534991201639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

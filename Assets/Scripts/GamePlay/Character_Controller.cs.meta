@@ -1,0 +1,56 @@
+fileFormatVersion: 2
+guid: 46d6500232bf5b24cb8cd717f64fd6de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cell_Kid_Prefab: {fileID: 13458349865105892, guid: 44043b97efd63374c98d2f661a71cf60, type: 3}
+  - Cell_Perfect_Prefab: {fileID: 4312500396444796362, guid: c154d28f5afc53648811b9ef47b959a8, type: 3}
+  - Cell_Stage2_Prefab: {fileID: 7456104633255891118, guid: 7e86f70eaf4545a4282ee18032096261, type: 3}
+  - Frieza_White_Prefab: {fileID: 7231511553368379101, guid: 06245b483818e744c8f5fa666a878f77, type: 3}
+  - FutureTrunks_SSJ1_Prefab: {fileID: 8935212673942552007, guid: 9cf9399871a6b0846b883b4a882b9bec, type: 3}
+  - Gogeta_Base_Prefab: {fileID: 5171300714489300059, guid: ff337a6a7f1db754aaf9a6fbe76e73cb, type: 3}
+  - Gogeta_SSJ1_Prefab: {fileID: 6269891967376825841, guid: 12f4b6c56e10f964382c6b233da8d973, type: 3}
+  - GohanAdult_SSJ2_Prefab: {fileID: 2110049680297839911, guid: 29b0fa3f037bd3c4d91bd8d9ceb6b9e7, type: 3}
+  - GohanAdult_Mystic_Prefab: {fileID: 4425287708180652171, guid: 07308d6ed930a8841844600e6c14b634, type: 3}
+  - GohanChild_SSJ1_Prefab: {fileID: 4754383933350603703, guid: af619bbbfb2c5e346af914d0f3136cde, type: 3}
+  - GohanChild_SSJ2_Prefab: {fileID: 2104942958282869165, guid: 7bc3cd00363c64a4aa13d6f9b31065cd, type: 3}
+  - Goku_SSJ1_Prefab: {fileID: 2479163978114285552, guid: 37014603c89c38742a911a71d9b29369, type: 3}
+  - Goku_SSJ3_Prefab: {fileID: 3419169728578385719, guid: 1471ca2b10933234884c514dbd5f7e34, type: 3}
+  - Goku_SSJ4_Prefab: {fileID: 1644247415396575422, guid: 200d5812e3c89f04cabe1d78cbda327c, type: 3}
+  - Gotenks_Base_Prefab: {fileID: 4765666476020918525, guid: b6d149718eb3f474fbec7395dcb5e6e9, type: 3}
+  - Gotenks_SSJ1_Prefab: {fileID: 7814673184088948475, guid: 96d89e8d15283d84d87b2bedd2cfe587, type: 3}
+  - Gotenks_SSJ3_Prefab: {fileID: 2908522309526637978, guid: b108506345a7f424c8660de8f816f3ff, type: 3}
+  - MajinBuu_Prefab: {fileID: 5594171000707134941, guid: 7a9d9d0eb91793044adec6eb896942b3, type: 3}
+  - SuperBuu_Gohan_Prefab: {fileID: 120685137970519650, guid: 954aae03d8f952c46ab0df177f87d76f, type: 3}
+  - SuperBuu_Gotenks_Prefab: {fileID: 8628829638575422814, guid: 0ae66c8fdb7f92e4888ce02fdb82a9ec, type: 3}
+  - Vegeta_SSJ1_Prefab: {fileID: 8630128734754861500, guid: c905a7507bb88a74b9f2844e7a40a908, type: 3}
+  - Vegeta_SSJ4_Prefab: {fileID: 3501485237475905120, guid: 9e1c56f6d00b3944cb449362ff5a780f, type: 3}
+  - Vegito_Base_Prefab: {fileID: 6136624473257804053, guid: e14cb38ebc39eb9498db08f2dc64480b, type: 3}
+  - Vegito_SSJ1_Prefab: {fileID: 3920354821799599163, guid: dad27b20a69a9cf45a6d2017fda7b616, type: 3}
+  - Vegito_SSJ4_Prefab: {fileID: 7015277347841275164, guid: 90b175ed5dd0e00439ce1569431389d0, type: 3}
+  - Gogeta_SSJ4_Prefab: {fileID: 8790844004900530844, guid: 279968164e92a3740a03f8b665c593c6, type: 3}
+  - FusionDance_VegetaBase: {fileID: 4842991178456347803, guid: e09fd23a4b87168419c65dbe1f92d9b4, type: 3}
+  - FusionDance_GokuBase: {fileID: 2262741924333803013, guid: 4326ea56cc7ed6b49985b32018ae5ce6, type: 3}
+  - FusionDance_VegetaSSJ4: {fileID: 6151981094577586544, guid: 66087c53c5e8a2d4f818e0b952722ff9, type: 3}
+  - FusionDance_GokuSSJ4: {fileID: 8757960349320691743, guid: b86324d7c9c14df44acf883d2d13bb19, type: 3}
+  - ki_Beam_Prefab: {fileID: 7138058313500141302, guid: 941853ec31a6fee419d1f04d4b6bd225, type: 3}
+  - ki_Blast_Prefab: {fileID: 1250258743810630789, guid: 183baa5deffe00c43b807066eead024e, type: 3}
+  - ki_Blast_Canon_Prefab: {fileID: 5775983371301928179, guid: 4b9197e30eec98146bfd3ef6f8c26d92, type: 3}
+  - ki_Death_Beam_Prefab: {fileID: 5542705691880265291, guid: 3d70a168adeb1f844ac594bd3556d77c, type: 3}
+  - ki_Death_Flash_Prefab: {fileID: 4832527152549066683, guid: d93c08f32e6ae9042b6a4ab391b5f4c5, type: 3}
+  - ki_Final_Flash_Prefab: {fileID: 6140447007268195246, guid: a857eb37cecde56449698483399f90a6, type: 3}
+  - ki_Final_Flash_X10_Prefab: {fileID: 6001344422645723797, guid: 556af314d910ae743b63a83415adac3f, type: 3}
+  - ki_Kamehameha_Prefab: {fileID: 4289644353650105683, guid: ea6de4314d67f074587c63a13e9d216b, type: 3}
+  - ki_Kamehameha_X10_Prefab: {fileID: 1673463734050388230, guid: 644f063be40d7c54c894e7e715403545, type: 3}
+  - ki_Attack_Bigbang_Prefab: {fileID: 6001344422645723797, guid: 8d0e8a6c58cc5cd4ba7d9701fc5fc00b, type: 3}
+  - ki_Kamehameha_Bigbang_Prefab: {fileID: 4289644353650105683, guid: 65e2b5f34283af342b1f40ed2e60e33f, type: 3}
+  - ki_Ghost_Prefab: {fileID: 4606398372888350813, guid: a77d84adf73de9a4c8fc95eb43b8412b, type: 3}
+  - ki_Attack_Prefab: {fileID: 658016293069756494, guid: ea18416d020f13640ad89d7d3cce0050, type: 3}
+  - playerController: {instanceID: 0}
+  - effectsoundController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

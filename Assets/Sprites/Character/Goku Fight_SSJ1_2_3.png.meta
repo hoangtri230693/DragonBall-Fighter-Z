@@ -1,0 +1,7665 @@
+fileFormatVersion: 2
+guid: 222945dd089685d40b146b4b39aa6aa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3981405021754226628
+    second: Goku Fight_SSJ1_2_3_0
+  - first:
+      213: 7505047117680211815
+    second: Goku Fight_SSJ1_2_3_1
+  - first:
+      213: -2461451916129416121
+    second: Goku Fight_SSJ1_2_3_2
+  - first:
+      213: -3329404646713457197
+    second: Goku Fight_SSJ1_2_3_3
+  - first:
+      213: -5541203492099137442
+    second: Goku Fight_SSJ1_2_3_4
+  - first:
+      213: -998542090816364009
+    second: Goku Fight_SSJ1_2_3_5
+  - first:
+      213: 5268185934820041352
+    second: Goku Fight_SSJ1_2_3_6
+  - first:
+      213: 6220685497762017421
+    second: Goku Fight_SSJ1_2_3_7
+  - first:
+      213: -3263188307129026818
+    second: Goku Fight_SSJ1_2_3_8
+  - first:
+      213: 2820077646777469881
+    second: Goku Fight_SSJ1_2_3_9
+  - first:
+      213: 386594601198002868
+    second: Goku Fight_SSJ1_2_3_10
+  - first:
+      213: 2899274095611139877
+    second: Goku Fight_SSJ1_2_3_11
+  - first:
+      213: 8613190122137260848
+    second: Goku Fight_SSJ1_2_3_12
+  - first:
+      213: 8522724813057801282
+    second: Goku Fight_SSJ1_2_3_13
+  - first:
+      213: -3768133621418883262
+    second: Goku Fight_SSJ1_2_3_14
+  - first:
+      213: 4590493137282181232
+    second: Goku Fight_SSJ1_2_3_15
+  - first:
+      213: 7490326078156747216
+    second: Goku Fight_SSJ1_2_3_16
+  - first:
+      213: -1548491173903605687
+    second: Goku Fight_SSJ1_2_3_17
+  - first:
+      213: -502973882106926667
+    second: Goku Fight_SSJ1_2_3_18
+  - first:
+      213: 8772921063556751512
+    second: Goku Fight_SSJ1_2_3_19
+  - first:
+      213: 3728563467524628221
+    second: Goku Fight_SSJ1_2_3_20
+  - first:
+      213: -299807496052171929
+    second: Goku Fight_SSJ1_2_3_21
+  - first:
+      213: -7764613511733297368
+    second: Goku Fight_SSJ1_2_3_22
+  - first:
+      213: -6401797349199525814
+    second: Goku Fight_SSJ1_2_3_23
+  - first:
+      213: -1654388269002618551
+    second: Goku Fight_SSJ1_2_3_24
+  - first:
+      213: 2307136020641550811
+    second: Goku Fight_SSJ1_2_3_25
+  - first:
+      213: 1317741002802377446
+    second: Goku Fight_SSJ1_2_3_26
+  - first:
+      213: 2703177228784248067
+    second: Goku Fight_SSJ1_2_3_27
+  - first:
+      213: 5034775265621804486
+    second: Goku Fight_SSJ1_2_3_28
+  - first:
+      213: 8355506190314548144
+    second: Goku Fight_SSJ1_2_3_29
+  - first:
+      213: -1271706614025415517
+    second: Goku Fight_SSJ1_2_3_30
+  - first:
+      213: 3925670864790774802
+    second: Goku Fight_SSJ1_2_3_31
+  - first:
+      213: -1475699494520521129
+    second: Goku Fight_SSJ1_2_3_32
+  - first:
+      213: 1130732580962382432
+    second: Goku Fight_SSJ1_2_3_33
+  - first:
+      213: 4398483129897391199
+    second: Goku Fight_SSJ1_2_3_34
+  - first:
+      213: -3990942690593510395
+    second: Goku Fight_SSJ1_2_3_35
+  - first:
+      213: -4257870685992041088
+    second: Goku Fight_SSJ1_2_3_36
+  - first:
+      213: -7833204836374025923
+    second: Goku Fight_SSJ1_2_3_37
+  - first:
+      213: -4276030590219772912
+    second: Goku Fight_SSJ1_2_3_38
+  - first:
+      213: -8244431431815669646
+    second: Goku Fight_SSJ1_2_3_39
+  - first:
+      213: -1282046515408226684
+    second: Goku Fight_SSJ1_2_3_40
+  - first:
+      213: -2655874008311303615
+    second: Goku Fight_SSJ1_2_3_41
+  - first:
+      213: -2810482208533507866
+    second: Goku Fight_SSJ1_2_3_42
+  - first:
+      213: -2435533664535921594
+    second: Goku Fight_SSJ1_2_3_43
+  - first:
+      213: -3998526807153438165
+    second: Goku Fight_SSJ1_2_3_44
+  - first:
+      213: -5642104651396837244
+    second: Goku Fight_SSJ1_2_3_45
+  - first:
+      213: -118756915686532057
+    second: Goku Fight_SSJ1_2_3_46
+  - first:
+      213: 5871714130291295196
+    second: Goku Fight_SSJ1_2_3_47
+  - first:
+      213: -5989766405199098647
+    second: Goku Fight_SSJ1_2_3_48
+  - first:
+      213: -3703480842167711903
+    second: Goku Fight_SSJ1_2_3_49
+  - first:
+      213: -2908088264835362619
+    second: Goku Fight_SSJ1_2_3_50
+  - first:
+      213: -322345979606510427
+    second: Goku Fight_SSJ1_2_3_51
+  - first:
+      213: 4062342116438896751
+    second: Goku Fight_SSJ1_2_3_52
+  - first:
+      213: 990667735275204056
+    second: Goku Fight_SSJ1_2_3_53
+  - first:
+      213: -572464197693314166
+    second: Goku Fight_SSJ1_2_3_54
+  - first:
+      213: 5193949314320180411
+    second: Goku Fight_SSJ1_2_3_55
+  - first:
+      213: 143970283790178237
+    second: Goku Fight_SSJ1_2_3_56
+  - first:
+      213: 7306181843561720707
+    second: Goku Fight_SSJ1_2_3_57
+  - first:
+      213: 6655467441783747340
+    second: Goku Fight_SSJ1_2_3_58
+  - first:
+      213: 7714635740702781194
+    second: Goku Fight_SSJ1_2_3_59
+  - first:
+      213: 2471138866471130084
+    second: Goku Fight_SSJ1_2_3_60
+  - first:
+      213: 6615550003730336885
+    second: Goku Fight_SSJ1_2_3_61
+  - first:
+      213: 4713516597063538419
+    second: Goku Fight_SSJ1_2_3_62
+  - first:
+      213: 139282889628901422
+    second: Goku Fight_SSJ1_2_3_63
+  - first:
+      213: 7851834174528478429
+    second: Goku Fight_SSJ1_2_3_64
+  - first:
+      213: 14875624539996326
+    second: Goku Fight_SSJ1_2_3_65
+  - first:
+      213: 2726025298913911806
+    second: Goku Fight_SSJ1_2_3_66
+  - first:
+      213: 6161653265755547433
+    second: Goku Fight_SSJ1_2_3_67
+  - first:
+      213: -8009552597800276805
+    second: Goku Fight_SSJ1_2_3_68
+  - first:
+      213: -1026550932145646517
+    second: Goku Fight_SSJ1_2_3_69
+  - first:
+      213: 4729262387532092138
+    second: Goku Fight_SSJ1_2_3_70
+  - first:
+      213: -2517306064056455260
+    second: Goku Fight_SSJ1_2_3_71
+  - first:
+      213: 5896744771168614261
+    second: Goku Fight_SSJ1_2_3_72
+  - first:
+      213: -7635345739435428839
+    second: Goku Fight_SSJ1_2_3_73
+  - first:
+      213: 3351420464374919449
+    second: Goku Fight_SSJ1_2_3_74
+  - first:
+      213: -5511030740782878736
+    second: Goku Fight_SSJ1_2_3_75
+  - first:
+      213: -8193362267300207234
+    second: Goku Fight_SSJ1_2_3_76
+  - first:
+      213: 6813695209405281892
+    second: Goku Fight_SSJ1_2_3_77
+  - first:
+      213: 3221504458854578118
+    second: Goku Fight_SSJ1_2_3_78
+  - first:
+      213: 1005599914800584032
+    second: Goku Fight_SSJ1_2_3_79
+  - first:
+      213: -3350897366473312973
+    second: Goku Fight_SSJ1_2_3_80
+  - first:
+      213: 598617260479469486
+    second: Goku Fight_SSJ1_2_3_81
+  - first:
+      213: 1250744804404071259
+    second: Goku Fight_SSJ1_2_3_82
+  - first:
+      213: -8787525472145735348
+    second: Goku Fight_SSJ1_2_3_83
+  - first:
+      213: 7880268559585058902
+    second: Goku Fight_SSJ1_2_3_84
+  - first:
+      213: -4098258909267596895
+    second: Goku Fight_SSJ1_2_3_85
+  - first:
+      213: -911493868584424447
+    second: Goku Fight_SSJ1_2_3_86
+  - first:
+      213: -1398986400676207554
+    second: Goku Fight_SSJ1_2_3_87
+  - first:
+      213: 700228240705268800
+    second: Goku Fight_SSJ1_2_3_88
+  - first:
+      213: 8693658523129141728
+    second: Goku Fight_SSJ1_2_3_89
+  - first:
+      213: 8285591688185370458
+    second: Goku Fight_SSJ1_2_3_90
+  - first:
+      213: 5107582972508703872
+    second: Goku Fight_SSJ1_2_3_91
+  - first:
+      213: 5961670463608649451
+    second: Goku Fight_SSJ1_2_3_92
+  - first:
+      213: -2147143570995702166
+    second: Goku Fight_SSJ1_2_3_93
+  - first:
+      213: -8929805121686022283
+    second: Goku Fight_SSJ1_2_3_94
+  - first:
+      213: -4857621475536579489
+    second: Goku Fight_SSJ1_2_3_95
+  - first:
+      213: 270793197309842421
+    second: Goku Fight_SSJ1_2_3_96
+  - first:
+      213: -8576393895066274750
+    second: Goku Fight_SSJ1_2_3_97
+  - first:
+      213: -8481742309981455107
+    second: Goku Fight_SSJ1_2_3_98
+  - first:
+      213: -5182793378751362141
+    second: Goku Fight_SSJ1_2_3_99
+  - first:
+      213: -4240155722605321636
+    second: Goku Fight_SSJ1_2_3_100
+  - first:
+      213: -1922888474495121587
+    second: Goku Fight_SSJ1_2_3_101
+  - first:
+      213: -5686832921052042266
+    second: Goku Fight_SSJ1_2_3_102
+  - first:
+      213: 8607936813792657107
+    second: Goku Fight_SSJ1_2_3_103
+  - first:
+      213: 9140027869137982453
+    second: Goku Fight_SSJ1_2_3_104
+  - first:
+      213: 8838291901674058247
+    second: Goku Fight_SSJ1_2_3_105
+  - first:
+      213: -8229540949059313005
+    second: Goku Fight_SSJ1_2_3_106
+  - first:
+      213: 8723029387432810871
+    second: Goku Fight_SSJ1_2_3_107
+  - first:
+      213: -3206972420217927651
+    second: Goku Fight_SSJ1_2_3_108
+  - first:
+      213: -2677410930033381104
+    second: Goku Fight_SSJ1_2_3_109
+  - first:
+      213: 4959491503003580940
+    second: Goku Fight_SSJ1_2_3_110
+  - first:
+      213: -4103571243255566636
+    second: Goku Fight_SSJ1_2_3_111
+  - first:
+      213: 7747249290003408143
+    second: Goku Fight_SSJ1_2_3_112
+  - first:
+      213: -1482693721060588199
+    second: Goku Fight_SSJ1_2_3_113
+  - first:
+      213: -408536915885711822
+    second: Goku Fight_SSJ1_2_3_114
+  - first:
+      213: 2683544009812742035
+    second: Goku Fight_SSJ1_2_3_115
+  - first:
+      213: -4313083238945619125
+    second: Goku Fight_SSJ1_2_3_116
+  - first:
+      213: 8857846048443105904
+    second: Goku Fight_SSJ1_2_3_117
+  - first:
+      213: -8923634942207272042
+    second: Goku Fight_SSJ1_2_3_118
+  - first:
+      213: -8373322061462207293
+    second: Goku Fight_SSJ1_2_3_119
+  - first:
+      213: 928791664034870424
+    second: Goku Fight_SSJ1_2_3_120
+  - first:
+      213: -9029815567003216439
+    second: Goku Fight_SSJ1_2_3_121
+  - first:
+      213: -1706278435214511985
+    second: Goku Fight_SSJ1_2_3_122
+  - first:
+      213: -3899847271414550735
+    second: Goku Fight_SSJ1_2_3_123
+  - first:
+      213: 1514518515724545552
+    second: Goku Fight_SSJ1_2_3_124
+  - first:
+      213: -2407843113774457639
+    second: Goku Fight_SSJ1_2_3_125
+  - first:
+      213: -6264636420154518701
+    second: Goku Fight_SSJ1_2_3_126
+  - first:
+      213: 4941107195634952943
+    second: Goku Fight_SSJ1_2_3_127
+  - first:
+      213: -8325508111379522475
+    second: Goku Fight_SSJ1_2_3_128
+  - first:
+      213: -8767365826216801415
+    second: Goku Fight_SSJ1_2_3_129
+  - first:
+      213: -501072319074891480
+    second: Goku Fight_SSJ1_2_3_130
+  - first:
+      213: -1315029908889880904
+    second: Goku Fight_SSJ1_2_3_131
+  - first:
+      213: 6161020530934533937
+    second: Goku Fight_SSJ1_2_3_132
+  - first:
+      213: -7726783223401949278
+    second: Goku Fight_SSJ1_2_3_133
+  - first:
+      213: -8772032616630527474
+    second: Goku Fight_SSJ1_2_3_134
+  - first:
+      213: 6854706156735303401
+    second: Goku Fight_SSJ1_2_3_135
+  - first:
+      213: 859870017591249364
+    second: Goku Fight_SSJ1_2_3_136
+  - first:
+      213: -2013625119175143214
+    second: Goku Fight_SSJ1_2_3_137
+  - first:
+      213: -4065623446099659499
+    second: Goku Fight_SSJ1_2_3_138
+  - first:
+      213: 8507452723396555376
+    second: Goku Fight_SSJ1_2_3_139
+  - first:
+      213: 4468781205096332906
+    second: Goku Fight_SSJ1_2_3_140
+  - first:
+      213: 1906477351649454698
+    second: Goku Fight_SSJ1_2_3_141
+  - first:
+      213: -5880431757198389715
+    second: Goku Fight_SSJ1_2_3_142
+  - first:
+      213: -4634200976811640863
+    second: Goku Fight_SSJ1_2_3_143
+  - first:
+      213: 5307884245181343510
+    second: Goku Fight_SSJ1_2_3_144
+  - first:
+      213: 7826479520329608265
+    second: Goku Fight_SSJ1_2_3_145
+  - first:
+      213: 6086740822187803344
+    second: Goku Fight_SSJ1_2_3_146
+  - first:
+      213: 5803423859808387873
+    second: Goku Fight_SSJ1_2_3_147
+  - first:
+      213: 7867736314667916886
+    second: Goku Fight_SSJ1_2_3_148
+  - first:
+      213: 3936782030534435826
+    second: Goku Fight_SSJ1_2_3_149
+  - first:
+      213: -4014305997170705694
+    second: Goku Fight_SSJ1_2_3_150
+  - first:
+      213: 81794765407774709
+    second: Goku Fight_SSJ1_2_3_151
+  - first:
+      213: 2978262210954044172
+    second: Goku Fight_SSJ1_2_3_152
+  - first:
+      213: -770546943209694592
+    second: Goku Fight_SSJ1_2_3_153
+  - first:
+      213: 8769105095991065251
+    second: Goku Fight_SSJ1_2_3_154
+  - first:
+      213: 863542438642186624
+    second: Goku Fight_SSJ1_2_3_155
+  - first:
+      213: 34745383022902836
+    second: Goku Fight_SSJ1_2_3_156
+  - first:
+      213: -1499127148354509426
+    second: Goku Fight_SSJ1_2_3_157
+  - first:
+      213: 2742172761413279213
+    second: Goku Fight_SSJ1_2_3_158
+  - first:
+      213: -8626794251300414315
+    second: Goku Fight_SSJ1_2_3_159
+  - first:
+      213: -4280704334071880627
+    second: Goku Fight_SSJ1_2_3_160
+  - first:
+      213: 5002325410304375473
+    second: Goku Fight_SSJ1_2_3_161
+  - first:
+      213: 409150727116303531
+    second: Goku Fight_SSJ1_2_3_162
+  - first:
+      213: -5661991283979581027
+    second: Goku Fight_SSJ1_2_3_163
+  - first:
+      213: 2189720503240962383
+    second: Goku Fight_SSJ1_2_3_164
+  - first:
+      213: 1853125175488186647
+    second: Goku Fight_SSJ1_2_3_165
+  - first:
+      213: 3421186834498112607
+    second: Goku Fight_SSJ1_2_3_166
+  - first:
+      213: -6078045666430010763
+    second: Goku Fight_SSJ1_2_3_167
+  - first:
+      213: -751506839970994313
+    second: Goku Fight_SSJ1_2_3_168
+  - first:
+      213: 4284234557010239496
+    second: Goku Fight_SSJ1_2_3_169
+  - first:
+      213: -6642652562977933347
+    second: Goku Fight_SSJ1_2_3_170
+  - first:
+      213: 1793839922265550920
+    second: Goku Fight_SSJ1_2_3_171
+  - first:
+      213: -3134923523604029786
+    second: Goku Fight_SSJ1_2_3_172
+  - first:
+      213: -4696702278139168635
+    second: Goku Fight_SSJ1_2_3_173
+  - first:
+      213: 7522404317014250035
+    second: Goku Fight_SSJ1_2_3_174
+  - first:
+      213: -852106690646022114
+    second: Goku Fight_SSJ1_2_3_175
+  - first:
+      213: -6941977413009189951
+    second: Goku Fight_SSJ1_2_3_176
+  - first:
+      213: 7826164489752966919
+    second: Goku Fight_SSJ1_2_3_177
+  - first:
+      213: -2941769519779254475
+    second: Goku Fight_SSJ1_2_3_178
+  - first:
+      213: -5370910496455402223
+    second: Goku Fight_SSJ1_2_3_179
+  - first:
+      213: 3861093222182299850
+    second: Goku Fight_SSJ1_2_3_180
+  - first:
+      213: -5713369246275849125
+    second: Goku Fight_SSJ1_2_3_181
+  - first:
+      213: -2607243692484072094
+    second: Goku Fight_SSJ1_2_3_182
+  - first:
+      213: 6899277390607377081
+    second: Goku Fight_SSJ1_2_3_183
+  - first:
+      213: 6173305486660364815
+    second: Goku Fight_SSJ1_2_3_184
+  - first:
+      213: -4138678410896550094
+    second: Goku Fight_SSJ1_2_3_185
+  - first:
+      213: 5322540278490012199
+    second: Goku Fight_SSJ1_2_3_186
+  - first:
+      213: -9123869102092905845
+    second: Goku Fight_SSJ1_2_3_187
+  - first:
+      213: 6308856893583211502
+    second: Goku Fight_SSJ1_2_3_188
+  - first:
+      213: 9069201775089042580
+    second: Goku Fight_SSJ1_2_3_189
+  - first:
+      213: 8115631669460125740
+    second: Goku Fight_SSJ1_2_3_190
+  - first:
+      213: -4007144423523058591
+    second: Goku Fight_SSJ1_2_3_191
+  - first:
+      213: -9011091853680126807
+    second: Goku Fight_SSJ1_2_3_192
+  - first:
+      213: -6629058860027318436
+    second: Goku Fight_SSJ1_2_3_193
+  - first:
+      213: 7702774478636369998
+    second: Goku Fight_SSJ1_2_3_194
+  - first:
+      213: 3464373874646315634
+    second: Goku Fight_SSJ1_2_3_195
+  - first:
+      213: 2883553608506953066
+    second: Goku Fight_SSJ1_2_3_196
+  - first:
+      213: -3190317897799100129
+    second: Goku Fight_SSJ1_2_3_197
+  - first:
+      213: 1556121155314165631
+    second: Goku Fight_SSJ1_2_3_198
+  - first:
+      213: -1892719203490754916
+    second: Goku Fight_SSJ1_2_3_199
+  - first:
+      213: -5047052626817848167
+    second: Goku Fight_SSJ1_2_3_200
+  - first:
+      213: 7337431284360583516
+    second: Goku Fight_SSJ1_2_3_201
+  - first:
+      213: -6595416944221307116
+    second: Goku Fight_SSJ1_2_3_202
+  - first:
+      213: 4515149661561052346
+    second: Goku Fight_SSJ1_2_3_203
+  - first:
+      213: 4900447384179785991
+    second: Goku Fight_SSJ1_2_3_204
+  - first:
+      213: -1660811272885329274
+    second: Goku Fight_SSJ1_2_3_205
+  - first:
+      213: -9056300332962535242
+    second: Goku Fight_SSJ1_2_3_206
+  - first:
+      213: 195958827444396210
+    second: Goku Fight_SSJ1_2_3_207
+  - first:
+      213: -4320422786709891600
+    second: Goku Fight_SSJ1_2_3_208
+  - first:
+      213: -5873934136429805918
+    second: Goku Fight_SSJ1_2_3_209
+  - first:
+      213: 7047957783910781819
+    second: Goku Fight_SSJ1_2_3_210
+  - first:
+      213: 3022807614079404698
+    second: Goku Fight_SSJ1_2_3_211
+  - first:
+      213: -6036257055668499722
+    second: Goku Fight_SSJ1_2_3_212
+  - first:
+      213: 585208389896326693
+    second: Goku Fight_SSJ1_2_3_213
+  - first:
+      213: 2782363157095521230
+    second: Goku Fight_SSJ1_2_3_214
+  - first:
+      213: 4748778821491556612
+    second: Goku Fight_SSJ1_2_3_215
+  - first:
+      213: 987014466443537246
+    second: Goku Fight_SSJ1_2_3_216
+  - first:
+      213: 435992629505155240
+    second: Goku Fight_SSJ1_2_3_217
+  - first:
+      213: -8375330567802471078
+    second: Goku Fight_SSJ1_2_3_218
+  - first:
+      213: 4703733448759751629
+    second: Goku Fight_SSJ1_2_3_219
+  - first:
+      213: 4195729911537255405
+    second: Goku Fight_SSJ1_2_3_220
+  - first:
+      213: -3133816770912105162
+    second: Goku Fight_SSJ1_2_3_221
+  - first:
+      213: 4479716625358940322
+    second: Goku Fight_SSJ1_2_3_222
+  - first:
+      213: 503350649484450749
+    second: Goku Fight_SSJ1_2_3_223
+  - first:
+      213: -1356667712108777039
+    second: Goku Fight_SSJ1_2_3_224
+  - first:
+      213: 2111976230720900298
+    second: Goku Fight_SSJ1_2_3_225
+  - first:
+      213: -5812622363777632976
+    second: Goku Fight_SSJ1_2_3_226
+  - first:
+      213: 1872483265310069298
+    second: Goku Fight_SSJ1_2_3_227
+  - first:
+      213: -7009299112090452231
+    second: Goku Fight_SSJ1_2_3_228
+  - first:
+      213: -4772562769962458669
+    second: Goku Fight_SSJ1_2_3_229
+  - first:
+      213: -1546501119801901631
+    second: Goku Fight_SSJ1_2_3_230
+  - first:
+      213: -6765768360708655511
+    second: Goku Fight_SSJ1_2_3_231
+  - first:
+      213: -2399133408938986591
+    second: Goku Fight_SSJ1_2_3_232
+  - first:
+      213: 3156137321720945064
+    second: Goku Fight_SSJ1_2_3_233
+  - first:
+      213: 4996221689633051353
+    second: Goku Fight_SSJ1_2_3_234
+  - first:
+      213: 6897830024761657510
+    second: Goku Fight_SSJ1_2_3_235
+  - first:
+      213: -2234328939371153415
+    second: Goku Fight_SSJ1_2_3_236
+  - first:
+      213: 8372366034723909221
+    second: Goku Fight_SSJ1_2_3_237
+  - first:
+      213: 6382101504646735630
+    second: Goku Fight_SSJ1_2_3_238
+  - first:
+      213: -4806046314601276174
+    second: Goku Fight_SSJ1_2_3_239
+  - first:
+      213: 8251270026880579121
+    second: Goku Fight_SSJ1_2_3_240
+  - first:
+      213: -819981894525372826
+    second: Goku Fight_SSJ1_2_3_241
+  - first:
+      213: -2533207234075500468
+    second: Goku Fight_SSJ1_2_3_242
+  - first:
+      213: -3175541644057339973
+    second: Goku Fight_SSJ1_2_3_243
+  - first:
+      213: 9012985404975783555
+    second: Goku Fight_SSJ1_2_3_244
+  - first:
+      213: 8850800955385943698
+    second: Goku Fight_SSJ1_2_3_245
+  - first:
+      213: 5292076509080498350
+    second: Goku Fight_SSJ1_2_3_246
+  - first:
+      213: 5494766803551614644
+    second: Goku Fight_SSJ1_2_3_247
+  - first:
+      213: -4196041674723104468
+    second: Goku Fight_SSJ1_2_3_248
+  - first:
+      213: 8851607392510149365
+    second: Goku Fight_SSJ1_2_3_249
+  - first:
+      213: -3753245673238491128
+    second: Goku Fight_SSJ1_2_3_250
+  - first:
+      213: 1434562527166322224
+    second: Goku Fight_SSJ1_2_3_251
+  - first:
+      213: -1713805066527767887
+    second: Goku Fight_SSJ1_2_3_252
+  - first:
+      213: -3812138978410225739
+    second: Goku Fight_SSJ1_2_3_253
+  - first:
+      213: -7325086762393055724
+    second: Goku Fight_SSJ1_2_3_254
+  - first:
+      213: -129922642989421485
+    second: Goku Fight_SSJ1_2_3_255
+  - first:
+      213: -5860879129754104367
+    second: Goku Fight_SSJ1_2_3_256
+  - first:
+      213: -3095019547323601697
+    second: Goku Fight_SSJ1_2_3_257
+  - first:
+      213: -6020494117222408662
+    second: Goku Fight_SSJ1_2_3_258
+  - first:
+      213: -6047246642171899155
+    second: Goku Fight_SSJ1_2_3_259
+  - first:
+      213: -2585632301559724338
+    second: Goku Fight_SSJ1_2_3_260
+  - first:
+      213: -3492957317122437580
+    second: Goku Fight_SSJ1_2_3_261
+  - first:
+      213: -7742456547914339967
+    second: Goku Fight_SSJ1_2_3_262
+  - first:
+      213: 1322339719815952891
+    second: Goku Fight_SSJ1_2_3_263
+  - first:
+      213: -6848208079121098028
+    second: Goku Fight_SSJ1_2_3_264
+  - first:
+      213: -2570259119169150205
+    second: Goku Fight_SSJ1_2_3_265
+  - first:
+      213: 2187667861740977778
+    second: Goku Fight_SSJ1_2_3_266
+  - first:
+      213: -3362319067179750970
+    second: Goku Fight_SSJ1_2_3_267
+  - first:
+      213: 271862247928275711
+    second: Goku Fight_SSJ1_2_3_268
+  - first:
+      213: 8066645221588365997
+    second: Goku Fight_SSJ1_2_3_269
+  - first:
+      213: 4147322459516982348
+    second: Goku Fight_SSJ1_2_3_270
+  - first:
+      213: -2623507750228479982
+    second: Goku Fight_SSJ1_2_3_271
+  - first:
+      213: -8559752051676385907
+    second: Goku Fight_SSJ1_2_3_272
+  - first:
+      213: 7677369996555116012
+    second: Goku Fight_SSJ1_2_3_273
+  - first:
+      213: -8185481444899774970
+    second: Goku Fight_SSJ1_2_3_274
+  - first:
+      213: 7276743431743545983
+    second: Goku Fight_SSJ1_2_3_275
+  - first:
+      213: 8901660285624561646
+    second: Goku Fight_SSJ1_2_3_276
+  - first:
+      213: 6993749870797201764
+    second: Goku Fight_SSJ1_2_3_277
+  - first:
+      213: 3511560524913446362
+    second: Goku Fight_SSJ1_2_3_278
+  - first:
+      213: 7317771670655526757
+    second: Goku Fight_SSJ1_2_3_279
+  - first:
+      213: -252877640856772423
+    second: Goku Fight_SSJ1_2_3_280
+  - first:
+      213: 6573169718409272034
+    second: Goku Fight_SSJ1_2_3_281
+  - first:
+      213: -4230180431252015901
+    second: Goku Fight_SSJ1_2_3_282
+  - first:
+      213: 1821222418017709681
+    second: Goku Fight_SSJ1_2_3_283
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3802632a353fb8c0800000000000000
+      internalID: -3981405021754226628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f5ef0798472860800000000000000
+      internalID: 7505047117680211815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc66b068a27ddd0800000000000000
+      internalID: -2461451916129416121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50c1f1d149bc1d0800000000000000
+      internalID: -3329404646713457197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e64158c0b913b0800000000000000
+      internalID: -5541203492099137442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1344
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126d9742477422f0800000000000000
+      internalID: -998542090816364009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88268a7123b5c1940800000000000000
+      internalID: 5268185934820041352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1344
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8077896080545650800000000000000
+      internalID: 6220685497762017421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6bd561683d6b2d0800000000000000
+      internalID: -3263188307129026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1344
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc037adade22720800000000000000
+      internalID: 2820077646777469881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2ad74ddb57d5500800000000000000
+      internalID: 386594601198002868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1344
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d46fcd6a4c3820800000000000000
+      internalID: 2899274095611139877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1344
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03315ec08c2388770800000000000000
+      internalID: 8613190122137260848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb7b8ef0dc64670800000000000000
+      internalID: 8522724813057801282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2470f1d8f66e4bbc0800000000000000
+      internalID: -3768133621418883262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a297df25b4bf30800000000000000
+      internalID: 4590493137282181232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1344
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b064f1ebf2f760800000000000000
+      internalID: 7490326078156747216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1278
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e5a94b77a28ae0800000000000000
+      internalID: -1548491173903605687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1278
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a7b94be31509f0800000000000000
+      internalID: -502973882106926667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1278
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a7d3f93dafb970800000000000000
+      internalID: 8772921063556751512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1276
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfedd4c08b48eb330800000000000000
+      internalID: 3728563467524628221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1275
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b9fc8bbaed6dbf0800000000000000
+      internalID: -299807496052171929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1278
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f30f6562d8e3490800000000000000
+      internalID: -7764613511733297368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1278
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48cce4aa3f3827a0800000000000000
+      internalID: -6401797349199525814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1224
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949868972ae6a09e0800000000000000
+      internalID: -1654388269002618551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1224
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd119deacf7940020800000000000000
+      internalID: 2307136020641550811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1224
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b00ad57e894210800000000000000
+      internalID: 1317741002802377446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1224
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3052c961e5d938520800000000000000
+      internalID: 2703177228784248067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1224
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c58f4fbd6d1fd540800000000000000
+      internalID: 5034775265621804486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1224
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bba6485c98b4f370800000000000000
+      internalID: 8355506190314548144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1224
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a41084829df95ee0800000000000000
+      internalID: -1271706614025415517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1224
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21464f83ad8ca7630800000000000000
+      internalID: 3925670864790774802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1224
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e71e9d023458be0800000000000000
+      internalID: -1475699494520521129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1224
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0623930aa4b21bf00800000000000000
+      internalID: 1130732580962382432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1224
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54151c3a1d8a0d30800000000000000
+      internalID: 4398483129897391199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c6b3094c25d98c0800000000000000
+      internalID: -3990942690593510395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_36
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1224
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08545e59b2109e4c0800000000000000
+      internalID: -4257870685992041088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1168
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ed0314bdda4390800000000000000
+      internalID: -7833204836374025923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1168
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1f3565dc78a4c0800000000000000
+      internalID: -4276030590219772912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1168
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278df8b2b45e59d80800000000000000
+      internalID: -8244431431815669646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1168
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b09f9c71453ee0800000000000000
+      internalID: -1282046515408226684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1168
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142796e29a0742bd0800000000000000
+      internalID: -2655874008311303615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1168
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e01ec862592ff8d0800000000000000
+      internalID: -2810482208533507866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1168
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb4de390f333ed0800000000000000
+      internalID: -2435533664535921594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221eb2dd016288c0800000000000000
+      internalID: -3998526807153438165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1168
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48099e376b733b1b0800000000000000
+      internalID: -5642104651396837244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1209
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c12e1e6371a5ef0800000000000000
+      internalID: -118756915686532057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_47
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1169
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd387ae44e48c7150800000000000000
+      internalID: 5871714130291295196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1169
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec0a8a803310eca0800000000000000
+      internalID: -5989766405199098647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1169
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1670122cbc79a9cc0800000000000000
+      internalID: -3703480842167711903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1168
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0910f712564a7d0800000000000000
+      internalID: -2908088264835362619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1169
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a457c61a0cc68bf0800000000000000
+      internalID: -322345979606510427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1114
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f276b1a6506830800000000000000
+      internalID: 4062342116438896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1131
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde4837e0f8fbd00800000000000000
+      internalID: 990667735275204056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1131
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6cd168d23e08f0800000000000000
+      internalID: -572464197693314166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42075f16d941840800000000000000
+      internalID: 5193949314320180411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1114
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79687d53c7ff100800000000000000
+      internalID: 143970283790178237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1116
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba7e94da5c46560800000000000000
+      internalID: 7306181843561720707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1119
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03b2b94068fc5c50800000000000000
+      internalID: 6655467441783747340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_59
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1102
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2f101554ef0b60800000000000000
+      internalID: 7714635740702781194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1045
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35ca6d4bf3b4220800000000000000
+      internalID: 2471138866471130084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1048
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c4e2e7da72fcb50800000000000000
+      internalID: 6615550003730336885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_62
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1054
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f651ea2f56c96140800000000000000
+      internalID: 4713516597063538419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1102
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20ee97dc05dee100800000000000000
+      internalID: 139282889628901422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1054
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcda08b49157fc60800000000000000
+      internalID: 7851834174528478429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1054
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0c48c3d49d43000800000000000000
+      internalID: 14875624539996326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1071
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ed76f099c4d520800000000000000
+      internalID: 2726025298913911806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1071
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9272c76dff6928550800000000000000
+      internalID: 6161653265755547433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1054
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcae46495a58d090800000000000000
+      internalID: -8009552597800276805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1045
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44dc99bd55f0c1f0800000000000000
+      internalID: -1026550932145646517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1054
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae25772b517b1a140800000000000000
+      internalID: 4729262387532092138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_71
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1054
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6af4d87bb01dd0800000000000000
+      internalID: -2517306064056455260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1025
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b5a8802275d150800000000000000
+      internalID: 5896744771168614261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914b8a7f08dc90690800000000000000
+      internalID: -7635345739435428839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1025
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ba00e723a28e20800000000000000
+      internalID: 3351420464374919449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1025
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffe06d6db2e483b0800000000000000
+      internalID: -5511030740782878736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1025
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e756b7d9d645b4e80800000000000000
+      internalID: -8193362267300207234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1025
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f16441bb1f8e50800000000000000
+      internalID: 6813695209405281892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1025
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73d50bc3515bc20800000000000000
+      internalID: 3221504458854578118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0651adb6bcb94fd00800000000000000
+      internalID: 1005599914800584032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1025
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335f09859983f71d0800000000000000
+      internalID: -3350897366473312973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7db4f0a37be4800800000000000000
+      internalID: 598617260479469486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1025
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b8b2bd5c98b5110800000000000000
+      internalID: 1250744804404071259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c418e0234207c0680800000000000000
+      internalID: -8787525472145735348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1025
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6502fb4e0865c5d60800000000000000
+      internalID: 7880268559585058902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1025
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9668b4c3f0027c0800000000000000
+      internalID: -4098258909267596895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_86
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c2414e729b953f0800000000000000
+      internalID: -911493868584424447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 959
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a71ed74dc59ce0800000000000000
+      internalID: -1398986400676207554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 959
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c2fecffd5b7b900800000000000000
+      internalID: 700228240705268800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 959
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d8a5ad5416a870800000000000000
+      internalID: 8693658523129141728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 959
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d730ddb55cf270800000000000000
+      internalID: 8285591688185370458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_91
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 959
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c073107a7c1e640800000000000000
+      internalID: 5107582972508703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 959
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6f45b43bb1cb250800000000000000
+      internalID: 5961670463608649451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_93
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 959
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6699095c40d332e0800000000000000
+      internalID: -2147143570995702166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 905
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d070dd85f21480800000000000000
+      internalID: -8929805121686022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 905
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5455593103469cb0800000000000000
+      internalID: -4857621475536579489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 905
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3de3d6afc02c300800000000000000
+      internalID: 270793197309842421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_97
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 905
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244febe21378af880800000000000000
+      internalID: -8576393895066274750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 905
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7729ae4cca4a80800000000000000
+      internalID: -8481742309981455107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_99
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 905
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab4743b1e40318b0800000000000000
+      internalID: -5182793378751362141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 905
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5225c9e5d0f725c0800000000000000
+      internalID: -4240155722605321636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_101
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 905
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47860fce178055e0800000000000000
+      internalID: -1922888474495121587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_102
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 905
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb22b3a69f4411b0800000000000000
+      internalID: -5686832921052042266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 905
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7e13ece8857770800000000000000
+      internalID: 8607936813792657107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_104
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 905
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3d329cbe6e7de70800000000000000
+      internalID: 9140027869137982453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_105
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 905
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027e7448abe7aa70800000000000000
+      internalID: 8838291901674058247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_106
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 905
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392e9cadb1ccacd80800000000000000
+      internalID: -8229540949059313005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 849
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d933e20d6e0970800000000000000
+      internalID: 8723029387432810871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 849
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d188f68339b8e73d0800000000000000
+      internalID: -3206972420217927651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 849
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011bc95d1fce7dad0800000000000000
+      internalID: -2677410930033381104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 849
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab817de37a3d440800000000000000
+      internalID: 4959491503003580940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 849
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de6e3722bf2d07c0800000000000000
+      internalID: -4103571243255566636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_112
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 849
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ec0dbe22c38b60800000000000000
+      internalID: 7747249290003408143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_113
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 849
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9554b759ae96c6be0800000000000000
+      internalID: -1482693721060588199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 890
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e9ffae6d5945af0800000000000000
+      internalID: -408536915885711822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 888
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f04041f0ddd3520800000000000000
+      internalID: 2683544009812742035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_116
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 849
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4384f755a9d424c0800000000000000
+      internalID: -4313083238945619125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_117
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 850
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728c88dc046dea70800000000000000
+      internalID: 8857846048443105904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_118
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 850
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd87cac41e82480800000000000000
+      internalID: -8923634942207272042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_119
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 850
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c48a98e2fbfbcb80800000000000000
+      internalID: -8373322061462207293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_120
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 849
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947425f81bb3ec00800000000000000
+      internalID: 928791664034870424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_121
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 849
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51b757596afa280800000000000000
+      internalID: -9029815567003216439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 794
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80312dadc41258e0800000000000000
+      internalID: -1706278435214511985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_123
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 812
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2f05a195f0e9c0800000000000000
+      internalID: -3899847271414550735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_124
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 812
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e6387d096a40510800000000000000
+      internalID: 1514518515724545552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 795
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc5a90027f959ed0800000000000000
+      internalID: -2407843113774457639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 795
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35317b90e5a8f09a0800000000000000
+      internalID: -6264636420154518701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_127
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 797
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa2f8b0d6529440800000000000000
+      internalID: 4941107195634952943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_128
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 800
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c179eab7ad57c80800000000000000
+      internalID: -8325508111379522475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_129
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 783
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc2788b3f045680800000000000000
+      internalID: -8767365826216801415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_130
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 726
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82982ce6165db09f0800000000000000
+      internalID: -501072319074891480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_131
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 729
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6ba93e34310cde0800000000000000
+      internalID: -1315029908889880904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_132
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 735
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fcd38c787508550800000000000000
+      internalID: 6161020530934533937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_133
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 783
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7dda8b893f4c490800000000000000
+      internalID: -7726783223401949278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_134
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 735
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ad897bfca734680800000000000000
+      internalID: -8772032616630527474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_135
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 734
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee04e78eeec02f50800000000000000
+      internalID: 6854706156735303401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 752
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d90987a93fdeeb00800000000000000
+      internalID: 859870017591249364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_137
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 752
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d013cc6f9a2e04e0800000000000000
+      internalID: -2013625119175143214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_138
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 735
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515fab034010497c0800000000000000
+      internalID: -4065623446099659499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_139
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 726
+        width: 122
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723b717d2b801670800000000000000
+      internalID: 8507452723396555376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_140
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 735
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e75b454dc440e30800000000000000
+      internalID: 4468781205096332906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_141
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 735
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa465ec0b257a10800000000000000
+      internalID: 1906477351649454698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_142
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 706
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e83420972846ea0800000000000000
+      internalID: -5880431757198389715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7bf5fb3c200bfb0800000000000000
+      internalID: -4634200976811640863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_144
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 706
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172dee399469a940800000000000000
+      internalID: 5307884245181343510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 706
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cad1348ad3d9c60800000000000000
+      internalID: 7826479520329608265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 706
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d28f526782787450800000000000000
+      internalID: 6086740822187803344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_147
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 706
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123c7eca047e98050800000000000000
+      internalID: 5803423859808387873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 706
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed83e3e70df2d60800000000000000
+      internalID: 7867736314667916886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 706
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36528166242a630800000000000000
+      internalID: 3936782030534435826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 706
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea7bead6f15a48c0800000000000000
+      internalID: -4014305997170705694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 706
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7ed90e7e7922100800000000000000
+      internalID: 81794765407774709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_152
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 706
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a2eb83b9e45920800000000000000
+      internalID: 2978262210954044172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 706
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a193f33a77e45f0800000000000000
+      internalID: -770546943209694592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_154
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 706
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7d94cf9e12b970800000000000000
+      internalID: 8769105095991065251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 706
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089fdbfc54bebfb00800000000000000
+      internalID: 863542438642186624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_156
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 706
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3aa4edb07b7000800000000000000
+      internalID: 34745383022902836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_157
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 706
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856f212dc7023be0800000000000000
+      internalID: -1499127148354509426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 640
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5acc09972e0620800000000000000
+      internalID: 2742172761413279213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_159
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c5bdcc558774880800000000000000
+      internalID: -8626794251300414315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44ab2b9612e794c0800000000000000
+      internalID: -4280704334071880627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_161
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 640
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba3a1c0574db6540800000000000000
+      internalID: 5002325410304375473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac2c552b689da500800000000000000
+      internalID: 409150727116303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_163
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 640
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d990a0dfce09c61b0800000000000000
+      internalID: -5661991283979581027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_164
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 640
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4131113233736e10800000000000000
+      internalID: 2189720503240962383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_165
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 586
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7198e41678f97b910800000000000000
+      internalID: 1853125175488186647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_166
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 586
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc08cbc4f7a7f20800000000000000
+      internalID: 3421186834498112607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_167
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 586
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a36d35ba176aba0800000000000000
+      internalID: -6078045666430010763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_168
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 586
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a04db28c1295f0800000000000000
+      internalID: -751506839970994313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_169
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 586
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006c0971a8a47b30800000000000000
+      internalID: 4284234557010239496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_170
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 586
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7bc5130be80d3a0800000000000000
+      internalID: -6642652562977933347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_171
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 586
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8407d86b7eff4e810800000000000000
+      internalID: 1793839922265550920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_172
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 586
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed0913aa38e74d0800000000000000
+      internalID: -3134923523604029786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_173
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 586
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883fb78926f1deb0800000000000000
+      internalID: -4696702278139168635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_174
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 586
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332df74fed2f46860800000000000000
+      internalID: 7522404317014250035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_175
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 586
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186f41ca75bc24f0800000000000000
+      internalID: -852106690646022114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_176
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 586
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35dc2b25429af90800000000000000
+      internalID: -6941977413009189951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_177
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 586
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707708d732f1c9c60800000000000000
+      internalID: 7826164489752966919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_178
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 530
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6c7a353cbc27d0800000000000000
+      internalID: -2941769519779254475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_179
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 530
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddb5a1c51b675b0800000000000000
+      internalID: -5370910496455402223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_180
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 530
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac828d024db559530800000000000000
+      internalID: 3861093222182299850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_181
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 530
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b543615f0f806b0b0800000000000000
+      internalID: -5713369246275849125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_182
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 530
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26deb9aeca531dbd0800000000000000
+      internalID: -2607243692484072094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_183
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 530
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2690a9b382fbf50800000000000000
+      internalID: 6899277390607377081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_184
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 530
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6c5ee1acfba550800000000000000
+      internalID: 6173305486660364815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_185
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 571
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237dee6b9e57096c0800000000000000
+      internalID: -4138678410896550094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_186
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1b1aee267dd940800000000000000
+      internalID: 5322540278490012199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_187
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 530
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8217985461816180800000000000000
+      internalID: -9123869102092905845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_188
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 571
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb3dc04bef8d8750800000000000000
+      internalID: 6308856893583211502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_189
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 531
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4944688b6f64cdd70800000000000000
+      internalID: 9069201775089042580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_190
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 531
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c412410480a070800000000000000
+      internalID: 8115631669460125740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_191
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 531
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c7838a063c368c0800000000000000
+      internalID: -4007144423523058591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_192
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 530
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4dafea3bb22f280800000000000000
+      internalID: -9011091853680126807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_193
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 530
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6aecc61ad004a0800000000000000
+      internalID: -6629058860027318436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_194
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 476
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c018c390c5ea60800000000000000
+      internalID: 7702774478636369998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_195
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 493
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ff671fade31030800000000000000
+      internalID: 3464373874646315634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_196
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 493
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d4addaab0740820800000000000000
+      internalID: 2883553608506953066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_197
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 476
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191d1566c6b9b3d0800000000000000
+      internalID: -3190317897799100129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_198
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 476
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a8f132f3789510800000000000000
+      internalID: 1556121155314165631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_199
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 478
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8f5899e5bbb5e0800000000000000
+      internalID: -1892719203490754916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_200
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 481
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce1d7506445f9b0800000000000000
+      internalID: -5047052626817848167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_201
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 464
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c599624b0eac3d560800000000000000
+      internalID: 7337431284360583516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_202
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 407
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb816bb3f5874a0800000000000000
+      internalID: -6595416944221307116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_203
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 410
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5215e1b809ae30800000000000000
+      internalID: 4515149661561052346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_204
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 416
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014786aee2e10440800000000000000
+      internalID: 4900447384179785991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_205
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 464
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682a4b852fc93f8e0800000000000000
+      internalID: -1660811272885329274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_206
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 416
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8248a54de815280800000000000000
+      internalID: -9056300332962535242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_207
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 416
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0ec6ce38f28b200800000000000000
+      internalID: 195958827444396210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_208
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 433
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f557a6bd56ca04c0800000000000000
+      internalID: -4320422786709891600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_209
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 433
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae7f0c36089b7ea0800000000000000
+      internalID: -5873934136429805918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_210
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 416
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7393f543406fc160800000000000000
+      internalID: 7047957783910781819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_211
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 416
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a8c8d628b23f920800000000000000
+      internalID: 3022807614079404698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_212
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 416
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa0fe77038ea3ca0800000000000000
+      internalID: -6036257055668499722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_213
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 416
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e49571ee31f1800800000000000000
+      internalID: 585208389896326693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_214
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 387
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb10debc80fc9620800000000000000
+      internalID: 2782363157095521230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40107e39d2d07e140800000000000000
+      internalID: 4748778821491556612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_216
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 387
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5be9848d6492bd00800000000000000
+      internalID: 987014466443537246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 387
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e75e8cf4fc0600800000000000000
+      internalID: 435992629505155240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_218
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 387
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db9a51939d4cb80800000000000000
+      internalID: -8375330567802471078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_219
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 387
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3b27376a4074140800000000000000
+      internalID: 4703733448759751629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_220
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 387
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c8a6ef1a3a3a30800000000000000
+      internalID: 4195729911537255405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_221
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4f9220427284d0800000000000000
+      internalID: -3133816770912105162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_222
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 387
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86ee449862b2e30800000000000000
+      internalID: 4479716625358940322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_223
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb9bf3bfb24cf600800000000000000
+      internalID: 503350649484450749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_224
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 388
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b38d57e52c2de0800000000000000
+      internalID: -1356667712108777039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_225
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 387
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc003e213f3f4d10800000000000000
+      internalID: 2111976230720900298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_226
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fa89b1ca655fa0800000000000000
+      internalID: -5812622363777632976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_227
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 387
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2329ba4eb956cf910800000000000000
+      internalID: 1872483265310069298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_228
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 387
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe336b2897f9be90800000000000000
+      internalID: -7009299112090452231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_229
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d12224627374cdb0800000000000000
+      internalID: -4772562769962458669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_230
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb67ddc69b98ae0800000000000000
+      internalID: -1546501119801901631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_231
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 322
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663263c5892b12a0800000000000000
+      internalID: -6765768360708655511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_232
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 322
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a37b6f20e094bed0800000000000000
+      internalID: -2399133408938986591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_233
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 321
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a997831c2adccb20800000000000000
+      internalID: 3156137321720945064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_234
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 320
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21ea5d725265540800000000000000
+      internalID: 4996221689633051353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_235
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 322
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a841fa7cd30abf50800000000000000
+      internalID: 6897830024761657510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_236
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 322
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73869eaa11ef0e0800000000000000
+      internalID: -2234328939371153415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_237
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea345cc8e903470800000000000000
+      internalID: 8372366034723909221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_238
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 268
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0764f03187c19850800000000000000
+      internalID: 6382101504646735630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_239
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 268
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9d14275e7d4db0800000000000000
+      internalID: -4806046314601276174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_240
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 268
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367b025f56628270800000000000000
+      internalID: 8251270026880579121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_241
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 268
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6663096bfc6de94f0800000000000000
+      internalID: -819981894525372826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_242
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 268
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40ea7e217d38dcd0800000000000000
+      internalID: -2533207234075500468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_243
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 268
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7908013b53ee3d0800000000000000
+      internalID: -3175541644057339973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_244
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 268
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9c55197e841d70800000000000000
+      internalID: 9012985404975783555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_245
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 268
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296977b439c54da70800000000000000
+      internalID: 8850800955385943698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_246
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 268
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0beefdb8b317940800000000000000
+      internalID: 5292076509080498350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_247
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 268
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b67d499b45514c40800000000000000
+      internalID: 5494766803551614644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_248
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 268
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e463145aa4c5c0800000000000000
+      internalID: -4196041674723104468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_249
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 268
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f20ac1960a37da70800000000000000
+      internalID: 8851607392510149365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80019db12fac9ebc0800000000000000
+      internalID: -3753245673238491128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_251
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d5df840798e310800000000000000
+      internalID: 1434562527166322224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_252
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 212
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b209534f575738e0800000000000000
+      internalID: -1713805066527767887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_253
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 212
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1075fbcf881bc0800000000000000
+      internalID: -3812138978410225739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_254
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 212
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e45aa4660185a90800000000000000
+      internalID: -7325086762393055724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_255
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 212
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce5586b0c623ef0800000000000000
+      internalID: -129922642989421485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_256
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 212
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8187db79f9aea0800000000000000
+      internalID: -5860879129754104367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_257
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce2ecae184c05d0800000000000000
+      internalID: -3095019547323601697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_258
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 212
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e11a29f78e27ca0800000000000000
+      internalID: -6020494117222408662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_259
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 212
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29b28f73dd31ca0800000000000000
+      internalID: -6047246642171899155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_260
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 212
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c1c9fe1dfd1cd0800000000000000
+      internalID: -2585632301559724338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_261
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 212
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec05993d5868fc0800000000000000
+      internalID: -3492957317122437580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_262
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 212
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1892bac7ac44d8490800000000000000
+      internalID: -7742456547914339967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_263
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 212
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f40818f4e95210800000000000000
+      internalID: 1322339719815952891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_264
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad600190746f0a0800000000000000
+      internalID: -6848208079121098028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_265
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 175
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e63de2fa945cd0800000000000000
+      internalID: -2570259119169150205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_266
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efb9954582c5e10800000000000000
+      internalID: 2187667861740977778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_267
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 158
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c96a3b6f94a651d0800000000000000
+      internalID: -3362319067179750970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_268
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2aa9b2649d5c300800000000000000
+      internalID: 271862247928275711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_269
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da270e1171b72ff60800000000000000
+      internalID: 8066645221588365997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_270
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445280bdcf3e8930800000000000000
+      internalID: 4147322459516982348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_271
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 146
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b522e99d679bd0800000000000000
+      internalID: -2623507750228479982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_272
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 89
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d686a4cd6a53980800000000000000
+      internalID: -8559752051676385907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_273
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 92
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedd8edd55f7b8a60800000000000000
+      internalID: 7677369996555116012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_274
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 98
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e92319ef3576e80800000000000000
+      internalID: -8185481444899774970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_275
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 145
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f722bbae89f2cf460800000000000000
+      internalID: 7276743431743545983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_276
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 98
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefaad3eddc098b70800000000000000
+      internalID: 8901660285624561646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_277
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4612dc8f37ace0160800000000000000
+      internalID: 6993749870797201764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_278
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 115
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add00ce31b19bb030800000000000000
+      internalID: 3511560524913446362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_279
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e6d03092fd8560800000000000000
+      internalID: 7317771670655526757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_280
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e71d10299d7cf0800000000000000
+      internalID: -252877640856772423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_281
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea93226807983b50800000000000000
+      internalID: 6573169718409272034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_282
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 98
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43a6b6f416b45c0800000000000000
+      internalID: -4230180431252015901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_283
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 98
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6ce2d328464910800000000000000
+      internalID: 1821222418017709681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_284
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 960
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102943d19254b747b265ab30b73b5f8
+      internalID: -1329532811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_285
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 959
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e1b64afc8c924abe21fd2665dc57a
+      internalID: -204564178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_286
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1278
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9662ad59d51b64092f5276f8b77566
+      internalID: 1330778721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_287
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1277
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341bbdf5bd646141832ae7d1a9c7cc6
+      internalID: 2030153912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_288
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 322
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f079d4f071fe04aa45fe2887713d5a
+      internalID: 140845488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Fight_SSJ1_2_3_289
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce123a6dfea5c4097fd78b0bf2b9cb
+      internalID: 760309214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1ca43e228002564685ccabdca8e5e06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goku Fight_SSJ1_2_3_0: -3981405021754226628
+      Goku Fight_SSJ1_2_3_1: 7505047117680211815
+      Goku Fight_SSJ1_2_3_10: 386594601198002868
+      Goku Fight_SSJ1_2_3_100: -4240155722605321636
+      Goku Fight_SSJ1_2_3_101: -1922888474495121587
+      Goku Fight_SSJ1_2_3_102: -5686832921052042266
+      Goku Fight_SSJ1_2_3_103: 8607936813792657107
+      Goku Fight_SSJ1_2_3_104: 9140027869137982453
+      Goku Fight_SSJ1_2_3_105: 8838291901674058247
+      Goku Fight_SSJ1_2_3_106: -8229540949059313005
+      Goku Fight_SSJ1_2_3_107: 8723029387432810871
+      Goku Fight_SSJ1_2_3_108: -3206972420217927651
+      Goku Fight_SSJ1_2_3_109: -2677410930033381104
+      Goku Fight_SSJ1_2_3_11: 2899274095611139877
+      Goku Fight_SSJ1_2_3_110: 4959491503003580940
+      Goku Fight_SSJ1_2_3_111: -4103571243255566636
+      Goku Fight_SSJ1_2_3_112: 7747249290003408143
+      Goku Fight_SSJ1_2_3_113: -1482693721060588199
+      Goku Fight_SSJ1_2_3_114: -408536915885711822
+      Goku Fight_SSJ1_2_3_115: 2683544009812742035
+      Goku Fight_SSJ1_2_3_116: -4313083238945619125
+      Goku Fight_SSJ1_2_3_117: 8857846048443105904
+      Goku Fight_SSJ1_2_3_118: -8923634942207272042
+      Goku Fight_SSJ1_2_3_119: -8373322061462207293
+      Goku Fight_SSJ1_2_3_12: 8613190122137260848
+      Goku Fight_SSJ1_2_3_120: 928791664034870424
+      Goku Fight_SSJ1_2_3_121: -9029815567003216439
+      Goku Fight_SSJ1_2_3_122: -1706278435214511985
+      Goku Fight_SSJ1_2_3_123: -3899847271414550735
+      Goku Fight_SSJ1_2_3_124: 1514518515724545552
+      Goku Fight_SSJ1_2_3_125: -2407843113774457639
+      Goku Fight_SSJ1_2_3_126: -6264636420154518701
+      Goku Fight_SSJ1_2_3_127: 4941107195634952943
+      Goku Fight_SSJ1_2_3_128: -8325508111379522475
+      Goku Fight_SSJ1_2_3_129: -8767365826216801415
+      Goku Fight_SSJ1_2_3_13: 8522724813057801282
+      Goku Fight_SSJ1_2_3_130: -501072319074891480
+      Goku Fight_SSJ1_2_3_131: -1315029908889880904
+      Goku Fight_SSJ1_2_3_132: 6161020530934533937
+      Goku Fight_SSJ1_2_3_133: -7726783223401949278
+      Goku Fight_SSJ1_2_3_134: -8772032616630527474
+      Goku Fight_SSJ1_2_3_135: 6854706156735303401
+      Goku Fight_SSJ1_2_3_136: 859870017591249364
+      Goku Fight_SSJ1_2_3_137: -2013625119175143214
+      Goku Fight_SSJ1_2_3_138: -4065623446099659499
+      Goku Fight_SSJ1_2_3_139: 8507452723396555376
+      Goku Fight_SSJ1_2_3_14: -3768133621418883262
+      Goku Fight_SSJ1_2_3_140: 4468781205096332906
+      Goku Fight_SSJ1_2_3_141: 1906477351649454698
+      Goku Fight_SSJ1_2_3_142: -5880431757198389715
+      Goku Fight_SSJ1_2_3_143: -4634200976811640863
+      Goku Fight_SSJ1_2_3_144: 5307884245181343510
+      Goku Fight_SSJ1_2_3_145: 7826479520329608265
+      Goku Fight_SSJ1_2_3_146: 6086740822187803344
+      Goku Fight_SSJ1_2_3_147: 5803423859808387873
+      Goku Fight_SSJ1_2_3_148: 7867736314667916886
+      Goku Fight_SSJ1_2_3_149: 3936782030534435826
+      Goku Fight_SSJ1_2_3_15: 4590493137282181232
+      Goku Fight_SSJ1_2_3_150: -4014305997170705694
+      Goku Fight_SSJ1_2_3_151: 81794765407774709
+      Goku Fight_SSJ1_2_3_152: 2978262210954044172
+      Goku Fight_SSJ1_2_3_153: -770546943209694592
+      Goku Fight_SSJ1_2_3_154: 8769105095991065251
+      Goku Fight_SSJ1_2_3_155: 863542438642186624
+      Goku Fight_SSJ1_2_3_156: 34745383022902836
+      Goku Fight_SSJ1_2_3_157: -1499127148354509426
+      Goku Fight_SSJ1_2_3_158: 2742172761413279213
+      Goku Fight_SSJ1_2_3_159: -8626794251300414315
+      Goku Fight_SSJ1_2_3_16: 7490326078156747216
+      Goku Fight_SSJ1_2_3_160: -4280704334071880627
+      Goku Fight_SSJ1_2_3_161: 5002325410304375473
+      Goku Fight_SSJ1_2_3_162: 409150727116303531
+      Goku Fight_SSJ1_2_3_163: -5661991283979581027
+      Goku Fight_SSJ1_2_3_164: 2189720503240962383
+      Goku Fight_SSJ1_2_3_165: 1853125175488186647
+      Goku Fight_SSJ1_2_3_166: 3421186834498112607
+      Goku Fight_SSJ1_2_3_167: -6078045666430010763
+      Goku Fight_SSJ1_2_3_168: -751506839970994313
+      Goku Fight_SSJ1_2_3_169: 4284234557010239496
+      Goku Fight_SSJ1_2_3_17: -1548491173903605687
+      Goku Fight_SSJ1_2_3_170: -6642652562977933347
+      Goku Fight_SSJ1_2_3_171: 1793839922265550920
+      Goku Fight_SSJ1_2_3_172: -3134923523604029786
+      Goku Fight_SSJ1_2_3_173: -4696702278139168635
+      Goku Fight_SSJ1_2_3_174: 7522404317014250035
+      Goku Fight_SSJ1_2_3_175: -852106690646022114
+      Goku Fight_SSJ1_2_3_176: -6941977413009189951
+      Goku Fight_SSJ1_2_3_177: 7826164489752966919
+      Goku Fight_SSJ1_2_3_178: -2941769519779254475
+      Goku Fight_SSJ1_2_3_179: -5370910496455402223
+      Goku Fight_SSJ1_2_3_18: -502973882106926667
+      Goku Fight_SSJ1_2_3_180: 3861093222182299850
+      Goku Fight_SSJ1_2_3_181: -5713369246275849125
+      Goku Fight_SSJ1_2_3_182: -2607243692484072094
+      Goku Fight_SSJ1_2_3_183: 6899277390607377081
+      Goku Fight_SSJ1_2_3_184: 6173305486660364815
+      Goku Fight_SSJ1_2_3_185: -4138678410896550094
+      Goku Fight_SSJ1_2_3_186: 5322540278490012199
+      Goku Fight_SSJ1_2_3_187: -9123869102092905845
+      Goku Fight_SSJ1_2_3_188: 6308856893583211502
+      Goku Fight_SSJ1_2_3_189: 9069201775089042580
+      Goku Fight_SSJ1_2_3_19: 8772921063556751512
+      Goku Fight_SSJ1_2_3_190: 8115631669460125740
+      Goku Fight_SSJ1_2_3_191: -4007144423523058591
+      Goku Fight_SSJ1_2_3_192: -9011091853680126807
+      Goku Fight_SSJ1_2_3_193: -6629058860027318436
+      Goku Fight_SSJ1_2_3_194: 7702774478636369998
+      Goku Fight_SSJ1_2_3_195: 3464373874646315634
+      Goku Fight_SSJ1_2_3_196: 2883553608506953066
+      Goku Fight_SSJ1_2_3_197: -3190317897799100129
+      Goku Fight_SSJ1_2_3_198: 1556121155314165631
+      Goku Fight_SSJ1_2_3_199: -1892719203490754916
+      Goku Fight_SSJ1_2_3_2: -2461451916129416121
+      Goku Fight_SSJ1_2_3_20: 3728563467524628221
+      Goku Fight_SSJ1_2_3_200: -5047052626817848167
+      Goku Fight_SSJ1_2_3_201: 7337431284360583516
+      Goku Fight_SSJ1_2_3_202: -6595416944221307116
+      Goku Fight_SSJ1_2_3_203: 4515149661561052346
+      Goku Fight_SSJ1_2_3_204: 4900447384179785991
+      Goku Fight_SSJ1_2_3_205: -1660811272885329274
+      Goku Fight_SSJ1_2_3_206: -9056300332962535242
+      Goku Fight_SSJ1_2_3_207: 195958827444396210
+      Goku Fight_SSJ1_2_3_208: -4320422786709891600
+      Goku Fight_SSJ1_2_3_209: -5873934136429805918
+      Goku Fight_SSJ1_2_3_21: -299807496052171929
+      Goku Fight_SSJ1_2_3_210: 7047957783910781819
+      Goku Fight_SSJ1_2_3_211: 3022807614079404698
+      Goku Fight_SSJ1_2_3_212: -6036257055668499722
+      Goku Fight_SSJ1_2_3_213: 585208389896326693
+      Goku Fight_SSJ1_2_3_214: 2782363157095521230
+      Goku Fight_SSJ1_2_3_215: 4748778821491556612
+      Goku Fight_SSJ1_2_3_216: 987014466443537246
+      Goku Fight_SSJ1_2_3_217: 435992629505155240
+      Goku Fight_SSJ1_2_3_218: -8375330567802471078
+      Goku Fight_SSJ1_2_3_219: 4703733448759751629
+      Goku Fight_SSJ1_2_3_22: -7764613511733297368
+      Goku Fight_SSJ1_2_3_220: 4195729911537255405
+      Goku Fight_SSJ1_2_3_221: -3133816770912105162
+      Goku Fight_SSJ1_2_3_222: 4479716625358940322
+      Goku Fight_SSJ1_2_3_223: 503350649484450749
+      Goku Fight_SSJ1_2_3_224: -1356667712108777039
+      Goku Fight_SSJ1_2_3_225: 2111976230720900298
+      Goku Fight_SSJ1_2_3_226: -5812622363777632976
+      Goku Fight_SSJ1_2_3_227: 1872483265310069298
+      Goku Fight_SSJ1_2_3_228: -7009299112090452231
+      Goku Fight_SSJ1_2_3_229: -4772562769962458669
+      Goku Fight_SSJ1_2_3_23: -6401797349199525814
+      Goku Fight_SSJ1_2_3_230: -1546501119801901631
+      Goku Fight_SSJ1_2_3_231: -6765768360708655511
+      Goku Fight_SSJ1_2_3_232: -2399133408938986591
+      Goku Fight_SSJ1_2_3_233: 3156137321720945064
+      Goku Fight_SSJ1_2_3_234: 4996221689633051353
+      Goku Fight_SSJ1_2_3_235: 6897830024761657510
+      Goku Fight_SSJ1_2_3_236: -2234328939371153415
+      Goku Fight_SSJ1_2_3_237: 8372366034723909221
+      Goku Fight_SSJ1_2_3_238: 6382101504646735630
+      Goku Fight_SSJ1_2_3_239: -4806046314601276174
+      Goku Fight_SSJ1_2_3_24: -1654388269002618551
+      Goku Fight_SSJ1_2_3_240: 8251270026880579121
+      Goku Fight_SSJ1_2_3_241: -819981894525372826
+      Goku Fight_SSJ1_2_3_242: -2533207234075500468
+      Goku Fight_SSJ1_2_3_243: -3175541644057339973
+      Goku Fight_SSJ1_2_3_244: 9012985404975783555
+      Goku Fight_SSJ1_2_3_245: 8850800955385943698
+      Goku Fight_SSJ1_2_3_246: 5292076509080498350
+      Goku Fight_SSJ1_2_3_247: 5494766803551614644
+      Goku Fight_SSJ1_2_3_248: -4196041674723104468
+      Goku Fight_SSJ1_2_3_249: 8851607392510149365
+      Goku Fight_SSJ1_2_3_25: 2307136020641550811
+      Goku Fight_SSJ1_2_3_250: -3753245673238491128
+      Goku Fight_SSJ1_2_3_251: 1434562527166322224
+      Goku Fight_SSJ1_2_3_252: -1713805066527767887
+      Goku Fight_SSJ1_2_3_253: -3812138978410225739
+      Goku Fight_SSJ1_2_3_254: -7325086762393055724
+      Goku Fight_SSJ1_2_3_255: -129922642989421485
+      Goku Fight_SSJ1_2_3_256: -5860879129754104367
+      Goku Fight_SSJ1_2_3_257: -3095019547323601697
+      Goku Fight_SSJ1_2_3_258: -6020494117222408662
+      Goku Fight_SSJ1_2_3_259: -6047246642171899155
+      Goku Fight_SSJ1_2_3_26: 1317741002802377446
+      Goku Fight_SSJ1_2_3_260: -2585632301559724338
+      Goku Fight_SSJ1_2_3_261: -3492957317122437580
+      Goku Fight_SSJ1_2_3_262: -7742456547914339967
+      Goku Fight_SSJ1_2_3_263: 1322339719815952891
+      Goku Fight_SSJ1_2_3_264: -6848208079121098028
+      Goku Fight_SSJ1_2_3_265: -2570259119169150205
+      Goku Fight_SSJ1_2_3_266: 2187667861740977778
+      Goku Fight_SSJ1_2_3_267: -3362319067179750970
+      Goku Fight_SSJ1_2_3_268: 271862247928275711
+      Goku Fight_SSJ1_2_3_269: 8066645221588365997
+      Goku Fight_SSJ1_2_3_27: 2703177228784248067
+      Goku Fight_SSJ1_2_3_270: 4147322459516982348
+      Goku Fight_SSJ1_2_3_271: -2623507750228479982
+      Goku Fight_SSJ1_2_3_272: -8559752051676385907
+      Goku Fight_SSJ1_2_3_273: 7677369996555116012
+      Goku Fight_SSJ1_2_3_274: -8185481444899774970
+      Goku Fight_SSJ1_2_3_275: 7276743431743545983
+      Goku Fight_SSJ1_2_3_276: 8901660285624561646
+      Goku Fight_SSJ1_2_3_277: 6993749870797201764
+      Goku Fight_SSJ1_2_3_278: 3511560524913446362
+      Goku Fight_SSJ1_2_3_279: 7317771670655526757
+      Goku Fight_SSJ1_2_3_28: 5034775265621804486
+      Goku Fight_SSJ1_2_3_280: -252877640856772423
+      Goku Fight_SSJ1_2_3_281: 6573169718409272034
+      Goku Fight_SSJ1_2_3_282: -4230180431252015901
+      Goku Fight_SSJ1_2_3_283: 1821222418017709681
+      Goku Fight_SSJ1_2_3_284: -1329532811
+      Goku Fight_SSJ1_2_3_285: -204564178
+      Goku Fight_SSJ1_2_3_286: 1330778721
+      Goku Fight_SSJ1_2_3_287: 2030153912
+      Goku Fight_SSJ1_2_3_288: 140845488
+      Goku Fight_SSJ1_2_3_289: 760309214
+      Goku Fight_SSJ1_2_3_29: 8355506190314548144
+      Goku Fight_SSJ1_2_3_3: -3329404646713457197
+      Goku Fight_SSJ1_2_3_30: -1271706614025415517
+      Goku Fight_SSJ1_2_3_31: 3925670864790774802
+      Goku Fight_SSJ1_2_3_32: -1475699494520521129
+      Goku Fight_SSJ1_2_3_33: 1130732580962382432
+      Goku Fight_SSJ1_2_3_34: 4398483129897391199
+      Goku Fight_SSJ1_2_3_35: -3990942690593510395
+      Goku Fight_SSJ1_2_3_36: -4257870685992041088
+      Goku Fight_SSJ1_2_3_37: -7833204836374025923
+      Goku Fight_SSJ1_2_3_38: -4276030590219772912
+      Goku Fight_SSJ1_2_3_39: -8244431431815669646
+      Goku Fight_SSJ1_2_3_4: -5541203492099137442
+      Goku Fight_SSJ1_2_3_40: -1282046515408226684
+      Goku Fight_SSJ1_2_3_41: -2655874008311303615
+      Goku Fight_SSJ1_2_3_42: -2810482208533507866
+      Goku Fight_SSJ1_2_3_43: -2435533664535921594
+      Goku Fight_SSJ1_2_3_44: -3998526807153438165
+      Goku Fight_SSJ1_2_3_45: -5642104651396837244
+      Goku Fight_SSJ1_2_3_46: -118756915686532057
+      Goku Fight_SSJ1_2_3_47: 5871714130291295196
+      Goku Fight_SSJ1_2_3_48: -5989766405199098647
+      Goku Fight_SSJ1_2_3_49: -3703480842167711903
+      Goku Fight_SSJ1_2_3_5: -998542090816364009
+      Goku Fight_SSJ1_2_3_50: -2908088264835362619
+      Goku Fight_SSJ1_2_3_51: -322345979606510427
+      Goku Fight_SSJ1_2_3_52: 4062342116438896751
+      Goku Fight_SSJ1_2_3_53: 990667735275204056
+      Goku Fight_SSJ1_2_3_54: -572464197693314166
+      Goku Fight_SSJ1_2_3_55: 5193949314320180411
+      Goku Fight_SSJ1_2_3_56: 143970283790178237
+      Goku Fight_SSJ1_2_3_57: 7306181843561720707
+      Goku Fight_SSJ1_2_3_58: 6655467441783747340
+      Goku Fight_SSJ1_2_3_59: 7714635740702781194
+      Goku Fight_SSJ1_2_3_6: 5268185934820041352
+      Goku Fight_SSJ1_2_3_60: 2471138866471130084
+      Goku Fight_SSJ1_2_3_61: 6615550003730336885
+      Goku Fight_SSJ1_2_3_62: 4713516597063538419
+      Goku Fight_SSJ1_2_3_63: 139282889628901422
+      Goku Fight_SSJ1_2_3_64: 7851834174528478429
+      Goku Fight_SSJ1_2_3_65: 14875624539996326
+      Goku Fight_SSJ1_2_3_66: 2726025298913911806
+      Goku Fight_SSJ1_2_3_67: 6161653265755547433
+      Goku Fight_SSJ1_2_3_68: -8009552597800276805
+      Goku Fight_SSJ1_2_3_69: -1026550932145646517
+      Goku Fight_SSJ1_2_3_7: 6220685497762017421
+      Goku Fight_SSJ1_2_3_70: 4729262387532092138
+      Goku Fight_SSJ1_2_3_71: -2517306064056455260
+      Goku Fight_SSJ1_2_3_72: 5896744771168614261
+      Goku Fight_SSJ1_2_3_73: -7635345739435428839
+      Goku Fight_SSJ1_2_3_74: 3351420464374919449
+      Goku Fight_SSJ1_2_3_75: -5511030740782878736
+      Goku Fight_SSJ1_2_3_76: -8193362267300207234
+      Goku Fight_SSJ1_2_3_77: 6813695209405281892
+      Goku Fight_SSJ1_2_3_78: 3221504458854578118
+      Goku Fight_SSJ1_2_3_79: 1005599914800584032
+      Goku Fight_SSJ1_2_3_8: -3263188307129026818
+      Goku Fight_SSJ1_2_3_80: -3350897366473312973
+      Goku Fight_SSJ1_2_3_81: 598617260479469486
+      Goku Fight_SSJ1_2_3_82: 1250744804404071259
+      Goku Fight_SSJ1_2_3_83: -8787525472145735348
+      Goku Fight_SSJ1_2_3_84: 7880268559585058902
+      Goku Fight_SSJ1_2_3_85: -4098258909267596895
+      Goku Fight_SSJ1_2_3_86: -911493868584424447
+      Goku Fight_SSJ1_2_3_87: -1398986400676207554
+      Goku Fight_SSJ1_2_3_88: 700228240705268800
+      Goku Fight_SSJ1_2_3_89: 8693658523129141728
+      Goku Fight_SSJ1_2_3_9: 2820077646777469881
+      Goku Fight_SSJ1_2_3_90: 8285591688185370458
+      Goku Fight_SSJ1_2_3_91: 5107582972508703872
+      Goku Fight_SSJ1_2_3_92: 5961670463608649451
+      Goku Fight_SSJ1_2_3_93: -2147143570995702166
+      Goku Fight_SSJ1_2_3_94: -8929805121686022283
+      Goku Fight_SSJ1_2_3_95: -4857621475536579489
+      Goku Fight_SSJ1_2_3_96: 270793197309842421
+      Goku Fight_SSJ1_2_3_97: -8576393895066274750
+      Goku Fight_SSJ1_2_3_98: -8481742309981455107
+      Goku Fight_SSJ1_2_3_99: -5182793378751362141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 38fbbdaabab8fba41ac6bf2b0e8cadc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6359616242961812423
+    second: Gotenks_SSJ3_0
+  - first:
+      213: 6017888521522071053
+    second: Gotenks_SSJ3_1
+  - first:
+      213: -7337176142831588060
+    second: Gotenks_SSJ3_2
+  - first:
+      213: 2287211908434141597
+    second: Gotenks_SSJ3_3
+  - first:
+      213: 3185409978646602731
+    second: Gotenks_SSJ3_4
+  - first:
+      213: 3933414211310125372
+    second: Gotenks_SSJ3_5
+  - first:
+      213: 2360217998305425744
+    second: Gotenks_SSJ3_6
+  - first:
+      213: 5654738354329671531
+    second: Gotenks_SSJ3_7
+  - first:
+      213: -169732765775127631
+    second: Gotenks_SSJ3_8
+  - first:
+      213: 768879424612782483
+    second: Gotenks_SSJ3_9
+  - first:
+      213: -5736113430698382295
+    second: Gotenks_SSJ3_10
+  - first:
+      213: 6992688958917474126
+    second: Gotenks_SSJ3_11
+  - first:
+      213: 4876240175884485867
+    second: Gotenks_SSJ3_12
+  - first:
+      213: 9192787738507835585
+    second: Gotenks_SSJ3_13
+  - first:
+      213: 4742017051753970837
+    second: Gotenks_SSJ3_14
+  - first:
+      213: -2652394642526265845
+    second: Gotenks_SSJ3_15
+  - first:
+      213: -552394923765852714
+    second: Gotenks_SSJ3_16
+  - first:
+      213: 4952575491304912235
+    second: Gotenks_SSJ3_17
+  - first:
+      213: 7615258321457468116
+    second: Gotenks_SSJ3_18
+  - first:
+      213: -2738446237452117232
+    second: Gotenks_SSJ3_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1156
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0b8d3745e14850800000000000000
+      internalID: 6359616242961812423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1155
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d064937e9b5d38350800000000000000
+      internalID: 6017888521522071053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1155
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6d001c2d1d2a90800000000000000
+      internalID: -7337176142831588060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1150
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32731af79d43c20800000000000000
+      internalID: 3185409978646602731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_6
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1150
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0597a75b3cd21c020800000000000000
+      internalID: 2360217998305425744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1150
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67d89bb29aa97e40800000000000000
+      internalID: 5654738354329671531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1150
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d62353cb9baa00800000000000000
+      internalID: 768879424612782483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1150
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c20ebd93b3560b0800000000000000
+      internalID: -5736113430698382295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1150
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47721d2f850b0160800000000000000
+      internalID: 6992688958917474126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1150
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44513ca92eba340800000000000000
+      internalID: 4876240175884485867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1150
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cf3a062670fc140800000000000000
+      internalID: 4742017051753970837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_15
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1150
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e9218202dc03bd0800000000000000
+      internalID: -2652394642526265845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_16
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1155
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d515395ebf7558f0800000000000000
+      internalID: -552394923765852714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotenks_SSJ3_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1156
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65f8826b251bb440800000000000000
+      internalID: 4952575491304912235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1928872edf2330e4a97886d5fef3ff84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gotenks_SSJ3_0: 6359616242961812423
+      Gotenks_SSJ3_1: 6017888521522071053
+      Gotenks_SSJ3_10: -5736113430698382295
+      Gotenks_SSJ3_11: 6992688958917474126
+      Gotenks_SSJ3_12: 4876240175884485867
+      Gotenks_SSJ3_13: 9192787738507835585
+      Gotenks_SSJ3_14: 4742017051753970837
+      Gotenks_SSJ3_15: -2652394642526265845
+      Gotenks_SSJ3_16: -552394923765852714
+      Gotenks_SSJ3_17: 4952575491304912235
+      Gotenks_SSJ3_18: 7615258321457468116
+      Gotenks_SSJ3_19: -2738446237452117232
+      Gotenks_SSJ3_2: -7337176142831588060
+      Gotenks_SSJ3_3: 2287211908434141597
+      Gotenks_SSJ3_4: 3185409978646602731
+      Gotenks_SSJ3_5: 3933414211310125372
+      Gotenks_SSJ3_6: 2360217998305425744
+      Gotenks_SSJ3_7: 5654738354329671531
+      Gotenks_SSJ3_8: -169732765775127631
+      Gotenks_SSJ3_9: 768879424612782483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

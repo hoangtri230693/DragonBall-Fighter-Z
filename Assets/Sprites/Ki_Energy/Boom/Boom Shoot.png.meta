@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 23093fec21e58e244b6ff3678df596a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4359964785967660798
+    second: Boom Shoot_0
+  - first:
+      213: -3527858510552698308
+    second: Boom Shoot_1
+  - first:
+      213: -6587458981658934306
+    second: Boom Shoot_2
+  - first:
+      213: 8073478305031198656
+    second: Boom Shoot_3
+  - first:
+      213: -8875211418442465138
+    second: Boom Shoot_4
+  - first:
+      213: -8082772487172667225
+    second: Boom Shoot_5
+  - first:
+      213: 2118820338903693199
+    second: Boom Shoot_6
+  - first:
+      213: 1085308980084761375
+    second: Boom Shoot_7
+  - first:
+      213: -8198184801125300079
+    second: Boom Shoot_8
+  - first:
+      213: -5552156465381756942
+    second: Boom Shoot_9
+  - first:
+      213: -3251956715286169001
+    second: Boom Shoot_10
+  - first:
+      213: -2470927369327190824
+    second: Boom Shoot_11
+  - first:
+      213: -2901792009653811577
+    second: Boom Shoot_12
+  - first:
+      213: 9113478043767050038
+    second: Boom Shoot_13
+  - first:
+      213: -8772854740236365956
+    second: Boom Shoot_14
+  - first:
+      213: -477517275802365235
+    second: Boom Shoot_15
+  - first:
+      213: 1552297963376820125
+    second: Boom Shoot_16
+  - first:
+      213: 979744298839665592
+    second: Boom Shoot_17
+  - first:
+      213: 5893160974151920399
+    second: Boom Shoot_18
+  - first:
+      213: -8211159640050858630
+    second: Boom Shoot_19
+  - first:
+      213: -2637393548514744196
+    second: Boom Shoot_20
+  - first:
+      213: 4171997877657265687
+    second: Boom Shoot_21
+  - first:
+      213: -4484836608640497765
+    second: Boom Shoot_22
+  - first:
+      213: 8439490056279270491
+    second: Boom Shoot_23
+  - first:
+      213: 8019974882639682087
+    second: Boom Shoot_24
+  - first:
+      213: -6618020647051446678
+    second: Boom Shoot_25
+  - first:
+      213: 6121088914609208238
+    second: Boom Shoot_26
+  - first:
+      213: -3112678257190724628
+    second: Boom Shoot_27
+  - first:
+      213: 6343867757673369518
+    second: Boom Shoot_28
+  - first:
+      213: -8794983833402237108
+    second: Boom Shoot_29
+  - first:
+      213: 8842483196529048545
+    second: Boom Shoot_30
+  - first:
+      213: 8296270465947200148
+    second: Boom Shoot_31
+  - first:
+      213: -7410219361204156906
+    second: Boom Shoot_32
+  - first:
+      213: 2420132212747965038
+    second: Boom Shoot_33
+  - first:
+      213: -2776269958647323857
+    second: Boom Shoot_34
+  - first:
+      213: -333404668744393444
+    second: Boom Shoot_35
+  - first:
+      213: -2395654534146247061
+    second: Boom Shoot_36
+  - first:
+      213: -1448504841550258444
+    second: Boom Shoot_37
+  - first:
+      213: 3390277904334052749
+    second: Boom Shoot_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boom Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 243
+        width: 433
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2018f23902b4e73c0800000000000000
+      internalID: -4359964785967660798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom Shoot_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 267
+        width: 285
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7868484aa83cab7d0800000000000000
+      internalID: -2901792009653811577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom Shoot_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc210b151948f59f0800000000000000
+      internalID: -477517275802365235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boom Shoot_24
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 252
+        width: 350
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1b430aacac4f60800000000000000
+      internalID: 8019974882639682087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a34b0a4b7527e9645bd07f203e9dd9d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boom Shoot_0: -4359964785967660798
+      Boom Shoot_12: -2901792009653811577
+      Boom Shoot_15: -477517275802365235
+      Boom Shoot_24: 8019974882639682087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
