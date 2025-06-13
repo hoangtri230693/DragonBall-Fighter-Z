@@ -12,11 +12,10 @@ public class Vegeta_SSJ1 : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Final_Flash", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Final_Flash", true);
+                isKiFinal = true;
             }
         }
     }
@@ -31,8 +30,11 @@ public class Vegeta_SSJ1 : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_VegetaSSJ4", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_VegetaSSJ4", true);
+                isUpLevel = true;
+            }
         }
     }
 }

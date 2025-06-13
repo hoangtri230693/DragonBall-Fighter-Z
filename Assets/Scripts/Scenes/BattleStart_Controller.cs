@@ -16,7 +16,7 @@ public class BattleStart_Controller : MonoBehaviour
     private GameObject player2;
 
     [Header("Battle Timer")]
-    private float currentTime = 60f;
+    private float currentTime = 180f;
     public TextMeshProUGUI timerText;
     public TextMeshProUGUI countdownText;
     public bool isRunning = false;

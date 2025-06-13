@@ -13,11 +13,10 @@ public class Gogeta_SSJ4 : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha_Bigbang", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiKamehamehaBigbangSound();
+                animator.SetBool("Ki_Kamehameha_Bigbang", true);
+                isKiFinal = true;
             }
         }
     }
@@ -32,11 +31,10 @@ public class Gogeta_SSJ4 : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Attack_Bigbang", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Attack_Bigbang", true);
+                isKiFinal = true;
             }
         }
     }
@@ -52,11 +50,10 @@ public class Gogeta_SSJ4 : Character_Controller
         if (kiFinalKey || kiFinalPad)
         {
             animator.SetBool("Ki_DragonFist", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiDragonFistSound();
-                playerController.UseMP(500);
+                animator.SetBool("Ki_DragonFist", true);
+                isKiFinal = true;
             }
         }
     }

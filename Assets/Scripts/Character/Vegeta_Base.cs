@@ -12,11 +12,10 @@ public class Vegeta_Base : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Death_Flash", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Death_Flash", true);
+                isKiFinal = true;
             }
         }
     }
@@ -31,8 +30,11 @@ public class Vegeta_Base : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_VegetaSSJ1", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_VegetaSSJ1", true);
+                isUpLevel = true;
+            }
         }
     }
 
@@ -47,13 +49,12 @@ public class Vegeta_Base : Character_Controller
 
         if (fusionKey || fusionPad)
         {
-            animator.SetBool("FusionDance_GogetaBase", true);
-            transform.position = new Vector3(5.7f, transform.position.y, 0);
-            transform.localScale = new Vector2(-1, 1);
-            if (!isFusionSound)
+            if (!isUpLevel)
             {
-                isFusionSound = true;
-                characterSoundController.PlayFusionDanceSound();
+                animator.SetBool("FusionDance_GogetaBase", true);
+                transform.position = new Vector3(5.7f, transform.position.y, 0);
+                transform.localScale = new Vector2(-1, 1);
+                isUpLevel = true;
             }
         }
     }
@@ -78,11 +79,10 @@ public class Vegeta_Base : Character_Controller
 
         if (fusionKey || fusionPad)
         {
-            animator.SetBool("FusionPotara_VegitoBase", true);
-            if (!isFusionSound)
+            if (!isUpLevel)
             {
-                isFusionSound = true;
-                characterSoundController.PlayFusionDanceSound();
+                animator.SetBool("FusionPotara_VegitoBase", true);
+                isUpLevel = true;
             }
         }
     }

@@ -12,11 +12,10 @@ public class Cell_Stage1 : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Kamehameha", true);
+                isKiFinal = true;
             }
         }
     }
@@ -32,8 +31,11 @@ public class Cell_Stage1 : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_CellStage2", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_CellStage2", true);
+                isUpLevel = true;
+            }
         }
     }
 }

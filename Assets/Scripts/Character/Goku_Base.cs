@@ -12,11 +12,10 @@ public class Goku_Base : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiKamehamehaSound();
+                animator.SetBool("Ki_Kamehameha", true);
+                isKiFinal = true;
             }
         }
     }
@@ -31,8 +30,11 @@ public class Goku_Base : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_GokuSSJ1", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_GokuSSJ1", true);
+                isUpLevel = true;
+            }
         }
     }
 
@@ -47,12 +49,11 @@ public class Goku_Base : Character_Controller
 
         if (fusionKey || fusionPad)
         {
-            animator.SetBool("FusionDance_GogetaBase", true);
-            transform.position = new Vector3(-5.7f, transform.position.y, 0);
-            if (!isFusionSound)
+            if (!isUpLevel)
             {
-                isFusionSound = true;
-                characterSoundController.PlayFusionDanceSound();
+                animator.SetBool("FusionDance_GogetaBase", true);
+                transform.position = new Vector3(-5.7f, transform.position.y, 0);
+                isUpLevel = true;
             }
         }
     }
@@ -77,11 +78,10 @@ public class Goku_Base : Character_Controller
 
         if (fusionKey || fusionPad)
         {
-            animator.SetBool("FusionPotara_VegitoBase", true);
-            if (!isFusionSound)
+            if (!isUpLevel)
             {
-                isFusionSound = true;
-                characterSoundController.PlayFusionDanceSound();
+                animator.SetBool("FusionPotara_VegitoBase", true);
+                isUpLevel = true;
             }
         }
     }

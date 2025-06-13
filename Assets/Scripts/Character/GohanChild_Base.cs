@@ -12,11 +12,10 @@ public class GohanChild_Base : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiKamehamehaSound();
+                animator.SetBool("Ki_Kamehameha", true);
+                isKiFinal = true;
             }
         }
     }
@@ -31,8 +30,11 @@ public class GohanChild_Base : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_GohanChildSSJ1", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_GohanChildSSJ1", true);
+                isUpLevel = true;
+            }
         }
     }
 }

@@ -12,11 +12,10 @@ public class Krillin : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiKamehamehaSound();
+                animator.SetBool("Ki_Kamehameha", true);
+                isKiFinal = true;
             }
         }
     }

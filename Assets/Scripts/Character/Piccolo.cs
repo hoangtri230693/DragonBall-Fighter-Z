@@ -12,11 +12,10 @@ public class Piccolo : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Final_Flash", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Final_Flash", true);
+                isKiFinal = true;
             }
         }
     }
@@ -30,13 +29,11 @@ public class Piccolo : Character_Controller
         else if (tag == "Player 2" && gamePad != null) kiFinalPad = gamePad.leftShoulder.isPressed && gamePad.buttonNorth.wasPressedThisFrame;
 
         if (kiFinalKey || kiFinalPad)
-
         {
-            animator.SetBool("Ki_Blast_Canon", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Blast_Canon", true);
+                isKiFinal = true;
             }
         }
     }

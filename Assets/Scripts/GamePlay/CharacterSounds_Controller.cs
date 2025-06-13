@@ -13,7 +13,7 @@ public class CharacterSounds_Controller : MonoBehaviour
     [SerializeField] private AudioClip Ki_Base;
     [SerializeField] private AudioClip Ki_Final;
     [SerializeField] private AudioClip Up_Level;
-    [SerializeField] private AudioClip FusionDance;
+    [SerializeField] private AudioClip Fusion;
     [SerializeField] private AudioClip Ki_Kamehameha;
     [SerializeField] private AudioClip Ki_Kamehameha_Bigbang;
     [SerializeField] private AudioClip Ki_Kamehameha_Final;
@@ -76,9 +76,9 @@ public class CharacterSounds_Controller : MonoBehaviour
         PlaySoundCharacter(Up_Level);
     }
 
-    public void PlayFusionDanceSound()
+    public void PlayFusionSound()
     {
-        PlaySoundCharacter(FusionDance);
+        PlaySoundCharacter(Fusion);
     }
 
     public void PlayKiKamehamehaSound()

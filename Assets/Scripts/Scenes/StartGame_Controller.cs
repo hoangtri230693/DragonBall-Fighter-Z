@@ -16,7 +16,7 @@ public class StartGame_Controller : MonoBehaviour
 
     private void Update()
     {
-        if (Input.anyKeyDown)
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             SceneManager.LoadScene("MainMenu");
         }

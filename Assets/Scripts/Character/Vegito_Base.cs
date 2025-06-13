@@ -12,11 +12,10 @@ public class Vegito_Base : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Kamehameha", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiKamehamehaSound();
+                animator.SetBool("Ki_Kamehameha", true);
+                isKiFinal = true;
             }
         }
     }
@@ -31,11 +30,10 @@ public class Vegito_Base : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Death_Flash", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Death_Flash", true);
+                isKiFinal = true;
             }
         }
     }
@@ -50,8 +48,11 @@ public class Vegito_Base : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_VegitoSSJ1", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_VegitoSSJ1", true);
+                isUpLevel = true;
+            }
         }
     }
 }

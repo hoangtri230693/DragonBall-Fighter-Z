@@ -12,11 +12,10 @@ public class MajinBuu : Character_Controller
 
         if (kiFinalKey || kiFinalPad)
         {
-            animator.SetBool("Ki_Death_Beam", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Death_Beam", true);
+                isKiFinal = true;
             }
         }
     }

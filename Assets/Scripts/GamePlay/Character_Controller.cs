@@ -82,12 +82,12 @@ public class Character_Controller : MonoBehaviour
     protected bool isFlySound = false;
     protected bool isAttackSound = false;
     protected bool isEnergySound = false;
-    protected bool isFusionSound = false;
-    protected bool isKiFinalSound = false;
 
     // Cờ kiểm tra hành động
     public bool isDefending = false;
     public bool isAttacking = false;
+    protected bool isKiFinal = false;
+    protected bool isUpLevel = false;
 
     // Các script liên kết
     protected Player_Controller playerController;
@@ -244,10 +244,11 @@ public class Character_Controller : MonoBehaviour
 
             isFlySound = false;
             isAttackSound = false;
-            isFusionSound = false;
-            isKiFinalSound = false;
+
             isDefending = false;
             isAttacking = false;
+            isKiFinal = false;
+            isUpLevel = false;
         }
 
         if (!playerController.canCharge)
@@ -285,14 +286,15 @@ public class Character_Controller : MonoBehaviour
         if (state.IsName("Ki_DragonFist")) animator.SetBool("Ki_DragonFist", false);
 
         if (state.IsName("Up_Energy")) animator.SetBool("Up_Energy", false);
-
-        isEnergySound = false;
+ 
         isFlySound = false;
         isAttackSound = false;
-        isFusionSound = false;
-        isKiFinalSound = false;
+        isEnergySound = false;
+
         isDefending = false;
         isAttacking = false;
+        isKiFinal = false;
+        isUpLevel = false;
     }
 
 
@@ -376,8 +378,6 @@ public class Character_Controller : MonoBehaviour
             if (Time.time - moveLastTapTime < doubleTapTime)
             {
                 animator.SetBool("Move", true);
-                characterSoundController.PlayMoveSound();
-                playerController.UseMP(10);
             }
             moveLastTapTime = Time.time;
         }
@@ -394,17 +394,9 @@ public class Character_Controller : MonoBehaviour
         {
             isAttacking = true;
             animator.SetBool("Attack", true);
-            if (!isAttackSound)
-            {
-                characterSoundController.PlayAttackSound();
-                isAttackSound = true;
-            }
-
-            attackLastTapTime = Time.time;
-            playerController.UseMP(2);
-            attackEffect.Play();
+            attackLastTapTime = Time.time;         
         }
-        else if (isAttacking && Time.time - attackLastTapTime > doubleTapTime)
+        if (isAttacking && Time.time - attackLastTapTime > doubleTapTime)
         {
             isAttacking = false;
             animator.SetBool("Attack", false);
@@ -435,7 +427,6 @@ public class Character_Controller : MonoBehaviour
                 animator.SetBool("Hurt", false);
             }
             animator.SetBool("Defense", true);
-            playerController.UseMP(0.2f);
         }
         else if (!defenseKey || !defensePad)
         {
@@ -454,14 +445,6 @@ public class Character_Controller : MonoBehaviour
         if (chargeKey || chargePad)
         {
             animator.SetBool("Up_Energy", true);
-
-            if (!isEnergySound)
-            {
-                isEnergySound = true;
-                characterSoundController.PlayUpEnergySound();
-            }
-
-            playerController.RestoreMP(2);
         }
         else if (!chargeKey || !chargePad)
         {
@@ -484,9 +467,8 @@ public class Character_Controller : MonoBehaviour
         if (kiattackKey || kiattackPad)
         {
             animator.SetBool("Ki_Attack", true);
-            characterSoundController.PlayKiBaseSound();
+            
             kiAttackLastTapTime = Time.time;
-            playerController.UseMP(10);
         }
         else if (Time.time - kiAttackLastTapTime > doubleTapTime)
         {
@@ -657,6 +639,8 @@ public class Character_Controller : MonoBehaviour
     // 🎯 Xử lý event skill base
     protected virtual void Spawn_BaseSkill(GameObject ki_Prefab)
     {
+        characterSoundController.PlayKiBaseSound();
+
         if (moveDirection == 1)
         {
             Instantiate(ki_Prefab, new Vector3((transform.position.x + 0.5f), transform.position.y, 0), Quaternion.identity);
@@ -672,6 +656,9 @@ public class Character_Controller : MonoBehaviour
     protected virtual void End_Move()
     {
         animator.SetBool("Move", false);
+        characterSoundController.PlayMoveSound();
+        playerController.UseMP(10);
+
         if (moveDirection == -1.0f)
         {
             transform.position = new Vector3(opponent.transform.position.x + 1.0f, transform.position.y, 0);
@@ -683,8 +670,15 @@ public class Character_Controller : MonoBehaviour
     }
     protected virtual void End_Attack()
     {
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(hitPoint.position, hitRadius, opponentLayer);
+        if (!isAttackSound)
+        {
+            characterSoundController.PlayAttackSound();
+            isAttackSound = true;
+        }
+        attackEffect.Play();
+        playerController.UseMP(40);
 
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(hitPoint.position, hitRadius, opponentLayer);
         foreach (Collider2D enemy in hitEnemies)
         {
             if (enemy.gameObject == this.gameObject)
@@ -713,12 +707,23 @@ public class Character_Controller : MonoBehaviour
             }
         }
     }
+    protected virtual void PlayEnergySound()
+    {
+        if (!isEnergySound)
+        {
+            isEnergySound = true;
+            characterSoundController.PlayUpEnergySound();
+        }
+        playerController.RestoreMP(50);
+    }
     protected virtual void End_Ki_Attack()
     {
         Spawn_BaseSkill(ki_Attack_Prefab);
     }
     protected virtual void End_Ki_Attack_Final()
     {
+        characterSoundController.PlayKiBaseSound();
+
         if (moveDirection == 1)
         {
             Instantiate(ki_Attack_Final_Prefab, new Vector3((transform.position.x + 0.5f), transform.position.y, 0), Quaternion.identity);
@@ -746,7 +751,6 @@ public class Character_Controller : MonoBehaviour
     // 🎯 Xử lý event skill đặc biệt
     protected virtual void Spawn_SpecialSkill(GameObject ki_Prefab)
     {
-
         if (moveDirection == 1)
         {
             Instantiate(ki_Prefab, new Vector3((transform.position.x + 3.0f), transform.position.y, 0), Quaternion.identity);
@@ -758,6 +762,41 @@ public class Character_Controller : MonoBehaviour
             specialskill.transform.localScale = new Vector2(moveDirection, 1);
         }
         playerController.UseMP(400);
+    }
+    protected virtual void PlayKiFinalSound()
+    {
+        if (isKiFinal)
+        {
+            characterSoundController.PlayKiFinalSound();
+        }
+    }
+    protected virtual void PlayKiKamehamehaSound()
+    {
+        if (isKiFinal)
+        {
+            characterSoundController.PlayKiKamehamehaSound();
+        }
+    }
+    protected virtual void PlayKiKamehamehaBigbangSound()
+    {
+        if (isKiFinal)
+        {
+            characterSoundController.PlayKiKamehamehaBigbangSound();
+        }
+    }
+    protected virtual void PlayKiKamehamehaFinalSound()
+    {
+        if (isKiFinal)
+        {
+            characterSoundController.PlayKiKamehamehaFinalSound();
+        }
+    }
+    protected virtual void PlayKiDragonFistSound()
+    {
+        if (isKiFinal)
+        {
+            characterSoundController.PlayKiDragonFistSound();
+        }
     }
     protected virtual void End_Ki_Ghost() => Spawn_SpecialSkill(ki_Ghost_Prefab);
     protected virtual void End_Ki_Beam() => Spawn_SpecialSkill(ki_Beam_Prefab);
@@ -772,17 +811,6 @@ public class Character_Controller : MonoBehaviour
     protected virtual void End_Ki_Attack_Bigbang() => Spawn_SpecialSkill(ki_Attack_Bigbang_Prefab);
     protected virtual void End_Ki_Kamehameha_Bigbang() => Spawn_SpecialSkill(ki_Kamehameha_Bigbang_Prefab);
     protected virtual void End_Ki_Kamehameha_Final() => Spawn_SpecialSkill(ki_Kamehameha_Final_Prefab);
-    protected virtual void Action_Ki_DragonFist()
-    {
-        if (moveDirection == 1)
-        {
-            transform.position = new Vector3(transform.position.x + 1.0f, transform.position.y, 0);
-        }
-        else if (moveDirection == -1)
-        {
-            transform.position = new Vector3(transform.position.x - 1.0f, transform.position.y, 0);
-        }
-    }
     protected virtual void End_Ki_DragonFist() => Spawn_SpecialSkill(ki_DragonFist_Prefab);
 
 
@@ -798,6 +826,20 @@ public class Character_Controller : MonoBehaviour
 
         // Xóa nhân vật cũ
         Destroy(gameObject);
+    }
+    protected virtual void PlayUpLevelSound()
+    {
+        if (isUpLevel)
+        {
+            characterSoundController.PlayUpLevelSound();
+        }
+    }
+    protected virtual void PlayFusionSound()
+    {
+        if (isUpLevel)
+        {
+            characterSoundController.PlayFusionSound();
+        }
     }
     protected virtual void End_UpLevel_CellKid() => Spawn_CharacterUpLevel(Cell_Kid_Prefab, "UpLevel_CellKid");
     protected virtual void End_UpLevel_CellStage2() => Spawn_CharacterUpLevel(Cell_Stage2_Prefab, "UpLevel_CellStage2");
@@ -854,12 +896,12 @@ public class Character_Controller : MonoBehaviour
             }
             else
             {
-                ForceStopAnimations_NoConditions();
                 animator.SetBool("Hurt", true);
-                playerController.UpdateScore(-100);
+                playerController.UpdateScore(-20);
             }
         }
-        else if (collision.gameObject.tag == "Ki Final")
+        
+        if (collision.gameObject.tag == "Ki Final")
         {
             if (isDefending)
             {
@@ -868,18 +910,20 @@ public class Character_Controller : MonoBehaviour
             else
             {
                 ForceStopAnimations_NoConditions();
+                characterSoundController.StopSoundCharacter();
                 animator.SetBool("Dead", true);
                 playerController.UpdateScore(-500);
             }
         }
-        else if (collision.gameObject.tag == "Ki DragonFist")
+        
+        if (collision.gameObject.tag == "Ki DragonFist")
         {
             ForceStopAnimations_NoConditions();
+            characterSoundController.StopSoundCharacter();
             animator.SetBool("Dead", true);
             playerController.UpdateScore(-500);
         }
     }
-
     protected virtual void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Ki Base")
@@ -887,7 +931,7 @@ public class Character_Controller : MonoBehaviour
             animator.SetBool("Hurt", false);
         }
 
-        else if (collision.gameObject.tag == "Ki Final" ||
+        if (collision.gameObject.tag == "Ki Final" ||
             collision.gameObject.tag == "Ki DragonFist")
         {
             animator.SetBool("Dead", false);

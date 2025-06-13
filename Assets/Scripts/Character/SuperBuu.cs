@@ -11,13 +11,11 @@ public class SuperBuu : Character_Controller
         else if (tag == "Player 2" && gamePad != null) kiFinalPad = gamePad.rightShoulder.isPressed && gamePad.buttonNorth.wasPressedThisFrame;
 
         if (kiFinalKey || kiFinalPad)
-
         {
-            animator.SetBool("Ki_Death_Beam", true);
-            if (!isKiFinalSound)
+            if (!isKiFinal)
             {
-                isKiFinalSound = true;
-                characterSoundController.PlayKiFinalSound();
+                animator.SetBool("Ki_Death_Beam", true);
+                isKiFinal = true;
             }
         }
     }
@@ -32,8 +30,11 @@ public class SuperBuu : Character_Controller
 
         if (uplevelKey || uplevelPad)
         {
-            animator.SetBool("UpLevel_SuperBuu_Gotenks", true);
-            characterSoundController.PlayUpLevelSound();
+            if (!isUpLevel)
+            {
+                animator.SetBool("UpLevel_SuperBuu_Gotenks", true);
+                isUpLevel = true;
+            }
         }
     }
 }

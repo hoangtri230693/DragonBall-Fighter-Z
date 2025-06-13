@@ -7314,7 +7314,7 @@ MonoBehaviour:
   Ki_Base: {fileID: 8300000, guid: 5c656861c94080c41affbabfedea6d37, type: 3}
   Ki_Final: {fileID: 8300000, guid: 15d52389ab38abf4498c836634ff0344, type: 3}
   Up_Level: {fileID: 8300000, guid: e9d9dd775cc8fd44a9bd4cedde45adbe, type: 3}
-  FusionDance: {fileID: 8300000, guid: d41d5ebd85355f94b8197c322e0a9530, type: 3}
+  Fusion: {fileID: 8300000, guid: d41d5ebd85355f94b8197c322e0a9530, type: 3}
   Ki_Kamehameha: {fileID: 8300000, guid: 974a84572ecb6d144bb4faa37967c88b, type: 3}
   Ki_Kamehameha_Bigbang: {fileID: 8300000, guid: 614b825b949f71541a9eb233254009ff, type: 3}
   Ki_Kamehameha_Final: {fileID: 8300000, guid: f11466af4922e8146a763d8d92f977d3, type: 3}
@@ -7622,7 +7622,7 @@ MonoBehaviour:
   Ki_Base: {fileID: 8300000, guid: 5c656861c94080c41affbabfedea6d37, type: 3}
   Ki_Final: {fileID: 8300000, guid: 15d52389ab38abf4498c836634ff0344, type: 3}
   Up_Level: {fileID: 8300000, guid: e9d9dd775cc8fd44a9bd4cedde45adbe, type: 3}
-  FusionDance: {fileID: 8300000, guid: d41d5ebd85355f94b8197c322e0a9530, type: 3}
+  Fusion: {fileID: 8300000, guid: d41d5ebd85355f94b8197c322e0a9530, type: 3}
   Ki_Kamehameha: {fileID: 8300000, guid: 974a84572ecb6d144bb4faa37967c88b, type: 3}
   Ki_Kamehameha_Bigbang: {fileID: 8300000, guid: 614b825b949f71541a9eb233254009ff, type: 3}
   Ki_Kamehameha_Final: {fileID: 8300000, guid: f11466af4922e8146a763d8d92f977d3, type: 3}
