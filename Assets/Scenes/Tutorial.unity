@@ -621,21 +621,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1. Ph\u01B0\u01A1ng th\u1EE9c \u0111i\u1EC1u khi\u1EC3n:\n   Player 1
-    \u0111i\u1EC1u khi\u1EC3n b\u1EB1ng Keyboard.\n   Player 2 \u0111i\u1EC1u khi\u1EC3n
-    b\u1EB1ng Gamepad.\n\n2. H\u01B0\u1EDBng d\u1EABn s\u1EED d\u1EE5ng k\u1EF9 n\u0103ng
-    c\u01A1 b\u1EA3n:\n   - Fly: arrow / joystick\n   - Move: double arrow / dpad\n  
-    - Attack: button D / West\n   - Defense: button A / North\n   - Up Energy: button
-    E / South\n   - Ki Attack: button S / East\n\n3. H\u01B0\u1EDBng d\u1EABn s\u1EED
-    d\u1EE5ng k\u1EF9 n\u0103ng \u0111\u1EB7c bi\u1EC7t:\n  - K\u1EF9 n\u0103ng 1:
-    Button P + Enter ho\u1EB7c rightShoulder + button North\n   - K\u1EF9 n\u0103ng
-    2: Button L + Enter ho\u1EB7c leftShoulder + button North\n   - K\u1EF9 n\u0103ng
-    3: Button O + Enter ho\u1EB7c rightTrigger + button North\n\n4. H\u01B0\u1EDBng
-    d\u1EABn s\u1EED d\u1EE5ng k\u1EF9 n\u0103ng n\xE2ng c\u1EA5p h\xECnh th\xE1i:\n   
-    - Transform: button O / left Trigger + North\n    - Fusion Dance: button Z +
-    rightShift + Enter ho\u1EB7c leftShoulder + rightShoulder + leftTrigger\n   
-    - Fusion Potara: button X + rightShift + Enter ho\u1EB7c leftShoulder + rightShoulder
-    + rightTrigger"
+  m_text: "1. Control method:\n   - Player 1 controlled by Keyboard.\n   - Player
+    2 controlled by Gamepad.\n\n2. Instructions for using basic skills:\n   - Fly:
+    arrow / joystick\n   - Move: double arrow / dpad\n   - Attack: button D / West\n  
+    - Defense: button A / North\n   - Up Energy: button E / South\n   - Ki Attack:
+    button S / East\n\n3. Instructions for using special skills:\n   - Skill 1: Button
+    P + Enter or rightShoulder + button North\n   - Skill 2: Button L + Enter or
+    leftShoulder + button North\n   - Skill 3: Button O + Enter or rightTrigger +
+    button North\n\n4. Instructions for using transform skills:\n   - Transform:
+    button O / left Trigger + North\n   - Fusion Dance: button Z + rightShift + Enter
+    or leftShoulder + rightShoulder + leftTrigger\n   - Fusion Potara: button X +
+    rightShift + Enter or leftShoulder + rightShoulder + rightTrigger"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: af256dc79512af441ac09d176d860da7, type: 2}
   m_sharedMaterial: {fileID: -9218310863831426203, guid: af256dc79512af441ac09d176d860da7, type: 2}
@@ -1213,7 +1209,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 800, y: 220}
+  m_SizeDelta: {x: 650, y: 220}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1159736284
 MonoBehaviour:
@@ -1235,8 +1231,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ch\xE0o m\u1EEBng b\u1EA1n \u0111\u1EBFn v\u1EDBi ch\u1EBF \u0111\u1ED9
-    h\u01B0\u1EDBng d\u1EABn Dragonball Fighter Z\n"
+  m_text: Welcome to Dragon Ball Fighter Z guide
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9f3c60ac3bc9e274ebefb3b4cfef6f58, type: 2}
   m_sharedMaterial: {fileID: -4598922193537173873, guid: 9f3c60ac3bc9e274ebefb3b4cfef6f58, type: 2}
